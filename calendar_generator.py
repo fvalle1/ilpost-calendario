@@ -79,7 +79,9 @@ def create_ics_calendar(events):
     cal = Calendar()
     
     for event_data in events:
-        event = Event()
+        event = Event(
+            alarms=[ics.alarm.DisplayAlarm(trigger=timedelta(days=1))]
+        )
         event.name = event_data['title']
         event.description = event_data['description']
         
@@ -89,7 +91,7 @@ def create_ics_calendar(events):
         if event_data['date'].tzinfo is None:
             event_data['date'] = gettz('Europe/Rome').localize(event_data['date'])
         event.location = event_data['location']
-        
+                
         # Aggiungi l'evento al calendario
         cal.events.add(event)
     
