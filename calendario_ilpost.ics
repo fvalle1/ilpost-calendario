@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Pensavo Peccioli
+DTEND:20250329T000000Z
+LOCATION:Peccioli - vari luoghi
+DTSTART:20250328T160000Z
+SUMMARY:Altri incontri
+UID:c7fa2e8b-d488-4d7d-91ad-a1464100eb5a@c7fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Voices\, a Torino
+DTEND:20250405T230000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20250405T150000Z
+SUMMARY:Podcast
+UID:18d4d6be-f8fc-4243-8cb2-fa0142d10900@18d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Leggere gli alberi
+DTEND:20250322T220000Z
+LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
+DTSTART:20250322T140000Z
+SUMMARY:Altri incontri
+UID:6a0e5062-3bd2-4599-b12a-31e1fec08c3c@6a0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Vasco Brondi\, Costellazioni e altre cose luminose
+DTEND:20250706T033000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:d9338b2e-07ed-4a0a-ae6d-f47409cf7b6c@d933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Book Pride\, Il nuovo mondo. Come ha fatto Trump a farsi votare da giovani\, donne\, neri e latini
+DTEND:20250322T023000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250321T183000Z
+SUMMARY:Altri incontri
+UID:8648c8f8-3158-4958-b273-332351d14f8a@8648.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Talk\, a Faenza
+DTEND:20250920T033000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T193000Z
+SUMMARY:Talk
+UID:466fca3f-2060-43d7-b678-20e4377705be@466f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Book Pride\, Leggere gli alberi
+DTEND:20250324T000000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250323T160000Z
+SUMMARY:Altri incontri
+UID:5bc93e6a-88fb-414a-b32d-b241a54be019@5bc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Book Pride\, Pratiche femministe
+DTEND:20250323T230000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250323T150000Z
+SUMMARY:Altri incontri
+UID:49d20bf5-515b-4742-a5ab-9c22729e4add@49d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Intorno a Ogni prigione è un’isola
+DTEND:20250320T010000Z
+LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
+DTSTART:20250319T170000Z
+SUMMARY:Altri incontri
+UID:3822ef3d-7970-4aa1-9f63-6090e6684fa1@3822.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Talk\, a Napoli
+DTEND:20251102T043000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T203000Z
+SUMMARY:Talk
+UID:dc44cc23-4351-4992-be30-80113d4ae773@dc44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Book Pride\, Le nostre prigioni
+DTEND:20250323T013000Z
+LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250322T173000Z
+SUMMARY:Altri incontri
+UID:db039780-8e2b-4d07-ba62-533f28bdb835@db03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Waterboys in concerto
+DTEND:20250705T033000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250704T193000Z
+SUMMARY:I concerti del Post
+UID:a49c45b1-6ce8-4f3e-8d55-8dadfa33cc58@a49c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Book Pride\, Basaglia e i suoi
+DTEND:20250322T223000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250322T143000Z
+SUMMARY:Altri incontri
+UID:dd34bc91-91ff-48b5-8a20-fdfb48b545ab@dd34.org
+END:VEVENT
+END:VCALENDAR
