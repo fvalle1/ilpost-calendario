@@ -5,30 +5,31 @@ on:
     - cron: '0 4 * * *'  # Esegui ogni giorno alle 4:00 UTC
   workflow_dispatch:  # Permette l'esecuzione manuale
 
+  
 jobs:
-  update-calendar:
-    runs-on: ubuntu-latest
-    
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+    update-calendar:
+      runs-on: ubuntu-latest
       
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
+      permissions:
+        contents: write
+
+      steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
         
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install --no-cache-dir -r requirements.txt
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install --no-cache-dir -r requirements.txt
+          
+      - name: Run calendar generator
+        run: python calendar_generator.py
         
-    - name: Run calendar generator
-      run: python calendar_generator.py
-      
-    - name: Commit and push if changed
-      run: |
-        git config --global user.name 'GitHub Actions'
-        git config --global user.email 'actions@github.com'
-        git add calendario_ilpost.ics
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Aggiorna calendario $(date +'%Y-%m-%d')" && git push)
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update calendar.ics
