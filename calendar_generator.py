@@ -56,17 +56,24 @@ def parse_events(html_content):
         location = location_time.text
         if ":" in location[:5]:
             location = location[5:]
+        notes = details.find_all('div')[2].find('div').text
+        button = details.find_all('div')[2].find_all('div')[1].find('a')
         print(dt)
         print(title)
         print(description)
         print(location)
+        print(notes)
+        if button:
+            print(button.get('href'))
         
         # Crea oggetto evento
         event = {
             'title': title,
             'description': description,
             'date': dt,
-            'location': location
+            'location': location,
+            'notes': notes,
+            'link': button.get('href') if button else None
         }
             
         events.append(event)
@@ -87,10 +94,12 @@ def create_ics_calendar(events):
         
         # Imposta la data di inizio e fine (assumiamo che gli eventi durino un giorno)
         event.begin = event_data['date']
-        event.end = event_data['date'] + timedelta(hours=8)
+        event.end = event_data['date'] + timedelta(hours=4)
         if event_data['date'].tzinfo is None:
             event_data['date'] = gettz('Europe/Rome').localize(event_data['date'])
         event.location = event_data['location']
+        event.description = event_data['notes']
+        event.url = event_data['link']
                 
         # Aggiungi l'evento al calendario
         cal.events.add(event)
