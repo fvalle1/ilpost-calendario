@@ -7,26 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
-SUMMARY:Talk
-UID:f8ef0d47-76dd-4ecd-91b6-1eaf054e2dba@f8ef.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Tristan Gooley in dialogo con Matteo CacciaL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
-DTEND:20250323T200000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250323T160000Z
-SUMMARY:Altri incontri
-UID:026bad2d-fe2c-48f5-b3b4-395ec6707a20@026b.org
-URL:https://biglietti.bookpride.net/ticket/1/1660
+DESCRIPTION:Sabato 5 aprile a Torino torna Voices\, l’evento per incontrare le persone che fanno i podcast del Post\, e non solo. La terza edizione sarà sempre alle OGR Torino\, partner dell'evento insieme a Ferrarelle.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250405T190000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20250405T150000Z
+SUMMARY:Podcast
+UID:5d35be5c-8213-4c2d-a014-2e7bfaa59d72@5d35.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,63 +25,8 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:88ea6f94-ce94-48d9-9ddf-1aff81ea6753@88ea.org
+UID:bfd5cbc2-110d-447a-a097-d779cee7ec4b@bfd5.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un confronto tra Luciana Castellina e Giulia SivieroL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Ottawa\, è necessario acquistare il biglietto d'ingresso. 
-DTEND:20250323T190000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250323T150000Z
-SUMMARY:Altri incontri
-UID:6cd935cd-8c28-4a16-92b9-037b4df52e72@6cd9.org
-URL:https://biglietti.bookpride.net/ticket/1/1660
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Daria Bignardi e Stefano NazziIl primo di tre incontri dedicati ai temi della giustizia organizzati dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso libero fino a esaurimento posti.  
-DTEND:20250319T210000Z
-LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
-DTSTART:20250319T170000Z
-SUMMARY:Altri incontri
-UID:cde9244f-30f6-4f82-a16b-2e0bc72d330d@cde9.org
-URL:https://www.eventbrite.com/e/biglietti-il-post-al-castello-di-novara-daria-bignardi-con-stefano-nazzi-1272515471029
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:\n\nDal 28 al 30 marzo 2025 torna per la quinta edizione Pensavo Peccioli\, il festival diretto da Luca Sofri\, con eventi e ospiti per guardare le cose del mondo e dare nuove chiavi di lettura della contemporaneità\, per capire cosa sta succedendo\, a noi e al mondo.\n\n
-DTEND:20250328T200000Z
-LOCATION:Peccioli - vari luoghi
-DTSTART:20250328T160000Z
-SUMMARY:Altri incontri
-UID:4c4cbc06-5a7a-44d9-a6e5-f96fee688e14@4c4c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Tristan Gooley e Paolo PecereLibri Come è prodotto da Fondazione Musica per Roma\, e nella sua 16esima edizione si svolgerà dal 21 al 23 marzo. Una festa che vedrà coinvolte decine di ospiti per un totale di oltre cento incontri\, tra lezioni\, dialoghi\, reading e mostre.Ingresso gratuito ma con prenotazione\, da venerdì 14 marzo alle 15 (info qui).
-DTEND:20250322T180000Z
-LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
-DTSTART:20250322T140000Z
-SUMMARY:Altri incontri
-UID:81e156d1-48d7-40e1-93d8-5112b10ab858@81e1.org
-URL:https://www.auditorium.com/it/event/tristan-gooley-con-paolo-pecere/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -108,7 +39,7 @@ DTEND:20250321T223000Z
 LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
 DTSTART:20250321T183000Z
 SUMMARY:Altri incontri
-UID:dea763b3-8ef0-40b3-8458-a4cf987f0565@dea7.org
+UID:c259fcba-6cd7-46e0-bac8-4900bd65027f@c259.org
 URL:https://biglietti.bookpride.net/ticket/1/1660
 END:VEVENT
 BEGIN:VEVENT
@@ -117,26 +48,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Sabato 5 aprile a Torino torna Voices\, l’evento per incontrare le persone che fanno i podcast del Post\, e non solo. La terza edizione sarà sempre alle OGR Torino\, partner dell'evento insieme a Ferrarelle.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250405T190000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20250405T150000Z
-SUMMARY:Podcast
-UID:137220e4-8253-4cc8-9bc8-c0a756f901b0@1372.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:1c40d2f2-735d-4b68-92a5-3a025cb9d410@1c40.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T233000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T193000Z
+SUMMARY:Talk
+UID:307c7992-fd73-4f41-8d3d-045d351d714e@307c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -149,7 +66,7 @@ DTEND:20250322T213000Z
 LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
 DTSTART:20250322T173000Z
 SUMMARY:Altri incontri
-UID:abe8ed8e-ab68-48cd-bf8a-8ead63d96d65@abe8.org
+UID:4a5d6007-32cf-4179-aebc-4933b509ec67@4a5d.org
 URL:https://biglietti.bookpride.net/ticket/1/1660
 END:VEVENT
 BEGIN:VEVENT
@@ -158,12 +75,67 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:In occasione del centenario della nascita dello psichiatra Franco Basaglia\, Matteo Caccia e Massimo Cirri hanno scritto il podcast Basaglia e i suoi per raccontare i luoghi dove Basaglia cominciò la sua rivoluzione nella cura delle malattie mentali.L'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
-DTEND:20250322T183000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250322T143000Z
+DESCRIPTION:Con Tristan Gooley e Paolo PecereLibri Come è prodotto da Fondazione Musica per Roma\, e nella sua 16esima edizione si svolgerà dal 21 al 23 marzo. Una festa che vedrà coinvolte decine di ospiti per un totale di oltre cento incontri\, tra lezioni\, dialoghi\, reading e mostre.Ingresso gratuito ma con prenotazione\, da venerdì 14 marzo alle 15 (info qui).
+DTEND:20250322T180000Z
+LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
+DTSTART:20250322T140000Z
 SUMMARY:Altri incontri
-UID:51df8aba-974f-4280-ae76-cddfb120fb08@51df.org
+UID:869e2a00-efbe-45f2-b43d-712c6ab5253f@869e.org
+URL:https://www.auditorium.com/it/event/tristan-gooley-con-paolo-pecere/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un confronto tra Luciana Castellina e Giulia SivieroL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Ottawa\, è necessario acquistare il biglietto d'ingresso. 
+DTEND:20250323T190000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250323T150000Z
+SUMMARY:Altri incontri
+UID:5d947f3b-3e51-4275-a7a7-23dfe217c07f@5d94.org
+URL:https://biglietti.bookpride.net/ticket/1/1660
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\n\nDal 28 al 30 marzo 2025 torna per la quinta edizione Pensavo Peccioli\, il festival diretto da Luca Sofri\, con eventi e ospiti per guardare le cose del mondo e dare nuove chiavi di lettura della contemporaneità\, per capire cosa sta succedendo\, a noi e al mondo.\n\n
+DTEND:20250328T200000Z
+LOCATION:Peccioli - vari luoghi
+DTSTART:20250328T160000Z
+SUMMARY:Altri incontri
+UID:2ed06fac-5a8d-431a-8f47-2c19e0186e93@2ed0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Daria Bignardi e Stefano NazziIl primo di tre incontri dedicati ai temi della giustizia organizzati dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso libero fino a esaurimento posti.  
+DTEND:20250319T210000Z
+LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
+DTSTART:20250319T170000Z
+SUMMARY:Altri incontri
+UID:24fd53a5-9ff2-48a0-bb63-199de95fb62d@24fd.org
+URL:https://www.eventbrite.com/e/biglietti-il-post-al-castello-di-novara-daria-bignardi-con-stefano-nazzi-1272515471029
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Tristan Gooley in dialogo con Matteo CacciaL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
+DTEND:20250323T200000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250323T160000Z
+SUMMARY:Altri incontri
+UID:329eb48c-4648-445c-bb01-eb70d1343274@329e.org
 URL:https://biglietti.bookpride.net/ticket/1/1660
 END:VEVENT
 BEGIN:VEVENT
@@ -177,6 +149,34 @@ DTEND:20251102T003000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T203000Z
 SUMMARY:Talk
-UID:f0ecdc9b-c37c-49ca-a90f-183f5a6f71ed@f0ec.org
+UID:02afa082-54f5-47f5-8fb1-e1dec4b68921@02af.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:5410f99b-d680-4317-9688-944f39374290@5410.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:In occasione del centenario della nascita dello psichiatra Franco Basaglia\, Matteo Caccia e Massimo Cirri hanno scritto il podcast Basaglia e i suoi per raccontare i luoghi dove Basaglia cominciò la sua rivoluzione nella cura delle malattie mentali.L'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
+DTEND:20250322T183000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250322T143000Z
+SUMMARY:Altri incontri
+UID:8188e80c-2dac-4901-b7b5-b1801aac505b@8188.org
+URL:https://biglietti.bookpride.net/ticket/1/1660
 END:VEVENT
 END:VCALENDAR
