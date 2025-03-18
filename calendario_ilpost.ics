@@ -7,13 +7,55 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Daria Bignardi e Stefano NazziIl primo di tre incontri dedicati ai temi della giustizia organizzati dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso libero fino a esaurimento posti.  
-DTEND:20250319T210000Z
-LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
-DTSTART:20250319T170000Z
+DESCRIPTION:Tristan Gooley in dialogo con Matteo CacciaL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
+DTEND:20250323T200000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250323T160000Z
 SUMMARY:Altri incontri
-UID:600ac2d4-8e77-4f95-ba31-5ba143003703@600a.org
-URL:https://www.eventbrite.com/e/biglietti-il-post-al-castello-di-novara-daria-bignardi-con-stefano-nazzi-1272515471029
+UID:0c0e9279-e950-4e90-8cf2-c4f4047cd380@0c0e.org
+URL:https://biglietti.bookpride.net/ticket/1/1660
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Una conversazione tra Daria Bignardi e Luca MisculinL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
+DTEND:20250322T213000Z
+LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250322T173000Z
+SUMMARY:Altri incontri
+UID:408eaee0-ab14-4f66-b1d4-6e9a65cf94dd@408e.org
+URL:https://biglietti.bookpride.net/ticket/1/1660
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Sabato 5 aprile a Torino torna Voices\, l’evento per incontrare le persone che fanno i podcast del Post\, e non solo. La terza edizione sarà sempre alle OGR Torino\, partner dell'evento insieme a Ferrarelle Società Benefit.I posti disponibili per Voices e Altre Indagini. La storia di Enrico Mattei sono terminati\, ma dalla pagina di vendita e a partire dal 17 marzo potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
+DTEND:20250405T190000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20250405T150000Z
+SUMMARY:Podcast
+UID:6f68554c-69e2-489e-868d-9341f4cc666a@6f68.org
+URL:https://www.clappit.com/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Tristan Gooley e Paolo PecereLibri Come è prodotto da Fondazione Musica per Roma\, e nella sua 16esima edizione si svolgerà dal 21 al 23 marzo. Una festa che vedrà coinvolte decine di ospiti per un totale di oltre cento incontri\, tra lezioni\, dialoghi\, reading e mostre.Ingresso gratuito ma con prenotazione\, da venerdì 14 marzo alle 15 (info qui).
+DTEND:20250322T180000Z
+LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
+DTSTART:20250322T140000Z
+SUMMARY:Altri incontri
+UID:188da115-5ce9-480d-a94d-97eb2a391b83@188d.org
+URL:https://www.auditorium.com/it/event/tristan-gooley-con-paolo-pecere/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -26,88 +68,7 @@ DTEND:20250321T223000Z
 LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
 DTSTART:20250321T183000Z
 SUMMARY:Altri incontri
-UID:6c3c2438-589c-424b-b47b-073bdeeb201d@6c3c.org
-URL:https://biglietti.bookpride.net/ticket/1/1660
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Sabato 5 aprile a Torino torna Voices\, l’evento per incontrare le persone che fanno i podcast del Post\, e non solo. La terza edizione sarà sempre alle OGR Torino\, partner dell'evento insieme a Ferrarelle.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250405T190000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20250405T150000Z
-SUMMARY:Podcast
-UID:83f8d0bb-185b-42aa-9baf-7c104d7b68e7@83f8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un confronto tra Luciana Castellina e Giulia SivieroL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Ottawa\, è necessario acquistare il biglietto d'ingresso. 
-DTEND:20250323T190000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250323T150000Z
-SUMMARY:Altri incontri
-UID:0a855acd-a9fe-4080-aa4d-879cee8f08c9@0a85.org
-URL:https://biglietti.bookpride.net/ticket/1/1660
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251102T003000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T203000Z
-SUMMARY:Talk
-UID:ac4932fc-2ec6-4192-a172-a032b3781ce8@ac49.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250704T193000Z
-SUMMARY:I concerti del Post
-UID:fd6b7dad-ade0-46e6-adb1-a7a359ab5aa6@fd6b.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:\n\nDal 28 al 30 marzo 2025 torna per la quinta edizione Pensavo Peccioli\, il festival diretto da Luca Sofri\, con eventi e ospiti per guardare le cose del mondo e dare nuove chiavi di lettura della contemporaneità\, per capire cosa sta succedendo\, a noi e al mondo.\n\n
-DTEND:20250328T200000Z
-LOCATION:Peccioli - vari luoghi
-DTSTART:20250328T160000Z
-SUMMARY:Altri incontri
-UID:69e253d5-8769-4cd9-8d4d-bb6aff768aa8@69e2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Tristan Gooley in dialogo con Matteo CacciaL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
-DTEND:20250323T200000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250323T160000Z
-SUMMARY:Altri incontri
-UID:24f0711e-d254-4c7a-904e-24be38990d26@24f0.org
+UID:eea1b4c4-e55d-4fdf-b9b7-44b6641438d9@eea1.org
 URL:https://biglietti.bookpride.net/ticket/1/1660
 END:VEVENT
 BEGIN:VEVENT
@@ -121,7 +82,7 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:80534e44-22fd-411c-97a3-14535649cda2@8053.org
+UID:080bf834-d326-4d5b-b292-4d87b9e4b637@080b.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +96,7 @@ DTEND:20250919T233000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T193000Z
 SUMMARY:Talk
-UID:acc4e09c-dcdb-497e-9c80-46dda55e436b@acc4.org
+UID:dc59b077-c78d-46b5-894f-ac38a87a6300@dc59.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -143,13 +104,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Tristan Gooley e Paolo PecereLibri Come è prodotto da Fondazione Musica per Roma\, e nella sua 16esima edizione si svolgerà dal 21 al 23 marzo. Una festa che vedrà coinvolte decine di ospiti per un totale di oltre cento incontri\, tra lezioni\, dialoghi\, reading e mostre.Ingresso gratuito ma con prenotazione\, da venerdì 14 marzo alle 15 (info qui).
-DTEND:20250322T180000Z
-LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
-DTSTART:20250322T140000Z
-SUMMARY:Altri incontri
-UID:a42dbb3a-484e-4f8c-9956-44b8aa2eddb1@a42d.org
-URL:https://www.auditorium.com/it/event/tristan-gooley-con-paolo-pecere/
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250704T193000Z
+SUMMARY:I concerti del Post
+UID:1559a34d-2102-4ca2-a63c-9a9c1fb76049@1559.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -157,13 +118,54 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Una conversazione tra Daria Bignardi e Luca MisculinL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
-DTEND:20250322T213000Z
-LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250322T173000Z
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251102T003000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T203000Z
+SUMMARY:Talk
+UID:073ec4ab-cbff-4229-b049-20f77f71035c@073e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Daria Bignardi e Stefano NazziIl primo di tre incontri dedicati ai temi della giustizia organizzati dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso libero fino a esaurimento posti.  
+DTEND:20250319T210000Z
+LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
+DTSTART:20250319T170000Z
 SUMMARY:Altri incontri
-UID:7ef839f3-9b0a-42f0-97bd-f6f5e7b8ccbd@7ef8.org
+UID:d4e35944-cc03-49fd-bb46-6a230e90235b@d4e3.org
+URL:https://www.eventbrite.com/e/biglietti-il-post-al-castello-di-novara-daria-bignardi-con-stefano-nazzi-1272515471029
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un confronto tra Luciana Castellina e Giulia SivieroL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Ottawa\, è necessario acquistare il biglietto d'ingresso. 
+DTEND:20250323T190000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250323T150000Z
+SUMMARY:Altri incontri
+UID:9961ae44-e7f7-434b-acd3-33f5b401703e@9961.org
 URL:https://biglietti.bookpride.net/ticket/1/1660
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\n\nDal 28 al 30 marzo 2025 torna per la quinta edizione Pensavo Peccioli\, il festival diretto da Luca Sofri\, con eventi e ospiti per guardare le cose del mondo e dare nuove chiavi di lettura della contemporaneità\, per capire cosa sta succedendo\, a noi e al mondo.\n\nGli incontri sono a ingresso libero fino a esaurimento posti\, salvo quelli per cui è richiesta la prenotazione\, come indicato nel programma del festival.\n\n
+DTEND:20250328T200000Z
+LOCATION:Peccioli - vari luoghi
+DTSTART:20250328T160000Z
+SUMMARY:Altri incontri
+UID:92706262-15e6-49a8-a95c-22267433d2f4@9270.org
+URL:https://www.ilpost.it/2025/03/14/pensavo-peccioli-2025/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -176,7 +178,7 @@ DTEND:20250322T183000Z
 LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
 DTSTART:20250322T143000Z
 SUMMARY:Altri incontri
-UID:398e7f7a-557b-44db-9638-bb006511bbb5@398e.org
+UID:fcef385a-0fc9-46d0-85de-ec967b69e085@fcef.org
 URL:https://biglietti.bookpride.net/ticket/1/1660
 END:VEVENT
 END:VCALENDAR
