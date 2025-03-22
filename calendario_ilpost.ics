@@ -7,67 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250704T193000Z
-SUMMARY:I concerti del Post
-UID:dc5c23f5-58d4-4b3c-b72c-24532e94bd96@dc5c.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Tristan Gooley in dialogo con Matteo CacciaL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
-DTEND:20250323T200000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250323T160000Z
-SUMMARY:Altri incontri
-UID:e1d0cfca-2447-4b9b-b3f0-dcbd926f136c@e1d0.org
-URL:https://biglietti.bookpride.net/ticket/1/1660
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
-SUMMARY:Talk
-UID:ee078cee-c913-4189-bafe-7295795b44a8@ee07.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:\n\nDal 28 al 30 marzo 2025 torna per la quinta edizione Pensavo Peccioli\, il festival diretto da Luca Sofri\, con eventi e ospiti per guardare le cose del mondo e dare nuove chiavi di lettura della contemporaneità\, per capire cosa sta succedendo\, a noi e al mondo.\n\nGli incontri sono a ingresso libero fino a esaurimento posti\, salvo quelli per cui è richiesta la prenotazione\, come indicato nel programma del festival.\n\n
-DTEND:20250328T200000Z
-LOCATION:Peccioli - vari luoghi
-DTSTART:20250328T160000Z
-SUMMARY:Altri incontri
-UID:51931149-df0a-46f2-9887-33afb2a72cf1@5193.org
-URL:https://www.ilpost.it/2025/03/14/pensavo-peccioli-2025/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Con Tristan Gooley e Paolo PecereLibri Come è prodotto da Fondazione Musica per Roma\, e nella sua 16esima edizione si svolgerà dal 21 al 23 marzo. Una festa che vedrà coinvolte decine di ospiti per un totale di oltre cento incontri\, tra lezioni\, dialoghi\, reading e mostre.Ingresso gratuito ma con prenotazione\, da venerdì 14 marzo alle 15 (info qui).
 DTEND:20250322T180000Z
 LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
 DTSTART:20250322T140000Z
 SUMMARY:Altri incontri
-UID:56f2e328-ff6e-4c0e-9bb9-c2092669bc11@56f2.org
+UID:7b0446d5-a876-459e-9008-e69067fe52f7@7b04.org
 URL:https://www.auditorium.com/it/event/tristan-gooley-con-paolo-pecere/
 END:VEVENT
 BEGIN:VEVENT
@@ -76,13 +21,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Francesco CostaL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
-DTEND:20250321T223000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250321T183000Z
-SUMMARY:Altri incontri
-UID:f65a365a-3740-4550-9b68-68030ccf8e7c@f65a.org
-URL:https://biglietti.bookpride.net/ticket/1/1660
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250704T193000Z
+SUMMARY:I concerti del Post
+UID:c8c02c17-4e15-45ca-93fd-efc4eedaba15@c8c0.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -90,12 +35,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Una conversazione tra Daria Bignardi e Luca MisculinL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
-DTEND:20250322T213000Z
-LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250322T173000Z
+DESCRIPTION:Un confronto tra Luciana Castellina e Giulia SivieroL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Ottawa\, è necessario acquistare il biglietto d'ingresso. 
+DTEND:20250323T190000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250323T150000Z
 SUMMARY:Altri incontri
-UID:6c4f167e-e969-4d11-80f0-c420219a3ac5@6c4f.org
+UID:149e78a2-2f20-4d94-b70d-2b45e612e898@149e.org
 URL:https://biglietti.bookpride.net/ticket/1/1660
 END:VEVENT
 BEGIN:VEVENT
@@ -109,7 +54,34 @@ DTEND:20251102T003000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T203000Z
 SUMMARY:Talk
-UID:b45a6ce0-79cf-409a-bc7e-21fc09c3496f@b45a.org
+UID:3135960d-b021-4d74-8a87-5786d5f7fac5@3135.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T233000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T193000Z
+SUMMARY:Talk
+UID:209b5ab8-c9a8-4617-8209-9f607dbb99e0@209b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Tristan Gooley in dialogo con Matteo CacciaL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
+DTEND:20250323T200000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250323T160000Z
+SUMMARY:Altri incontri
+UID:60a9b9b9-abd6-4f2f-8903-3187cfa9e636@60a9.org
+URL:https://biglietti.bookpride.net/ticket/1/1660
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -122,36 +94,8 @@ DTEND:20250405T190000Z
 LOCATION:Torino - OGR - Corso Castelfidardo\, 22
 DTSTART:20250405T150000Z
 SUMMARY:Podcast
-UID:b6437b7a-1092-4661-b2f6-8c464b76c144@b643.org
+UID:25bda534-a3d0-4371-a0c9-f71ee120593e@25bd.org
 URL:https://www.clappit.com/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un confronto tra Luciana Castellina e Giulia SivieroL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Ottawa\, è necessario acquistare il biglietto d'ingresso. 
-DTEND:20250323T190000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250323T150000Z
-SUMMARY:Altri incontri
-UID:06cf87e1-bf67-416e-9685-b85700c3f38c@06cf.org
-URL:https://biglietti.bookpride.net/ticket/1/1660
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:336c26e0-46cb-4551-a80a-f35e2781941e@336c.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -164,7 +108,49 @@ DTEND:20250322T183000Z
 LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
 DTSTART:20250322T143000Z
 SUMMARY:Altri incontri
-UID:30831087-e2f3-4ece-8192-fe44f72d9790@3083.org
+UID:3006d908-8e9a-44a0-9224-8551533601dd@3006.org
+URL:https://biglietti.bookpride.net/ticket/1/1660
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\n\nDal 28 al 30 marzo 2025 torna per la quinta edizione Pensavo Peccioli\, il festival diretto da Luca Sofri\, con eventi e ospiti per guardare le cose del mondo e dare nuove chiavi di lettura della contemporaneità\, per capire cosa sta succedendo\, a noi e al mondo.\n\nGli incontri sono a ingresso libero fino a esaurimento posti\, salvo quelli per cui è richiesta la prenotazione\, come indicato nel programma del festival.\n\n
+DTEND:20250328T200000Z
+LOCATION:Peccioli - vari luoghi
+DTSTART:20250328T160000Z
+SUMMARY:Altri incontri
+UID:98789308-856d-4c39-812b-a2ff72862677@9878.org
+URL:https://www.ilpost.it/2025/03/14/pensavo-peccioli-2025/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:2216c07b-3ae8-45da-a8d8-859f3a47e924@2216.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Una conversazione tra Daria Bignardi e Luca MisculinL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
+DTEND:20250322T213000Z
+LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20250322T173000Z
+SUMMARY:Altri incontri
+UID:d08e8042-bd2c-4b12-a8bb-acbf5d94537c@d08e.org
 URL:https://biglietti.bookpride.net/ticket/1/1660
 END:VEVENT
 END:VCALENDAR
