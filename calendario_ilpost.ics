@@ -7,54 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:\n\nDal 28 al 30 marzo 2025 torna per la quinta edizione Pensavo Peccioli\, il festival diretto da Luca Sofri\, con eventi e ospiti per guardare le cose del mondo e dare nuove chiavi di lettura della contemporaneità\, per capire cosa sta succedendo\, a noi e al mondo.\n\nGli incontri sono a ingresso libero fino a esaurimento posti\, salvo quelli per cui è richiesta la prenotazione\, come indicato nel programma del festival.\n\n
-DTEND:20250328T200000Z
-LOCATION:Peccioli - vari luoghi
-DTSTART:20250328T160000Z
-SUMMARY:Altri incontri
-UID:d112865c-ae9b-4ac0-85f8-cbdc2ef58201@d112.org
-URL:https://www.ilpost.it/2025/03/14/pensavo-peccioli-2025/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Tristan Gooley in dialogo con Matteo CacciaL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Auditorium\, è necessario acquistare il biglietto d'ingresso.
-DTEND:20250323T200000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250323T160000Z
-SUMMARY:Altri incontri
-UID:c73121eb-98aa-4d92-b501-9cb885def07a@c731.org
-URL:https://biglietti.bookpride.net/ticket/1/1660
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un confronto tra Luciana Castellina e Giulia SivieroL'incontro si svolge all'interno di Book Pride: prima di prenotare il posto a sedere in sala Ottawa\, è necessario acquistare il biglietto d'ingresso. 
-DTEND:20250323T190000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20250323T150000Z
-SUMMARY:Altri incontri
-UID:086d01a3-3527-4bdd-863f-38f08a729fa0@086d.org
-URL:https://biglietti.bookpride.net/ticket/1/1660
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
-SUMMARY:Talk
-UID:b3aa81e8-81ca-46fb-b7cb-4bed860b0118@b3aa.org
+DESCRIPTION:Sabato 5 aprile a Torino torna Voices\, l’evento per incontrare le persone che fanno i podcast del Post\, e non solo. La terza edizione sarà sempre alle OGR Torino\, partner dell'evento insieme a Ferrarelle Società Benefit.I posti disponibili per Voices e Altre Indagini. La storia di Enrico Mattei sono terminati\, ma dalla pagina di vendita e a partire dal 17 marzo potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
+DTEND:20250405T200000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20250405T160000Z
+SUMMARY:Podcast
+UID:5d2e66a6-db24-4a2d-b1ab-a1f6e04353a7@5d2e.org
+URL:https://www.clappit.com/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -67,8 +26,49 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:9dcfbfc1-81a2-49aa-8518-49d0f28eefd4@9dcf.org
+UID:188c1463-f7d3-4dc9-99c8-a9254beb1762@188c.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Luca Misculin e Alessandra Pellegrini De LucaTerzo e ultimo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione. 
+DTEND:20250417T200000Z
+LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
+DTSTART:20250417T160000Z
+SUMMARY:Altri incontri
+UID:ceb458f8-90e1-41ee-9e21-734434ea9362@ceb4.org
+URL:https://www.eventbrite.it/e/il-post-al-castello-luca-misculin-e-alessandra-pellegrini-de-luca-tickets-1301182825859?aff=ebdssbdestsearch
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Luca Sofri e Francesco CostaSecondo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione.  
+DTEND:20250403T200000Z
+LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
+DTSTART:20250403T160000Z
+SUMMARY:Altri incontri
+UID:928c24c5-2267-41e9-916f-32a18751ce4b@928c.org
+URL:https://www.eventbrite.com/e/il-post-al-castello-luca-sofri-e-francesco-costa-tickets-1301163337569?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T233000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T193000Z
+SUMMARY:Talk
+UID:34c32afb-adbd-434e-98de-0781df790552@34c3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -81,7 +81,7 @@ DTEND:20251102T003000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T203000Z
 SUMMARY:Talk
-UID:4e2f1e84-0129-41d9-9a56-d1d264d71567@4e2f.org
+UID:bf93b490-a782-4e41-8572-ed732a4988fc@bf93.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -94,21 +94,7 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:d38febea-bcf5-4a3e-bf93-3ba4e969d9c1@d38f.org
+UID:f7e8d843-6dbe-4176-8959-8019fc39569d@f7e8.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Sabato 5 aprile a Torino torna Voices\, l’evento per incontrare le persone che fanno i podcast del Post\, e non solo. La terza edizione sarà sempre alle OGR Torino\, partner dell'evento insieme a Ferrarelle Società Benefit.I posti disponibili per Voices e Altre Indagini. La storia di Enrico Mattei sono terminati\, ma dalla pagina di vendita e a partire dal 17 marzo potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
-DTEND:20250405T190000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20250405T150000Z
-SUMMARY:Podcast
-UID:c2ccd07f-ab07-4a66-a65a-56dcc19f5dc9@c2cc.org
-URL:https://www.clappit.com/
 END:VEVENT
 END:VCALENDAR
