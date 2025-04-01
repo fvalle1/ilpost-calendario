@@ -7,12 +7,39 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DESCRIPTION:Con Luca Sofri e Francesco CostaSecondo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione.  
+DTEND:20250403T200000Z
+LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
+DTSTART:20250403T160000Z
+SUMMARY:Altri incontri
+UID:119bbc04-f783-4521-a2b9-414bd9dccf92@119b.org
+URL:https://www.eventbrite.com/e/il-post-al-castello-luca-sofri-e-francesco-costa-tickets-1301163337569?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251102T003000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T203000Z
+SUMMARY:Talk
+UID:23fb7cba-200e-4f91-b536-755621ef9dca@23fb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DESCRIPTION:Sabato 5 aprile a Torino torna Voices\, l’evento per incontrare le persone che fanno i podcast del Post\, e non solo. La terza edizione sarà sempre alle OGR Torino\, partner dell'evento insieme a Ferrarelle Società Benefit.I posti disponibili per Voices e Altre Indagini. La storia di Enrico Mattei sono terminati\, ma dalla pagina di vendita e a partire dal 17 marzo potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
 DTEND:20250405T200000Z
 LOCATION:Torino - OGR - Corso Castelfidardo\, 22
 DTSTART:20250405T160000Z
 SUMMARY:Podcast
-UID:5d2e66a6-db24-4a2d-b1ab-a1f6e04353a7@5d2e.org
+UID:abda980b-ee27-495b-90c1-a4ba4ac38710@abda.org
 URL:https://www.clappit.com/
 END:VEVENT
 BEGIN:VEVENT
@@ -26,62 +53,8 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:188c1463-f7d3-4dc9-99c8-a9254beb1762@188c.org
+UID:0b630c6c-9713-41bf-a9be-27dcdc9907fd@0b63.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Misculin e Alessandra Pellegrini De LucaTerzo e ultimo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione. 
-DTEND:20250417T200000Z
-LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
-DTSTART:20250417T160000Z
-SUMMARY:Altri incontri
-UID:ceb458f8-90e1-41ee-9e21-734434ea9362@ceb4.org
-URL:https://www.eventbrite.it/e/il-post-al-castello-luca-misculin-e-alessandra-pellegrini-de-luca-tickets-1301182825859?aff=ebdssbdestsearch
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Sofri e Francesco CostaSecondo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione.  
-DTEND:20250403T200000Z
-LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
-DTSTART:20250403T160000Z
-SUMMARY:Altri incontri
-UID:928c24c5-2267-41e9-916f-32a18751ce4b@928c.org
-URL:https://www.eventbrite.com/e/il-post-al-castello-luca-sofri-e-francesco-costa-tickets-1301163337569?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
-SUMMARY:Talk
-UID:34c32afb-adbd-434e-98de-0781df790552@34c3.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251102T003000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T203000Z
-SUMMARY:Talk
-UID:bf93b490-a782-4e41-8572-ed732a4988fc@bf93.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -94,7 +67,34 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:f7e8d843-6dbe-4176-8959-8019fc39569d@f7e8.org
+UID:70f60be8-bd2e-461b-8b27-ada4d06eedf3@70f6.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Luca Misculin e Alessandra Pellegrini De LucaTerzo e ultimo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione. 
+DTEND:20250417T200000Z
+LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
+DTSTART:20250417T160000Z
+SUMMARY:Altri incontri
+UID:70b7a018-c1a5-4c7f-9ed0-a9aeb6715f14@70b7.org
+URL:https://www.eventbrite.it/e/il-post-al-castello-luca-misculin-e-alessandra-pellegrini-de-luca-tickets-1301182825859?aff=ebdssbdestsearch
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T233000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T193000Z
+SUMMARY:Talk
+UID:44fc82c4-f2ff-41c4-8e23-9099ff5f46b0@44fc.org
 END:VEVENT
 END:VCALENDAR
