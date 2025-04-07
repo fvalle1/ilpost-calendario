@@ -7,13 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:71ea77ca-ab9a-4019-ab1e-d2c9a4185aad@71ea.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T233000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T193000Z
+SUMMARY:Talk
+UID:825552dd-9e9f-41ef-8ee3-c44c7d765bbd@8255.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -26,34 +25,7 @@ DTEND:20251102T003000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T203000Z
 SUMMARY:Talk
-UID:1eb9fef0-c5ed-49f5-9517-cc2a0a666dc4@1eb9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Misculin e Alessandra Pellegrini De LucaTerzo e ultimo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione. 
-DTEND:20250417T200000Z
-LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
-DTSTART:20250417T160000Z
-SUMMARY:Altri incontri
-UID:4e84e8e0-58af-4655-a7f2-a0c3de7f4ae6@4e84.org
-URL:https://www.eventbrite.it/e/il-post-al-castello-luca-misculin-e-alessandra-pellegrini-de-luca-tickets-1301182825859?aff=ebdssbdestsearch
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
-SUMMARY:Talk
-UID:546b063a-bb89-4eee-bcea-713123ad03c0@546b.org
+UID:6796d8d1-fb92-49eb-b2c1-4a2623ad6eeb@6796.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -66,7 +38,35 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:2b8962f2-9257-4529-bf91-d673fa9387b8@2b89.org
+UID:88388cd0-b9a0-4cce-9f0d-73747852070c@8838.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Luca Misculin e Alessandra Pellegrini De LucaTerzo e ultimo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione. 
+DTEND:20250417T200000Z
+LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
+DTSTART:20250417T160000Z
+SUMMARY:Altri incontri
+UID:ee7f0f30-3fa1-49c5-9378-049e8aae9a09@ee7f.org
+URL:https://www.eventbrite.it/e/il-post-al-castello-luca-misculin-e-alessandra-pellegrini-de-luca-tickets-1301182825859?aff=ebdssbdestsearch
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:cbe92c03-eefb-4889-b1dc-b4374602ea46@cbe9.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 END:VCALENDAR
