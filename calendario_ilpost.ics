@@ -7,26 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250704T193000Z
-SUMMARY:I concerti del Post
-UID:5cacbf3e-1e32-468e-9f83-c6f7494c49e6@5cac.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
-SUMMARY:Talk
-UID:ae00cdbe-67fe-427a-9bfb-d1a03cb630f8@ae00.org
+DESCRIPTION:Con Luca Misculin e Alessandra Pellegrini De LucaTerzo e ultimo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione. 
+DTEND:20250417T200000Z
+LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
+DTSTART:20250417T160000Z
+SUMMARY:Altri incontri
+UID:c6b151ae-7c3c-425e-8171-4d461548320e@c6b1.org
+URL:https://www.eventbrite.it/e/il-post-al-castello-luca-misculin-e-alessandra-pellegrini-de-luca-tickets-1301182825859?aff=ebdssbdestsearch
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,7 +26,7 @@ DTEND:20251102T003000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T203000Z
 SUMMARY:Talk
-UID:4e33e32b-97af-4f10-8b30-758a410e83cc@4e33.org
+UID:0879937b-4d05-4379-9102-b072b7046c07@0879.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,13 +34,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Luca Misculin e Alessandra Pellegrini De LucaTerzo e ultimo appuntamento del ciclo di incontri dedicato ai temi della giustizia e organizzato dal Post in collaborazione con la Fondazione Castello di Novara.Ingresso gratuito\, ma è richiesta la prenotazione. 
-DTEND:20250417T200000Z
-LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
-DTSTART:20250417T160000Z
-SUMMARY:Altri incontri
-UID:07b077bb-f36b-40ea-89d0-21d42469d91c@07b0.org
-URL:https://www.eventbrite.it/e/il-post-al-castello-luca-misculin-e-alessandra-pellegrini-de-luca-tickets-1301182825859?aff=ebdssbdestsearch
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T233000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T193000Z
+SUMMARY:Talk
+UID:a1c5de8c-85b8-4cfa-bb88-94b250169e29@a1c5.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -66,7 +52,21 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:6532f072-468f-436f-a73a-b00e39272dae@6532.org
+UID:b3726611-451e-40db-9ccd-f498a4f285ea@b372.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250704T193000Z
+SUMMARY:I concerti del Post
+UID:e3470a23-23e2-4a4a-b900-8b44d3b61e30@e347.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
 END:VEVENT
 END:VCALENDAR
