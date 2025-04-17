@@ -7,12 +7,25 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T233000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T193000Z
+SUMMARY:Talk
+UID:a1dd7619-3ddc-4423-a11d-9a90db30d0a9@a1dd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
 DTEND:20251102T003000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T203000Z
 SUMMARY:Talk
-UID:f4699652-c152-4341-80f3-b9a87dfea7bd@f469.org
+UID:75bdde43-8447-49dd-8eb9-b21f8545190a@75bd.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -25,22 +38,8 @@ DTEND:20250417T200000Z
 LOCATION:Novara - Fondazione Castello - Piazza Martiri della Libertà\, 3
 DTSTART:20250417T160000Z
 SUMMARY:Altri incontri
-UID:773f998e-a5cc-46dd-af36-6d353f9e0fa8@773f.org
+UID:f6accb4d-7b36-48c8-8892-4bed48d67ddb@f6ac.org
 URL:https://www.eventbrite.it/e/il-post-al-castello-luca-misculin-e-alessandra-pellegrini-de-luca-tickets-1301182825859?aff=ebdssbdestsearch
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:e1ef419c-3d3e-4b71-b9f7-489853ee9fe2@e1ef.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -53,7 +52,7 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:3f0eca1d-41b8-4e20-8cb5-401240a166f8@3f0e.org
+UID:4055b627-3e87-44c7-a5e2-59a49a853523@4055.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
 END:VEVENT
 BEGIN:VEVENT
@@ -62,11 +61,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
-SUMMARY:Talk
-UID:a8bc29db-3c98-4f8a-b442-68e68da6df87@a8bc.org
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:a9486c39-e076-43d9-97df-74fef9818bd8@a948.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 END:VCALENDAR
