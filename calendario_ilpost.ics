@@ -12,7 +12,7 @@ DTEND:20250919T233000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T193000Z
 SUMMARY:Talk
-UID:fc1e1640-fe19-4e40-aeaf-2997bb2ca14b@fc1e.org
+UID:c31b1980-9a42-4b60-9dac-7a7bc2cb9ac3@c31b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -25,21 +25,8 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:ad81c0d6-d857-4638-a354-4fc7731bf418@ad81.org
+UID:c311ff3c-9d8b-445c-add7-c914dcf0cca5@c311.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251102T003000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T203000Z
-SUMMARY:Talk
-UID:82b515f6-ce96-4470-89b1-3c255dc97aec@82b5.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -52,7 +39,20 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:67d37c81-9a4e-4b8f-b426-a1fed4fbeb7c@67d3.org
+UID:454fdd36-33fd-4eb1-ba1e-464b75464fd5@454f.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251102T003000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T203000Z
+SUMMARY:Talk
+UID:7257580f-c06b-473e-bc59-851ef9078278@7257.org
 END:VEVENT
 END:VCALENDAR
