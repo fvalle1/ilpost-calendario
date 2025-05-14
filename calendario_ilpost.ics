@@ -7,82 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Stefano NazziL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone. I posti prenotabili sono già terminati\, ma è possibile comunque accedere all’evento fino all’esaurimento dei posti disponibili. Lingotto Fiere - Centro Congressi - Auditorium
-DTEND:20250517T220000Z
-LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
-DTSTART:20250517T180000Z
-SUMMARY:Altri incontri
-UID:60d2b934-4f72-449a-b4b2-335d9bd7988e@60d2.org
-URL:https://www.salonelibro.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Alessandra Pellegrini De Luca e Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.Lingotto Fiere - Pad. 4 - Sala Bronzo
-DTEND:20250518T173000Z
-LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
-DTSTART:20250518T133000Z
-SUMMARY:Altri incontri
-UID:8bd0316f-3f86-4d62-8ae6-81a4cfec4fce@8bd0.org
-URL:https://www.salonelibro.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Pier Vittorio Mannucci\, Francesco Matteuzzi\, Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.Lingotto Fiere - Pad. 1 - Sala del Fumetto
-DTEND:20250517T170000Z
-LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
-DTSTART:20250517T130000Z
-SUMMARY:Altri incontri
-UID:e6125a9f-ba78-481d-b485-53cfd91cc68c@e612.org
-URL:https://www.salonelibro.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Francesco Costa e Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone. I posti prenotabili sono già terminati\, ma è possibile comunque accedere all’evento fino all’esaurimento dei posti disponibili. Lingotto Fiere - Centro Congressi - Auditorium
-DTEND:20250517T130000Z
-LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
-DTSTART:20250517T090000Z
-SUMMARY:Altri incontri
-UID:724e1c7a-e899-486a-8389-d0ae11f536a7@724e.org
-URL:https://www.salonelibro.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Sofri e Luca MisculinIngresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
-DTEND:20250524T130000Z
-LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
-DTSTART:20250524T090000Z
-SUMMARY:Rassegna stampa
-UID:cc1b3776-a82b-459c-ba6c-d2d6e00652ac@cc1b.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Con Ludovica Lugli\, Marino Sinibaldi\, Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.Lingotto Fiere - Pad. 1 - Sala Granata
 DTEND:20250515T170000Z
 LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
 DTSTART:20250515T130000Z
 SUMMARY:Altri incontri
-UID:80f9df30-2bb6-4625-9692-9abcef281fa0@80f9.org
+UID:7b6bb0e2-4252-404a-8afa-3bb230966ab1@7b6b.org
 URL:https://www.salonelibro.it
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +26,7 @@ DTEND:20250516T201500Z
 LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
 DTSTART:20250516T161500Z
 SUMMARY:Altri incontri
-UID:540f1deb-d2f1-4cc8-9451-81c7fbb9451e@540f.org
+UID:4dc06053-5445-4b65-868a-86bbfe424c76@4dc0.org
 URL:https://www.salonelibro.it
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +40,7 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:523ac757-d3ac-4e9e-9c9a-ee919f5cf0d8@523a.org
+UID:80fc517d-9c78-439f-9fb8-b5e4cf5809a3@80fc.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 BEGIN:VEVENT
@@ -124,21 +54,7 @@ DTEND:20250919T233000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T193000Z
 SUMMARY:Talk
-UID:d61a837d-5348-4d17-bffc-ef6806f1d531@d61a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Sofri e Martino GozziLa libreria Therese fa parte della giuria del Premio Vero\, quindi si parlerà (anche) del premio. Ingresso libero con prenotazione consigliata.
-DTEND:20250523T210000Z
-LOCATION:Torino - Corso Belgio\, 49 bis
-DTSTART:20250523T170000Z
-SUMMARY:Altri incontri
-UID:25664c86-1339-47b1-92a6-282d801618ac@2566.org
-URL:https://www.libreriatherese.it/event/di-cosa-parliamo-quando-parliamo-di-non-fiction-con-luca-sofri-e-martino-gozzi/#!/location_section
+UID:ff75642f-a60e-4da5-bbe1-9fd8b166812f@ff75.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -151,7 +67,7 @@ DTEND:20251102T003000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T203000Z
 SUMMARY:Talk
-UID:bc92922d-bdd2-4c8f-a274-04c5b36e90aa@bc92.org
+UID:5ce07c1f-6f60-4591-857a-0332c68ca845@5ce0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -159,12 +75,27 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Ingresso libero fino a esaurimento posti.
-DTEND:20250524T200000Z
-LOCATION:Bergamo - Via Quarenghi\, 32
-DTSTART:20250524T160000Z
-SUMMARY:Libri
-UID:e131e065-e001-479b-9e62-c37547017464@e131.org
+DESCRIPTION:Con Luca Sofri e Martino GozziLa libreria Therese fa parte della giuria del Premio Vero\, quindi si parlerà (anche) del premio. Ingresso libero con prenotazione consigliata.
+DTEND:20250523T210000Z
+LOCATION:Torino - Corso Belgio\, 49 bis
+DTSTART:20250523T170000Z
+SUMMARY:Altri incontri
+UID:dafee4ca-01f5-420b-b4ee-5254eae4aeea@dafe.org
+URL:https://www.libreriatherese.it/event/di-cosa-parliamo-quando-parliamo-di-non-fiction-con-luca-sofri-e-martino-gozzi/#!/location_section
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Pier Vittorio Mannucci\, Francesco Matteuzzi\, Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.Lingotto Fiere - Pad. 1 - Sala del Fumetto
+DTEND:20250517T170000Z
+LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
+DTSTART:20250517T130000Z
+SUMMARY:Altri incontri
+UID:45e6fc4d-5fd7-4640-b3de-6e1f6c590c06@45e6.org
+URL:https://www.salonelibro.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -177,7 +108,76 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:f74e82c4-fcc7-4ec7-8c6a-27d060ffd383@f74e.org
+UID:7740fa79-69a2-4eba-b705-a3d5cea3bd0e@7740.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Alessandra Pellegrini De Luca e Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.Lingotto Fiere - Pad. 4 - Sala Bronzo
+DTEND:20250518T173000Z
+LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
+DTSTART:20250518T133000Z
+SUMMARY:Altri incontri
+UID:c9c10040-a4ec-4c3d-8b82-426e799e377d@c9c1.org
+URL:https://www.salonelibro.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Ingresso libero fino a esaurimento posti.
+DTEND:20250524T200000Z
+LOCATION:Bergamo - Via Quarenghi\, 32
+DTSTART:20250524T160000Z
+SUMMARY:Libri
+UID:a9206710-8552-46c1-b3b0-4fdda4cb2003@a920.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Francesco Costa e Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone. I posti prenotabili sono già terminati\, ma è possibile comunque accedere all’evento fino all’esaurimento dei posti disponibili. Lingotto Fiere - Centro Congressi - Auditorium
+DTEND:20250517T130000Z
+LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
+DTSTART:20250517T090000Z
+SUMMARY:Altri incontri
+UID:051b5985-d6db-417d-acba-07895ae9ed3e@051b.org
+URL:https://www.salonelibro.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Stefano NazziL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone. I posti prenotabili sono già terminati\, ma è possibile comunque accedere all’evento fino all’esaurimento dei posti disponibili. Lingotto Fiere - Centro Congressi - Auditorium
+DTEND:20250517T220000Z
+LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
+DTSTART:20250517T180000Z
+SUMMARY:Altri incontri
+UID:f217e431-bf73-41b6-8d79-2f0953a25465@f217.org
+URL:https://www.salonelibro.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Luca Sofri e Luca MisculinIngresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
+DTEND:20250524T130000Z
+LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
+DTSTART:20250524T090000Z
+SUMMARY:Rassegna stampa
+UID:cb4238f0-c1e3-408a-9125-de18ed77d8f3@cb42.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
 END:VEVENT
 END:VCALENDAR
