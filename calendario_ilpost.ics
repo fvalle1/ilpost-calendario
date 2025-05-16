@@ -7,12 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Roberto Saviano e Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: prima di prenotare il posto a sedere\, è necessario acquistare il biglietto d'ingresso al Salone. L'evento è prenotabile dal 12 maggio.Lingotto Fiere - Pad. 3 - Sala Azzurra
+DESCRIPTION:Con Roberto Saviano e Luca Sofri\r\n\r\nL'incontro si svolge all'interno del Salone Internazionale del Libro: prima di prenotare il posto a sedere\, è necessario acquistare il biglietto d'ingresso al Salone. L'evento è prenotabile dal 12 maggio.\r\n\r\nLingotto Fiere - Pad. 3 - Sala Azzurra
 DTEND:20250516T201500Z
 LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
 DTSTART:20250516T161500Z
 SUMMARY:Altri incontri
-UID:c6be3704-4fbb-4879-9d8c-444c9e14dff2@c6be.org
+UID:b9154071-0b2f-47e4-84e1-9c7ef43269e5@b915.org
 URL:https://www.salonelibro.it
 END:VEVENT
 BEGIN:VEVENT
@@ -21,26 +21,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Luca Sofri e Luca MisculinIngresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
-DTEND:20250524T130000Z
-LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
-DTSTART:20250524T090000Z
-SUMMARY:Rassegna stampa
-UID:ed1d9402-2581-4a96-8894-1cc9393fcb57@ed1d.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Stefano NazziL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone. I posti prenotabili sono già terminati\, ma è possibile comunque accedere all’evento fino all’esaurimento dei posti disponibili. Lingotto Fiere - Centro Congressi - Auditorium
+DESCRIPTION:Con Stefano Nazzi\nL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone. I posti prenotabili sono già terminati\, ma è possibile comunque accedere all’evento fino all’esaurimento dei posti disponibili. \r\n\r\nLingotto Fiere - Centro Congressi - Auditorium
 DTEND:20250517T220000Z
 LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
 DTSTART:20250517T180000Z
 SUMMARY:Altri incontri
-UID:39126e95-d362-4b6d-a47b-a3ef59e1131b@3912.org
+UID:5d6a1c50-1e50-4b9c-888d-87a115bfa668@5d6a.org
 URL:https://www.salonelibro.it
 END:VEVENT
 BEGIN:VEVENT
@@ -49,12 +35,26 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Ludovica Lugli\, Marino Sinibaldi\, Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.Lingotto Fiere - Pad. 1 - Sala Granata
-DTEND:20250515T170000Z
+DESCRIPTION:Con Pier Vittorio Mannucci\, Francesco Matteuzzi\, Luca Sofri\r\n\r\nL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.\r\n\r\nLingotto Fiere - Pad. 1 - Sala del Fumetto
+DTEND:20250517T201500Z
 LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
-DTSTART:20250515T130000Z
+DTSTART:20250517T161500Z
 SUMMARY:Altri incontri
-UID:d39cf2cd-ed90-41ed-a344-a83e0a622cea@d39c.org
+UID:e4a3a156-5a02-419f-97c2-f7da55a099ac@e4a3.org
+URL:https://www.salonelibro.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Francesco Costa e Luca Sofri\nL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone. I posti prenotabili sono già terminati\, ma è possibile comunque accedere all’evento fino all’esaurimento dei posti disponibili. \r\n\r\nLingotto Fiere - Centro Congressi - Auditorium
+DTEND:20250517T130000Z
+LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
+DTSTART:20250517T090000Z
+SUMMARY:Altri incontri
+UID:8ac0ab86-31ed-4414-9560-2275eb9512f0@8ac0.org
 URL:https://www.salonelibro.it
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +68,7 @@ DTEND:20250524T200000Z
 LOCATION:Bergamo - Via Quarenghi\, 32
 DTSTART:20250524T160000Z
 SUMMARY:Libri
-UID:b9fe6910-2be3-4032-9d0e-5e44c60d341c@b9fe.org
+UID:94076464-a034-4435-9d80-58846f3268ff@9407.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -76,81 +76,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il giornalista del Post\, autore della prefazione\, presenta il libro del marchio editoriale Altrecose.Ingresso gratuito con prenotazione.
-DTEND:20250610T230000Z
-LOCATION:Castronno - Via Confalonieri\, 5
-DTSTART:20250610T190000Z
-SUMMARY:Libri
-UID:6543c525-424c-4d7a-915f-a1ad22e484b3@6543.org
-URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.Le prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251102T003000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T203000Z
-SUMMARY:Talk
-UID:8d6f45ac-d281-4b09-a8ac-f963522c1b86@8d6f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250704T193000Z
-SUMMARY:I concerti del Post
-UID:10c72f21-ffe9-4ed7-a14c-d1c547a76396@10c7.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Pier Vittorio Mannucci\, Francesco Matteuzzi\, Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.Lingotto Fiere - Pad. 1 - Sala del Fumetto
-DTEND:20250517T170000Z
-LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
-DTSTART:20250517T130000Z
-SUMMARY:Altri incontri
-UID:bf033e06-98aa-4722-b67b-03924a785c52@bf03.org
-URL:https://www.salonelibro.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Sofri e Martino GozziLa libreria Therese fa parte della giuria del Premio Vero\, quindi si parlerà (anche) del premio. Ingresso libero con prenotazione consigliata.
-DTEND:20250523T210000Z
-LOCATION:Torino - Corso Belgio\, 49 bis
-DTSTART:20250523T170000Z
-SUMMARY:Altri incontri
-UID:5692eaae-940f-4e81-84fb-aaabf7bfa9f7@5692.org
-URL:https://www.libreriatherese.it/event/di-cosa-parliamo-quando-parliamo-di-non-fiction-con-luca-sofri-e-martino-gozzi/#!/location_section
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.Le prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T200000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
+DTSTART:20250919T160000Z
 SUMMARY:Talk
-UID:b0881633-5ef1-4abe-8054-4519047a77a9@b088.org
+UID:62125bbf-eb72-4c8f-a7fc-787181febed1@6212.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -158,12 +89,39 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Alessandra Pellegrini De Luca e Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.Lingotto Fiere - Pad. 4 - Sala Bronzo
+DESCRIPTION:Con Luca Sofri e Luca Misculin\r\n\r\nIngresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
+DTEND:20250524T130000Z
+LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
+DTSTART:20250524T090000Z
+SUMMARY:Rassegna stampa
+UID:d168b336-bc42-46fe-ad13-0d7e65b8dd6c@d168.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T210000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T170000Z
+SUMMARY:Talk
+UID:de8130c9-5199-4fa5-922b-98d46d851248@de81.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Alessandra Pellegrini De Luca e Luca Sofri\r\n\r\nL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.\r\n\r\nLingotto Fiere - Pad. 4 - Sala Bronzo
 DTEND:20250518T173000Z
 LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
 DTSTART:20250518T133000Z
 SUMMARY:Altri incontri
-UID:695e92e1-fc5f-4798-b5a9-c01978c935d0@695e.org
+UID:e10d53be-746f-4b47-afba-cc7d98b9fc01@e10d.org
 URL:https://www.salonelibro.it
 END:VEVENT
 BEGIN:VEVENT
@@ -172,26 +130,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Francesco Costa e Luca SofriL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone. I posti prenotabili sono già terminati\, ma è possibile comunque accedere all’evento fino all’esaurimento dei posti disponibili. Lingotto Fiere - Centro Congressi - Auditorium
-DTEND:20250517T130000Z
-LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
-DTSTART:20250517T090000Z
+DESCRIPTION:Con Luca Sofri e Martino Gozzi\r\n\r\nLa libreria Therese fa parte della giuria del Premio Vero\, quindi si parlerà (anche) del premio. \nIngresso libero con prenotazione consigliata.
+DTEND:20250523T210000Z
+LOCATION:Torino - Corso Belgio\, 49 bis
+DTSTART:20250523T170000Z
 SUMMARY:Altri incontri
-UID:7edb79a9-3f8f-46a6-bdcf-ca78e25f73d9@7edb.org
-URL:https://www.salonelibro.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.I biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:b194b0c6-bde9-4a0f-a06d-478bf9e30035@b194.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+UID:286f597d-95c4-488b-8ed9-07d0f3260b8d@286f.org
+URL:https://www.libreriatherese.it/event/di-cosa-parliamo-quando-parliamo-di-non-fiction-con-luca-sofri-e-martino-gozzi/#!/location_section
 END:VEVENT
 END:VCALENDAR
