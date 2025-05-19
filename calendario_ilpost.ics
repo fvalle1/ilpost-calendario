@@ -7,66 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Alessandra Pellegrini De Luca e Luca Sofri\r\n\r\nL'incontro si svolge all'interno del Salone Internazionale del Libro: per partecipare è necessario acquistare il biglietto d'ingresso al Salone\, mentre è possibile accedere alla sala senza prenotazione\, fino all’esaurimento dei posti disponibili.\r\n\r\nLingotto Fiere - Pad. 4 - Sala Bronzo
-DTEND:20250518T173000Z
-LOCATION:Torino - Lingotto Fiere - Via Nizza\, 294
-DTSTART:20250518T133000Z
-SUMMARY:Altri incontri
-UID:b67439ac-5439-4d77-9ab6-c07cc266fae0@b674.org
-URL:https://www.salonelibro.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Ingresso libero fino a esaurimento posti.
 DTEND:20250524T200000Z
 LOCATION:Bergamo - Via Quarenghi\, 32
 DTSTART:20250524T160000Z
 SUMMARY:Libri
-UID:86317ccb-95a3-414a-965a-6b0b7e1c1c5d@8631.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Sofri e Luca Misculin\r\n\r\nIngresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
-DTEND:20250524T130000Z
-LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
-DTSTART:20250524T090000Z
-SUMMARY:Rassegna stampa
-UID:c6f1d3c5-6d5e-4aab-ba19-b86e1c652be9@c6f1.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T200000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T160000Z
-SUMMARY:Talk
-UID:73ff6720-551b-4431-b9f5-aadab3a10160@73ff.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T210000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T170000Z
-SUMMARY:Talk
-UID:05f014e3-fb8a-4cb7-b5f3-3457da5a06fb@05f0.org
+UID:ac6666c2-c16c-4966-afa0-0084744b9383@ac66.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -79,7 +25,47 @@ DTEND:20250523T210000Z
 LOCATION:Torino - Corso Belgio\, 49 bis
 DTSTART:20250523T170000Z
 SUMMARY:Altri incontri
-UID:427e1ac1-e8ba-4261-8428-59e4454986a1@427e.org
+UID:0cb7a6fe-5dc5-4f4b-9d1b-6635a6dec221@0cb7.org
 URL:https://www.libreriatherese.it/event/di-cosa-parliamo-quando-parliamo-di-non-fiction-con-luca-sofri-e-martino-gozzi/#!/location_section
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T200000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T160000Z
+SUMMARY:Talk
+UID:6643b915-91c0-445d-ac38-8b3f340dfd43@6643.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T210000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T170000Z
+SUMMARY:Talk
+UID:36fdf1e6-b51f-460d-9129-0a5b1b2baad8@36fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Luca Sofri e Luca Misculin\r\n\r\nIngresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
+DTEND:20250524T130000Z
+LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
+DTSTART:20250524T090000Z
+SUMMARY:Rassegna stampa
+UID:f74163c5-5304-4a3e-ae33-ed497451fa6b@f741.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
 END:VEVENT
 END:VCALENDAR
