@@ -7,26 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Ingresso libero fino a esaurimento posti.
-DTEND:20250524T200000Z
-LOCATION:Bergamo - Via Quarenghi\, 32
-DTSTART:20250524T160000Z
-SUMMARY:Libri
-UID:ac6666c2-c16c-4966-afa0-0084744b9383@ac66.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Sofri e Martino Gozzi\r\n\r\nLa libreria Therese fa parte della giuria del Premio Vero\, quindi si parlerà (anche) del premio. \nIngresso libero con prenotazione consigliata.
-DTEND:20250523T210000Z
-LOCATION:Torino - Corso Belgio\, 49 bis
-DTSTART:20250523T170000Z
-SUMMARY:Altri incontri
-UID:0cb7a6fe-5dc5-4f4b-9d1b-6635a6dec221@0cb7.org
-URL:https://www.libreriatherese.it/event/di-cosa-parliamo-quando-parliamo-di-non-fiction-con-luca-sofri-e-martino-gozzi/#!/location_section
+DESCRIPTION:Con Luca Sofri e Luca Misculin\r\n\r\nIngresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
+DTEND:20250524T130000Z
+LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
+DTSTART:20250524T090000Z
+SUMMARY:Rassegna stampa
+UID:0684f1fb-94b0-4900-91c4-62eec701c367@0684.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,7 +26,34 @@ DTEND:20250919T200000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T160000Z
 SUMMARY:Talk
-UID:6643b915-91c0-445d-ac38-8b3f340dfd43@6643.org
+UID:42883c50-8fac-457f-b642-655c66b27097@4288.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Luca Sofri e Martino Gozzi\r\n\r\nLa libreria Therese fa parte della giuria del Premio Vero\, quindi si parlerà (anche) del premio. \nIngresso libero con prenotazione consigliata.
+DTEND:20250523T210000Z
+LOCATION:Torino - Corso Belgio\, 49 bis
+DTSTART:20250523T170000Z
+SUMMARY:Altri incontri
+UID:6bb6da67-376e-4ee3-818c-28c3e417b70f@6bb6.org
+URL:https://www.libreriatherese.it/event/di-cosa-parliamo-quando-parliamo-di-non-fiction-con-luca-sofri-e-martino-gozzi/#!/location_section
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Ingresso libero fino a esaurimento posti.
+DTEND:20250524T200000Z
+LOCATION:Bergamo - Via Quarenghi\, 32
+DTSTART:20250524T160000Z
+SUMMARY:Libri
+UID:925261b4-5ea1-4851-aebc-7b4f7141b456@9252.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -52,20 +66,6 @@ DTEND:20251101T210000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T170000Z
 SUMMARY:Talk
-UID:36fdf1e6-b51f-460d-9129-0a5b1b2baad8@36fd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Sofri e Luca Misculin\r\n\r\nIngresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
-DTEND:20250524T130000Z
-LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
-DTSTART:20250524T090000Z
-SUMMARY:Rassegna stampa
-UID:f74163c5-5304-4a3e-ae33-ed497451fa6b@f741.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
+UID:d1356eec-9b00-4e0e-8cc5-9a631454d31d@d135.org
 END:VEVENT
 END:VCALENDAR
