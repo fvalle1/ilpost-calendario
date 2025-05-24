@@ -7,12 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250920T000000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T200000Z
+DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\n\r\nI biglietti saranno in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
+DTEND:20250615T230000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T190000Z
 SUMMARY:Talk
-UID:dafe9df4-4618-4f5f-b065-ae0a9aeeae0a@dafe.org
+UID:50ca577f-d5a4-47fb-b75a-a49910316745@50ca.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -20,41 +20,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Con Luca Sofri e Martino Gozzi\r\n\r\nLa libreria Therese fa parte della giuria del Premio Vero\, quindi si parlerà (anche) del premio. \nIngresso libero con prenotazione consigliata.
-DTEND:20250523T210000Z
-LOCATION:Torino - Corso Belgio\, 49 bis
-DTSTART:20250523T170000Z
-SUMMARY:Altri incontri
-UID:558a04fe-518d-43e1-acbf-fded76c36d64@558a.org
-URL:https://www.libreriatherese.it/event/di-cosa-parliamo-quando-parliamo-di-non-fiction-con-luca-sofri-e-martino-gozzi/#!/location_section
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Incontro con Francesco Costa e Stefano Nazzi\r\n\r\nModera Marco Missiroli\r\n\r\nL'incontro fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\n\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
+DESCRIPTION:Incontro con Francesco Costa e Stefano Nazzi\, modera Marco Missiroli. L'incontro fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\n\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
 DTEND:20250619T000000Z
 LOCATION:Rimini - Viale Tiberio\, 1
 DTSTART:20250618T200000Z
 SUMMARY:Altri incontri
-UID:17643f26-2e7b-4c90-9bf4-0b3d0c5ad07d@1764.org
+UID:ded52a2c-ec2a-48a4-babc-396e7160cf4c@ded5.org
 URL:https://www.facebook.com/bigliettiagliamici/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Con Luca Sofri e Luca Misculin\r\n\r\nIngresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
-DTEND:20250524T130000Z
-LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
-DTSTART:20250524T090000Z
-SUMMARY:Rassegna stampa
-UID:2cdbeab1-ee4b-43b0-bd57-c464e5110d63@2cdb.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -67,20 +39,7 @@ DTEND:20250524T200000Z
 LOCATION:Bergamo - Via Quarenghi\, 32
 DTSTART:20250524T160000Z
 SUMMARY:Libri
-UID:5cc55c89-8b7e-4c47-9350-319a7b9404e8@5cc5.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251102T010000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T210000Z
-SUMMARY:Talk
-UID:23e2dc14-561a-42cc-a92a-39c835e56b96@23e2.org
+UID:15067112-4d53-475e-b883-80df06652ff3@1506.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -93,7 +52,60 @@ DTEND:20250610T230000Z
 LOCATION:Castronno - Via Confalonieri\, 5
 DTSTART:20250610T190000Z
 SUMMARY:Libri
-UID:1fc00531-cbe4-4993-ad04-8ed6b92ee3fc@1fc0.org
+UID:e63f78de-0f34-4e7c-a881-62663e5d5793@e63f.org
 URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\n\r\nI biglietti saranno in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
+DTEND:20250615T230000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T190000Z
+SUMMARY:Talk
+UID:cee0cac8-d377-4208-92f7-8105d6037193@cee0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Con Luca Sofri e Luca Misculin. Ingresso su prenotazione\, possibile a partire dal 13 maggio alle 15.
+DTEND:20250524T130000Z
+LOCATION:Torino - Il Circolo dei lettori - Via Bogino\, 9
+DTSTART:20250524T090000Z
+SUMMARY:Rassegna stampa
+UID:41943993-dc10-4fbf-9102-790d6aadf36e@4194.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250920T000000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T200000Z
+SUMMARY:Talk
+UID:0ae47107-6493-4d17-8dec-570ef7762bac@0ae4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251102T010000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T210000Z
+SUMMARY:Talk
+UID:da32b352-3103-402a-94ab-d627d423afa3@da32.org
 END:VEVENT
 END:VCALENDAR
