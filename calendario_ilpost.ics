@@ -7,52 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Incontro con Francesco Costa e Stefano Nazzi\, modera Marco Missiroli. L'incontro fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\n\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
-DTEND:20250619T000000Z
-LOCATION:Rimini - Viale Tiberio\, 1
-DTSTART:20250618T200000Z
-SUMMARY:Altri incontri
-UID:e31531f7-a771-45b2-8899-a2572be1b2ee@e315.org
-URL:https://www.facebook.com/bigliettiagliamici/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251102T010000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T210000Z
-SUMMARY:Talk
-UID:e154245c-25ed-4d80-b57c-3ca53db16f9a@e154.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
 DTEND:20250920T000000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T200000Z
 SUMMARY:Talk
-UID:63735679-49f9-43cf-b02f-af1dcc27bf19@6373.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\n\r\nI biglietti saranno in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
-DTEND:20250615T230000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T190000Z
-SUMMARY:Talk
-UID:1c3766b8-a37c-4860-9e2e-1aabc395ae1e@1c37.org
+UID:d69e714e-e5e4-4081-8ca4-1e4d333950d9@d69e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -65,7 +25,7 @@ DTEND:20250615T230000Z
 LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
 DTSTART:20250615T190000Z
 SUMMARY:Talk
-UID:d6fced51-acc9-447e-a5cf-2e410a3078cd@d6fc.org
+UID:21ac5041-812d-466e-9e86-86119d87aa5d@21ac.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -78,7 +38,47 @@ DTEND:20250610T230000Z
 LOCATION:Castronno - Via Confalonieri\, 5
 DTSTART:20250610T190000Z
 SUMMARY:Libri
-UID:15adee6f-5e2a-48b3-b496-9d1d7dfc938e@15ad.org
+UID:3b805aba-b6c9-4485-a912-2f801d0796bd@3b80.org
 URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\n\r\nI biglietti saranno in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
+DTEND:20250615T230000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T190000Z
+SUMMARY:Talk
+UID:383fb679-debd-46ec-bcf8-c2f2e3dfe00c@383f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251102T010000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T210000Z
+SUMMARY:Talk
+UID:162e5580-12c4-4a97-b994-0d35b752f2ec@162e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Incontro con Francesco Costa e Stefano Nazzi\, modera Marco Missiroli. L'incontro fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\n\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
+DTEND:20250619T000000Z
+LOCATION:Rimini - Viale Tiberio\, 1
+DTSTART:20250618T200000Z
+SUMMARY:Altri incontri
+UID:1ed3713f-aa2f-43eb-8b0b-9159ba8b4d97@1ed3.org
+URL:https://www.facebook.com/bigliettiagliamici/
 END:VEVENT
 END:VCALENDAR
