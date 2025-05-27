@@ -7,12 +7,39 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\n\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250704T193000Z
+SUMMARY:I concerti del Post
+UID:3ded6455-48be-430c-b462-ae17b7b8ff05@3ded.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250920T000000Z
+DTEND:20250919T233000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T200000Z
+DTSTART:20250919T193000Z
 SUMMARY:Talk
-UID:d69e714e-e5e4-4081-8ca4-1e4d333950d9@d69e.org
+UID:418eb6b9-aa52-4fff-8d64-3167bcc6ea1c@418e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251102T003000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T203000Z
+SUMMARY:Talk
+UID:32247bdd-8d2a-421b-af1a-e1781f54dfa0@3224.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -25,21 +52,8 @@ DTEND:20250615T230000Z
 LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
 DTSTART:20250615T190000Z
 SUMMARY:Talk
-UID:21ac5041-812d-466e-9e86-86119d87aa5d@21ac.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il giornalista del Post\, autore della prefazione\, presenta il libro del marchio editoriale Altrecose.\r\n\r\nIngresso gratuito con prenotazione.
-DTEND:20250610T230000Z
-LOCATION:Castronno - Via Confalonieri\, 5
-DTSTART:20250610T190000Z
-SUMMARY:Libri
-UID:3b805aba-b6c9-4485-a912-2f801d0796bd@3b80.org
-URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
+UID:64fa1a5f-b821-47ec-9bda-d6a5bfb975de@64fa.org
+URL:https://www.ilpost.it/2025/05/26/talk-va-a-verona/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -52,20 +66,8 @@ DTEND:20250615T230000Z
 LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
 DTSTART:20250615T190000Z
 SUMMARY:Talk
-UID:383fb679-debd-46ec-bcf8-c2f2e3dfe00c@383f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251102T010000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T210000Z
-SUMMARY:Talk
-UID:162e5580-12c4-4a97-b994-0d35b752f2ec@162e.org
+UID:93cc3706-79ab-4b85-a38c-fbe560a39d88@93cc.org
+URL:https://www.ilpost.it/2025/05/26/talk-va-a-verona/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -78,7 +80,63 @@ DTEND:20250619T000000Z
 LOCATION:Rimini - Viale Tiberio\, 1
 DTSTART:20250618T200000Z
 SUMMARY:Altri incontri
-UID:1ed3713f-aa2f-43eb-8b0b-9159ba8b4d97@1ed3.org
+UID:d4e45021-5553-405d-9a8d-e215c9044755@d4e4.org
 URL:https://www.facebook.com/bigliettiagliamici/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\n\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:258fd083-f927-40e7-8212-785e3487535a@258f.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, con una puntata speciale di Indagini con Stefano Nazzi\, intitolata Canti di guerra. Conflitti\, vendette\, amori e la musica che ci sta intorno nella Milano degli anni Settanta.\r\n\r\nProprio perché si svolge all'interno di El Galactico\, per partecipare all'evento è necessario acquistare il biglietto d'ingresso al festival.
+DTEND:20250602T200000Z
+LOCATION:Firenze - Via Del Pegaso\, 3
+DTSTART:20250602T160000Z
+SUMMARY:Altri incontri
+UID:ae662cca-855a-4ea5-9473-4a5ca0c713e3@ae66.org
+URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, e lo fa con l'incontro El Galactico nelle parole e nei fatti\, una chiacchierata sulla musica e su questi tempi folli\, con Daniela Collu e Matteo Bordone.\r\n\r\nL’evento inizierà alle 18\, prima dei concerti: proprio perché all'interno di El Galactico\, per partecipare è necessario acquistare il biglietto d'ingresso al festival.
+DTEND:20250601T200000Z
+LOCATION:Firenze - Via del Pegaso\, 3
+DTSTART:20250601T160000Z
+SUMMARY:Altri incontri
+UID:aefe99ad-3589-44f1-8948-64289447b353@aefe.org
+URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il giornalista del Post\, autore della prefazione\, presenta il libro del marchio editoriale Altrecose.\r\n\r\nIngresso gratuito con prenotazione.
+DTEND:20250610T230000Z
+LOCATION:Castronno - Via Confalonieri\, 5
+DTSTART:20250610T190000Z
+SUMMARY:Libri
+UID:6f8a701f-f8ca-4e77-b333-f5f6245ead25@6f8a.org
+URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
 END:VEVENT
 END:VCALENDAR
