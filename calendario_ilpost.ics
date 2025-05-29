@@ -7,12 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
-SUMMARY:Talk
-UID:56dafc3d-3fa0-4dd1-a497-18480089f1b8@56da.org
+DESCRIPTION:Il Post torna a Torino per partecipare alla rassegna Archivissima\, il festival degli archivi dedicato alla promozione e alla valorizzazione dei patrimoni archivistici\, in programma dal 5 all'8 giugno\, e lo fa con la rassegna stampa dal vivo di Luca Misculin ed Eugenio Cau\, fatta però con i giornali di archivio.\nL'evento è in collaborazione con il Post e Fondazione Circolo dei lettori\, per poter partecipare è necessario prenotare il posto in sala.
+DTEND:20250607T130000Z
+LOCATION:Torino - Via Gianbattista Bogino\, 9
+DTSTART:20250607T090000Z
+SUMMARY:Rassegna stampa
+UID:318c7402-407c-43e5-a51e-80087135856d@318c.org
+URL:https://prenotazioni.circololettori.it/events/event/Y1HvCSG062kQ5E7OOJlH
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -20,12 +21,26 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, con una puntata speciale di Indagini con Stefano Nazzi\, intitolata Canti di guerra. Conflitti\, vendette\, amori e la musica che ci sta intorno nella Milano degli anni Settanta.\r\n\r\nProprio perché si svolge all'interno di El Galactico\, per partecipare all'evento è necessario acquistare il biglietto d'ingresso al festival.
-DTEND:20250602T200000Z
-LOCATION:Firenze - Via Del Pegaso\, 3
-DTSTART:20250602T160000Z
+DESCRIPTION:Incontro con Francesco Costa e Stefano Nazzi\, modera Marco Missiroli. L'incontro fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\n\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
+DTEND:20250619T000000Z
+LOCATION:Rimini - Viale Tiberio\, 1
+DTSTART:20250618T200000Z
 SUMMARY:Altri incontri
-UID:4a66e0a2-37d3-4a8c-babf-55d7de960f8e@4a66.org
+UID:43f082cf-7095-431c-9ef7-2f4005bf68be@43f0.org
+URL:https://www.facebook.com/bigliettiagliamici/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, e lo fa con l'incontro El Galactico nelle parole e nei fatti\, una chiacchierata sulla musica e su questi tempi folli\, con Daniela Collu e Matteo Bordone.\r\n\r\nL’evento inizierà alle 18\, prima dei concerti: proprio perché all'interno di El Galactico\, per partecipare è necessario acquistare il biglietto d'ingresso al festival.
+DTEND:20250601T200000Z
+LOCATION:Firenze - Via del Pegaso\, 3
+DTSTART:20250601T160000Z
+SUMMARY:Altri incontri
+UID:3b4f7878-f0b6-4126-9f84-028f6e5a0e98@3b4f.org
 URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
 END:VEVENT
 BEGIN:VEVENT
@@ -34,39 +49,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\n\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
-DTEND:20250615T230000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T190000Z
-SUMMARY:Talk
-UID:be7b0112-36d1-45fd-b01a-4b908cdbbe57@be7b.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\n\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251102T003000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T203000Z
-SUMMARY:Talk
-UID:aaf670d5-52cf-4323-bdf1-5a10e9207c23@aaf6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\n\r\nI posti disponibili per TALK sono terminati\, ma dalla pagina di vendita e a partire dal 29 maggio potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
-DTEND:20250615T230000Z
+DTEND:20250615T210000Z
 LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T190000Z
+DTSTART:20250615T170000Z
 SUMMARY:Talk
-UID:82eed4fa-177e-429c-bf2c-9886e16c7b28@82ee.org
+UID:0c1de88e-a2dc-4c0a-a7b5-8b8b6322bc45@0c1d.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
 END:VEVENT
 BEGIN:VEVENT
@@ -80,8 +68,36 @@ DTEND:20250610T230000Z
 LOCATION:Castronno - Via Confalonieri\, 5
 DTSTART:20250610T190000Z
 SUMMARY:Libri
-UID:9820bc91-b71c-411d-a1d5-a36982ba565b@9820.org
+UID:6f0808e4-b345-483e-9d9a-4d741721cf16@6f08.org
 URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\n\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
+DTEND:20250615T230000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T190000Z
+SUMMARY:Talk
+UID:6e316f3b-7f70-46ae-a6b3-298ad712f573@6e31.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Modera Veronica Rigoni.\r\n\r\nPer partecipare all'incontro è necessario prenotare per telefono o via WhatsApp al 379 188 8263.\r\n\r\nL'incontro si svolge sotto il porticato davanti alla libreria e\, in caso di maltempo\, si sposterà presso l'Agriturismo Settecento Alberi.
+DTEND:20250613T210000Z
+LOCATION:San Donà di Piave - Vicolo Nuovo\, 4
+DTSTART:20250613T170000Z
+SUMMARY:Libri
+UID:13c6ce74-de52-4540-84b6-d4f350725b6c@13c6.org
+URL:https://libreriaraggiungibile.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -94,36 +110,8 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:03e15ae1-70cd-4854-b792-33cd576eefbf@03e1.org
+UID:03e039ec-4d50-4c5b-87da-58ad29089b26@03e0.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, e lo fa con l'incontro El Galactico nelle parole e nei fatti\, una chiacchierata sulla musica e su questi tempi folli\, con Daniela Collu e Matteo Bordone.\r\n\r\nL’evento inizierà alle 18\, prima dei concerti: proprio perché all'interno di El Galactico\, per partecipare è necessario acquistare il biglietto d'ingresso al festival.
-DTEND:20250601T200000Z
-LOCATION:Firenze - Via del Pegaso\, 3
-DTSTART:20250601T160000Z
-SUMMARY:Altri incontri
-UID:b62cc23e-4067-415c-b2bd-b963dc0c4dfb@b62c.org
-URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Incontro con Francesco Costa e Stefano Nazzi\, modera Marco Missiroli. L'incontro fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\n\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
-DTEND:20250619T000000Z
-LOCATION:Rimini - Viale Tiberio\, 1
-DTSTART:20250618T200000Z
-SUMMARY:Altri incontri
-UID:b55fd969-6038-49e7-9d0e-d940d1d7a7c3@b55f.org
-URL:https://www.facebook.com/bigliettiagliamici/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -136,7 +124,21 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:28b6ea6d-17df-4a93-a87a-5c249147568b@28b6.org
+UID:36d82ef0-a74b-4e6d-a4b6-c8ba204745b9@36d8.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, con una puntata speciale di Indagini con Stefano Nazzi\, intitolata Canti di guerra. Conflitti\, vendette\, amori e la musica che ci sta intorno nella Milano degli anni Settanta.\r\n\r\nProprio perché si svolge all'interno di El Galactico\, per partecipare all'evento è necessario acquistare il biglietto d'ingresso al festival.
+DTEND:20250602T200000Z
+LOCATION:Firenze - Via Del Pegaso\, 3
+DTSTART:20250602T160000Z
+SUMMARY:Altri incontri
+UID:3fab5766-6eb4-4554-aaf1-e8586ecf30d3@3fab.org
+URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
 END:VEVENT
 END:VCALENDAR
