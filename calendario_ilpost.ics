@@ -7,82 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il Post torna a Torino per partecipare alla rassegna Archivissima\, il festival degli archivi dedicato alla promozione e alla valorizzazione dei patrimoni archivistici\, in programma dal 5 all'8 giugno\, e lo fa con la rassegna stampa dal vivo di Luca Misculin ed Eugenio Cau\, fatta però con i giornali di archivio.\nL'evento è in collaborazione con il Post e Fondazione Circolo dei lettori\, per poter partecipare è necessario prenotare il posto in sala.
-DTEND:20250607T130000Z
-LOCATION:Torino - Via Gianbattista Bogino\, 9
-DTSTART:20250607T090000Z
-SUMMARY:Rassegna stampa
-UID:318c7402-407c-43e5-a51e-80087135856d@318c.org
-URL:https://prenotazioni.circololettori.it/events/event/Y1HvCSG062kQ5E7OOJlH
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Incontro con Francesco Costa e Stefano Nazzi\, modera Marco Missiroli. L'incontro fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\n\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
-DTEND:20250619T000000Z
-LOCATION:Rimini - Viale Tiberio\, 1
-DTSTART:20250618T200000Z
-SUMMARY:Altri incontri
-UID:43f082cf-7095-431c-9ef7-2f4005bf68be@43f0.org
-URL:https://www.facebook.com/bigliettiagliamici/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, e lo fa con l'incontro El Galactico nelle parole e nei fatti\, una chiacchierata sulla musica e su questi tempi folli\, con Daniela Collu e Matteo Bordone.\r\n\r\nL’evento inizierà alle 18\, prima dei concerti: proprio perché all'interno di El Galactico\, per partecipare è necessario acquistare il biglietto d'ingresso al festival.
-DTEND:20250601T200000Z
-LOCATION:Firenze - Via del Pegaso\, 3
-DTSTART:20250601T160000Z
-SUMMARY:Altri incontri
-UID:3b4f7878-f0b6-4126-9f84-028f6e5a0e98@3b4f.org
-URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\n\r\nI posti disponibili per TALK sono terminati\, ma dalla pagina di vendita e a partire dal 29 maggio potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
-DTEND:20250615T210000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T170000Z
-SUMMARY:Talk
-UID:0c1de88e-a2dc-4c0a-a7b5-8b8b6322bc45@0c1d.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il giornalista del Post\, autore della prefazione\, presenta il libro del marchio editoriale Altrecose.\r\n\r\nIngresso gratuito con prenotazione.
-DTEND:20250610T230000Z
-LOCATION:Castronno - Via Confalonieri\, 5
-DTSTART:20250610T190000Z
-SUMMARY:Libri
-UID:6f0808e4-b345-483e-9d9a-4d741721cf16@6f08.org
-URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\n\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
+DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
 DTEND:20250615T230000Z
 LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
 DTSTART:20250615T190000Z
 SUMMARY:Talk
-UID:6e316f3b-7f70-46ae-a6b3-298ad712f573@6e31.org
+UID:4be0657d-312c-42a3-84ba-b963b7ab2142@4be0.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
 END:VEVENT
 BEGIN:VEVENT
@@ -91,13 +21,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Modera Veronica Rigoni.\r\n\r\nPer partecipare all'incontro è necessario prenotare per telefono o via WhatsApp al 379 188 8263.\r\n\r\nL'incontro si svolge sotto il porticato davanti alla libreria e\, in caso di maltempo\, si sposterà presso l'Agriturismo Settecento Alberi.
-DTEND:20250613T210000Z
-LOCATION:San Donà di Piave - Vicolo Nuovo\, 4
-DTSTART:20250613T170000Z
-SUMMARY:Libri
-UID:13c6ce74-de52-4540-84b6-d4f350725b6c@13c6.org
-URL:https://libreriaraggiungibile.it
+DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, e lo fa con l'incontro El Galactico nelle parole e nei fatti\, una chiacchierata sulla musica e su questi tempi folli\, con Daniela Collu e Matteo Bordone.\r\nL’evento inizierà alle 18\, prima dei concerti: proprio perché all'interno di El Galactico\, per partecipare è necessario acquistare il biglietto d'ingresso al festival.
+DTEND:20250601T200000Z
+LOCATION:Firenze - Via del Pegaso\, 3
+DTSTART:20250601T160000Z
+SUMMARY:Altri incontri
+UID:d8ee63f5-e98b-48b0-99f3-426a52a9dc66@d8ee.org
+URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -105,26 +35,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\n\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:03e039ec-4d50-4c5b-87da-58ad29089b26@03e0.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\n\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
 DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:36d82ef0-a74b-4e6d-a4b6-c8ba204745b9@36d8.org
+UID:32f22100-f209-49c3-9bdc-f40ef6cef17a@32f2.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
 END:VEVENT
 BEGIN:VEVENT
@@ -133,12 +49,96 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, con una puntata speciale di Indagini con Stefano Nazzi\, intitolata Canti di guerra. Conflitti\, vendette\, amori e la musica che ci sta intorno nella Milano degli anni Settanta.\r\n\r\nProprio perché si svolge all'interno di El Galactico\, per partecipare all'evento è necessario acquistare il biglietto d'ingresso al festival.
+DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, con una puntata speciale di Indagini con Stefano Nazzi\, intitolata Canti di guerra. Conflitti\, vendette\, amori e la musica che ci sta intorno nella Milano degli anni Settanta.\r\nProprio perché si svolge all'interno di El Galactico\, per partecipare all'evento è necessario acquistare il biglietto d'ingresso al festival.
 DTEND:20250602T200000Z
 LOCATION:Firenze - Via Del Pegaso\, 3
 DTSTART:20250602T160000Z
 SUMMARY:Altri incontri
-UID:3fab5766-6eb4-4554-aaf1-e8586ecf30d3@3fab.org
+UID:e12dac1b-2119-4b65-a6e7-ff9a1a49348f@e12d.org
 URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Incontro con Francesco Costa e Stefano Nazzi\, modera Marco Missiroli. L'incontro fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
+DTEND:20250619T000000Z
+LOCATION:Rimini - Viale Tiberio\, 1
+DTSTART:20250618T200000Z
+SUMMARY:Altri incontri
+UID:c35982e3-c637-4253-b27c-f97bacbaca9b@c359.org
+URL:https://www.facebook.com/bigliettiagliamici/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Modera Veronica Rigoni.\nPer partecipare all'incontro è necessario prenotare per telefono o via WhatsApp al 379 188 8263.\r\n\r\nL'incontro si svolge sotto il porticato davanti alla libreria e\, in caso di maltempo\, si sposterà presso l'Agriturismo Settecento Alberi.
+DTEND:20250613T210000Z
+LOCATION:San Donà di Piave - Vicolo Nuovo\, 4
+DTSTART:20250613T170000Z
+SUMMARY:Libri
+UID:437883bb-ce14-4d16-a29f-f800f144f449@4378.org
+URL:https://libreriaraggiungibile.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il Post torna a Torino per partecipare alla rassegna Archivissima\, il festival degli archivi dedicato alla promozione e alla valorizzazione dei patrimoni archivistici\, in programma dal 5 all'8 giugno\, e lo fa con la rassegna stampa dal vivo di Luca Misculin ed Eugenio Cau\, fatta però con i giornali di archivio.L'evento è in collaborazione con il Post e Fondazione Circolo dei lettori\, per poter partecipare è necessario prenotare il posto in sala.
+DTEND:20250607T130000Z
+LOCATION:Torino - Via Gianbattista Bogino\, 9
+DTSTART:20250607T090000Z
+SUMMARY:Rassegna stampa
+UID:78f17393-86ef-419f-9e76-c0beab5ae651@78f1.org
+URL:https://prenotazioni.circololettori.it/events/event/Y1HvCSG062kQ5E7OOJlH
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\nI posti disponibili per TALK sono terminati\, ma dalla pagina di vendita e a partire dal 29 maggio potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
+DTEND:20250615T210000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T170000Z
+SUMMARY:Talk
+UID:629d3996-9e82-41c0-ae3d-d370876beec5@629d.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:00ab70f3-53a9-4438-b9a4-2c5e53845f91@00ab.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il giornalista del Post\, autore della prefazione\, presenta il libro del marchio editoriale Altrecose.\nIngresso gratuito con prenotazione.
+DTEND:20250610T230000Z
+LOCATION:Castronno - Via Confalonieri\, 5
+DTSTART:20250610T190000Z
+SUMMARY:Libri
+UID:6ad38c36-e49c-4986-992a-9c1566681f7b@6ad3.org
+URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
 END:VEVENT
 END:VCALENDAR
