@@ -7,27 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
-DTEND:20250615T230000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T190000Z
-SUMMARY:Talk
-UID:4be0657d-312c-42a3-84ba-b963b7ab2142@4be0.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, e lo fa con l'incontro El Galactico nelle parole e nei fatti\, una chiacchierata sulla musica e su questi tempi folli\, con Daniela Collu e Matteo Bordone.\r\nL’evento inizierà alle 18\, prima dei concerti: proprio perché all'interno di El Galactico\, per partecipare è necessario acquistare il biglietto d'ingresso al festival.
-DTEND:20250601T200000Z
-LOCATION:Firenze - Via del Pegaso\, 3
-DTSTART:20250601T160000Z
-SUMMARY:Altri incontri
-UID:d8ee63f5-e98b-48b0-99f3-426a52a9dc66@d8ee.org
-URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
+DESCRIPTION:Il giornalista del Post\, autore della prefazione\, presenta il libro del marchio editoriale Altrecose.\nIngresso gratuito con prenotazione.
+DTEND:20250610T230000Z
+LOCATION:Castronno - Via Confalonieri\, 5
+DTSTART:20250610T190000Z
+SUMMARY:Libri
+UID:9edd8b1c-777a-46a1-a8de-68e25241c879@9edd.org
+URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -40,7 +26,7 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:32f22100-f209-49c3-9bdc-f40ef6cef17a@32f2.org
+UID:2802bc59-872b-4f2b-abda-f2099cab2390@2802.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
 END:VEVENT
 BEGIN:VEVENT
@@ -54,8 +40,36 @@ DTEND:20250602T200000Z
 LOCATION:Firenze - Via Del Pegaso\, 3
 DTSTART:20250602T160000Z
 SUMMARY:Altri incontri
-UID:e12dac1b-2119-4b65-a6e7-ff9a1a49348f@e12d.org
+UID:d526ed53-4d80-4511-81d9-ae22b883ef37@d526.org
 URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
+DTEND:20250615T230000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T190000Z
+SUMMARY:Talk
+UID:e8d8a248-17f9-4e99-a3e4-fc46f11b1734@e8d8.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:b9856cbe-959b-4b34-bb5d-8deb6703a020@b985.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -68,7 +82,7 @@ DTEND:20250619T000000Z
 LOCATION:Rimini - Viale Tiberio\, 1
 DTSTART:20250618T200000Z
 SUMMARY:Altri incontri
-UID:c35982e3-c637-4253-b27c-f97bacbaca9b@c359.org
+UID:beacacbb-783a-46c1-ba39-0f810f4581b3@beac.org
 URL:https://www.facebook.com/bigliettiagliamici/
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +96,7 @@ DTEND:20250613T210000Z
 LOCATION:San Donà di Piave - Vicolo Nuovo\, 4
 DTSTART:20250613T170000Z
 SUMMARY:Libri
-UID:437883bb-ce14-4d16-a29f-f800f144f449@4378.org
+UID:1e7ae390-8026-4389-ae93-8f270d3b6795@1e7a.org
 URL:https://libreriaraggiungibile.it
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +110,7 @@ DTEND:20250607T130000Z
 LOCATION:Torino - Via Gianbattista Bogino\, 9
 DTSTART:20250607T090000Z
 SUMMARY:Rassegna stampa
-UID:78f17393-86ef-419f-9e76-c0beab5ae651@78f1.org
+UID:6b38c0b1-7a86-43ca-8885-0fe639ae593d@6b38.org
 URL:https://prenotazioni.circololettori.it/events/event/Y1HvCSG062kQ5E7OOJlH
 END:VEVENT
 BEGIN:VEVENT
@@ -110,7 +124,7 @@ DTEND:20250615T210000Z
 LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
 DTSTART:20250615T170000Z
 SUMMARY:Talk
-UID:629d3996-9e82-41c0-ae3d-d370876beec5@629d.org
+UID:9f1557f2-9e64-4636-ab91-d04a84a0bf99@9f15.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
 END:VEVENT
 BEGIN:VEVENT
@@ -119,26 +133,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:00ab70f3-53a9-4438-b9a4-2c5e53845f91@00ab.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il giornalista del Post\, autore della prefazione\, presenta il libro del marchio editoriale Altrecose.\nIngresso gratuito con prenotazione.
-DTEND:20250610T230000Z
-LOCATION:Castronno - Via Confalonieri\, 5
-DTSTART:20250610T190000Z
-SUMMARY:Libri
-UID:6ad38c36-e49c-4986-992a-9c1566681f7b@6ad3.org
-URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
+DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, e lo fa con l'incontro El Galactico nelle parole e nei fatti\, una chiacchierata sulla musica e su questi tempi folli\, con Daniela Collu e Matteo Bordone.\r\nL’evento inizierà alle 18\, prima dei concerti: proprio perché all'interno di El Galactico\, per partecipare è necessario acquistare il biglietto d'ingresso al festival.
+DTEND:20250601T200000Z
+LOCATION:Firenze - Via del Pegaso\, 3
+DTSTART:20250601T160000Z
+SUMMARY:Altri incontri
+UID:80c7b550-3537-433d-aa29-111017c7a065@80c7.org
+URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
 END:VEVENT
 END:VCALENDAR
