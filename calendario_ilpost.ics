@@ -7,82 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\nI posti disponibili per TALK sono terminati\, ma dalla pagina di vendita e a partire dal 29 maggio potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
-DTEND:20250615T210000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T170000Z
-SUMMARY:Talk
-UID:f32f1a47-001f-4acd-9f28-df0181d4f4fe@f32f.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T233000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T193000Z
-SUMMARY:Talk
-UID:d3e2cbb7-8a5a-4167-85e6-562100dd813c@d3e2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il Post partecipa a El Galactico\, il festival organizzato dai Baustelle l'1 e il 2 giugno per festeggiare i loro 25 anni di attività\, con una puntata speciale di Indagini con Stefano Nazzi\, intitolata Canti di guerra. Conflitti\, vendette\, amori e la musica che ci sta intorno nella Milano degli anni Settanta.\r\nProprio perché si svolge all'interno di El Galactico\, per partecipare all'evento è necessario acquistare il biglietto d'ingresso al festival.
-DTEND:20250602T200000Z
-LOCATION:Firenze - Via Del Pegaso\, 3
-DTSTART:20250602T160000Z
-SUMMARY:Altri incontri
-UID:9992e5e4-7d90-45f3-b7d3-ee52cf42015e@9992.org
-URL:https://www.ticketone.it/artist/baustelle/baustelle-el-galactico-festival-3315224/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Modera Veronica Rigoni.\nPer partecipare all'incontro è necessario prenotare per telefono o via WhatsApp al 379 188 8263.\r\n\r\nL'incontro si svolge sotto il porticato davanti alla libreria e\, in caso di maltempo\, si sposterà presso l'Agriturismo Settecento Alberi.
 DTEND:20250613T210000Z
 LOCATION:San Donà di Piave - Vicolo Nuovo\, 4
 DTSTART:20250613T170000Z
 SUMMARY:Libri
-UID:197ac0e7-9d3a-4100-b8c5-950f49b7f5c4@197a.org
+UID:08acf638-882f-4ce6-a548-e50a74f325e3@08ac.org
 URL:https://libreriaraggiungibile.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
-DTEND:20250615T230000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T190000Z
-SUMMARY:Talk
-UID:0d69f835-2954-4d5e-a10a-13b64fbf6425@0d69.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il Post torna a Torino per partecipare alla rassegna Archivissima\, il festival degli archivi dedicato alla promozione e alla valorizzazione dei patrimoni archivistici\, in programma dal 5 all'8 giugno\, e lo fa con la rassegna stampa dal vivo di Luca Misculin ed Eugenio Cau\, fatta però con i giornali di archivio.L'evento è in collaborazione con il Post e Fondazione Circolo dei lettori\, per poter partecipare è necessario prenotare il posto in sala.
-DTEND:20250607T130000Z
-LOCATION:Torino - Via Gianbattista Bogino\, 9
-DTSTART:20250607T090000Z
-SUMMARY:Rassegna stampa
-UID:1987fcda-591d-41a6-acf7-202ee88d610c@1987.org
-URL:https://prenotazioni.circololettori.it/events/event/Y1HvCSG062kQ5E7OOJlH
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -95,7 +26,7 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:f662c0fa-71fc-4931-a3fe-0ce02e678ef1@f662.org
+UID:d1a52d36-ec93-46bd-9235-1f18ecdce3d3@d1a5.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 BEGIN:VEVENT
@@ -109,8 +40,21 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:6f82006d-7c70-4a4a-a9f0-6177144be870@6f82.org
+UID:14c1f371-4d31-4ddb-aacc-11621cc747b4@14c1.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251102T003000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T203000Z
+SUMMARY:Talk
+UID:11fd83bd-7662-4ca0-9d4e-f1b1e987c255@11fd.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -123,7 +67,7 @@ DTEND:20250619T000000Z
 LOCATION:Rimini - Viale Tiberio\, 1
 DTSTART:20250618T200000Z
 SUMMARY:Altri incontri
-UID:3a499044-92b4-4624-bae0-0c8098085ed5@3a49.org
+UID:a1b48220-7aca-40c1-ba32-177683f52310@a1b4.org
 URL:https://www.facebook.com/bigliettiagliamici/
 END:VEVENT
 BEGIN:VEVENT
@@ -137,7 +81,62 @@ DTEND:20250610T230000Z
 LOCATION:Castronno - Via Confalonieri\, 5
 DTSTART:20250610T190000Z
 SUMMARY:Libri
-UID:283008a3-4f70-488d-96cc-297c747e04c5@2830.org
+UID:c74e6f80-f4b6-48ac-8d61-34d7b83e251a@c74e.org
 URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T233000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T193000Z
+SUMMARY:Talk
+UID:cc5a8c87-c806-41ab-9df7-3e7d409d627f@cc5a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
+DTEND:20250615T230000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T190000Z
+SUMMARY:Talk
+UID:a6510686-38cf-479d-a2a7-dfaa20d22db1@a651.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\nI posti disponibili per TALK sono terminati\, ma dalla pagina di vendita e a partire dal 29 maggio potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
+DTEND:20250615T210000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T170000Z
+SUMMARY:Talk
+UID:1ee3563c-b7dd-4d58-b04c-86664ab7751d@1ee3.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il Post torna a Torino per partecipare alla rassegna Archivissima\, il festival degli archivi dedicato alla promozione e alla valorizzazione dei patrimoni archivistici\, in programma dal 5 all'8 giugno\, e lo fa con la rassegna stampa dal vivo di Luca Misculin ed Eugenio Cau\, fatta però con i giornali di archivio.L'evento è in collaborazione con il Post e Fondazione Circolo dei lettori\, per poter partecipare è necessario prenotare il posto in sala.
+DTEND:20250607T130000Z
+LOCATION:Torino - Via Gianbattista Bogino\, 9
+DTSTART:20250607T090000Z
+SUMMARY:Rassegna stampa
+UID:b8dcfa80-78fe-4828-bd39-7f4d293f1581@b8dc.org
+URL:https://prenotazioni.circololettori.it/events/event/Y1HvCSG062kQ5E7OOJlH
 END:VEVENT
 END:VCALENDAR
