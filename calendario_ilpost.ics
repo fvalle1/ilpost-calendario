@@ -7,26 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\nI posti disponibili per TALK sono terminati\, ma dalla pagina di vendita e a partire dal 29 maggio potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
-DTEND:20250615T210000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T170000Z
-SUMMARY:Talk
-UID:640b7a9c-79f1-4337-bf11-9554bbb34de1@640b.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:35a6cede-b5a5-4bb0-ab66-a48510c8aab4@35a6.org
+DESCRIPTION:Il giornalista del Post\, autore della prefazione\, presenta il libro del marchio editoriale Altrecose.\nIngresso gratuito con prenotazione.
+DTEND:20250610T230000Z
+LOCATION:Castronno - Via Confalonieri\, 5
+DTSTART:20250610T190000Z
+SUMMARY:Libri
+UID:f8fc5a53-3689-435a-9fdf-e524bea5f123@f8fc.org
+URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,36 +26,8 @@ DTEND:20250615T230000Z
 LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
 DTSTART:20250615T190000Z
 SUMMARY:Talk
-UID:cf228fe2-58ef-410c-8d69-c9e9ddc426e9@cf22.org
+UID:a14af207-7a11-47f8-9cd2-e2b6292aeddc@a14a.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il giornalista del Post\, autore della prefazione\, presenta il libro del marchio editoriale Altrecose.\nIngresso gratuito con prenotazione.
-DTEND:20250610T230000Z
-LOCATION:Castronno - Via Confalonieri\, 5
-DTSTART:20250610T190000Z
-SUMMARY:Libri
-UID:b03b185b-9d73-407e-80a4-fb9d961c102d@b03b.org
-URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Incontro con Francesco Costa e Stefano Nazzi\, modera Marco Missiroli. L'incontro fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
-DTEND:20250619T000000Z
-LOCATION:Rimini - Viale Tiberio\, 1
-DTSTART:20250618T200000Z
-SUMMARY:Altri incontri
-UID:b24e5597-946d-4e23-8bc4-346fc7658431@b24e.org
-URL:https://www.facebook.com/bigliettiagliamici/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -81,8 +40,35 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:bd640a0e-e1fb-41c2-a22e-55daa945e2df@bd64.org
+UID:bc807932-2604-4cdc-8965-345f2b80399b@bc80.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T180000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T140000Z
+SUMMARY:Talk
+UID:37c8e73b-255e-4e25-b40a-3c0920252169@37c8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:L'incontro con Francesco Costa e Stefano Nazzi e moderato da Marco Missiroli fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
+DTEND:20250619T000000Z
+LOCATION:Rimini - Piazza sull'Acqua - Viale Tiberio\, 1
+DTSTART:20250618T200000Z
+SUMMARY:Altri incontri
+UID:d22c1d14-004c-4701-8857-57617a65bee0@d22c.org
+URL:https://www.facebook.com/bigliettiagliamici/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -95,8 +81,35 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:d0ae88be-bfc1-4d9c-b72e-3aa5981e2842@d0ae.org
+UID:baed75c8-b123-4fa1-b913-55077d621ce1@baed.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T190000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T150000Z
+SUMMARY:Talk
+UID:d7d7a828-3f21-4240-a5ce-995e8028024a@d7d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\nI posti disponibili per TALK sono terminati\, ma dalla pagina di vendita e a partire dal 29 maggio potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
+DTEND:20250615T210000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T170000Z
+SUMMARY:Talk
+UID:1dfd2237-d121-450a-9efe-857c208ad243@1dfd.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -109,8 +122,48 @@ DTEND:20250613T210000Z
 LOCATION:San Donà di Piave - Vicolo Nuovo\, 4
 DTSTART:20250613T170000Z
 SUMMARY:Libri
-UID:ea5d6ddc-2459-406c-a28a-09e0b695c589@ea5d.org
+UID:aea4a78b-e5df-474f-a2d9-ba02c978b993@aea4.org
 URL:https://libreriaraggiungibile.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:In un dialogo a distanza\, gli autori del podcast Viaggio a Tokyo Matteo Bordone e Flavio Parisi (in collegamento dal Giappone\, dove vive da vent’anni) raccontano di un paese che non smette mai di sorprendere.\r\nL'incontro si svolge all'interno di UlisseFest\, e l'ingresso è libero fino a esaurimento posti.
+DTEND:20250706T180000Z
+LOCATION:Ancona - Loggia dei Mercanti - Via della Loggia\, 36
+DTSTART:20250706T140000Z
+SUMMARY:Altri incontri
+UID:a2bc571a-c993-4620-afc1-767be5fefd7f@a2bc.org
+URL:https://ulissefest.it/evento/viaggio-tokyo
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
+DTEND:20250704T200000Z
+LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250704T160000Z
+SUMMARY:I concerti del Post
+UID:3d2d1dd9-f28f-48e5-9b5b-2e6f8c9b59f2@3d2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:95a43392-8d7c-4078-a766-1a904e00a6d7@95a4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -120,23 +173,10 @@ TRIGGER:P1D
 END:VALARM
 DESCRIPTION:Il Post torna a Torino per partecipare alla rassegna Archivissima\, il festival degli archivi dedicato alla promozione e alla valorizzazione dei patrimoni archivistici\, in programma dal 5 all'8 giugno\, e lo fa con la rassegna stampa dal vivo di Luca Misculin ed Eugenio Cau\, fatta però con i giornali di archivio.L'evento è in collaborazione con il Post e Fondazione Circolo dei lettori\, per poter partecipare è necessario prenotare il posto in sala.
 DTEND:20250607T130000Z
-LOCATION:Torino - Via Gianbattista Bogino\, 9
+LOCATION:Torino - Circolo dei lettori - Via Gianbattista Bogino\, 9
 DTSTART:20250607T090000Z
 SUMMARY:Rassegna stampa
-UID:ec9a117f-b9f3-40fd-a789-72ce24f91947@ec9a.org
+UID:fb9ea48b-8130-4792-b13f-3ad5edb3d089@fb9e.org
 URL:https://prenotazioni.circololettori.it/events/event/Y1HvCSG062kQ5E7OOJlH
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Francesco Costa e Luca Sofri rispondono agli abbonati e alle abbonate del Post.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
-DTEND:20250704T200000Z
-LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250704T160000Z
-SUMMARY:I concerti del Post
-UID:959fc622-6ead-48f9-ad2f-046f9d265954@959f.org
 END:VEVENT
 END:VCALENDAR
