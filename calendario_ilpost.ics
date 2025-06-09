@@ -7,40 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
-DTEND:20250704T200000Z
-LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250704T160000Z
-SUMMARY:I concerti del Post
-UID:df2a7c09-9dc9-4cfb-8f68-8a62fb2ef9f2@df2a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\nI posti disponibili per TALK sono terminati\, ma dalla pagina di vendita e a partire dal 29 maggio potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
-DTEND:20250615T210000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T170000Z
-SUMMARY:Talk
-UID:9131ca5d-f1f9-449e-82e7-a4f4ebd5324e@9131.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
-DTEND:20250615T230000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T190000Z
-SUMMARY:Talk
-UID:418e10c0-7338-40af-9895-3cad134eee68@418e.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
+DESCRIPTION:Modera Veronica Rigoni.\nPer partecipare all'incontro è necessario prenotare per telefono o via WhatsApp al 379 188 8263.\r\n\r\nL'incontro si svolge sotto il porticato davanti alla libreria e\, in caso di maltempo\, si sposterà presso l'Agriturismo Settecento Alberi.
+DTEND:20250613T210000Z
+LOCATION:San Donà di Piave - Vicolo Nuovo\, 4
+DTSTART:20250613T170000Z
+SUMMARY:Libri
+UID:1a6fc2f7-7d21-44ac-874d-74df5b24c214@1a6f.org
+URL:https://libreriaraggiungibile.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -53,35 +26,8 @@ DTEND:20250619T000000Z
 LOCATION:Rimini - Piazza sull'Acqua - Viale Tiberio\, 1
 DTSTART:20250618T200000Z
 SUMMARY:Altri incontri
-UID:e9b2cb14-59f6-4df7-9730-1c56021ce2da@e9b2.org
+UID:a1d1ae1e-aefb-4071-ac4c-cee61c14b88f@a1d1.org
 URL:https://www.facebook.com/bigliettiagliamici/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T190000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T150000Z
-SUMMARY:Talk
-UID:8fd41343-dcdf-417b-b5f1-7bb90a317ab8@8fd4.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:7cd5897d-d884-4419-b273-b35a04ca8004@7cd5.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -94,20 +40,7 @@ DTEND:20250919T180000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T140000Z
 SUMMARY:Talk
-UID:6c9b0401-4b0b-483f-adcf-95888b6c6b9c@6c9b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:e7ed2605-15d7-4c9c-8a1c-6a70c51bc8c3@e7ed.org
+UID:ccf02dda-fc3a-4f84-b913-05e716c236e8@ccf0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -120,7 +53,7 @@ DTEND:20250706T180000Z
 LOCATION:Ancona - Loggia dei Mercanti - Via della Loggia\, 36
 DTSTART:20250706T140000Z
 SUMMARY:Altri incontri
-UID:e990568f-a8d6-4acd-a706-011490487b81@e990.org
+UID:e5ec7a5d-24d8-4a0e-8f66-6edf527c13dc@e5ec.org
 URL:https://ulissefest.it/evento/viaggio-tokyo
 END:VEVENT
 BEGIN:VEVENT
@@ -129,13 +62,66 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250704T193000Z
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T190000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T150000Z
+SUMMARY:Talk
+UID:df41a3dc-b0fc-46bc-855b-71e4c8caf4a5@df41.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
+DTEND:20250704T200000Z
+LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250704T160000Z
 SUMMARY:I concerti del Post
-UID:dd1ac7d0-4b15-4add-b883-19c8a1ac9603@dd1a.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+UID:70c9d61d-1107-47eb-acf0-33b2b738adc0@70c9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:f3219ef3-3f83-4266-ab18-11024b93ac8a@f321.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il prossimo 15 giugno il Post terrà per la prima volta a Verona un’edizione di TALK: le giornate di incontri con ospiti\, abbonati e lettori con cui portiamo il lavoro di informazione anche in occasioni pubbliche e dal vivo. È un’altra cosa nuova\, e saremo in una città famosissima\, e in un bellissimo posto\, lo storico Teatro Filarmonico.\r\nI posti disponibili per TALK sono terminati\, ma dalla pagina di vendita e a partire dal 29 maggio potrete controllare se ci sono biglietti rimessi in vendita da chi non può più partecipare.
+DTEND:20250615T210000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T170000Z
+SUMMARY:Talk
+UID:89786519-f16e-48cd-8bba-4c7ff7f62686@8978.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/talk-verona-15-giugno-2025-teatro-filarmonico-verona-verona-32847.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:58e4292d-2819-4fde-9d52-1bd29cb74717@58e4.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -148,7 +134,7 @@ DTEND:20250610T230000Z
 LOCATION:Castronno - Via Confalonieri\, 5
 DTSTART:20250610T190000Z
 SUMMARY:Libri
-UID:40f44d05-43d7-4f5b-9fd1-bb0c9b9d8313@40f4.org
+UID:cf1295b5-fcb2-413f-96b1-806e4eeeba1f@cf12.org
 URL:https://www.eventbrite.it/e/biglietti-leggere-gli-alberi-per-capirli-dalle-radici-alle-foglie-1357263845699?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
@@ -157,12 +143,26 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Modera Veronica Rigoni.\nPer partecipare all'incontro è necessario prenotare per telefono o via WhatsApp al 379 188 8263.\r\n\r\nL'incontro si svolge sotto il porticato davanti alla libreria e\, in caso di maltempo\, si sposterà presso l'Agriturismo Settecento Alberi.
-DTEND:20250613T210000Z
-LOCATION:San Donà di Piave - Vicolo Nuovo\, 4
-DTSTART:20250613T170000Z
-SUMMARY:Libri
-UID:2dd77954-e2b8-44e1-a3ea-04312b316715@2dd7.org
-URL:https://libreriaraggiungibile.it
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250704T193000Z
+SUMMARY:I concerti del Post
+UID:38e705ac-f7a7-4088-b588-1d975ee3bed3@38e7.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\nI biglietti sono in vendita da martedì 27 maggio alle 15\, con le consuete agevolazioni per le persone abbonate.
+DTEND:20250615T230000Z
+LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
+DTSTART:20250615T190000Z
+SUMMARY:Talk
+UID:c58f446d-8dc0-4c20-be12-18e5bcf5602d@c58f.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
 END:VEVENT
 END:VCALENDAR
