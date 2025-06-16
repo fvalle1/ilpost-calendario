@@ -7,107 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:00300677-8cc2-40ec-b6c3-9842fa8e0f41@0030.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
-DTEND:20250704T200000Z
-LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250704T160000Z
-SUMMARY:I concerti del Post
-UID:bc4959a1-2232-4d5e-950a-c9b252c1a5c2@bc49.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:L'incontro con Francesco Costa e Stefano Nazzi e moderato da Marco Missiroli fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
-DTEND:20250619T000000Z
-LOCATION:Rimini - Piazza sull'Acqua - Viale Tiberio\, 1
-DTSTART:20250618T200000Z
-SUMMARY:Altri incontri
-UID:d74d8662-f7d2-429c-86d7-a4c5d1910077@d74d.org
-URL:https://www.facebook.com/bigliettiagliamici/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
 DTEND:20250919T180000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T140000Z
 SUMMARY:Talk
-UID:923183d4-b3d9-4caa-9256-63253241d414@9231.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un confronto tra Luca Sofri e Ben Smith\, su come sta cambiando il giornalismo\, tra nuovi modelli editoriali\, trasformazioni nei comportamenti digitali e sfide legate alla qualità dell’informazione. Ne parliamo ormai da decenni\, ma le crisi internazionali e i tempi complicati rendono ancora più necessario orientarsi e capire cosa sta succedendo\, e anche cosa sta succedendo a chi ci dovrebbe spiegare cosa sta succedendo.\n\n\n\nPer partecipare all'incontro è necessario prenotarsi\, ma prima bisogna registrarsi sul sito di Triennale.\n
-DTEND:20250626T203000Z
-LOCATION:Milano - Triennale - Viale Emilio Alemagna\, 6
-DTSTART:20250626T163000Z
-SUMMARY:Altri incontri
-UID:343afc27-4bfb-4f31-be19-08155f275622@343a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250704T193000Z
-SUMMARY:I concerti del Post
-UID:2c3b3c4e-f48d-4aa2-a55b-e31c47b3ab0f@2c3b.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:All'interno dell'edizione di TALK Verona del 15 giugno\, alle 21 Francesco Piccolo presenterà Il Gattopardo. Una storia incredibile\, un racconto-monologo appassionante e divertente in cui ripercorre e racconta tutta la storia della pubblicazione del Gattopardo\, un momento irripetibile della cultura italiana.\r\nIn questi ultimi giorni sono disponibili i biglietti rimessi in vendita da chi non può più partecipare\, quindi provate a dare un’occhiata a questo link se volete venire durante il giorno e a quest'altro link se vi interessa lo spettacolo serale (e inserite il codice che trovate nella vostra area personale sul sito per vedere se ci sono posti liberi con la tariffa abbonati).
-DTEND:20250615T230000Z
-LOCATION:Verona - Teatro Filarmonico - Via Roma\, 3
-DTSTART:20250615T190000Z
-SUMMARY:Talk
-UID:8a79ad51-1b19-490f-bce3-c57807f45ea0@8a79.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/il-gattopardo-15-giugno-2025-teatro-filarmonico-verona-verona-33119.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T190000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T150000Z
-SUMMARY:Talk
-UID:80b6ffca-6160-4514-9be7-e34d78b58361@80b6.org
+UID:e8eb3bbf-b1b3-4c3c-93b6-fa958bf8b33b@e8eb.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -120,8 +25,47 @@ DTEND:20250706T180000Z
 LOCATION:Ancona - Loggia dei Mercanti - Via della Loggia\, 36
 DTSTART:20250706T140000Z
 SUMMARY:Altri incontri
-UID:adab4230-35ca-4f50-b3f4-71bd85613330@adab.org
+UID:bb98349c-f2c8-4ef0-b432-a84f3a0517c6@bb98.org
 URL:https://ulissefest.it/evento/viaggio-tokyo
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T190000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T150000Z
+SUMMARY:Talk
+UID:dd852aaa-31dd-4b7d-a321-f93c93bd28e9@dd85.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un confronto tra Luca Sofri e Ben Smith\, su come sta cambiando il giornalismo\, tra nuovi modelli editoriali\, trasformazioni nei comportamenti digitali e sfide legate alla qualità dell’informazione. Ne parliamo ormai da decenni\, ma le crisi internazionali e i tempi complicati rendono ancora più necessario orientarsi e capire cosa sta succedendo\, e anche cosa sta succedendo a chi ci dovrebbe spiegare cosa sta succedendo.\n\n\n\nPer partecipare all'incontro è necessario prenotarsi\, ma prima bisogna registrarsi sul sito di Triennale.\n
+DTEND:20250626T203000Z
+LOCATION:Milano - Triennale - Viale Emilio Alemagna\, 6
+DTSTART:20250626T163000Z
+SUMMARY:Altri incontri
+UID:5e3aa0f2-50ab-46be-bcc5-c4cf09f4a4f3@5e3a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
+DTEND:20250704T200000Z
+LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250704T160000Z
+SUMMARY:I concerti del Post
+UID:992ad8d6-c62a-45df-82b3-9927698a740b@992a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -134,6 +78,48 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:8c3155c6-c9a9-43b6-9905-de0eef472058@8c31.org
+UID:8160f4a3-ed72-4e4f-a9c1-02adc2adb0cf@8160.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250704T193000Z
+SUMMARY:I concerti del Post
+UID:e386baef-b980-4a2f-a01c-5636318435ba@e386.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:L'incontro con Francesco Costa e Stefano Nazzi e moderato da Marco Missiroli fa parte del progetto "Biglietti agli amici"\, un festival di letteratura\, cinema\, arte\, musica e spettacolo.\r\nIngresso libero. Per maggiori info\, contattare bigliettiagliamici@gmail.com\r\n\r\nIn caso di pioggia tutti gli incontri si terranno al Teatro Galli di Rimini.
+DTEND:20250619T000000Z
+LOCATION:Rimini - Piazza sull'Acqua - Viale Tiberio\, 1
+DTSTART:20250618T200000Z
+SUMMARY:Altri incontri
+UID:21833721-fbae-4bbb-a5f5-178fa1f20e2b@2183.org
+URL:https://www.facebook.com/bigliettiagliamici/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:98eeb05e-0034-4850-ad84-6adfed4e42dc@98ee.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 END:VCALENDAR
