@@ -7,27 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250704T193000Z
-SUMMARY:I concerti del Post
-UID:59d81721-9520-40e6-84fe-ce2c494d3d8d@59d8.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250713T210000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250713T170000Z
+DESCRIPTION:Un confronto tra Luca Sofri e Ben Smith\, su come sta cambiando il giornalismo\, tra nuovi modelli editoriali\, trasformazioni nei comportamenti digitali e sfide legate alla qualità dell’informazione. Ne parliamo ormai da decenni\, ma le crisi internazionali e i tempi complicati rendono ancora più necessario orientarsi e capire cosa sta succedendo\, e anche cosa sta succedendo a chi ci dovrebbe spiegare cosa sta succedendo.\n\n\n\nPer partecipare all'incontro è necessario prenotarsi\, ma prima bisogna registrarsi sul sito di Triennale.\n
+DTEND:20250626T203000Z
+LOCATION:Milano - Triennale - Viale Emilio Alemagna\, 6
+DTSTART:20250626T163000Z
 SUMMARY:Altri incontri
-UID:ce25258a-dfd7-42e4-83f9-d2751da829c7@ce25.org
-URL:https://associazionepieroiemmolo.it
+UID:ac22ffdf-e373-4b9b-b027-9064131c0024@ac22.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -40,7 +25,7 @@ DTEND:20250628T120000Z
 LOCATION:Bari - Spazio Murat - Piazza del Ferrarese\, 1
 DTSTART:20250628T080000Z
 SUMMARY:Rassegna stampa
-UID:19fad93f-7fbf-4010-8ce6-a5aebc4583f5@19fa.org
+UID:2d0990a2-fe63-4fec-85a0-d9dc7d532ec1@2d09.org
 URL:https://prenotazioni.salonelibro.it/events/113/
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +39,7 @@ DTEND:20250704T200000Z
 LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
 DTSTART:20250704T160000Z
 SUMMARY:I concerti del Post
-UID:41dbd151-3ed3-4010-aedc-8f48dc13d02c@41db.org
+UID:16fb6526-a7e7-4feb-af5e-de6c035b13de@16fb.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -62,79 +47,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un confronto tra Luca Sofri e Ben Smith\, su come sta cambiando il giornalismo\, tra nuovi modelli editoriali\, trasformazioni nei comportamenti digitali e sfide legate alla qualità dell’informazione. Ne parliamo ormai da decenni\, ma le crisi internazionali e i tempi complicati rendono ancora più necessario orientarsi e capire cosa sta succedendo\, e anche cosa sta succedendo a chi ci dovrebbe spiegare cosa sta succedendo.\n\n\n\nPer partecipare all'incontro è necessario prenotarsi\, ma prima bisogna registrarsi sul sito di Triennale.\n
-DTEND:20250626T203000Z
-LOCATION:Milano - Triennale - Viale Emilio Alemagna\, 6
-DTSTART:20250626T163000Z
-SUMMARY:Altri incontri
-UID:04cd3599-f149-4570-8dd1-7c81668ee7b4@04cd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:e4d03bd8-8851-4ae0-8177-429df5567ffd@e4d0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250712T213000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250712T173000Z
-SUMMARY:Altri incontri
-UID:ebbd8da6-b217-4656-b080-300f28c73230@ebbd.org
-URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T180000Z
-SUMMARY:Talk
-UID:81fb448e-e3f2-433b-ab45-d589d3b67b4c@81fb.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
+DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:2810096b-d555-4f1c-a1d5-81a3a486688f@2810.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T210000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T170000Z
-SUMMARY:Talk
-UID:bac0502f-c164-4e7e-83b8-c1e92a998404@bac0.org
+UID:abce395f-ef21-4de6-9c34-8c0133660a25@abce.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -147,7 +66,88 @@ DTEND:20250706T180000Z
 LOCATION:Ancona - Loggia dei Mercanti - Via della Loggia\, 36
 DTSTART:20250706T140000Z
 SUMMARY:Altri incontri
-UID:a2dab266-117c-426d-a0f7-38f4e24056a4@a2da.org
+UID:1155ab2c-6942-40ec-9a5a-ae6b4c50cfda@1155.org
 URL:https://ulissefest.it/evento/viaggio-tokyo
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T210000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T170000Z
+SUMMARY:Talk
+UID:c20d8540-47b3-4f42-b158-090a9c41ce70@c20d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250712T213000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250712T173000Z
+SUMMARY:Altri incontri
+UID:c2cb4e54-e8ba-49d5-97ba-49876358a35e@c2cb.org
+URL:https://associazionepieroiemmolo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:f5509df8-9ea5-4fc6-8595-9c3a4c34b9d7@f550.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T220000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T180000Z
+SUMMARY:Talk
+UID:56d87ab0-24f9-4dd3-ba70-bdc3266bafe6@56d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250713T210000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250713T170000Z
+SUMMARY:Altri incontri
+UID:69970fae-b3e4-4517-ba7e-5cb4d785a175@6997.org
+URL:https://associazionepieroiemmolo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:80d3b693-0a16-4442-82c4-adee18c9d7a3@80d3.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 END:VCALENDAR
