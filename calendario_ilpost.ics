@@ -7,39 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un confronto tra Luca Sofri e Ben Smith\, su come sta cambiando il giornalismo\, tra nuovi modelli editoriali\, trasformazioni nei comportamenti digitali e sfide legate alla qualità dell’informazione. Ne parliamo ormai da decenni\, ma le crisi internazionali e i tempi complicati rendono ancora più necessario orientarsi e capire cosa sta succedendo\, e anche cosa sta succedendo a chi ci dovrebbe spiegare cosa sta succedendo.\n\n\n\nPer partecipare all'incontro è necessario prenotarsi\, ma prima bisogna registrarsi sul sito di Triennale.\n
-DTEND:20250626T203000Z
-LOCATION:Milano - Triennale - Viale Emilio Alemagna\, 6
-DTSTART:20250626T163000Z
-SUMMARY:Altri incontri
-UID:ac22ffdf-e373-4b9b-b027-9064131c0024@ac22.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per la prima volta a Lungomare di Libri\, la manifestazione letteraria in programma dal 27 al 29 giugno\, il Post propone la sua rassegna stampa con il fondatore e direttore editoriale Luca Sofri e il giornalista Luca Misculin per orientarsi fra titoli\, notizie e parole dell’informazione.\r\nPer partecipare è richiesta la prenotazione\, a cui si può accedere dopo essersi registrati all'area riservata del Salone del Libro (o dopo aver fatto login col vostro account\, se ne avete già uno).
-DTEND:20250628T120000Z
-LOCATION:Bari - Spazio Murat - Piazza del Ferrarese\, 1
-DTSTART:20250628T080000Z
-SUMMARY:Rassegna stampa
-UID:2d0990a2-fe63-4fec-85a0-d9dc7d532ec1@2d09.org
-URL:https://prenotazioni.salonelibro.it/events/113/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
-DTEND:20250704T200000Z
-LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250704T160000Z
-SUMMARY:I concerti del Post
-UID:16fb6526-a7e7-4feb-af5e-de6c035b13de@16fb.org
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T210000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T170000Z
+SUMMARY:Talk
+UID:f809dd86-6b34-45a7-8500-171f6f4ef134@f809.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -52,75 +25,8 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:abce395f-ef21-4de6-9c34-8c0133660a25@abce.org
+UID:767f4453-70cd-4286-af67-371cc56c7287@767f.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:In un dialogo a distanza\, gli autori del podcast Viaggio a Tokyo Matteo Bordone e Flavio Parisi (in collegamento dal Giappone\, dove vive da vent’anni) raccontano di un paese che non smette mai di sorprendere.\r\nL'incontro si svolge all'interno di UlisseFest\, e l'ingresso è libero fino a esaurimento posti.
-DTEND:20250706T180000Z
-LOCATION:Ancona - Loggia dei Mercanti - Via della Loggia\, 36
-DTSTART:20250706T140000Z
-SUMMARY:Altri incontri
-UID:1155ab2c-6942-40ec-9a5a-ae6b4c50cfda@1155.org
-URL:https://ulissefest.it/evento/viaggio-tokyo
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T210000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T170000Z
-SUMMARY:Talk
-UID:c20d8540-47b3-4f42-b158-090a9c41ce70@c20d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250712T213000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250712T173000Z
-SUMMARY:Altri incontri
-UID:c2cb4e54-e8ba-49d5-97ba-49876358a35e@c2cb.org
-URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:f5509df8-9ea5-4fc6-8595-9c3a4c34b9d7@f550.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T180000Z
-SUMMARY:Talk
-UID:56d87ab0-24f9-4dd3-ba70-bdc3266bafe6@56d8.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -133,8 +39,74 @@ DTEND:20250713T210000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20250713T170000Z
 SUMMARY:Altri incontri
-UID:69970fae-b3e4-4517-ba7e-5cb4d785a175@6997.org
+UID:71048730-8301-4678-8c60-e7a6e580fed8@7104.org
 URL:https://associazionepieroiemmolo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\n\n\n\n\n\n\n\n\nIl direttore editoriale del Post racconta il progetto della rivista cartacea COSE Spiegate bene\, dove ogni titolo è dedicato a un argomento per declinare la proverbiale inclinazione descrittiva e di chiarezza del Post raccogliendo spiegazioni\, storie e racconti d’autore.\n\n\nIngresso libero fino a esaurimento posti.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+DTEND:20250710T210000Z
+LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
+DTSTART:20250710T170000Z
+SUMMARY:Libri
+UID:a9d656d1-3505-4506-95e2-b09d3f60e8be@a9d6.org
+URL:https://www.ilpost.it/shop/cose-spiegate-bene/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un confronto tra Luca Sofri e Ben Smith\, su come sta cambiando il giornalismo\, tra nuovi modelli editoriali\, trasformazioni nei comportamenti digitali e sfide legate alla qualità dell’informazione. Ne parliamo ormai da decenni\, ma le crisi internazionali e i tempi complicati rendono ancora più necessario orientarsi e capire cosa sta succedendo\, e anche cosa sta succedendo a chi ci dovrebbe spiegare cosa sta succedendo.\n\n\n\nPer partecipare all'incontro è necessario prenotarsi\, ma prima bisogna registrarsi sul sito di Triennale.\n
+DTEND:20250626T203000Z
+LOCATION:Milano - Triennale - Viale Emilio Alemagna\, 6
+DTSTART:20250626T163000Z
+SUMMARY:Altri incontri
+UID:7641b5d9-8eac-41a0-989d-c889382363f2@7641.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
+DTEND:20250704T200000Z
+LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250704T160000Z
+SUMMARY:I concerti del Post
+UID:b61cc15f-f17c-47b7-8e18-ca09c3f1c448@b61c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:51d27eb9-688e-42a2-b2e5-d641d2cc4e19@51d2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T220000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T180000Z
+SUMMARY:Talk
+UID:5b24889a-30a1-4abc-b401-b88dd5054065@5b24.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -147,7 +119,63 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:80d3b693-0a16-4442-82c4-adee18c9d7a3@80d3.org
+UID:0c3d4cf4-3d57-4273-ad30-5c00c4c0bc33@0c3d.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250712T213000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250712T173000Z
+SUMMARY:Altri incontri
+UID:64068a43-31b6-4769-bbf2-b328dbc8dde8@6406.org
+URL:https://associazionepieroiemmolo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:In un dialogo a distanza\, gli autori del podcast Viaggio a Tokyo Matteo Bordone e Flavio Parisi (in collegamento dal Giappone\, dove vive da vent’anni) raccontano di un paese che non smette mai di sorprendere.\r\nL'incontro si svolge all'interno di UlisseFest\, e l'ingresso è libero fino a esaurimento posti.
+DTEND:20250706T180000Z
+LOCATION:Ancona - Loggia dei Mercanti - Via della Loggia\, 36
+DTSTART:20250706T140000Z
+SUMMARY:Altri incontri
+UID:197a3cbc-8ecf-435c-8b0b-a355425dc287@197a.org
+URL:https://ulissefest.it/evento/viaggio-tokyo
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno della rassegna 11Lune della Fondazione Peccioliper si svolgerà la presentazione della shortlist del Premio Vero\, il premio destinato all'editoria libraria di argomento non fiction\, insieme con i finalisti del premio.\r\nIngresso libero fino a esaurimento posti.
+DTEND:20250709T203000Z
+LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
+DTSTART:20250709T163000Z
+SUMMARY:Altri incontri
+UID:f97c3aea-610b-4aa0-8ef1-32bbb302e2ca@f97c.org
+URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per la prima volta a Lungomare di Libri\, la manifestazione letteraria in programma dal 27 al 29 giugno\, il Post propone la sua rassegna stampa con il fondatore e direttore editoriale Luca Sofri e il giornalista Luca Misculin per orientarsi fra titoli\, notizie e parole dell’informazione.\r\nPer partecipare è richiesta la prenotazione\, a cui si può accedere dopo essersi registrati all'area riservata del Salone del Libro (o dopo aver fatto login col vostro account\, se ne avete già uno).
+DTEND:20250628T120000Z
+LOCATION:Bari - Spazio Murat - Piazza del Ferrarese\, 1
+DTSTART:20250628T080000Z
+SUMMARY:Rassegna stampa
+UID:b46bb2e9-4b88-4169-bfd3-88553c67dc4b@b46b.org
+URL:https://prenotazioni.salonelibro.it/events/113/
 END:VEVENT
 END:VCALENDAR
