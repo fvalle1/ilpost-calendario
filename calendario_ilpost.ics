@@ -12,7 +12,21 @@ DTEND:20250704T200000Z
 LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
 DTSTART:20250704T160000Z
 SUMMARY:I concerti del Post
-UID:6b3d0d3b-d655-44da-89b3-35a11461a269@6b3d.org
+UID:0cb8641c-14b7-48c3-bc09-e958aa779cfb@0cb8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:In un dialogo a distanza\, gli autori del podcast Viaggio a Tokyo Matteo Bordone e Flavio Parisi (in collegamento dal Giappone\, dove vive da vent’anni) raccontano di un paese che non smette mai di sorprendere.\r\nL'incontro si svolge all'interno di UlisseFest\, e l'ingresso è libero fino a esaurimento posti.
+DTEND:20250706T180000Z
+LOCATION:Ancona - Loggia dei Mercanti - Via della Loggia\, 36
+DTSTART:20250706T140000Z
+SUMMARY:Altri incontri
+UID:bd1719d0-1082-4922-a7b1-fc682b387b9e@bd17.org
+URL:https://ulissefest.it/evento/viaggio-tokyo
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -25,8 +39,21 @@ DTEND:20250709T203000Z
 LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
 DTSTART:20250709T163000Z
 SUMMARY:Altri incontri
-UID:5f1f7ba6-ddc7-4ac5-b862-fb9795334610@5f1f.org
+UID:339b8293-cfea-49e3-a120-b45e684620c8@339b.org
 URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T220000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T180000Z
+SUMMARY:Talk
+UID:77774175-722a-4327-9e77-2c7eb6bb6551@7777.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,21 +66,7 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:7a9ea703-4215-4169-b93b-484da0805d7e@7a9e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250704T193000Z
-SUMMARY:I concerti del Post
-UID:15770397-4803-4cc0-8e8e-22d7abe8dc4f@1577.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+UID:f6bdf49c-2b49-4c67-ba8e-73912478c07f@f6bd.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -66,7 +79,7 @@ DTEND:20250710T210000Z
 LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
 DTSTART:20250710T170000Z
 SUMMARY:Libri
-UID:a99be084-4c7c-4481-9322-6d7c194e33df@a99b.org
+UID:8f454f0c-e83c-4986-a0f0-7db8a376086f@8f45.org
 URL:https://www.ilpost.it/shop/cose-spiegate-bene/
 END:VEVENT
 BEGIN:VEVENT
@@ -75,12 +88,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250712T213000Z
+DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250713T210000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250712T173000Z
+DTSTART:20250713T170000Z
 SUMMARY:Altri incontri
-UID:9009aae4-1553-4098-89cb-1823ecd1d02c@9009.org
+UID:9ba7fd3a-d371-483e-a747-0109b848640a@9ba7.org
 URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
@@ -94,7 +107,7 @@ DTEND:20250919T210000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T170000Z
 SUMMARY:Talk
-UID:37dc8efb-9e9a-4b11-847f-abcc20401001@37dc.org
+UID:e5b8864d-65b9-4ca5-93fe-146f4bae8fca@e5b8.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -102,13 +115,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per la prima volta a Lungomare di Libri\, la manifestazione letteraria in programma dal 27 al 29 giugno\, il Post propone la sua rassegna stampa con il fondatore e direttore editoriale Luca Sofri e il giornalista Luca Misculin per orientarsi fra titoli\, notizie e parole dell’informazione.\r\nPer partecipare è richiesta la prenotazione\, a cui si può accedere dopo essersi registrati all'area riservata del Salone del Libro (o dopo aver fatto login col vostro account\, se ne avete già uno).
-DTEND:20250628T120000Z
-LOCATION:Bari - Spazio Murat - Piazza del Ferrarese\, 1
-DTSTART:20250628T080000Z
-SUMMARY:Rassegna stampa
-UID:23e6f521-4768-405d-9ee0-2af4d7739e5a@23e6.org
-URL:https://prenotazioni.salonelibro.it/events/113/
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250704T193000Z
+SUMMARY:I concerti del Post
+UID:6426d3d0-48a5-4cfb-b062-272f8c15e1f4@6426.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -116,13 +129,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:In un dialogo a distanza\, gli autori del podcast Viaggio a Tokyo Matteo Bordone e Flavio Parisi (in collegamento dal Giappone\, dove vive da vent’anni) raccontano di un paese che non smette mai di sorprendere.\r\nL'incontro si svolge all'interno di UlisseFest\, e l'ingresso è libero fino a esaurimento posti.
-DTEND:20250706T180000Z
-LOCATION:Ancona - Loggia dei Mercanti - Via della Loggia\, 36
-DTSTART:20250706T140000Z
+DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250712T213000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250712T173000Z
 SUMMARY:Altri incontri
-UID:ab911f11-cb4d-4b64-ad97-563a2650a2ec@ab91.org
-URL:https://ulissefest.it/evento/viaggio-tokyo
+UID:6771ddd2-8e33-44ee-a92c-48207d9e8293@6771.org
+URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -135,34 +148,7 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:5794251a-250c-4e10-b5c2-3534d99d4804@5794.org
+UID:b7edd09c-e9fe-4e3d-bc49-d6b2621fbf8a@b7ed.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250713T210000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250713T170000Z
-SUMMARY:Altri incontri
-UID:03787b71-34c9-4b5b-9cd9-94281065e5ec@0378.org
-URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T180000Z
-SUMMARY:Talk
-UID:6418dad4-8aec-4ea7-b210-d4bc80c2135f@6418.org
 END:VEVENT
 END:VCALENDAR
