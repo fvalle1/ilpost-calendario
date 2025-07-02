@@ -7,40 +7,27 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:2fc57493-ae30-42fb-9aa6-a009d7be117d@2fc5.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
 DTEND:20250712T213000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20250712T173000Z
 SUMMARY:Altri incontri
-UID:7753b497-490c-4df9-8e39-26dca830b16b@7753.org
+UID:c885ae6c-5cb5-4d9f-9de0-2188d120982f@c885.org
 URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250713T210000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250713T170000Z
-SUMMARY:Altri incontri
-UID:dd2e5c12-f0bf-4c84-b15a-71a358838542@dd2e.org
-URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
-DTEND:20250704T200000Z
-LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250704T160000Z
-SUMMARY:I concerti del Post
-UID:9a8c73c0-7ba8-4b6f-866f-7d13cdc2adc6@9a8c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -53,34 +40,7 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:60938bc0-182f-4eed-a9f4-2309b81a9228@6093.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T210000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T170000Z
-SUMMARY:Talk
-UID:fecafd8a-a0ef-4433-af58-e0eced8f0b7c@feca.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:In un dialogo a distanza\, gli autori del podcast Viaggio a Tokyo Matteo Bordone e Flavio Parisi (in collegamento dal Giappone\, dove vive da vent’anni) raccontano di un paese che non smette mai di sorprendere.\r\nL'incontro si svolge all'interno di UlisseFest\, e l'ingresso è libero fino a esaurimento posti.
-DTEND:20250706T180000Z
-LOCATION:Ancona - Mole Vanvitelliana\, Sala delle Polveri - Banchina Giovanni da Chio\, 28
-DTSTART:20250706T140000Z
-SUMMARY:Altri incontri
-UID:ccc3c569-d00a-4523-8a3c-3f5dad7e25e5@ccc3.org
-URL:https://ulissefest.it/evento/viaggio-tokyo
+UID:151ee1f5-8994-43e6-92cd-82879466c72f@151e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -93,8 +53,62 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:3bdbb1ad-e31b-4f54-b173-99b35b43def0@3bdb.org
+UID:b7653802-49df-4c6f-b2e1-cdc3245ba27a@b765.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
+DTEND:20250704T200000Z
+LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250704T160000Z
+SUMMARY:I concerti del Post
+UID:8c68d40f-7085-419e-9896-5d4be91fe81b@8c68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno della rassegna 11Lune della Fondazione Peccioliper si svolgerà la presentazione della shortlist del Premio Vero\, il premio destinato all'editoria libraria di argomento non fiction\, insieme con i finalisti del premio.\r\nIngresso libero fino a esaurimento posti.
+DTEND:20250709T203000Z
+LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
+DTSTART:20250709T163000Z
+SUMMARY:Altri incontri
+UID:840eb678-a294-48be-918c-40c98143da01@840e.org
+URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250713T210000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250713T170000Z
+SUMMARY:Altri incontri
+UID:3c5bd6eb-2010-4d2a-b024-e5eb055513a5@3c5b.org
+URL:https://associazionepieroiemmolo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T210000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T170000Z
+SUMMARY:Talk
+UID:3f243183-b9a8-4671-b029-91e677bcba0a@3f24.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -107,7 +121,7 @@ DTEND:20250710T210000Z
 LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
 DTSTART:20250710T170000Z
 SUMMARY:Libri
-UID:e3087b6f-60fd-4d15-8fd5-df1a957e1c44@e308.org
+UID:9e42e791-e536-4c1a-8fbb-bbb7990d0ec4@9e42.org
 URL:https://www.ilpost.it/shop/cose-spiegate-bene/
 END:VEVENT
 BEGIN:VEVENT
@@ -121,7 +135,7 @@ DTEND:20251101T220000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T180000Z
 SUMMARY:Talk
-UID:8044fe15-f1d7-4c5b-a52e-ed9fa3bf716f@8044.org
+UID:5a70402d-6dda-457b-ae38-90d286eeda92@5a70.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -129,26 +143,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:All'interno della rassegna 11Lune della Fondazione Peccioliper si svolgerà la presentazione della shortlist del Premio Vero\, il premio destinato all'editoria libraria di argomento non fiction\, insieme con i finalisti del premio.\r\nIngresso libero fino a esaurimento posti.
-DTEND:20250709T203000Z
-LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
-DTSTART:20250709T163000Z
+DESCRIPTION:In un dialogo a distanza\, gli autori del podcast Viaggio a Tokyo Matteo Bordone e Flavio Parisi (in collegamento dal Giappone\, dove vive da vent’anni) raccontano di un paese che non smette mai di sorprendere.\r\nL'incontro si svolge all'interno di UlisseFest\, e l'ingresso è libero fino a esaurimento posti.
+DTEND:20250706T180000Z
+LOCATION:Ancona - Mole Vanvitelliana\, Sala delle Polveri - Banchina Giovanni da Chio\, 28
+DTSTART:20250706T140000Z
 SUMMARY:Altri incontri
-UID:33b544cf-d899-45ee-9b07-43c268497659@33b5.org
-URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:6166c083-6ec5-46c0-beea-449174bfef52@6166.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+UID:3be1cf90-fef5-49b4-aaf7-11fbc7b7e1c8@3be1.org
+URL:https://ulissefest.it/evento/viaggio-tokyo
 END:VEVENT
 END:VCALENDAR
