@@ -7,67 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:2fc57493-ae30-42fb-9aa6-a009d7be117d@2fc5.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250712T213000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250712T173000Z
-SUMMARY:Altri incontri
-UID:c885ae6c-5cb5-4d9f-9de0-2188d120982f@c885.org
-URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:151ee1f5-8994-43e6-92cd-82879466c72f@151e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250704T193000Z
-SUMMARY:I concerti del Post
-UID:b7653802-49df-4c6f-b2e1-cdc3245ba27a@b765.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
-DTEND:20250704T200000Z
-LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250704T160000Z
-SUMMARY:I concerti del Post
-UID:8c68d40f-7085-419e-9896-5d4be91fe81b@8c68.org
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T210000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T170000Z
+SUMMARY:Talk
+UID:78027ec0-fd57-41b7-a7b4-ebc50a52dd3c@7802.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -80,35 +25,8 @@ DTEND:20250709T203000Z
 LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
 DTSTART:20250709T163000Z
 SUMMARY:Altri incontri
-UID:840eb678-a294-48be-918c-40c98143da01@840e.org
+UID:29ee1fcd-e9aa-4dfe-a14b-c72641169c64@29ee.org
 URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250713T210000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250713T170000Z
-SUMMARY:Altri incontri
-UID:3c5bd6eb-2010-4d2a-b024-e5eb055513a5@3c5b.org
-URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T210000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T170000Z
-SUMMARY:Talk
-UID:3f243183-b9a8-4671-b029-91e677bcba0a@3f24.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -121,7 +39,7 @@ DTEND:20250710T210000Z
 LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
 DTSTART:20250710T170000Z
 SUMMARY:Libri
-UID:9e42e791-e536-4c1a-8fbb-bbb7990d0ec4@9e42.org
+UID:9c5f90c6-cd02-43a9-8417-566744de4f76@9c5f.org
 URL:https://www.ilpost.it/shop/cose-spiegate-bene/
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +53,21 @@ DTEND:20251101T220000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T180000Z
 SUMMARY:Talk
-UID:5a70402d-6dda-457b-ae38-90d286eeda92@5a70.org
+UID:4adba7d2-c206-4359-8f33-8d7f6cef09f6@4adb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:L’unica data italiana del tour estivo della rock band del musicista scozzese Mike Scott\, nella prima delle due serate di musica organizzate dal Post a Peccioli. Sarà il primo concerto in Italia dei Waterboys dopo la pubblicazione ad aprile del nuovo disco Life\, Death and Dennis Hopper. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250704T193000Z
+SUMMARY:I concerti del Post
+UID:98d152fe-da0b-413f-ba94-617d91624152@98d1.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -148,7 +80,75 @@ DTEND:20250706T180000Z
 LOCATION:Ancona - Mole Vanvitelliana\, Sala delle Polveri - Banchina Giovanni da Chio\, 28
 DTSTART:20250706T140000Z
 SUMMARY:Altri incontri
-UID:3be1cf90-fef5-49b4-aaf7-11fbc7b7e1c8@3be1.org
+UID:d5ecfa09-ba7a-40dd-9cef-5353c63d8bf4@d5ec.org
 URL:https://ulissefest.it/evento/viaggio-tokyo
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250712T213000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250712T173000Z
+SUMMARY:Altri incontri
+UID:aed8bde5-e093-4934-aac5-93b0b3752211@aed8.org
+URL:https://associazionepieroiemmolo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Prima del concerto di Vasco Brondi alle 21\, sabato 5 luglio è prevista una giornata di musica e news con la redazione del Post\, questo è il programma:Ore 10\, Galleria dei Giganti\r\nI giornali\, spiegati bene\nLa rassegna stampa del Post\r\ncon Luca Sofri e Francesco Costa\nOre 12\, Galleria dei Giganti\r\nIndagini rock\nSid & Nancy\r\nCon Stefano Nazzi\n\nOre 16:30\, Galleria dei Giganti\r\nLe canzoni live\r\nVolevo solo fare il deejay\r\ncon Luca Sofri\n\nOre 18:30\, Galleria dei Giganti\r\nL’indiscutibile bellezza della musica discutibile\r\nCon Giulia Balducci\, Matteo Bordone\, Luca Misculin e Stefano Vizio\nIl programma delle Canzoni è ospitato all’interno del festival 11Lune organizzato dalla fondazione Peccioliper.\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:1864131f-bece-4ba4-9f04-0af07847c72e@1864.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
+DTEND:20250704T200000Z
+LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250704T160000Z
+SUMMARY:I concerti del Post
+UID:4e65063a-ca78-4ce6-bb42-ce1fca6a4c51@4e65.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
+DTEND:20250705T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20250705T193000Z
+SUMMARY:I concerti del Post
+UID:c00e4046-a2ed-45f5-adfa-8a0dd978f6d4@c00e.org
+URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250713T210000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250713T170000Z
+SUMMARY:Altri incontri
+UID:0c813531-53d4-4a21-a237-44f66317fac4@0c81.org
+URL:https://associazionepieroiemmolo.it
 END:VEVENT
 END:VCALENDAR
