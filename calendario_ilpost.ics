@@ -7,53 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T210000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T170000Z
-SUMMARY:Talk
-UID:78027ec0-fd57-41b7-a7b4-ebc50a52dd3c@7802.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:All'interno della rassegna 11Lune della Fondazione Peccioliper si svolgerà la presentazione della shortlist del Premio Vero\, il premio destinato all'editoria libraria di argomento non fiction\, insieme con i finalisti del premio.\r\nIngresso libero fino a esaurimento posti.
-DTEND:20250709T203000Z
-LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
-DTSTART:20250709T163000Z
-SUMMARY:Altri incontri
-UID:29ee1fcd-e9aa-4dfe-a14b-c72641169c64@29ee.org
-URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:\n\n\n\n\n\n\n\n\nIl direttore editoriale del Post racconta il progetto della rivista cartacea COSE Spiegate bene\, dove ogni titolo è dedicato a un argomento per declinare la proverbiale inclinazione descrittiva e di chiarezza del Post raccogliendo spiegazioni\, storie e racconti d’autore.\n\n\nIngresso libero fino a esaurimento posti.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20250710T210000Z
-LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
-DTSTART:20250710T170000Z
-SUMMARY:Libri
-UID:9c5f90c6-cd02-43a9-8417-566744de4f76@9c5f.org
-URL:https://www.ilpost.it/shop/cose-spiegate-bene/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
 DTEND:20251101T220000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T180000Z
 SUMMARY:Talk
-UID:4adba7d2-c206-4359-8f33-8d7f6cef09f6@4adb.org
+UID:014b124f-2c80-4f7b-ad9e-2d8b53b74094@014b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -66,36 +25,8 @@ DTEND:20250704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250704T193000Z
 SUMMARY:I concerti del Post
-UID:98d152fe-da0b-413f-ba94-617d91624152@98d1.org
+UID:e33a22ea-8006-4a9b-91ce-a972e29c9b94@e33a.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/the-waterboys-in-concerto-04-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31733.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:In un dialogo a distanza\, gli autori del podcast Viaggio a Tokyo Matteo Bordone e Flavio Parisi (in collegamento dal Giappone\, dove vive da vent’anni) raccontano di un paese che non smette mai di sorprendere.\r\nL'incontro si svolge all'interno di UlisseFest\, e l'ingresso è libero fino a esaurimento posti.
-DTEND:20250706T180000Z
-LOCATION:Ancona - Mole Vanvitelliana\, Sala delle Polveri - Banchina Giovanni da Chio\, 28
-DTSTART:20250706T140000Z
-SUMMARY:Altri incontri
-UID:d5ecfa09-ba7a-40dd-9cef-5353c63d8bf4@d5ec.org
-URL:https://ulissefest.it/evento/viaggio-tokyo
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250712T213000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250712T173000Z
-SUMMARY:Altri incontri
-UID:aed8bde5-e093-4934-aac5-93b0b3752211@aed8.org
-URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -108,7 +39,7 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Viale Camillo Benso Conte di Cavour\, 3B
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:1864131f-bece-4ba4-9f04-0af07847c72e@1864.org
+UID:636dd576-7b01-4518-ba6d-d7aa18eb2a1d@636d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -116,12 +47,54 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
-DTEND:20250704T200000Z
-LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
-DTSTART:20250704T160000Z
-SUMMARY:I concerti del Post
-UID:4e65063a-ca78-4ce6-bb42-ce1fca6a4c51@4e65.org
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T210000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T170000Z
+SUMMARY:Talk
+UID:9aeee9cf-57c1-40c1-b62f-868049e7415f@9aee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:In un dialogo a distanza\, gli autori del podcast Viaggio a Tokyo Matteo Bordone e Flavio Parisi (in collegamento dal Giappone\, dove vive da vent’anni) raccontano di un paese che non smette mai di sorprendere.\r\nL'incontro si svolge all'interno di UlisseFest\, e l'ingresso è libero fino a esaurimento posti.
+DTEND:20250706T180000Z
+LOCATION:Ancona - Mole Vanvitelliana\, Sala delle Polveri - Banchina Giovanni da Chio\, 28
+DTSTART:20250706T140000Z
+SUMMARY:Altri incontri
+UID:b1bcc3bd-ab92-4863-aae2-8089f2336572@b1bc.org
+URL:https://ulissefest.it/evento/viaggio-tokyo
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno della rassegna 11Lune della Fondazione Peccioliper si svolgerà la presentazione della shortlist del Premio Vero\, il premio destinato all'editoria libraria di argomento non fiction\, insieme con i finalisti del premio.\r\nIngresso libero fino a esaurimento posti.
+DTEND:20250709T203000Z
+LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
+DTSTART:20250709T163000Z
+SUMMARY:Altri incontri
+UID:cbb9e128-b744-4a5e-847d-907cc5eb7fb2@cbb9.org
+URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250712T213000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250712T173000Z
+SUMMARY:Altri incontri
+UID:3114d43e-15b1-41d2-97c4-286e5892dc91@3114.org
+URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -134,7 +107,7 @@ DTEND:20250705T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20250705T193000Z
 SUMMARY:I concerti del Post
-UID:c00e4046-a2ed-45f5-adfa-8a0dd978f6d4@c00e.org
+UID:2f62c21e-03d6-43a5-a435-b92766a4998c@2f62.org
 URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
 END:VEVENT
 BEGIN:VEVENT
@@ -148,7 +121,34 @@ DTEND:20250713T210000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20250713T170000Z
 SUMMARY:Altri incontri
-UID:0c813531-53d4-4a21-a237-44f66317fac4@0c81.org
+UID:79409a88-e5f1-4346-ac9e-0c2d33e4337a@7940.org
 URL:https://associazionepieroiemmolo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\n\n\n\n\n\n\n\n\nIl direttore editoriale del Post racconta il progetto della rivista cartacea COSE Spiegate bene\, dove ogni titolo è dedicato a un argomento per declinare la proverbiale inclinazione descrittiva e di chiarezza del Post raccogliendo spiegazioni\, storie e racconti d’autore.\n\n\nIngresso libero fino a esaurimento posti.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+DTEND:20250710T210000Z
+LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
+DTSTART:20250710T170000Z
+SUMMARY:Libri
+UID:48c3a716-9f16-4d0c-b52d-c188bdc234c8@48c3.org
+URL:https://www.ilpost.it/shop/cose-spiegate-bene/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:I direttori del Post rispondono agli abbonati e alle abbonate.L'evento è incluso nel programma di Le Canzoni\, il festival del Post organizzato a Peccioli in collaborazione con la Fondazione Peccioliper\, e nell'ambito del festival 11Lune.\n\nL'ingresso è gratuito e con priorità ai possessori del biglietto di uno dei due concerti serali\, fino a esaurimento dei posti.\n
+DTEND:20250704T200000Z
+LOCATION:Peccioli - Galleria dei Giganti - Viale Camillo Benso Conte di Cavour\, 3B
+DTSTART:20250704T160000Z
+SUMMARY:I concerti del Post
+UID:1daac05a-b832-47e0-b7e6-abecc1d01a6b@1daa.org
 END:VEVENT
 END:VCALENDAR
