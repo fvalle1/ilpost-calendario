@@ -7,80 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:\n\n\n\n\n\n\n\n\nIl direttore editoriale del Post racconta il progetto della rivista cartacea COSE Spiegate bene\, dove ogni titolo è dedicato a un argomento per declinare la proverbiale inclinazione descrittiva e di chiarezza del Post raccogliendo spiegazioni\, storie e racconti d’autore.\n\n\nIngresso libero fino a esaurimento posti.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20250710T210000Z
-LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
-DTSTART:20250710T170000Z
-SUMMARY:Libri
-UID:f4280129-3655-4279-a811-490f228b8bd2@f428.org
-URL:https://www.ilpost.it/shop/cose-spiegate-bene/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:All'interno della rassegna 11Lune della Fondazione Peccioliper si svolgerà la presentazione della shortlist del Premio Vero\, il premio destinato all'editoria libraria di argomento non fiction\, insieme con i finalisti del premio.\r\nIngresso libero fino a esaurimento posti.
-DTEND:20250709T203000Z
-LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
-DTSTART:20250709T163000Z
-SUMMARY:Altri incontri
-UID:e5ec46fc-1faa-4ec1-8761-5bf7c37eb729@e5ec.org
-URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T210000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T170000Z
-SUMMARY:Talk
-UID:a3dc760b-4bc4-4e8f-b27c-3a4bab566d07@a3dc.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un “concerto elettrico con inediti” speciale per i due giorni di musica organizzati dal Post a Peccioli. Vasco Brondi suonerà le canzoni di Costellazioni – il disco del 2014 delle Luci della centrale elettrica – e le canzoni nuove\, inedite. In collaborazione con la Fondazione Peccioliper nell'ambito del festival 11Lune.\r\nI biglietti acquistati non sono rimborsabili\; tuttavia\, è possibile rimetterli in vendita oppure sottoscrivere un'assicurazione prima di concludere l'ordine.
-DTEND:20250705T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20250705T193000Z
-SUMMARY:I concerti del Post
-UID:4ed21950-4b84-4ccf-ba4b-1ffcb00de0f5@4ed2.org
-URL:https://www.clappit.com/biglietti-il-post/biglietti/costellazioni-e-altre-cose-luminose-concerto-elettrico-con-inediti-05-luglio-2025-anfiteatro-fonte-mazzola-peccioli-31739.html
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T180000Z
-SUMMARY:Talk
-UID:8c569406-52cc-4478-a4c5-769a68264446@8c56.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250712T213000Z
+DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250713T210000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250712T173000Z
+DTSTART:20250713T170000Z
 SUMMARY:Altri incontri
-UID:59e5c8ca-6f5e-401c-a205-0ef62312b1e6@59e5.org
+UID:b1779444-a1c2-4696-ac51-1e05dda8d344@b177.org
 URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
@@ -94,7 +26,7 @@ DTEND:20250706T180000Z
 LOCATION:Ancona - Mole Vanvitelliana\, Sala delle Polveri - Banchina Giovanni da Chio\, 28
 DTSTART:20250706T140000Z
 SUMMARY:Altri incontri
-UID:c6f17f22-79ae-4c19-8bc6-75a22ed8b6d8@c6f1.org
+UID:f69228f2-5d72-447e-9a04-f906dae22146@f692.org
 URL:https://ulissefest.it/evento/viaggio-tokyo
 END:VEVENT
 BEGIN:VEVENT
@@ -103,12 +35,66 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250713T210000Z
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T210000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T170000Z
+SUMMARY:Talk
+UID:254733ab-0442-425e-b8b1-3a087d8e940f@2547.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T220000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T180000Z
+SUMMARY:Talk
+UID:f9cf40a0-c193-4397-bd05-fc00ce1b9e60@f9cf.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250712T213000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250713T170000Z
+DTSTART:20250712T173000Z
 SUMMARY:Altri incontri
-UID:3c8b6945-bbc8-4453-b1f8-24fa1fec4e06@3c8b.org
+UID:812ea05d-2006-4a5f-ad6a-507388006b5b@812e.org
 URL:https://associazionepieroiemmolo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\n\n\n\n\n\n\n\n\nIl direttore editoriale del Post racconta il progetto della rivista cartacea COSE Spiegate bene\, dove ogni titolo è dedicato a un argomento per declinare la proverbiale inclinazione descrittiva e di chiarezza del Post raccogliendo spiegazioni\, storie e racconti d’autore.\n\n\nIngresso libero fino a esaurimento posti.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+DTEND:20250710T210000Z
+LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
+DTSTART:20250710T170000Z
+SUMMARY:Libri
+UID:b8c340f8-563a-4abe-986c-da50f8d64580@b8c3.org
+URL:https://www.ilpost.it/shop/cose-spiegate-bene/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno della rassegna 11Lune della Fondazione Peccioliper si svolgerà la presentazione della shortlist del Premio Vero\, il premio destinato all'editoria libraria di argomento non fiction\, insieme con i finalisti del premio.\r\nIngresso libero fino a esaurimento posti.
+DTEND:20250709T203000Z
+LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
+DTSTART:20250709T163000Z
+SUMMARY:Altri incontri
+UID:93898f0c-de08-40f2-9685-a07918058357@9389.org
+URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
 END:VEVENT
 END:VCALENDAR
