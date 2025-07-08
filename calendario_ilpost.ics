@@ -7,12 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T210000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T170000Z
-SUMMARY:Talk
-UID:e0545285-6423-430c-a783-71b86b4be0f6@e054.org
+DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250712T213000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250712T173000Z
+SUMMARY:Altri incontri
+UID:1b41f06b-a349-47e5-9164-74d7233d7463@1b41.org
+URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -20,13 +21,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:\n\n\n\n\n\n\n\n\nIl direttore editoriale del Post racconta il progetto della rivista cartacea COSE Spiegate bene\, dove ogni titolo è dedicato a un argomento per declinare la proverbiale inclinazione descrittiva e di chiarezza del Post raccogliendo spiegazioni\, storie e racconti d’autore.\n\n\nIngresso libero fino a esaurimento posti.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20250710T210000Z
-LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
-DTSTART:20250710T170000Z
-SUMMARY:Libri
-UID:39287a18-741f-4106-b7ff-bf445db3eff9@3928.org
-URL:https://www.ilpost.it/shop/cose-spiegate-bene/
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T210000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T170000Z
+SUMMARY:Talk
+UID:f7a21ac0-1840-4314-b4a7-c636af3c0688@f7a2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,36 +39,8 @@ DTEND:20250709T203000Z
 LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
 DTSTART:20250709T163000Z
 SUMMARY:Altri incontri
-UID:ac354b58-c953-42ce-be03-5aa587cfbc3f@ac35.org
+UID:31ddf134-c3ad-46e3-b531-6b1f42255fc0@31dd.org
 URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250713T210000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250713T170000Z
-SUMMARY:Altri incontri
-UID:d56e1d03-0ab1-4863-a9d0-6ed8aa5448a0@d56e.org
-URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250712T213000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250712T173000Z
-SUMMARY:Altri incontri
-UID:aa0fb000-983a-4b47-8a1a-b341dd9a17d6@aa0f.org
-URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -81,6 +53,34 @@ DTEND:20251101T220000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T180000Z
 SUMMARY:Talk
-UID:abc94f6b-9da1-4858-b651-22898fb0e06d@abc9.org
+UID:31e410b3-c535-43a5-b962-7cec9da16828@31e4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\n\n\n\n\n\n\n\n\nIl direttore editoriale del Post racconta il progetto della rivista cartacea COSE Spiegate bene\, dove ogni titolo è dedicato a un argomento per declinare la proverbiale inclinazione descrittiva e di chiarezza del Post raccogliendo spiegazioni\, storie e racconti d’autore.\n\n\nIngresso libero fino a esaurimento posti.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+DTEND:20250710T210000Z
+LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
+DTSTART:20250710T170000Z
+SUMMARY:Libri
+UID:9d12000b-94e8-4257-bb80-726933c43f9b@9d12.org
+URL:https://www.ilpost.it/shop/cose-spiegate-bene/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Marina Catucci\, giornalista del Manifesto ed Eugenio Cau\, giornalista del Post.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250713T210000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250713T170000Z
+SUMMARY:Altri incontri
+UID:5b97f5ad-79c0-4302-bc56-8d0d4514e82d@5b97.org
+URL:https://associazionepieroiemmolo.it
 END:VEVENT
 END:VCALENDAR
