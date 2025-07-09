@@ -12,21 +12,8 @@ DTEND:20250712T213000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20250712T173000Z
 SUMMARY:Altri incontri
-UID:1b41f06b-a349-47e5-9164-74d7233d7463@1b41.org
+UID:6254d8fa-a4ee-4930-8f48-d49a7231daca@6254.org
 URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T210000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T170000Z
-SUMMARY:Talk
-UID:f7a21ac0-1840-4314-b4a7-c636af3c0688@f7a2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,7 +26,7 @@ DTEND:20250709T203000Z
 LOCATION:Peccioli - Biblioteca comunale Fonte Mazzola - Strada vicinale delle Serre\, 11
 DTSTART:20250709T163000Z
 SUMMARY:Altri incontri
-UID:31ddf134-c3ad-46e3-b531-6b1f42255fc0@31dd.org
+UID:36117a0d-c8ff-4ac5-a69d-aa48af12d045@3611.org
 URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +40,7 @@ DTEND:20251101T220000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T180000Z
 SUMMARY:Talk
-UID:31e410b3-c535-43a5-b962-7cec9da16828@31e4.org
+UID:7c5adbf8-72e7-420a-b969-f18610a1ed1e@7c5a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -66,7 +53,7 @@ DTEND:20250710T210000Z
 LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
 DTSTART:20250710T170000Z
 SUMMARY:Libri
-UID:9d12000b-94e8-4257-bb80-726933c43f9b@9d12.org
+UID:215e3de1-0f55-444a-b28b-19002e359e7a@215e.org
 URL:https://www.ilpost.it/shop/cose-spiegate-bene/
 END:VEVENT
 BEGIN:VEVENT
@@ -80,7 +67,20 @@ DTEND:20250713T210000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20250713T170000Z
 SUMMARY:Altri incontri
-UID:5b97f5ad-79c0-4302-bc56-8d0d4514e82d@5b97.org
+UID:3d1854cf-9c69-4b69-852f-cdb310614d95@3d18.org
 URL:https://associazionepieroiemmolo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T210000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T170000Z
+SUMMARY:Talk
+UID:283a8b1d-4a3d-484c-81ef-d30d8c6b4e86@283a.org
 END:VEVENT
 END:VCALENDAR
