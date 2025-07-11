@@ -12,35 +12,7 @@ DTEND:20250919T210000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T170000Z
 SUMMARY:Talk
-UID:7ec089b0-3659-44c4-80b7-85659c5f4a39@7ec0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250712T213000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250712T173000Z
-SUMMARY:Altri incontri
-UID:94a8041e-0554-43d1-bb05-17cceb28d1a1@94a8.org
-URL:https://associazionepieroiemmolo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:\n\n\n\n\n\n\n\n\nIl direttore editoriale del Post racconta il progetto della rivista cartacea COSE Spiegate bene\, dove ogni titolo è dedicato a un argomento per declinare la proverbiale inclinazione descrittiva e di chiarezza del Post raccogliendo spiegazioni\, storie e racconti d’autore.\n\n\nIngresso libero fino a esaurimento posti.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20250710T210000Z
-LOCATION:Viareggio - Libreria Lungomare - Viale Marconi 68
-DTSTART:20250710T170000Z
-SUMMARY:Libri
-UID:e3da95b9-285d-471b-9342-ef68f05c5c23@e3da.org
-URL:https://www.ilpost.it/shop/cose-spiegate-bene/
+UID:2cc63cb5-5040-4a5d-a4c8-da36f6340546@2cc6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -53,7 +25,7 @@ DTEND:20250713T210000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20250713T170000Z
 SUMMARY:Altri incontri
-UID:134735dc-4baf-4ffd-a918-8e275a92cb55@1347.org
+UID:d8bfd5ba-f9a1-4c9a-baf5-adc5597ee080@d8bf.org
 URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
@@ -67,6 +39,20 @@ DTEND:20251101T220000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T180000Z
 SUMMARY:Talk
-UID:5f7cb883-8155-471a-a5b1-8677db67d945@5f7c.org
+UID:cb40c777-6b94-438b-b630-5d6431ea72e3@cb40.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250712T213000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250712T173000Z
+SUMMARY:Altri incontri
+UID:f258db76-d70c-464b-84f2-effcc6bc9512@f258.org
+URL:https://associazionepieroiemmolo.it
 END:VEVENT
 END:VCALENDAR
