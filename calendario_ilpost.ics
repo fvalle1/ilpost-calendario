@@ -7,12 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T210000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T170000Z
-SUMMARY:Talk
-UID:2cc63cb5-5040-4a5d-a4c8-da36f6340546@2cc6.org
+DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
+DTEND:20250712T213000Z
+LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20250712T173000Z
+SUMMARY:Altri incontri
+UID:35a3e2ad-28ed-457f-8890-c715229879f3@35a3.org
+URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -25,7 +26,7 @@ DTEND:20250713T210000Z
 LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20250713T170000Z
 SUMMARY:Altri incontri
-UID:d8bfd5ba-f9a1-4c9a-baf5-adc5597ee080@d8bf.org
+UID:53b1e8b1-2fa7-4d2d-893d-fa75f292674f@53b1.org
 URL:https://associazionepieroiemmolo.it
 END:VEVENT
 BEGIN:VEVENT
@@ -39,7 +40,7 @@ DTEND:20251101T220000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T180000Z
 SUMMARY:Talk
-UID:cb40c777-6b94-438b-b630-5d6431ea72e3@cb40.org
+UID:5fe330f7-84d6-40b5-8255-4db7680d2afb@5fe3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,12 +48,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un dialogo tra Luca Misculin\, giornalista del Post e Luca Rondi\, giornalista di Altreconomia.\r\nL'appuntamento è all'interno della rassegna Il mondo visto da qui. Conversazioni per allargare gli sguardi. \r\n\r\nIngresso libero.
-DTEND:20250712T213000Z
-LOCATION:Modica - Chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20250712T173000Z
-SUMMARY:Altri incontri
-UID:f258db76-d70c-464b-84f2-effcc6bc9512@f258.org
-URL:https://associazionepieroiemmolo.it
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T210000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T170000Z
+SUMMARY:Talk
+UID:39bfa89c-5bd6-4873-be6f-ed45accfe24e@39bf.org
 END:VEVENT
 END:VCALENDAR
