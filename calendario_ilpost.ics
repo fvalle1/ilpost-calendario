@@ -7,12 +7,25 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T180000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T140000Z
+SUMMARY:Talk
+UID:b8de0246-dd15-4ff1-9a28-ec6a7c5ad12f@b8de.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DESCRIPTION:Dai rimedi fai da te a quelli costosissimi\, dai guru del benessere alla Silicon Valley e noi nel mezzo. Emanuele Menietti e Beatrice Mautino raccontano quanto è difficile essere pazienti oggi\, tra tante promesse e rimedi facili a problemi difficili. Una riflessione su come orientarsi nel complesso rapporto tra medicina\, speranza e cura.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da metà agosto qui.\n
 DTEND:20250907T164500Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250907T124500Z
 SUMMARY:Altri incontri
-UID:c3ef3c88-6da4-4d87-bb02-0477aeab8270@c3ef.org
+UID:0c33d208-b84b-4f48-95c3-8a542cf80d46@0c33.org
 URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
@@ -21,12 +34,26 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T180000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T140000Z
-SUMMARY:Talk
-UID:627bfbdf-857f-47c9-947f-6effbf65dc12@627b.org
+DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da metà agosto qui.\n
+DTEND:20250906T180000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250906T140000Z
+SUMMARY:Altri incontri
+UID:345b0157-aacf-4420-b6ba-57b134f8a182@345b.org
+URL:https://www.emergency.it/festival/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\nStefano Nazzi e Marino Sinibaldi ci parleranno di voci represse\, limitate\, violentate\, ignorate\, abusate\, maltrattate: voci e storie - purtroppo - ordinarie dalle carceri italiane.\n\n\n\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da metà agosto qui.
+DTEND:20250906T164500Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250906T124500Z
+SUMMARY:Altri incontri
+UID:45533225-6b69-4108-b3a7-d6dc346a180e@4553.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,7 +66,7 @@ DTEND:20250907T180000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250907T140000Z
 SUMMARY:Altri incontri
-UID:b12ea0fe-cd37-4d3d-9b4d-cd26503507e3@b12e.org
+UID:352975bf-7cf0-444c-b5ec-a24650c9e7a1@3529.org
 URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
@@ -53,33 +80,6 @@ DTEND:20251101T190000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T150000Z
 SUMMARY:Talk
-UID:150f2d1f-da08-4378-9b4b-523d7fd1560c@150f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:\nStefano Nazzi e Marino Sinibaldi ci parleranno di voci represse\, limitate\, violentate\, ignorate\, abusate\, maltrattate: voci e storie - purtroppo - ordinarie dalle carceri italiane.\n\n\n\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da metà agosto qui.
-DTEND:20250906T164500Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T124500Z
-SUMMARY:Altri incontri
-UID:af7cfd14-a29c-49b7-b35c-71543e4ec26b@af7c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da metà agosto qui.\n
-DTEND:20250906T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T140000Z
-SUMMARY:Altri incontri
-UID:815c2b52-3f58-4ecc-80d1-e6b6009811d2@815c.org
-URL:https://www.emergency.it/festival/
+UID:e5f9d86f-bc68-4bdd-8eb3-5eea4bea2afe@e5f9.org
 END:VEVENT
 END:VCALENDAR
