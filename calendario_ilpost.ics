@@ -7,12 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T180000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T140000Z
-SUMMARY:Talk
-UID:b8de0246-dd15-4ff1-9a28-ec6a7c5ad12f@b8de.org
+DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da metà agosto qui.\n
+DTEND:20250906T180000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250906T140000Z
+SUMMARY:Altri incontri
+UID:1d8e2bd4-0a1d-4008-bb3d-65289deb6c36@1d8e.org
+URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -25,7 +26,7 @@ DTEND:20250907T164500Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250907T124500Z
 SUMMARY:Altri incontri
-UID:0c33d208-b84b-4f48-95c3-8a542cf80d46@0c33.org
+UID:55b99700-d49f-4c9e-866f-d18fad77c983@55b9.org
 URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
@@ -34,12 +35,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da metà agosto qui.\n
-DTEND:20250906T180000Z
+DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da metà agosto qui.\n
+DTEND:20250907T180000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T140000Z
+DTSTART:20250907T140000Z
 SUMMARY:Altri incontri
-UID:345b0157-aacf-4420-b6ba-57b134f8a182@345b.org
+UID:56f465dc-c515-4e35-8070-4055507b47ee@56f4.org
 URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
@@ -53,21 +54,7 @@ DTEND:20250906T164500Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250906T124500Z
 SUMMARY:Altri incontri
-UID:45533225-6b69-4108-b3a7-d6dc346a180e@4553.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da metà agosto qui.\n
-DTEND:20250907T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250907T140000Z
-SUMMARY:Altri incontri
-UID:352975bf-7cf0-444c-b5ec-a24650c9e7a1@3529.org
-URL:https://www.emergency.it/festival/
+UID:bce0bb29-c4ae-4ec0-aa1e-624fbc3fb798@bce0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -80,6 +67,19 @@ DTEND:20251101T190000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T150000Z
 SUMMARY:Talk
-UID:e5f9d86f-bc68-4bdd-8eb3-5eea4bea2afe@e5f9.org
+UID:d44c983b-110d-454d-989a-0939ceb7e6a1@d44c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T180000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T140000Z
+SUMMARY:Talk
+UID:9d80f75f-f24f-4d8d-a3a6-5720f3aa254c@9d80.org
 END:VEVENT
 END:VCALENDAR
