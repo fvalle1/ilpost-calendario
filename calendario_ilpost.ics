@@ -7,12 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da mercoledì 20 agosto.\n
-DTEND:20250907T180000Z
+DESCRIPTION:\nStefano Nazzi e Marino Sinibaldi ci parleranno di voci represse\, limitate\, violentate\, ignorate\, abusate\, maltrattate: voci e storie - purtroppo - ordinarie dalle carceri italiane.\n\n\n\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.
+DTEND:20250906T164500Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250907T140000Z
+DTSTART:20250906T124500Z
 SUMMARY:Altri incontri
-UID:e094883e-0ddb-433f-baae-e6775eccffac@e094.org
+UID:f6f4a45c-e2cf-4ccb-a938-152f09710c68@f6f4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -20,25 +20,25 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Dai rimedi fai da te a quelli costosissimi\, dai guru del benessere alla Silicon Valley e noi nel mezzo. Emanuele Menietti e Beatrice Mautino raccontano quanto è difficile essere pazienti oggi\, tra tante promesse e rimedi facili a problemi difficili. Una riflessione su come orientarsi nel complesso rapporto tra medicina\, speranza e cura.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da mercoledì 20 agosto.\n
-DTEND:20250907T164500Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250907T124500Z
-SUMMARY:Altri incontri
-UID:4e2163e8-ade5-4e76-814d-46b828fc12b9@4e21.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da mercoledì 20 agosto.\n
+DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\n\nPer partecipare all'incontro è necessario prenotare il posto.
 DTEND:20250906T180000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250906T140000Z
 SUMMARY:Altri incontri
-UID:498b4cbb-0855-44fc-b407-18f7fe7eac95@498b.org
+UID:0c20b592-8301-4b5d-834e-6b38161ff222@0c20.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dai rimedi fai da te a quelli costosissimi\, dai guru del benessere alla Silicon Valley e noi nel mezzo. Emanuele Menietti e Beatrice Mautino raccontano quanto è difficile essere pazienti oggi\, tra tante promesse e rimedi facili a problemi difficili. Una riflessione su come orientarsi nel complesso rapporto tra medicina\, speranza e cura.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
+DTEND:20250907T164500Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250907T124500Z
+SUMMARY:Altri incontri
+UID:e3bbab37-1f9b-46b3-9684-b11188d580de@e3bb.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -51,7 +51,7 @@ DTEND:20251101T190000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T150000Z
 SUMMARY:Talk
-UID:00dc1fff-7a17-42f4-98c7-073a00267e7d@00dc.org
+UID:f9f196b1-d621-44d8-81e9-e60136cdd962@f9f1.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -59,12 +59,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:\nStefano Nazzi e Marino Sinibaldi ci parleranno di voci represse\, limitate\, violentate\, ignorate\, abusate\, maltrattate: voci e storie - purtroppo - ordinarie dalle carceri italiane.\n\n\n\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nLe prenotazioni agli eventi saranno disponibili da mercoledì 20 agosto.
-DTEND:20250906T164500Z
+DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
+DTEND:20250907T180000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T124500Z
+DTSTART:20250907T140000Z
 SUMMARY:Altri incontri
-UID:80f91a31-87db-42ac-89db-6a09a48f7d2e@80f9.org
+UID:15e642a1-0570-4737-82d0-7573291bd737@15e6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -77,6 +77,6 @@ DTEND:20250919T180000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T140000Z
 SUMMARY:Talk
-UID:fb532d6c-e9ef-4844-91b2-211879170fe1@fb53.org
+UID:ccee3a2e-90de-4373-80d0-ea1492c6eafa@ccee.org
 END:VEVENT
 END:VCALENDAR
