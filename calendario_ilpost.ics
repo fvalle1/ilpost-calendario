@@ -12,33 +12,7 @@ DTEND:20251101T190000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T150000Z
 SUMMARY:Talk
-UID:4a529bb3-8697-4756-a1a4-66d259efab0b@4a52.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:\nStefano Nazzi e Marino Sinibaldi ci parleranno di voci represse\, limitate\, violentate\, ignorate\, abusate\, maltrattate: voci e storie - purtroppo - ordinarie dalle carceri italiane.\n\n\n\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.
-DTEND:20250906T164500Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T124500Z
-SUMMARY:Altri incontri
-UID:4b7407e9-3978-408e-97a7-ddd50ba53dc1@4b74.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\n\nPer partecipare all'incontro è necessario prenotare il posto.
-DTEND:20250906T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T140000Z
-SUMMARY:Altri incontri
-UID:38e01372-a73e-4ac9-9cb2-2e14a43575ea@38e0.org
+UID:631949b6-d13b-4ce9-ab94-839bfc9e40cf@6319.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -51,20 +25,7 @@ DTEND:20250907T164500Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250907T124500Z
 SUMMARY:Altri incontri
-UID:8c5bff10-68ab-49b9-93bb-cfba62795aa7@8c5b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T180000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T140000Z
-SUMMARY:Talk
-UID:63bbf45d-d52e-4388-b357-6cff6edf8c00@63bb.org
+UID:5f362df6-3503-4f43-8164-b885f274d2c0@5f36.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -77,6 +38,45 @@ DTEND:20250907T180000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250907T140000Z
 SUMMARY:Altri incontri
-UID:1a7e28aa-068f-4c9b-a52b-b885fd7176a7@1a7e.org
+UID:155fe10d-1429-4348-aefc-12938b42b572@155f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\nStefano Nazzi e Marino Sinibaldi ci parleranno di voci represse\, limitate\, violentate\, ignorate\, abusate\, maltrattate: voci e storie - purtroppo - ordinarie dalle carceri italiane.\n\n\n\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.
+DTEND:20250906T164500Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250906T124500Z
+SUMMARY:Altri incontri
+UID:fca62c94-31a8-4cfa-9c44-53a0d15357c2@fca6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\n\nPer partecipare all'incontro è necessario prenotare il posto.
+DTEND:20250906T180000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250906T140000Z
+SUMMARY:Altri incontri
+UID:3946c2ad-37b6-47a4-b7f8-1207bfca59da@3946.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T180000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T140000Z
+SUMMARY:Talk
+UID:84fbaf51-5384-4c1a-9385-f85698fd6dac@84fb.org
 END:VEVENT
 END:VCALENDAR
