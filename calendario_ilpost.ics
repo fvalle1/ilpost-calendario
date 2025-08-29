@@ -7,78 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
-DTEND:20250907T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250907T140000Z
-SUMMARY:Altri incontri
-UID:6e9f0e41-3edb-4e14-8002-5940e0e7c154@6e9f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dai rimedi fai da te a quelli costosissimi\, dai guru del benessere alla Silicon Valley e noi nel mezzo. Emanuele Menietti e Beatrice Mautino raccontano quanto è difficile essere pazienti oggi\, tra tante promesse e rimedi facili a problemi difficili. Una riflessione su come orientarsi nel complesso rapporto tra medicina\, speranza e cura.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
-DTEND:20250907T164500Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250907T124500Z
-SUMMARY:Altri incontri
-UID:5107d04e-9477-4226-b446-95e8f046feaa@5107.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\n\nPer partecipare all'incontro è necessario prenotare il posto.
-DTEND:20250906T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T140000Z
-SUMMARY:Altri incontri
-UID:8a6a323b-3d35-4066-8da9-d944831e6d11@8a6a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il Post porta al Festival del Pensare Contemporaneo di Piacenza\, in programma dall'11 al 14 settembre 2025\, Come sta il mondo? Una rassegna stampa con Eugenio Cau e Luca Misculin.\r\nL'ingresso è libero. In caso di pioggia l'evento si terrà all'interno di Palazzo Gotico\, in piazza Cavalli.
-DTEND:20250913T120000Z
-LOCATION:Piacenza - Piazza Cavalli
-DTSTART:20250913T080000Z
-SUMMARY:Rassegna stampa
-UID:a45e18c5-1e7c-4e0f-8b79-ca29c4976785@a45e.org
-URL:https://www.pensarecontemporaneo.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte da giovedì 4 settembre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
 DTEND:20250919T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20250919T080000Z
 SUMMARY:Talk
-UID:334f5880-9044-408c-b1af-1bed117be9ac@334f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T130000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T090000Z
-SUMMARY:Talk
-UID:e01684f9-1579-4e0a-a186-5b925df445dc@e016.org
+UID:e0582ddc-be66-45cf-ac2e-0e57dd8042d0@e058.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -91,6 +25,72 @@ DTEND:20250906T164500Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250906T124500Z
 SUMMARY:Altri incontri
-UID:d3356115-08f8-4222-b4d3-08417b5e49f4@d335.org
+UID:a1a2ae04-8636-483c-818f-77e021bd730d@a1a2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
+DTEND:20250907T180000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250907T140000Z
+SUMMARY:Altri incontri
+UID:0325c97a-990b-4136-8f7d-52be6c757c10@0325.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dai rimedi fai da te a quelli costosissimi\, dai guru del benessere alla Silicon Valley e noi nel mezzo. Emanuele Menietti e Beatrice Mautino raccontano quanto è difficile essere pazienti oggi\, tra tante promesse e rimedi facili a problemi difficili. Una riflessione su come orientarsi nel complesso rapporto tra medicina\, speranza e cura.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
+DTEND:20250907T164500Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250907T124500Z
+SUMMARY:Altri incontri
+UID:ed69698f-9010-451b-9b18-114b5571179c@ed69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T130000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T090000Z
+SUMMARY:Talk
+UID:867dbb48-b3d1-44fe-b8ff-1debb0ff7160@867d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\n\nPer partecipare all'incontro è necessario prenotare il posto.
+DTEND:20250906T180000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250906T140000Z
+SUMMARY:Altri incontri
+UID:652df6c5-0865-4447-8b7b-17c9bac83452@652d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il Post porta al Festival del Pensare Contemporaneo di Piacenza\, in programma dall'11 al 14 settembre 2025\, Come sta il mondo? Una rassegna stampa con Eugenio Cau e Luca Misculin.\r\nL'ingresso è libero. In caso di pioggia l'evento si terrà all'interno di Palazzo Gotico\, in piazza Cavalli.
+DTEND:20250913T120000Z
+LOCATION:Piacenza - Piazza Cavalli
+DTSTART:20250913T080000Z
+SUMMARY:Rassegna stampa
+UID:d480aa6a-22b7-4438-8393-52da112f97d2@d480.org
+URL:https://www.pensarecontemporaneo.it
 END:VEVENT
 END:VCALENDAR
