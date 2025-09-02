@@ -7,13 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il Post porta al Festival del Pensare Contemporaneo di Piacenza\, in programma dall'11 al 14 settembre 2025\, Come sta il mondo? Una rassegna stampa con Eugenio Cau e Luca Misculin.\r\nL'ingresso è libero. In caso di pioggia l'evento si terrà all'interno di Palazzo Gotico\, in piazza Cavalli.
-DTEND:20250913T120000Z
-LOCATION:Piacenza - Piazza Cavalli
-DTSTART:20250913T080000Z
-SUMMARY:Rassegna stampa
-UID:9e0fc5dc-84b0-4d18-9768-3341179f16b5@9e0f.org
-URL:https://www.pensarecontemporaneo.it
+DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\n\nPer partecipare all'incontro è necessario prenotare il posto.
+DTEND:20250906T180000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250906T140000Z
+SUMMARY:Altri incontri
+UID:41f681f7-1e8b-487b-95b9-8168bb5d2248@41f6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -26,46 +25,7 @@ DTEND:20251101T130000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T090000Z
 SUMMARY:Talk
-UID:dcd0e823-6c62-4e5f-a774-a004f450a56b@dcd0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\n\nPer partecipare all'incontro è necessario prenotare il posto.
-DTEND:20250906T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T140000Z
-SUMMARY:Altri incontri
-UID:c11104fb-e5ce-44aa-8dfc-87f677bb4a55@c111.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
-DTEND:20250907T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250907T140000Z
-SUMMARY:Altri incontri
-UID:c82f3633-8c1d-49fe-99ac-46df828a3f4e@c82f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte da giovedì 4 settembre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T080000Z
-SUMMARY:Talk
-UID:2b0cc0f2-34a1-473c-8d64-95520efe1c19@2b0c.org
+UID:f85b9ed7-de5c-4096-928b-8f5c10fd2657@f85b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -78,7 +38,7 @@ DTEND:20250906T164500Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250906T124500Z
 SUMMARY:Altri incontri
-UID:e8aaa774-adad-40f0-a58d-18626f828db4@e8aa.org
+UID:80fccb08-cede-44e1-b383-a06b9ba77f84@80fc.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -91,6 +51,60 @@ DTEND:20250907T164500Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250907T124500Z
 SUMMARY:Altri incontri
-UID:1bff0d06-35ff-4bf5-9467-28e25659380c@1bff.org
+UID:646dbc83-efe1-4ea5-8cc0-b31f2b029898@646d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
+DTEND:20250907T180000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250907T140000Z
+SUMMARY:Altri incontri
+UID:1ad8348c-0e0d-4d46-a582-cd628bc06780@1ad8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte da giovedì 4 settembre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T080000Z
+SUMMARY:Talk
+UID:9b341a71-109d-46b5-bcd2-fb959237cb24@9b34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il Post porta al Festival del Pensare Contemporaneo di Piacenza\, in programma dall'11 al 14 settembre 2025\, Come sta il mondo? Una rassegna stampa con Eugenio Cau e Luca Misculin.\r\nL'ingresso è libero. In caso di pioggia l'evento si terrà all'interno di Palazzo Gotico\, in piazza Cavalli.
+DTEND:20250913T120000Z
+LOCATION:Piacenza - Piazza Cavalli
+DTSTART:20250913T080000Z
+SUMMARY:Rassegna stampa
+UID:5640ff81-3586-4f99-b76f-0355cb05e489@5640.org
+URL:https://www.pensarecontemporaneo.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:La rassegna estiva Una piazza per la cultura\, in programma a Modena dal 18 luglio al 15 settembre 2025\, ospita lo spettacolo dal vivo di Matteo Caccia tratto dall'omonimo podcast Orazio\, dove a partire dalla notizia del giorno l'autore racconta un intreccio di storie inattese aprendo nuove prospettive sul presente.\r\nIngresso libero senza prenotazione.
+DTEND:20250911T230000Z
+LOCATION:Modena - Largo Porta Sant'Agostino\, 337
+DTSTART:20250911T190000Z
+SUMMARY:Altri incontri
+UID:97757f44-02b0-4844-adbd-9032e836307e@9775.org
+URL:https://www.comune.modena.it/vivere-modena/eventi/2025/una-piazza-per-la-cultura-estate-in-piazza-santagostino-1
 END:VEVENT
 END:VCALENDAR
