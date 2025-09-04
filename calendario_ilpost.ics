@@ -7,39 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Torna al Circolo dei lettori di Torino la rassegna stampa del Post per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il giornalista Nicola Ghittoni\, conduttore del podcast Morning.\r\nIngresso con prenotazione obbligatoria.
-DTEND:20250913T130000Z
-LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20250913T090000Z
+DESCRIPTION:Il Post porta al Festival del Pensare Contemporaneo di Piacenza\, in programma dall'11 al 14 settembre 2025\, Come sta il mondo? Una rassegna stampa con Eugenio Cau e Luca Misculin.\r\nL'ingresso è libero. In caso di pioggia l'evento si terrà all'interno di Palazzo Gotico\, in piazza Cavalli.
+DTEND:20250913T120000Z
+LOCATION:Piacenza - Piazza Cavalli
+DTSTART:20250913T080000Z
 SUMMARY:Rassegna stampa
-UID:f69bca19-79bb-43de-a5ab-b438f4cf18cc@f69b.org
-URL:https://prenotazioni.circololettori.it/events/event/6iTWwohPUhPur3ZU41d9
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
-DTEND:20250907T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250907T140000Z
-SUMMARY:Altri incontri
-UID:5d3567eb-0784-4b0d-9525-c5ba79ebc6f3@5d35.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:\nStefano Nazzi e Marino Sinibaldi ci parleranno di voci represse\, limitate\, violentate\, ignorate\, abusate\, maltrattate: voci e storie - purtroppo - ordinarie dalle carceri italiane.\n\n\n\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.
-DTEND:20250906T164500Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T124500Z
-SUMMARY:Altri incontri
-UID:adc2de4b-1a45-4479-9418-acbec93a775a@adc2.org
+UID:3aacf9d5-5ae8-40e5-92e8-d301f911d850@3aac.org
+URL:https://www.pensarecontemporaneo.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -52,47 +26,7 @@ DTEND:20250906T180000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250906T140000Z
 SUMMARY:Altri incontri
-UID:78bdd9ad-88e9-4fbe-a57f-847e8df9b661@78bd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte da giovedì 4 settembre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T130000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T090000Z
-SUMMARY:Talk
-UID:ca312ed1-5e65-4a08-8016-68c05d1857e1@ca31.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T180000Z
-SUMMARY:Talk
-UID:78a5fb6d-e424-4f79-ad93-873b3d1acab8@78a5.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il Post porta al Festival del Pensare Contemporaneo di Piacenza\, in programma dall'11 al 14 settembre 2025\, Come sta il mondo? Una rassegna stampa con Eugenio Cau e Luca Misculin.\r\nL'ingresso è libero. In caso di pioggia l'evento si terrà all'interno di Palazzo Gotico\, in piazza Cavalli.
-DTEND:20250913T120000Z
-LOCATION:Piacenza - Piazza Cavalli
-DTSTART:20250913T080000Z
-SUMMARY:Rassegna stampa
-UID:167ac069-b66d-4210-ab2d-e0d923971b43@167a.org
-URL:https://www.pensarecontemporaneo.it
+UID:df98ad02-d062-4d44-9362-95637764d77f@df98.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -105,7 +39,7 @@ DTEND:20250922T210000Z
 LOCATION:Milano - Chiostro dell'ex convento di Santa Maria della Vittoria - Via De Amicis\, 7
 DTSTART:20250922T170000Z
 SUMMARY:Libri
-UID:17f0cd98-bdba-4c0f-b446-d4332e0560c7@17f0.org
+UID:f95f93ac-fa10-41be-940c-3c4123758ce8@f95f.org
 URL:https://iperborea.com/eventi/329/sadie-dingfelder-in-italia/
 END:VEVENT
 BEGIN:VEVENT
@@ -114,13 +48,25 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:La rassegna estiva Una piazza per la cultura\, in programma a Modena dal 18 luglio al 15 settembre 2025\, ospita lo spettacolo dal vivo di Matteo Caccia tratto dall'omonimo podcast Orazio\, dove a partire dalla notizia del giorno l'autore racconta un intreccio di storie inattese aprendo nuove prospettive sul presente.\r\nIngresso libero senza prenotazione.
-DTEND:20250911T230000Z
-LOCATION:Modena - Largo Porta Sant'Agostino\, 337
-DTSTART:20250911T190000Z
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T220000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T180000Z
+SUMMARY:Talk
+UID:132e6626-9969-4484-819f-0c1ca1d7be5a@132e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
+DTEND:20250907T180000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250907T140000Z
 SUMMARY:Altri incontri
-UID:04aa1334-699b-43c1-aca9-d072cec8ae0c@04aa.org
-URL:https://www.comune.modena.it/vivere-modena/eventi/2025/una-piazza-per-la-cultura-estate-in-piazza-santagostino-1
+UID:5839f40b-6c6e-4e24-ab7a-a6935ba4faea@5839.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -133,6 +79,61 @@ DTEND:20250907T164500Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20250907T124500Z
 SUMMARY:Altri incontri
-UID:6cd0615e-abfc-4bee-a6cf-05734f7184ff@6cd0.org
+UID:2de074a9-36a0-405b-88ee-44dad86c551a@2de0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte da giovedì 4 settembre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20250919T130000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20250919T090000Z
+SUMMARY:Talk
+UID:cb321fd7-d567-4512-8085-356dd4f230d9@cb32.org
+URL:https://www.ilpost.it/2025/09/03/talk-a-faenza-settima-volta/?homepagePosition=1
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:La rassegna estiva Una piazza per la cultura\, in programma a Modena dal 18 luglio al 15 settembre 2025\, ospita lo spettacolo dal vivo di Matteo Caccia tratto dall'omonimo podcast Orazio\, dove a partire dalla notizia del giorno l'autore racconta un intreccio di storie inattese aprendo nuove prospettive sul presente.\r\nIngresso libero senza prenotazione.
+DTEND:20250911T230000Z
+LOCATION:Modena - Largo Porta Sant'Agostino\, 337
+DTSTART:20250911T190000Z
+SUMMARY:Altri incontri
+UID:1c0d14d7-1280-43e6-aafd-feca0abe6c9a@1c0d.org
+URL:https://www.comune.modena.it/vivere-modena/eventi/2025/una-piazza-per-la-cultura-estate-in-piazza-santagostino-1
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Torna al Circolo dei lettori di Torino la rassegna stampa del Post per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il giornalista Nicola Ghittoni\, conduttore del podcast Morning.\r\nIngresso con prenotazione obbligatoria.
+DTEND:20250913T130000Z
+LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
+DTSTART:20250913T090000Z
+SUMMARY:Rassegna stampa
+UID:856e63c0-f2ad-4e7c-8659-29ee8ea53825@856e.org
+URL:https://prenotazioni.circololettori.it/events/event/6iTWwohPUhPur3ZU41d9
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:\nStefano Nazzi e Marino Sinibaldi ci parleranno di voci represse\, limitate\, violentate\, ignorate\, abusate\, maltrattate: voci e storie - purtroppo - ordinarie dalle carceri italiane.\n\n\n\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.
+DTEND:20250906T164500Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20250906T124500Z
+SUMMARY:Altri incontri
+UID:3b6fd7e0-c531-4ab9-ac47-15f348062072@3b6f.org
 END:VEVENT
 END:VCALENDAR
