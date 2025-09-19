@@ -7,13 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il Post porta al Festival del Pensare Contemporaneo di Piacenza\, in programma dall'11 al 14 settembre 2025\, Come sta il mondo? Una rassegna stampa con Eugenio Cau e Luca Misculin.\r\nL'ingresso è libero. In caso di pioggia l'evento si terrà all'interno di Palazzo Gotico\, in piazza Cavalli.
-DTEND:20250913T120000Z
-LOCATION:Piacenza - Piazza Cavalli
-DTSTART:20250913T080000Z
+DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
+DTEND:20251005T120000Z
+LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20251005T080000Z
 SUMMARY:Rassegna stampa
-UID:3aacf9d5-5ae8-40e5-92e8-d301f911d850@3aac.org
-URL:https://www.pensarecontemporaneo.it
+UID:a3edcc57-a0e5-4842-a2dc-a966a467c50a@a3ed.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -21,12 +20,64 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Un racconto di musica e sopravvivenza\, la storia di un gruppo di ragazzi di Sarajevo e della loro band - i Sikter\, appunto - che durante la guerra in Bosnia Erzegovina si ritrovarono a suonare\, in modo un po’ rocambolesco\, con grossi artisti come Vasco Rossi e gli U2. È la storia della guerra a Sarajevo e di come è cambiata la Bosnia Erzegovina negli ultimi 30 anni.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\n\nPer partecipare all'incontro è necessario prenotare il posto.
-DTEND:20250906T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T140000Z
-SUMMARY:Altri incontri
-UID:df98ad02-d062-4d44-9362-95637764d77f@df98.org
+DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
+DTEND:20251010T200000Z
+LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
+DTSTART:20251010T160000Z
+SUMMARY:Libri
+UID:c3bad454-019e-443e-b12e-43a954e40fbc@c3ba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251024T200000Z
+LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
+DTSTART:20251024T160000Z
+SUMMARY:Libri
+UID:e15e97ad-3a5e-4e3c-bd89-a63a02214312@e15e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T213000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T173000Z
+SUMMARY:Talk
+UID:fdbb796e-4329-4d34-ba0c-fe6e2fd761f9@fdbb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251017T200000Z
+LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
+DTSTART:20251017T160000Z
+SUMMARY:Libri
+UID:4e437629-5054-4b55-86c3-283b298bae53@4e43.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il direttore editoriale del Post Luca Sofri e il critico musicale Maurizio Blatto presentano La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - a cura del Post in collaborazione con Iperborea - in cui si raccontano storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando nella musica.\r\nIngresso libero.
+DTEND:20251024T203000Z
+LOCATION:Torino - Backdoor - Via Pinelli 45/A
+DTSTART:20251024T163000Z
+SUMMARY:Libri
+UID:ee361aa1-c49c-485e-90de-5e1a24e109d0@ee36.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,101 +90,7 @@ DTEND:20250922T210000Z
 LOCATION:Milano - Chiostro dell'ex convento di Santa Maria della Vittoria - Via De Amicis\, 7
 DTSTART:20250922T170000Z
 SUMMARY:Libri
-UID:f95f93ac-fa10-41be-940c-3c4123758ce8@f95f.org
+UID:d48a7fa7-b190-4aa8-8b71-b531929ea1d5@d48a.org
 URL:https://iperborea.com/eventi/329/sadie-dingfelder-in-italia/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte circa venti giorni prima dell’evento\, con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T180000Z
-SUMMARY:Talk
-UID:132e6626-9969-4484-819f-0c1ca1d7be5a@132e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:La questione fondamentale\, la numero uno\, nella storia dei femminismi è: in nome di che cosa le donne vogliono libertà? Nonostante siano donne o proprio perché lo sono? Ce ne parla Giulia Siviero\, femminista e giornalista del Post.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
-DTEND:20250907T180000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250907T140000Z
-SUMMARY:Altri incontri
-UID:5839f40b-6c6e-4e24-ab7a-a6935ba4faea@5839.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dai rimedi fai da te a quelli costosissimi\, dai guru del benessere alla Silicon Valley e noi nel mezzo. Emanuele Menietti e Beatrice Mautino raccontano quanto è difficile essere pazienti oggi\, tra tante promesse e rimedi facili a problemi difficili. Una riflessione su come orientarsi nel complesso rapporto tra medicina\, speranza e cura.\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.\n
-DTEND:20250907T164500Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250907T124500Z
-SUMMARY:Altri incontri
-UID:2de074a9-36a0-405b-88ee-44dad86c551a@2de0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per il settimo anno\, dal 19 al 21 settembre\, il Post torna a Faenza con Talk negli spazi di Faventia Sales e al teatro Masini per tre giornate di incontri\, dal venerdì alla domenica.\r\nLe prenotazioni saranno aperte da giovedì 4 settembre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20250919T130000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20250919T090000Z
-SUMMARY:Talk
-UID:cb321fd7-d567-4512-8085-356dd4f230d9@cb32.org
-URL:https://www.ilpost.it/2025/09/03/talk-a-faenza-settima-volta/?homepagePosition=1
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:La rassegna estiva Una piazza per la cultura\, in programma a Modena dal 18 luglio al 15 settembre 2025\, ospita lo spettacolo dal vivo di Matteo Caccia tratto dall'omonimo podcast Orazio\, dove a partire dalla notizia del giorno l'autore racconta un intreccio di storie inattese aprendo nuove prospettive sul presente.\r\nIngresso libero senza prenotazione.
-DTEND:20250911T230000Z
-LOCATION:Modena - Largo Porta Sant'Agostino\, 337
-DTSTART:20250911T190000Z
-SUMMARY:Altri incontri
-UID:1c0d14d7-1280-43e6-aafd-feca0abe6c9a@1c0d.org
-URL:https://www.comune.modena.it/vivere-modena/eventi/2025/una-piazza-per-la-cultura-estate-in-piazza-santagostino-1
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Torna al Circolo dei lettori di Torino la rassegna stampa del Post per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il giornalista Nicola Ghittoni\, conduttore del podcast Morning.\r\nIngresso con prenotazione obbligatoria.
-DTEND:20250913T130000Z
-LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20250913T090000Z
-SUMMARY:Rassegna stampa
-UID:856e63c0-f2ad-4e7c-8659-29ee8ea53825@856e.org
-URL:https://prenotazioni.circololettori.it/events/event/6iTWwohPUhPur3ZU41d9
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:\nStefano Nazzi e Marino Sinibaldi ci parleranno di voci represse\, limitate\, violentate\, ignorate\, abusate\, maltrattate: voci e storie - purtroppo - ordinarie dalle carceri italiane.\n\n\n\nL'incontro fa parte della rassegna Voci da ascoltare\, all'interno del Festival di EMERGENCY: quattro incontri - in programma il 6 e il 7 settembre - ideati e curati insieme alla redazione del Post\, per approfondire e capire fenomeni sociali\, politici e culturali del nostro tempo e per raccontare voci che chiedono di essere ascoltate.\n\nPer partecipare all'incontro è necessario prenotare il posto.
-DTEND:20250906T164500Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20250906T124500Z
-SUMMARY:Altri incontri
-UID:3b6fd7e0-c531-4ab9-ac47-15f348062072@3b6f.org
 END:VEVENT
 END:VCALENDAR
