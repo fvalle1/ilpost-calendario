@@ -7,12 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T213000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T173000Z
-SUMMARY:Talk
-UID:ff6859dd-6569-46d1-9b55-4dc1a55b6145@ff68.org
+DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
+DTEND:20251010T200000Z
+LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
+DTSTART:20251010T160000Z
+SUMMARY:Libri
+UID:ff39e6a1-9192-47c8-81b0-9bf73623cd11@ff39.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -20,12 +20,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
-DTEND:20251017T200000Z
-LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
-DTSTART:20251017T160000Z
-SUMMARY:Libri
-UID:4a8bcb09-6084-49fe-a8da-64ccf81201c0@4a8b.org
+DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
+DTEND:20251005T120000Z
+LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20251005T080000Z
+SUMMARY:Rassegna stampa
+UID:5ce3b41c-2f08-4fa6-bbba-bf69cc105cbc@5ce3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -38,7 +38,7 @@ DTEND:20250922T210000Z
 LOCATION:Milano - Chiostro dell'ex convento di Santa Maria della Vittoria - Via De Amicis\, 7
 DTSTART:20250922T170000Z
 SUMMARY:Libri
-UID:218de864-ec29-4359-89b3-6356bf0cc3be@218d.org
+UID:76caee81-36dd-4e44-9add-b1dfd6627e0a@76ca.org
 URL:https://iperborea.com/eventi/329/sadie-dingfelder-in-italia/
 END:VEVENT
 BEGIN:VEVENT
@@ -52,7 +52,7 @@ DTEND:20251024T200000Z
 LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
 DTSTART:20251024T160000Z
 SUMMARY:Libri
-UID:9aa0012a-e0b3-4832-abdc-209dc454b2e8@9aa0.org
+UID:87c2a892-3f68-4d7e-9337-af48e0ce33b9@87c2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -60,12 +60,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
-DTEND:20251005T120000Z
-LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20251005T080000Z
-SUMMARY:Rassegna stampa
-UID:ba5a77b9-8c39-4214-b760-30f25f64cd2f@ba5a.org
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T213000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T173000Z
+SUMMARY:Talk
+UID:cb3fcfad-7089-4c49-b8b9-51abda6ba1be@cb3f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -73,12 +73,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
-DTEND:20251010T200000Z
-LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
-DTSTART:20251010T160000Z
+DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251017T200000Z
+LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
+DTSTART:20251017T160000Z
 SUMMARY:Libri
-UID:859c6be4-af7b-43a8-a911-465d0dab0778@859c.org
+UID:497a988b-8546-47c7-a87a-9383fc5c04a7@497a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -91,6 +91,6 @@ DTEND:20251024T203000Z
 LOCATION:Torino - Backdoor - Via Pinelli 45/A
 DTSTART:20251024T163000Z
 SUMMARY:Libri
-UID:cf863a92-443f-434d-9d4b-1794a4423bff@cf86.org
+UID:6260aef7-986b-427b-87e5-445b460f7e8d@6260.org
 END:VEVENT
 END:VCALENDAR
