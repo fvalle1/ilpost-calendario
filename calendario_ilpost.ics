@@ -7,12 +7,39 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
+DTEND:20251005T120000Z
+LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20251005T080000Z
+SUMMARY:Rassegna stampa
+UID:5648370f-c55d-439d-b51e-9c09f45821cb@5648.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
 DTEND:20251017T200000Z
 LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
 DTSTART:20251017T160000Z
 SUMMARY:Libri
-UID:fa84ac22-b83f-406e-80b0-839219e1f338@fa84.org
+UID:be2bb72c-9ad9-4ba6-9978-0adfa98c84f8@be2b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno dell'Internet Festival\, in programma dal 9 al 12 ottobre 2025 a Pisa\, Matteo Bordone conduce GenIAle Live\, una puntata dal vivo del podcast realizzato dal Post per Fondazione FAIR. Con lui ci saranno Michela Milano e Marco Gori\, ricercatori del PNRR FAIR e insieme ragioneranno sul futuro dell’intelligenza artificiale\, sulla relazione tra umani e macchine\, e su come la stiamo disegnando e immaginando oggi\, per il nostro domani.\nGenIAle è un podcast realizzato dal Post per Fondazione FAIR\, e il PNRR FAIR è il più grande progetto di ricerca italiano finanziato con fondi PNRR dedicato all’analisi e alla costruzione della Future Artificial Intelligence Research.\r\n\r\nIngresso libero senza prenotazione.
+DTEND:20251011T180000Z
+LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
+DTSTART:20251011T140000Z
+SUMMARY:Podcast
+UID:4f76bee8-8497-4a3d-ba9b-42db9c2985d4@4f76.org
+URL:https://www.internetfestival.it/programma/geniale-live/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -25,7 +52,7 @@ DTEND:20251024T200000Z
 LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
 DTSTART:20251024T160000Z
 SUMMARY:Libri
-UID:8032ffeb-6de7-45f7-aa7f-db60bf0c882b@8032.org
+UID:342e0a74-f72b-42d1-b414-4e21e48d452c@342e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -38,33 +65,7 @@ DTEND:20251010T200000Z
 LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
 DTSTART:20251010T160000Z
 SUMMARY:Libri
-UID:0d58e30e-66cc-48ce-93e8-8d0d53c1278b@0d58.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
-DTEND:20251005T120000Z
-LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20251005T080000Z
-SUMMARY:Rassegna stampa
-UID:f28b61ec-f6c7-420e-8e9e-149699555695@f28b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il direttore editoriale del Post Luca Sofri e il critico musicale Maurizio Blatto presentano La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - a cura del Post in collaborazione con Iperborea - in cui si raccontano storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando nella musica.\r\nIngresso libero.
-DTEND:20251024T203000Z
-LOCATION:Torino - Backdoor - Via Pinelli 45/A
-DTSTART:20251024T163000Z
-SUMMARY:Libri
-UID:2d979204-b0e4-48a9-9665-8b90e3d5bf69@2d97.org
+UID:a1ac7564-4e2a-4d9b-9911-f83072c5e4b5@a1ac.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -77,6 +78,19 @@ DTEND:20251101T213000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T173000Z
 SUMMARY:Talk
-UID:d889e494-051b-4861-a022-781b3d323920@d889.org
+UID:76f90e4f-e6a3-4290-b1dd-82666e18432e@76f9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il direttore editoriale del Post Luca Sofri e il critico musicale Maurizio Blatto presentano La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - a cura del Post in collaborazione con Iperborea - in cui si raccontano storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando nella musica.\r\nIngresso libero.
+DTEND:20251024T203000Z
+LOCATION:Torino - Backdoor - Via Pinelli 45/A
+DTSTART:20251024T163000Z
+SUMMARY:Libri
+UID:e8abf6c2-bbec-4599-bc11-190d39a89761@e8ab.org
 END:VEVENT
 END:VCALENDAR
