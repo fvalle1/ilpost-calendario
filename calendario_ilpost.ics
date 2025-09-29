@@ -7,65 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
-DTEND:20251024T200000Z
-LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
-DTSTART:20251024T160000Z
-SUMMARY:Libri
-UID:91e27147-2f8c-4915-8352-1f98c90158b3@91e2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
 DTEND:20251101T213000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T173000Z
 SUMMARY:Talk
-UID:9cffce10-a264-4c53-acf3-908fd1f24e62@9cff.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:All'interno dell'Internet Festival\, in programma dal 9 al 12 ottobre 2025 a Pisa\, Matteo Bordone conduce GenIAle Live\, una puntata dal vivo del podcast realizzato dal Post per Fondazione FAIR. Con lui ci saranno Michela Milano e Marco Gori\, ricercatori del PNRR FAIR e insieme ragioneranno sul futuro dell’intelligenza artificiale\, sulla relazione tra umani e macchine\, e su come la stiamo disegnando e immaginando oggi\, per il nostro domani.\nGenIAle è un podcast realizzato dal Post per Fondazione FAIR\, e il PNRR FAIR è il più grande progetto di ricerca italiano finanziato con fondi PNRR dedicato all’analisi e alla costruzione della Future Artificial Intelligence Research.\r\n\r\nIngresso libero senza prenotazione.
-DTEND:20251011T180000Z
-LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
-DTSTART:20251011T140000Z
-SUMMARY:Podcast
-UID:a7b58dbd-4c9a-476c-aa12-eb4b30459f9d@a7b5.org
-URL:https://www.internetfestival.it/programma/geniale-live/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il direttore editoriale del Post Luca Sofri e il critico musicale Maurizio Blatto presentano La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - a cura del Post in collaborazione con Iperborea - in cui si raccontano storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando nella musica.\r\nIngresso libero.
-DTEND:20251024T203000Z
-LOCATION:Torino - Backdoor - Via Pinelli 45/A
-DTSTART:20251024T163000Z
-SUMMARY:Libri
-UID:91d80950-19a1-4eb2-ae83-c2b31f4c2694@91d8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
-DTEND:20251010T200000Z
-LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
-DTSTART:20251010T160000Z
-SUMMARY:Libri
-UID:13c1b040-fbd6-453e-9457-c05a420ef9f6@13c1.org
+UID:107393a4-ef2d-4496-a338-15decbe64c95@1073.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -78,7 +25,21 @@ DTEND:20251017T200000Z
 LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
 DTSTART:20251017T160000Z
 SUMMARY:Libri
-UID:69965091-9b76-4bec-a6ec-0574cf633242@6996.org
+UID:2999da70-378c-4cba-b67b-583213c9bb40@2999.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno dell'Internet Festival\, in programma dal 9 al 12 ottobre 2025 a Pisa\, Matteo Bordone conduce GenIAle Live\, una puntata dal vivo del podcast realizzato dal Post per Fondazione FAIR. Con lui ci saranno Michela Milano e Marco Gori\, ricercatori del PNRR FAIR e insieme ragioneranno sul futuro dell’intelligenza artificiale\, sulla relazione tra umani e macchine\, e su come la stiamo disegnando e immaginando oggi\, per il nostro domani.\nGenIAle è un podcast realizzato dal Post per Fondazione FAIR\, e il PNRR FAIR è il più grande progetto di ricerca italiano finanziato con fondi PNRR dedicato all’analisi e alla costruzione della Future Artificial Intelligence Research.\r\n\r\nIngresso libero senza prenotazione.
+DTEND:20251011T180000Z
+LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
+DTSTART:20251011T140000Z
+SUMMARY:Podcast
+UID:01f0a44b-b61b-452c-bec7-9e52303d2e61@01f0.org
+URL:https://www.internetfestival.it/programma/geniale-live/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -91,6 +52,45 @@ DTEND:20251005T120000Z
 LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
 DTSTART:20251005T080000Z
 SUMMARY:Rassegna stampa
-UID:1be68ab5-e5a3-4525-ad55-61004db73c46@1be6.org
+UID:d937eeae-1232-4ffe-b1d9-ccf04011aedf@d937.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il direttore editoriale del Post Luca Sofri e il critico musicale Maurizio Blatto presentano La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - a cura del Post in collaborazione con Iperborea - in cui si raccontano storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando nella musica.\r\nIngresso libero.
+DTEND:20251024T203000Z
+LOCATION:Torino - Backdoor - Via Pinelli 45/A
+DTSTART:20251024T163000Z
+SUMMARY:Libri
+UID:7f68eee6-b070-468e-8509-7575a183a636@7f68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251024T200000Z
+LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
+DTSTART:20251024T160000Z
+SUMMARY:Libri
+UID:23c5086e-f859-4fe4-a8d3-943b24373635@23c5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
+DTEND:20251010T200000Z
+LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
+DTSTART:20251010T160000Z
+SUMMARY:Libri
+UID:abfad1b8-d278-4b83-a5e7-08fac9a128cf@abfa.org
 END:VEVENT
 END:VCALENDAR
