@@ -7,25 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T213000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T173000Z
-SUMMARY:Talk
-UID:107393a4-ef2d-4496-a338-15decbe64c95@1073.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
 DTEND:20251017T200000Z
 LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
 DTSTART:20251017T160000Z
 SUMMARY:Libri
-UID:2999da70-378c-4cba-b67b-583213c9bb40@2999.org
+UID:1c0a972d-08c7-4e52-97c2-70593b9317fa@1c0a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -38,21 +25,8 @@ DTEND:20251011T180000Z
 LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
 DTSTART:20251011T140000Z
 SUMMARY:Podcast
-UID:01f0a44b-b61b-452c-bec7-9e52303d2e61@01f0.org
+UID:c75fe3d5-3439-48d8-81b9-85f95b73b43f@c75f.org
 URL:https://www.internetfestival.it/programma/geniale-live/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
-DTEND:20251005T120000Z
-LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20251005T080000Z
-SUMMARY:Rassegna stampa
-UID:d937eeae-1232-4ffe-b1d9-ccf04011aedf@d937.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -65,7 +39,7 @@ DTEND:20251024T203000Z
 LOCATION:Torino - Backdoor - Via Pinelli 45/A
 DTSTART:20251024T163000Z
 SUMMARY:Libri
-UID:7f68eee6-b070-468e-8509-7575a183a636@7f68.org
+UID:8e8d0601-0f86-4eb5-8034-5501402e380f@8e8d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -78,7 +52,7 @@ DTEND:20251024T200000Z
 LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
 DTSTART:20251024T160000Z
 SUMMARY:Libri
-UID:23c5086e-f859-4fe4-a8d3-943b24373635@23c5.org
+UID:45af2533-3f0a-4f49-b501-881a108d3f11@45af.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -91,6 +65,32 @@ DTEND:20251010T200000Z
 LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
 DTSTART:20251010T160000Z
 SUMMARY:Libri
-UID:abfad1b8-d278-4b83-a5e7-08fac9a128cf@abfa.org
+UID:a6b914d9-c0f3-4919-89a7-924673a8aaf1@a6b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T213000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T173000Z
+SUMMARY:Talk
+UID:513409b5-c5a9-4624-aed8-0923bb88ce03@5134.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
+DTEND:20251005T120000Z
+LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20251005T080000Z
+SUMMARY:Rassegna stampa
+UID:21086ac5-93fe-44b7-b80e-1aec58557e0b@2108.org
 END:VEVENT
 END:VCALENDAR
