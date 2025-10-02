@@ -7,91 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Il direttore editoriale del Post Luca Sofri e il critico musicale Maurizio Blatto presentano La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - a cura del Post in collaborazione con Iperborea - in cui si raccontano storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando nella musica.\r\nIngresso libero.
-DTEND:20251024T203000Z
-LOCATION:Torino - Backdoor - Via Pinelli 45/A
-DTSTART:20251024T163000Z
-SUMMARY:Libri
-UID:48ef5f8a-8b0e-49ef-912e-a60452b76918@48ef.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T140000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T100000Z
-SUMMARY:Talk
-UID:fa019fc3-86f3-464e-9a4f-15263992749c@fa01.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
-DTEND:20251024T200000Z
-LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
-DTSTART:20251024T160000Z
-SUMMARY:Libri
-UID:82b975cf-fb8e-4b8e-af0d-25e8e9dba7b6@82b9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
-DTEND:20251017T200000Z
-LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
-DTSTART:20251017T160000Z
-SUMMARY:Libri
-UID:a5562e71-08b6-47c4-a3ec-db2ed3bca5e9@a556.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:All'interno dell'Internet Festival\, in programma dal 9 al 12 ottobre 2025 a Pisa\, Matteo Bordone conduce GenIAle Live\, una puntata dal vivo del podcast realizzato dal Post per Fondazione FAIR. Con lui ci saranno Michela Milano e Marco Gori\, ricercatori del PNRR FAIR e insieme ragioneranno sul futuro dell’intelligenza artificiale\, sulla relazione tra umani e macchine\, e su come la stiamo disegnando e immaginando oggi\, per il nostro domani.\nGenIAle è un podcast realizzato dal Post per Fondazione FAIR\, e il PNRR FAIR è il più grande progetto di ricerca italiano finanziato con fondi PNRR dedicato all’analisi e alla costruzione della Future Artificial Intelligence Research.\r\n\r\nIngresso libero senza prenotazione.
-DTEND:20251011T180000Z
-LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
-DTSTART:20251011T140000Z
-SUMMARY:Podcast
-UID:33a15ef9-5118-47fd-a980-b4a317df7391@33a1.org
-URL:https://www.internetfestival.it/programma/geniale-live/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
-DTEND:20251005T120000Z
-LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20251005T080000Z
-SUMMARY:Rassegna stampa
-UID:bf4aede7-4823-453d-b5e6-7d36e11a5074@bf4a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DESCRIPTION:La rassegna stampa del Post torna al Circolo dei lettori di Torino: è una rassegna per orientarsi fra titoli\, notizie e parole dell’informazione\, stavolta condotta dal fondatore e direttore editoriale Luca Sofri ed Emanuele Menietti\, conduttore del podcast Ci vuole una scienza.\r\nIngresso con prenotazione obbligatoria.
 DTEND:20251025T130000Z
 LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
 DTSTART:20251025T090000Z
 SUMMARY:Rassegna stampa
-UID:feb227eb-5fe5-4d15-ba8b-e682902ed619@feb2.org
+UID:81361bfe-c22c-414b-b72b-6e426efc1ade@8136.org
 URL:https://prenotazioni.circololettori.it/events/event/ZZzDcLvsonpBhDsAzpxN
 END:VEVENT
 BEGIN:VEVENT
@@ -105,6 +26,99 @@ DTEND:20251010T200000Z
 LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
 DTSTART:20251010T160000Z
 SUMMARY:Libri
-UID:f318bb75-58fd-46a6-b9ec-945889c6a8d8@f318.org
+UID:81885ade-c0d7-4471-8d5d-6a82d05ddfc6@8188.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:L'edizione 2025 del Premio Formenton per il giornalismo presenta Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni: un incontro con il direttore di Internazionale Giovanni De Mauro\, il direttore editoriale del Post Luca Sofri\, l'autore Pietro Formenton\, e la giornalista del Post Ginevra Falciani.\r\nIngresso libero fino a esaurimento posti.
+DTEND:20251028T213000Z
+LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
+DTSTART:20251028T173000Z
+SUMMARY:Altri incontri
+UID:f8dbe441-c2bb-465c-a824-d96c84dc4656@f8db.org
+URL:https://www.laboratorioformentini.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
+DTEND:20251005T120000Z
+LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20251005T080000Z
+SUMMARY:Rassegna stampa
+UID:9c0196b0-682d-4447-a8c4-2821341174f3@9c01.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251017T200000Z
+LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
+DTSTART:20251017T160000Z
+SUMMARY:Libri
+UID:433377c6-1ef2-4a6c-b3b7-8e02c0fc4fe6@4333.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T213000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T173000Z
+SUMMARY:Talk
+UID:0d86d6cb-41ac-4867-b4ec-8e249672d16b@0d86.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251024T200000Z
+LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
+DTSTART:20251024T160000Z
+SUMMARY:Libri
+UID:e959b3e6-3ca8-4037-9920-2b7988b43275@e959.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il direttore editoriale del Post Luca Sofri e il critico musicale Maurizio Blatto presentano La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - a cura del Post in collaborazione con Iperborea - in cui si raccontano storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando nella musica.\r\nIngresso libero.
+DTEND:20251024T203000Z
+LOCATION:Torino - Backdoor - Via Pinelli 45/A
+DTSTART:20251024T163000Z
+SUMMARY:Libri
+UID:7b1b9139-c4b6-45fa-85c4-b46b05b127a3@7b1b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno dell'Internet Festival\, in programma dal 9 al 12 ottobre 2025 a Pisa\, Matteo Bordone conduce GenIAle Live\, una puntata dal vivo del podcast realizzato dal Post per Fondazione FAIR. Con lui ci saranno Michela Milano e Marco Gori\, ricercatori del PNRR FAIR e insieme ragioneranno sul futuro dell’intelligenza artificiale\, sulla relazione tra umani e macchine\, e su come la stiamo disegnando e immaginando oggi\, per il nostro domani.\nGenIAle è un podcast realizzato dal Post per Fondazione FAIR\, e il PNRR FAIR è il più grande progetto di ricerca italiano finanziato con fondi PNRR dedicato all’analisi e alla costruzione della Future Artificial Intelligence Research.\r\n\r\nIngresso libero senza prenotazione.
+DTEND:20251011T180000Z
+LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
+DTSTART:20251011T140000Z
+SUMMARY:Podcast
+UID:0339bcf0-7983-414f-8f92-3fdd7b6eb8be@0339.org
+URL:https://www.internetfestival.it/programma/geniale-live/
 END:VEVENT
 END:VCALENDAR
