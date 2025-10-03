@@ -7,13 +7,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:La rassegna stampa del Post torna al Circolo dei lettori di Torino: è una rassegna per orientarsi fra titoli\, notizie e parole dell’informazione\, stavolta condotta dal fondatore e direttore editoriale Luca Sofri ed Emanuele Menietti\, conduttore del podcast Ci vuole una scienza.\r\nIngresso con prenotazione obbligatoria.
-DTEND:20251025T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20251025T090000Z
-SUMMARY:Rassegna stampa
-UID:81361bfe-c22c-414b-b72b-6e426efc1ade@8136.org
-URL:https://prenotazioni.circololettori.it/events/event/ZZzDcLvsonpBhDsAzpxN
+DESCRIPTION:All'interno dell'Internet Festival\, in programma dal 9 al 12 ottobre 2025 a Pisa\, Matteo Bordone conduce GenIAle Live\, una puntata dal vivo del podcast realizzato dal Post per Fondazione FAIR. Con lui ci saranno Michela Milano e Marco Gori\, ricercatori del PNRR FAIR e insieme ragioneranno sul futuro dell’intelligenza artificiale\, sulla relazione tra umani e macchine\, e su come la stiamo disegnando e immaginando oggi\, per il nostro domani.\nGenIAle è un podcast realizzato dal Post per Fondazione FAIR\, e il PNRR FAIR è il più grande progetto di ricerca italiano finanziato con fondi PNRR dedicato all’analisi e alla costruzione della Future Artificial Intelligence Research.\r\n\r\nIngresso libero senza prenotazione.
+DTEND:20251011T180000Z
+LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
+DTSTART:20251011T140000Z
+SUMMARY:Podcast
+UID:8c690d6b-bb17-4f4d-b4a5-7e55ad23787a@8c69.org
+URL:https://www.internetfestival.it/programma/geniale-live/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -26,7 +26,34 @@ DTEND:20251010T200000Z
 LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
 DTSTART:20251010T160000Z
 SUMMARY:Libri
-UID:81885ade-c0d7-4471-8d5d-6a82d05ddfc6@8188.org
+UID:aa529178-4c5a-46d2-bd5c-9daf64d8f385@aa52.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:La rassegna stampa del Post torna al Circolo dei lettori di Torino: è una rassegna per orientarsi fra titoli\, notizie e parole dell’informazione\, stavolta condotta dal fondatore e direttore editoriale Luca Sofri ed Emanuele Menietti\, conduttore del podcast Ci vuole una scienza.\r\nIngresso con prenotazione obbligatoria.
+DTEND:20251025T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20251025T090000Z
+SUMMARY:Rassegna stampa
+UID:3dd7358c-25df-446d-8c70-d28de7cd2ae7@3dd7.org
+URL:https://prenotazioni.circololettori.it/events/event/ZZzDcLvsonpBhDsAzpxN
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T213000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T173000Z
+SUMMARY:Talk
+UID:75aa905f-044c-45a2-9795-6305ba26dcf9@75aa.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -39,7 +66,7 @@ DTEND:20251028T213000Z
 LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
 DTSTART:20251028T173000Z
 SUMMARY:Altri incontri
-UID:f8dbe441-c2bb-465c-a824-d96c84dc4656@f8db.org
+UID:9a9bf913-4949-4271-b721-1ef46cabdf38@9a9b.org
 URL:https://www.laboratorioformentini.it
 END:VEVENT
 BEGIN:VEVENT
@@ -53,33 +80,7 @@ DTEND:20251005T120000Z
 LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
 DTSTART:20251005T080000Z
 SUMMARY:Rassegna stampa
-UID:9c0196b0-682d-4447-a8c4-2821341174f3@9c01.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
-DTEND:20251017T200000Z
-LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
-DTSTART:20251017T160000Z
-SUMMARY:Libri
-UID:433377c6-1ef2-4a6c-b3b7-8e02c0fc4fe6@4333.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T213000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T173000Z
-SUMMARY:Talk
-UID:0d86d6cb-41ac-4867-b4ec-8e249672d16b@0d86.org
+UID:53803244-0a48-4597-84f6-034b8f02bc38@5380.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -92,7 +93,7 @@ DTEND:20251024T200000Z
 LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
 DTSTART:20251024T160000Z
 SUMMARY:Libri
-UID:e959b3e6-3ca8-4037-9920-2b7988b43275@e959.org
+UID:95aca774-4fc7-40a1-b05b-5cff29999c03@95ac.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -105,7 +106,7 @@ DTEND:20251024T203000Z
 LOCATION:Torino - Backdoor - Via Pinelli 45/A
 DTSTART:20251024T163000Z
 SUMMARY:Libri
-UID:7b1b9139-c4b6-45fa-85c4-b46b05b127a3@7b1b.org
+UID:b0b178ca-5524-4e92-859b-b7883bc7c665@b0b1.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -113,12 +114,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:All'interno dell'Internet Festival\, in programma dal 9 al 12 ottobre 2025 a Pisa\, Matteo Bordone conduce GenIAle Live\, una puntata dal vivo del podcast realizzato dal Post per Fondazione FAIR. Con lui ci saranno Michela Milano e Marco Gori\, ricercatori del PNRR FAIR e insieme ragioneranno sul futuro dell’intelligenza artificiale\, sulla relazione tra umani e macchine\, e su come la stiamo disegnando e immaginando oggi\, per il nostro domani.\nGenIAle è un podcast realizzato dal Post per Fondazione FAIR\, e il PNRR FAIR è il più grande progetto di ricerca italiano finanziato con fondi PNRR dedicato all’analisi e alla costruzione della Future Artificial Intelligence Research.\r\n\r\nIngresso libero senza prenotazione.
-DTEND:20251011T180000Z
-LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
-DTSTART:20251011T140000Z
-SUMMARY:Podcast
-UID:0339bcf0-7983-414f-8f92-3fdd7b6eb8be@0339.org
-URL:https://www.internetfestival.it/programma/geniale-live/
+DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251017T200000Z
+LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
+DTSTART:20251017T160000Z
+SUMMARY:Libri
+UID:65cbe623-c0d1-4085-9c02-7876f6b68f1c@65cb.org
 END:VEVENT
 END:VCALENDAR
