@@ -12,35 +12,8 @@ DTEND:20251011T180000Z
 LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
 DTSTART:20251011T140000Z
 SUMMARY:Podcast
-UID:8c690d6b-bb17-4f4d-b4a5-7e55ad23787a@8c69.org
+UID:937b3ec9-a8c5-4fdf-a088-295fe47c0836@937b.org
 URL:https://www.internetfestival.it/programma/geniale-live/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
-DTEND:20251010T200000Z
-LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
-DTSTART:20251010T160000Z
-SUMMARY:Libri
-UID:aa529178-4c5a-46d2-bd5c-9daf64d8f385@aa52.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:La rassegna stampa del Post torna al Circolo dei lettori di Torino: è una rassegna per orientarsi fra titoli\, notizie e parole dell’informazione\, stavolta condotta dal fondatore e direttore editoriale Luca Sofri ed Emanuele Menietti\, conduttore del podcast Ci vuole una scienza.\r\nIngresso con prenotazione obbligatoria.
-DTEND:20251025T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20251025T090000Z
-SUMMARY:Rassegna stampa
-UID:3dd7358c-25df-446d-8c70-d28de7cd2ae7@3dd7.org
-URL:https://prenotazioni.circololettori.it/events/event/ZZzDcLvsonpBhDsAzpxN
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -53,47 +26,7 @@ DTEND:20251101T213000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251101T173000Z
 SUMMARY:Talk
-UID:75aa905f-044c-45a2-9795-6305ba26dcf9@75aa.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:L'edizione 2025 del Premio Formenton per il giornalismo presenta Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni: un incontro con il direttore di Internazionale Giovanni De Mauro\, il direttore editoriale del Post Luca Sofri\, l'autore Pietro Formenton\, e la giornalista del Post Ginevra Falciani.\r\nIngresso libero fino a esaurimento posti.
-DTEND:20251028T213000Z
-LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
-DTSTART:20251028T173000Z
-SUMMARY:Altri incontri
-UID:9a9bf913-4949-4271-b721-1ef46cabdf38@9a9b.org
-URL:https://www.laboratorioformentini.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
-DTEND:20251005T120000Z
-LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20251005T080000Z
-SUMMARY:Rassegna stampa
-UID:53803244-0a48-4597-84f6-034b8f02bc38@5380.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
-DTEND:20251024T200000Z
-LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
-DTSTART:20251024T160000Z
-SUMMARY:Libri
-UID:95aca774-4fc7-40a1-b05b-5cff29999c03@95ac.org
+UID:b4643ba7-3a01-4f8d-b5f9-e0b0f080f2a4@b464.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -106,7 +39,21 @@ DTEND:20251024T203000Z
 LOCATION:Torino - Backdoor - Via Pinelli 45/A
 DTSTART:20251024T163000Z
 SUMMARY:Libri
-UID:b0b178ca-5524-4e92-859b-b7883bc7c665@b0b1.org
+UID:fe8ea19e-35e4-4f56-af21-b5af1caae210@fe8e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:La rassegna stampa del Post torna al Circolo dei lettori di Torino: è una rassegna per orientarsi fra titoli\, notizie e parole dell’informazione\, stavolta condotta dal fondatore e direttore editoriale Luca Sofri ed Emanuele Menietti\, conduttore del podcast Ci vuole una scienza.\r\nIngresso con prenotazione obbligatoria.
+DTEND:20251025T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20251025T090000Z
+SUMMARY:Rassegna stampa
+UID:8619b038-b243-41aa-93ca-1a572e4d5633@8619.org
+URL:https://prenotazioni.circololettori.it/events/event/ZZzDcLvsonpBhDsAzpxN
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -119,6 +66,59 @@ DTEND:20251017T200000Z
 LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
 DTSTART:20251017T160000Z
 SUMMARY:Libri
-UID:65cbe623-c0d1-4085-9c02-7876f6b68f1c@65cb.org
+UID:3b55ec8b-e1ff-4f2a-9509-bc333bcb9bad@3b55.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:L'edizione 2025 del Premio Formenton per il giornalismo presenta Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni: un incontro con il direttore di Internazionale Giovanni De Mauro\, il direttore editoriale del Post Luca Sofri\, l'autore Pietro Formenton\, e la giornalista del Post Ginevra Falciani.\r\nIngresso libero fino a esaurimento posti.
+DTEND:20251028T213000Z
+LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
+DTSTART:20251028T173000Z
+SUMMARY:Altri incontri
+UID:e0ca278e-7c1f-4b8e-a2e8-de1403fd54e1@e0ca.org
+URL:https://www.laboratorioformentini.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
+DTEND:20251010T200000Z
+LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
+DTSTART:20251010T160000Z
+SUMMARY:Libri
+UID:e6ec92d3-4a98-4ff7-be24-68e30d2ea26d@e6ec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251024T200000Z
+LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
+DTSTART:20251024T160000Z
+SUMMARY:Libri
+UID:358cd06b-5111-4636-badb-f4a21c402d9d@358c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
+DTEND:20251005T120000Z
+LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20251005T080000Z
+SUMMARY:Rassegna stampa
+UID:9748b491-c266-4505-9d4e-41458672c25a@9748.org
 END:VEVENT
 END:VCALENDAR
