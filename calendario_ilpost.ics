@@ -7,12 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
-DTEND:20251101T213000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251101T173000Z
-SUMMARY:Talk
-UID:3679ea1d-b8e4-4730-9934-119aa83a279a@3679.org
+DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
+DTEND:20251010T200000Z
+LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
+DTSTART:20251010T160000Z
+SUMMARY:Libri
+UID:4ff23a5a-7dcc-440f-a852-8f7744bad829@4ff2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -20,12 +20,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
-DTEND:20251010T200000Z
-LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
-DTSTART:20251010T160000Z
-SUMMARY:Libri
-UID:a06be546-d4d1-43d7-bfb7-420115129cd4@a06b.org
+DESCRIPTION:La rassegna stampa del Post torna al Circolo dei lettori di Torino: è una rassegna per orientarsi fra titoli\, notizie e parole dell’informazione\, stavolta condotta dal fondatore e direttore editoriale Luca Sofri ed Emanuele Menietti\, conduttore del podcast Ci vuole una scienza.\r\nIngresso con prenotazione obbligatoria.
+DTEND:20251025T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20251025T090000Z
+SUMMARY:Rassegna stampa
+UID:c92239ea-a01e-4e56-b8dd-d1add804d413@c922.org
+URL:https://prenotazioni.circololettori.it/events/event/ZZzDcLvsonpBhDsAzpxN
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -38,33 +39,7 @@ DTEND:20251024T203000Z
 LOCATION:Torino - Backdoor - Via Pinelli 45/A
 DTSTART:20251024T163000Z
 SUMMARY:Libri
-UID:a991ee4d-c47b-4f0d-8633-c28a77b8aea2@a991.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Per la prima volta alla Festa del Racconto\, in programma dall'1 al 5 ottobre a Carpi in provincia di Modena\, il Post propone la sua rassegna stampa per orientarsi fra titoli\, notizie e parole dell’informazione\, con il fondatore e direttore editoriale Luca Sofri e il direttore Francesco Costa\, che leggono e commentano dal vivo le notizie del giorno.Ingresso gratuito senza prenotazione e fino a esaurimento posti.
-DTEND:20251005T120000Z
-LOCATION:Carpi - Tenda di Piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20251005T080000Z
-SUMMARY:Rassegna stampa
-UID:c2884329-e640-4840-af58-400b6a6091cc@c288.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
-DTEND:20251024T200000Z
-LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
-DTSTART:20251024T160000Z
-SUMMARY:Libri
-UID:5abf520d-22ba-490c-9a7a-e1581c0c0d58@5abf.org
+UID:cc6f8091-4b28-4b9c-b6e0-72b0fd9944ee@cc6f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -77,7 +52,33 @@ DTEND:20251017T200000Z
 LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
 DTSTART:20251017T160000Z
 SUMMARY:Libri
-UID:bb5e4be2-2a4c-431b-b34a-86ef8b9f9f25@bb5e.org
+UID:3f3b7c74-ac20-4d55-aebf-fe35e9569ece@3f3b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251024T200000Z
+LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
+DTSTART:20251024T160000Z
+SUMMARY:Libri
+UID:279d55d2-e161-4bf4-9576-7348e9ef2a35@279d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T213000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T173000Z
+SUMMARY:Talk
+UID:b98954d3-8014-49e9-aaf0-6570bd55a7b2@b989.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -90,7 +91,7 @@ DTEND:20251011T180000Z
 LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
 DTSTART:20251011T140000Z
 SUMMARY:Podcast
-UID:1aac3173-b57a-46d2-874d-d1ef92c783ee@1aac.org
+UID:fab81dfb-2343-4f3f-afa4-428b1d3cfd97@fab8.org
 URL:https://www.internetfestival.it/programma/geniale-live/
 END:VEVENT
 BEGIN:VEVENT
@@ -104,21 +105,7 @@ DTEND:20251028T213000Z
 LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
 DTSTART:20251028T173000Z
 SUMMARY:Altri incontri
-UID:a7ed64bb-ad1e-44f1-b3e8-2c86be0ee4ee@a7ed.org
+UID:3be12bd5-5744-43b2-ba41-651239bc3b34@3be1.org
 URL:https://www.laboratorioformentini.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DESCRIPTION:La rassegna stampa del Post torna al Circolo dei lettori di Torino: è una rassegna per orientarsi fra titoli\, notizie e parole dell’informazione\, stavolta condotta dal fondatore e direttore editoriale Luca Sofri ed Emanuele Menietti\, conduttore del podcast Ci vuole una scienza.\r\nIngresso con prenotazione obbligatoria.
-DTEND:20251025T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20251025T090000Z
-SUMMARY:Rassegna stampa
-UID:a0fca025-6857-4876-89d9-3d9e7518b9cb@a0fc.org
-URL:https://prenotazioni.circololettori.it/events/event/ZZzDcLvsonpBhDsAzpxN
 END:VEVENT
 END:VCALENDAR
