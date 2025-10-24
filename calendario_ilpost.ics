@@ -7,34 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251101T030000Z
-DTSTART:20251031T230000Z
-SUMMARY:Evento senza titolo
-UID:3f55ae91-010b-40a8-988c-87a4db29eee4@3f55.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251108T140000Z
-DTSTART:20251108T100000Z
-SUMMARY:Evento senza titolo
-UID:3592be74-fa41-4881-9b85-00d4cbe353d5@3592.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20251024T203000Z
+LOCATION:Torino - Backdoor - Via Pinelli 45/A
 DTSTART:20251024T163000Z
-SUMMARY:Evento senza titolo
-UID:c5470316-8ac8-4bd3-a1f5-f6db0858323d@c547.org
+SUMMARY:COSE Spiegate bene\, La musica che gira intorno\, a Torino
+UID:e5a048ae-a406-42c9-a30b-5a83e6aef426@e5a0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -44,8 +21,8 @@ TRIGGER:P1D
 END:VALARM
 DTEND:20251102T030000Z
 DTSTART:20251101T230000Z
-SUMMARY:Evento senza titolo
-UID:9146a928-1a22-4a85-862f-50fc68171982@9146.org
+SUMMARY:TALK\, domenica 2 novembre\, a Napoli
+UID:8a28fabe-77e9-458e-aea2-14daedc0c388@8a28.org
 URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
@@ -55,9 +32,10 @@ DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
 DTEND:20251105T213000Z
+LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
 DTSTART:20251105T173000Z
-SUMMARY:Evento senza titolo
-UID:420fbbe3-958c-46d7-868e-aa10815d9afa@420f.org
+SUMMARY:La cassetta degli attrezzi femminista\, a Torino
+UID:67e978cf-48d2-4a2f-b99b-ff36ac13cb9b@67e9.org
 URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
 END:VEVENT
 BEGIN:VEVENT
@@ -66,10 +44,24 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20251108T140000Z
+LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
+DTSTART:20251108T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:8a8bec03-0acb-4078-a204-92531312251b@8a8b.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20251025T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
 DTSTART:20251025T090000Z
-SUMMARY:Evento senza titolo
-UID:76b324eb-810b-48ec-ab49-08a2963803f6@76b3.org
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:496edfa1-aa11-46ad-92b3-33e720a8365b@496e.org
 URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2-3-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -78,10 +70,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251024T200000Z
-DTSTART:20251024T160000Z
-SUMMARY:Evento senza titolo
-UID:12289e02-e030-49c0-9fbc-057b5122f349@1228.org
+DTEND:20251028T213000Z
+LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
+DTSTART:20251028T173000Z
+SUMMARY:Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni
+UID:7075f7e4-1dc6-4d03-90c2-28e17cd751a1@7075.org
+URL:https://www.laboratorioformentini.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -90,9 +84,10 @@ DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
 DTEND:20251102T220000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251102T180000Z
-SUMMARY:Evento senza titolo
-UID:b4372e60-e61c-4fde-b9f7-d54b544da5a5@b437.org
+SUMMARY:Indagini rock. Sid e Nancy\, a Napoli
+UID:1d577df9-548e-4f00-acd0-27bff0112497@1d57.org
 URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
@@ -101,10 +96,22 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251028T213000Z
-DTSTART:20251028T173000Z
-SUMMARY:Evento senza titolo
-UID:9c292030-0b18-421d-a763-c823f18b1df6@9c29.org
-URL:https://www.laboratorioformentini.it
+DTEND:20251101T030000Z
+DTSTART:20251031T230000Z
+SUMMARY:TALK\, a Napoli
+UID:0f4e5f76-716f-4ec8-ae14-a86a519f2b1a@0f4e.org
+URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251024T200000Z
+LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
+DTSTART:20251024T160000Z
+SUMMARY:COSE Spiegate bene\, Voltiamo decisamente pagina\, a Monticelli Terme
+UID:c348ccde-e9d8-4dbc-9507-f380ceb21e71@c348.org
 END:VEVENT
 END:VCALENDAR

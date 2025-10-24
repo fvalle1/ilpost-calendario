@@ -25,8 +25,8 @@ def parse_events(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     events = []
 
-    # with open("debug_ilpost.html", "w", encoding="utf-8") as debug_file:
-    #     debug_file.write(soup.prettify())
+    with open("debug_ilpost.html", "w", encoding="utf-8") as debug_file:
+        debug_file.write(soup.prettify())
 
     # Trova tutti i container degli eventi che iniziano con "_single-event-featured"
     containers = soup.find_all("div", class_=lambda c: c and c.startswith("_single-event"))
@@ -53,7 +53,7 @@ def parse_events(html_content):
                 spans = details_div.find_all("span")
                 if len(spans) >= 2:
                     time_text = spans[0].text.strip()
-                    location_text = spans[-1].text.strip()
+                    location_text = details_div.contents[-1].strip()
                     hour, minute = map(int, time_text.split(":"))
                 else:
                     hour = minute = 0
@@ -65,7 +65,7 @@ def parse_events(html_content):
             dt = datetime(year, month, int(day), hour, minute, tzinfo=gettz('Europe/Rome'))
 
             # --- TITLE & SUBTITLE ---
-            title_tag = container.find("h3", class_=lambda c: c and c.startswith("_single-event__title"))
+            title_tag = container.find("h4")
             title = title_tag.text.strip() if title_tag else "Evento senza titolo"
 
             subtitle_tag = container.find("div", class_=lambda c: c and c.startswith("_single-event__subtitle"))
@@ -87,6 +87,11 @@ def parse_events(html_content):
                 more_info_link = info_tag.get("href") if info_tag else None
 
             # --- CREATE EVENT DICTIONARY ---
+            print(f"Parsing evento: {title} il {dt} a {location_text}")
+            print(f" - Descrizione: {description}")
+            print(f" - Link biglietti: {ticket_link}")
+            print(f" - Link info: {more_info_link}")
+            
             event = {
                 'title': title,
                 'description': description,
