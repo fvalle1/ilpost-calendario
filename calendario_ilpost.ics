@@ -7,11 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251024T203000Z
-LOCATION:Torino - Backdoor - Via Pinelli 45/A
-DTSTART:20251024T163000Z
-SUMMARY:COSE Spiegate bene\, La musica che gira intorno\, a Torino
-UID:e5a048ae-a406-42c9-a30b-5a83e6aef426@e5a0.org
+DESCRIPTION:La giornalista del Post Alessandra Pellegrini De Luca presenta Corpi speciali\, numero della rivista COSE Spiegate bene che racconta storie e spiegazioni su come siamo fatti e risposte a domande che non osiamo fare\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.\r\n\r\nPer maggiori info scrivere a biblcoll@comune.collecchio.pr.it o chiamare al numero 05 21301281
+DTEND:20251010T200000Z
+LOCATION:Collecchio - Biblioteca comunale "Villa Soragna" - Via le Valli\, 2
+DTSTART:20251010T160000Z
+SUMMARY:Libri
+UID:4ff23a5a-7dcc-440f-a852-8f7744bad829@4ff2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -19,50 +20,13 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251102T030000Z
-DTSTART:20251101T230000Z
-SUMMARY:TALK\, domenica 2 novembre\, a Napoli
-UID:8a28fabe-77e9-458e-aea2-14daedc0c388@8a28.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251105T213000Z
-LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20251105T173000Z
-SUMMARY:La cassetta degli attrezzi femminista\, a Torino
-UID:67e978cf-48d2-4a2f-b99b-ff36ac13cb9b@67e9.org
-URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251108T140000Z
-LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20251108T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:8a8bec03-0acb-4078-a204-92531312251b@8a8b.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
+DESCRIPTION:La rassegna stampa del Post torna al Circolo dei lettori di Torino: è una rassegna per orientarsi fra titoli\, notizie e parole dell’informazione\, stavolta condotta dal fondatore e direttore editoriale Luca Sofri ed Emanuele Menietti\, conduttore del podcast Ci vuole una scienza.\r\nIngresso con prenotazione obbligatoria.
 DTEND:20251025T130000Z
 LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
 DTSTART:20251025T090000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:496edfa1-aa11-46ad-92b3-33e720a8365b@496e.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2-3-2/
+SUMMARY:Rassegna stampa
+UID:c92239ea-a01e-4e56-b8dd-d1add804d413@c922.org
+URL:https://prenotazioni.circololettori.it/events/event/ZZzDcLvsonpBhDsAzpxN
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -70,12 +34,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251028T213000Z
-LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
-DTSTART:20251028T173000Z
-SUMMARY:Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni
-UID:7075f7e4-1dc6-4d03-90c2-28e17cd751a1@7075.org
-URL:https://www.laboratorioformentini.it
+DESCRIPTION:Il direttore editoriale del Post Luca Sofri e il critico musicale Maurizio Blatto presentano La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - a cura del Post in collaborazione con Iperborea - in cui si raccontano storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando nella musica.\r\nIngresso libero.
+DTEND:20251024T203000Z
+LOCATION:Torino - Backdoor - Via Pinelli 45/A
+DTSTART:20251024T163000Z
+SUMMARY:Libri
+UID:cc6f8091-4b28-4b9c-b6e0-72b0fd9944ee@cc6f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -83,12 +47,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251102T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251102T180000Z
-SUMMARY:Indagini rock. Sid e Nancy\, a Napoli
-UID:1d577df9-548e-4f00-acd0-27bff0112497@1d57.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
+DESCRIPTION:Il giornalista del Post Giuseppe Scaffidi presenta La musica che gira intorno\, il nuovo numero della rivista COSE Spiegate bene - che racconta storie di suoni\, canzoni\, dischi e musicisti e di cosa sta cambiando la musica - a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
+DTEND:20251017T200000Z
+LOCATION:Felino - Biblioteca comunale "Cesare Pavese"\, Sala Civica Amoretti - Via Corridoni\, 2
+DTSTART:20251017T160000Z
+SUMMARY:Libri
+UID:3f3b7c74-ac20-4d55-aebf-fe35e9569ece@3f3b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -96,22 +60,52 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251101T030000Z
-DTSTART:20251031T230000Z
-SUMMARY:TALK\, a Napoli
-UID:0f4e5f76-716f-4ec8-ae14-a86a519f2b1a@0f4e.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
+DESCRIPTION:Il giornalista del Post Riccardo Congiu presenta Voltiamo decisamente pagina\, il numero della rivista COSE Spiegate bene che racconta come funzionano il giornalismo e i giornali\, pubblicato a cura del Post in collaborazione con Iperborea.\r\nL'incontro si svolge all'interno di Lezioni di Meraviglia\, la settima edizione del festival Dire\, fare... leggere e narrare\, a cura delle biblioteche dell’Unione pedemontana parmense\, in programma dal 27 settembre fino al 29 novembre.\r\n\r\nIngresso libero.
 DTEND:20251024T200000Z
 LOCATION:Monticelli Terme - Biblio-Ludoteca - Via Montepelato Nord 3/C
 DTSTART:20251024T160000Z
-SUMMARY:COSE Spiegate bene\, Voltiamo decisamente pagina\, a Monticelli Terme
-UID:c348ccde-e9d8-4dbc-9507-f380ceb21e71@c348.org
+SUMMARY:Libri
+UID:279d55d2-e161-4bf4-9576-7348e9ef2a35@279d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:Dopo la prima edizione del 2024\, a novembre il Post tornerà a Napoli\, sempre nello storico teatro Bellini\, con una nuova e più ricca edizione di Talk\, in partnership con Ferrarelle: questa volta infatti durerà due giorni\, l'1 e il 2 novembre\, e avrà un calendario ancora più fitto di incontri.\r\nLe prenotazioni saranno aperte da mercoledì 8 ottobre alle 15 con le consuete agevolazioni per le persone abbonate\, che avviseremo prima via mail.
+DTEND:20251101T213000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251101T173000Z
+SUMMARY:Talk
+UID:b98954d3-8014-49e9-aaf0-6570bd55a7b2@b989.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:All'interno dell'Internet Festival\, in programma dal 9 al 12 ottobre 2025 a Pisa\, Matteo Bordone conduce GenIAle Live\, una puntata dal vivo del podcast realizzato dal Post per Fondazione FAIR. Con lui ci saranno Michela Milano e Marco Gori\, ricercatori del PNRR FAIR e insieme ragioneranno sul futuro dell’intelligenza artificiale\, sulla relazione tra umani e macchine\, e su come la stiamo disegnando e immaginando oggi\, per il nostro domani.\nGenIAle è un podcast realizzato dal Post per Fondazione FAIR\, e il PNRR FAIR è il più grande progetto di ricerca italiano finanziato con fondi PNRR dedicato all’analisi e alla costruzione della Future Artificial Intelligence Research.\r\n\r\nIngresso libero senza prenotazione.
+DTEND:20251011T180000Z
+LOCATION:Pisa - Teatro Verdi - Via Palestro\, 40
+DTSTART:20251011T140000Z
+SUMMARY:Podcast
+UID:fab81dfb-2343-4f3f-afa4-428b1d3cfd97@fab8.org
+URL:https://www.internetfestival.it/programma/geniale-live/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DESCRIPTION:L'edizione 2025 del Premio Formenton per il giornalismo presenta Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni: un incontro con il direttore di Internazionale Giovanni De Mauro\, il direttore editoriale del Post Luca Sofri\, l'autore Pietro Formenton\, e la giornalista del Post Ginevra Falciani.\r\nIngresso libero fino a esaurimento posti.
+DTEND:20251028T213000Z
+LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
+DTSTART:20251028T173000Z
+SUMMARY:Altri incontri
+UID:3be12bd5-5744-43b2-ba41-651239bc3b34@3be1.org
+URL:https://www.laboratorioformentini.it
 END:VEVENT
 END:VCALENDAR
