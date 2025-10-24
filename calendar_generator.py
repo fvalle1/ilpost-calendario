@@ -21,64 +21,87 @@ def fetch_calendar_data(url):
     return response.text
 
 def parse_events(html_content):
-    """Estrae gli eventi dal contenuto HTML"""
+    """Estrae gli eventi dal contenuto HTML di Il Post, robusto alle classi dinamiche."""
     soup = BeautifulSoup(html_content, 'html.parser')
     events = []
+
+    # with open("debug_ilpost.html", "w", encoding="utf-8") as debug_file:
+    #     debug_file.write(soup.prettify())
+
+    # Trova tutti i container degli eventi che iniziano con "_single-event-featured"
+    containers = soup.find_all("div", class_=lambda c: c and c.startswith("_single-event"))
     
-    # Trova i container degli eventi
-    event_containers = soup.find('div', attrs={"id": "main"})
-    event_containers = event_containers.find_all('div', attrs={"class": "row"})[1]
-    event_containers = event_containers.find('div', attrs={"class": "col-xl-12"})
-    event_containers = event_containers.find_all('div')
-    
-    for container in event_containers:
-        time = container.find('time')
-        if not time:
+    for container in containers:
+        try:
+            # --- DATE ---
+            time_tag = container.find("time", class_=lambda c: c and c.startswith("_single-event__date"))
+            if not time_tag:
+                continue
+
+            datetime_str = time_tag.get('datetime', '').strip()
+            if not datetime_str:
+                continue
+
+            # Estrazione giorno, mese, anno
+            day, month_name, year = datetime_str.split(" ")[0], datetime_str.split(" ")[1], datetime_str.split(" ")[2]
+            month = MONTHS.get(month_name.lower(), 1)
+            year = int("20" + year.replace(",", ""))
+
+            # --- TIME & LOCATION ---
+            details_div = container.find("div", class_=lambda c: c and c.startswith("_single-event__details"))
+            if details_div:
+                spans = details_div.find_all("span")
+                if len(spans) >= 2:
+                    time_text = spans[0].text.strip()
+                    location_text = spans[-1].text.strip()
+                    hour, minute = map(int, time_text.split(":"))
+                else:
+                    hour = minute = 0
+                    location_text = ""
+            else:
+                hour = minute = 0
+                location_text = ""
+
+            dt = datetime(year, month, int(day), hour, minute, tzinfo=gettz('Europe/Rome'))
+
+            # --- TITLE & SUBTITLE ---
+            title_tag = container.find("h3", class_=lambda c: c and c.startswith("_single-event__title"))
+            title = title_tag.text.strip() if title_tag else "Evento senza titolo"
+
+            subtitle_tag = container.find("div", class_=lambda c: c and c.startswith("_single-event__subtitle"))
+            subtitle = subtitle_tag.text.strip() if subtitle_tag else ""
+
+            # --- DESCRIPTION ---
+            description_tag = container.find("div", class_=lambda c: c and c.startswith("_single-event__summary"))
+            description = description_tag.text.strip() if description_tag else ""
+
+            # --- LINKS ---
+            actions_div = container.find("div", class_=lambda c: c and c.startswith("_single-event__actions"))
+            ticket_link = None
+            more_info_link = None
+            if actions_div:
+                ticket_tag = actions_div.find("a", class_=lambda c: c and "_book-button" in c)
+                ticket_link = ticket_tag.get("href") if ticket_tag else None
+
+                info_tag = actions_div.find("a", class_=lambda c: c and "_event-more-info" in c)
+                more_info_link = info_tag.get("href") if info_tag else None
+
+            # --- CREATE EVENT DICTIONARY ---
+            event = {
+                'title': title,
+                'description': description,
+                'date': dt,
+                'location': location_text,
+                'notes': subtitle,
+                'link': more_info_link
+            }
+
+            events.append(event)
+
+        except Exception as e:
+            print(f"Errore nel parsing di un evento: {e}")
             continue
-        time = time.get('datetime')
-        details = container.find('details')
-        
-        summary = details.find('summary')
-        location_time = summary.find_all('div')[1]
-        eventtime = location_time.find('span')
-        if eventtime:
-            hour = int(eventtime.text.split(":")[0])
-            minute = int(eventtime.text.split(":")[1])
-            
-        dt = datetime(day=int(time.split(" ")[0]),
-                      month=MONTHS[time.split(" ")[1]],
-                      year=int("20"+time.split(" ")[2].replace(",","")),
-                      hour=hour if hour is not None else 0,
-                      minute=minute if minute is not None else 0,
-                      tzinfo=gettz('Europe/Rome'))
-        title = summary.find('div').find('span').text
-        description = summary.find('h4').text
-        location = location_time.text
-        if ":" in location[:5]:
-            location = location[5:]
-        notes = details.find_all('div')[2].find('div').text
-        button = details.find_all('div')[2].find_all('div')[1].find('a')
-        print(dt)
-        print(title)
-        print(description)
-        print(location)
-        print(notes)
-        if button:
-            print(button.get('href'))
-        
-        # Crea oggetto evento
-        event = {
-            'title': title,
-            'description': description,
-            'date': dt,
-            'location': location,
-            'notes': notes,
-            'link': button.get('href') if button else None
-        }
-            
-        events.append(event)
-        
-    
+
     return events
 
 def create_ics_calendar(events):
