@@ -7,10 +7,61 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20251102T220000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251102T180000Z
+SUMMARY:Indagini rock. Sid e Nancy\, a Napoli
+UID:54fcc97b-5a57-4469-bfb7-bb6261512b3a@54fc.org
+URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251108T140000Z
+LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
+DTSTART:20251108T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:c3bb15ac-c82c-4b90-842c-b18a70dc9a15@c3bb.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20251102T030000Z
 DTSTART:20251101T230000Z
 SUMMARY:TALK\, domenica 2 novembre\, a Napoli
-UID:bf02dcd4-aa7b-476e-9372-f861c3929ece@bf02.org
+UID:09e28aea-350b-4a25-a137-ddfa7762a8bf@09e2.org
+URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251105T213000Z
+LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
+DTSTART:20251105T173000Z
+SUMMARY:La cassetta degli attrezzi femminista\, a Torino
+UID:b127c34b-2bff-4fe2-bbfc-68c4a87291fd@b127.org
+URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251101T030000Z
+DTSTART:20251031T230000Z
+SUMMARY:TALK\, a Napoli
+UID:89dbd8b6-50a8-4ddf-bb96-385afb3c26da@89db.org
 URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
@@ -23,71 +74,7 @@ DTEND:20251028T213000Z
 LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
 DTSTART:20251028T173000Z
 SUMMARY:Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni
-UID:eab01422-0c4c-4566-b522-2e576865045f@eab0.org
+UID:ebf57a10-de52-46a7-ab49-d13c02e32fb9@ebf5.org
 URL:https://www.laboratorioformentini.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251101T030000Z
-DTSTART:20251031T230000Z
-SUMMARY:TALK\, a Napoli
-UID:ce9f02e0-cc90-48e9-967a-a9b8d4f6f319@ce9f.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251025T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20251025T090000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:c2e5b643-4c2d-4095-b171-b7e0b8292626@c2e5.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-2-2-3-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251108T140000Z
-LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20251108T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:140cf09a-8e54-4085-90e8-3e5f5dc8a5cd@140c.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251105T213000Z
-LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20251105T173000Z
-SUMMARY:La cassetta degli attrezzi femminista\, a Torino
-UID:46be33cf-fbb3-41df-9431-76a3bc12ff4a@46be.org
-URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251102T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251102T180000Z
-SUMMARY:Indagini rock. Sid e Nancy\, a Napoli
-UID:6382b912-0832-44ca-bee0-34774dd9c409@6382.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 END:VCALENDAR
