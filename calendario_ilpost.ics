@@ -7,11 +7,24 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20251028T213000Z
+LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
+DTSTART:20251028T173000Z
+SUMMARY:Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni
+UID:d80c6990-9af3-451a-a8d6-41306e0bfda8@d80c.org
+URL:https://www.laboratorioformentini.it
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20251102T220000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251102T180000Z
 SUMMARY:Indagini rock. Sid e Nancy\, a Napoli
-UID:54fcc97b-5a57-4469-bfb7-bb6261512b3a@54fc.org
+UID:f6f7c468-0380-40fa-9e68-efa6cd786c28@f6f7.org
 URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
@@ -20,23 +33,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251108T140000Z
-LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20251108T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:c3bb15ac-c82c-4b90-842c-b18a70dc9a15@c3bb.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251102T030000Z
-DTSTART:20251101T230000Z
-SUMMARY:TALK\, domenica 2 novembre\, a Napoli
-UID:09e28aea-350b-4a25-a137-ddfa7762a8bf@09e2.org
+DTEND:20251101T030000Z
+DTSTART:20251031T230000Z
+SUMMARY:TALK\, a Napoli
+UID:711cf126-d29a-48aa-83e3-0e964813419a@711c.org
 URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
@@ -49,7 +49,7 @@ DTEND:20251105T213000Z
 LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
 DTSTART:20251105T173000Z
 SUMMARY:La cassetta degli attrezzi femminista\, a Torino
-UID:b127c34b-2bff-4fe2-bbfc-68c4a87291fd@b127.org
+UID:c0cb3003-eabb-4e34-abdd-4e68a10c0587@c0cb.org
 URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,10 +58,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251101T030000Z
-DTSTART:20251031T230000Z
-SUMMARY:TALK\, a Napoli
-UID:89dbd8b6-50a8-4ddf-bb96-385afb3c26da@89db.org
+DTEND:20251102T030000Z
+DTSTART:20251101T230000Z
+SUMMARY:TALK\, domenica 2 novembre\, a Napoli
+UID:a270648a-11db-46f8-8c0d-13352e236e76@a270.org
 URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
@@ -70,11 +70,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251028T213000Z
-LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
-DTSTART:20251028T173000Z
-SUMMARY:Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni
-UID:ebf57a10-de52-46a7-ab49-d13c02e32fb9@ebf5.org
-URL:https://www.laboratorioformentini.it
+DTEND:20251108T140000Z
+LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
+DTSTART:20251108T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:20723df7-5cca-430b-a08f-cfc054db817d@2072.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
 END:VEVENT
 END:VCALENDAR
