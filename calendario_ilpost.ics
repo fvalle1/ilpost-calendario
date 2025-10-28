@@ -7,24 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251028T213000Z
-LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
-DTSTART:20251028T173000Z
-SUMMARY:Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni
-UID:d80c6990-9af3-451a-a8d6-41306e0bfda8@d80c.org
-URL:https://www.laboratorioformentini.it
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20251102T220000Z
 LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
 DTSTART:20251102T180000Z
 SUMMARY:Indagini rock. Sid e Nancy\, a Napoli
-UID:f6f7c468-0380-40fa-9e68-efa6cd786c28@f6f7.org
+UID:c11c4326-2e01-42ae-a22a-f0c212fa10eb@c11c.org
 URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
@@ -33,24 +20,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251101T030000Z
-DTSTART:20251031T230000Z
-SUMMARY:TALK\, a Napoli
-UID:711cf126-d29a-48aa-83e3-0e964813419a@711c.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251105T213000Z
-LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20251105T173000Z
-SUMMARY:La cassetta degli attrezzi femminista\, a Torino
-UID:c0cb3003-eabb-4e34-abdd-4e68a10c0587@c0cb.org
-URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
+DTEND:20251028T213000Z
+LOCATION:Milano - Laboratorio di Fondazione Mondadori - Via Marco Formentini\, 10
+DTSTART:20251028T173000Z
+SUMMARY:Fare i giornalisti. Come il Post e Internazionale costruiscono le loro redazioni
+UID:0ec3a92f-9ef0-4d21-9b0a-f00a5be6d8de@0ec3.org
+URL:https://www.laboratorioformentini.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -61,7 +36,7 @@ END:VALARM
 DTEND:20251102T030000Z
 DTSTART:20251101T230000Z
 SUMMARY:TALK\, domenica 2 novembre\, a Napoli
-UID:a270648a-11db-46f8-8c0d-13352e236e76@a270.org
+UID:d65c4b8b-a849-4cc3-bb04-6e7be4f36bf6@d65c.org
 URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
@@ -74,7 +49,44 @@ DTEND:20251108T140000Z
 LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
 DTSTART:20251108T100000Z
 SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:20723df7-5cca-430b-a08f-cfc054db817d@2072.org
+UID:75818609-d842-4a33-a326-10e2549f7399@7581.org
 URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251101T030000Z
+DTSTART:20251031T230000Z
+SUMMARY:TALK\, a Napoli
+UID:a1659f14-0cef-44c7-af3d-0ba5993cc26e@a165.org
+URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251105T213000Z
+LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
+DTSTART:20251105T173000Z
+SUMMARY:La cassetta degli attrezzi femminista\, a Torino
+UID:bc157e0f-ed73-49f1-9e35-73b79a9f73c9@bc15.org
+URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251107T220000Z
+LOCATION:Torino - Libreria Therese - Corso Belgio\, 49 bis
+DTSTART:20251107T180000Z
+SUMMARY:Altrecose\, Playlist\, a Torino
+UID:4e7f263d-b9a9-42e4-aad0-9c046e9e7bec@4e7f.org
 END:VEVENT
 END:VCALENDAR
