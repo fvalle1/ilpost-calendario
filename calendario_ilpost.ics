@@ -7,11 +7,23 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20251101T030000Z
+DTSTART:20251031T230000Z
+SUMMARY:TALK\, a Napoli
+UID:401c8a19-b1b7-4262-b3ed-6293f4ec4fa1@401c.org
+URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20251105T213000Z
 LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
 DTSTART:20251105T173000Z
 SUMMARY:La cassetta degli attrezzi femminista\, a Torino
-UID:bf406fcd-9140-4f1e-8a85-b505de198ff5@bf40.org
+UID:e592e5c5-3ea0-4ba7-b997-28a3bde92840@e592.org
 URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
 END:VEVENT
 BEGIN:VEVENT
@@ -23,45 +35,7 @@ END:VALARM
 DTEND:20251102T030000Z
 DTSTART:20251101T230000Z
 SUMMARY:TALK\, domenica 2 novembre\, a Napoli
-UID:e56a642f-a5fc-4c5e-8ef5-c6d6ee2e8e7e@e56a.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251102T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251102T180000Z
-SUMMARY:Indagini rock. Sid e Nancy\, a Napoli
-UID:3bfe747f-9cce-4191-9056-ce71a9c61859@3bfe.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251125T000000Z
-LOCATION:Castronno - Materia - Via Confalonieri\, 5
-DTSTART:20251124T200000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Castronno
-UID:31678929-e307-4a9a-b398-6596d688796a@3167.org
-URL:https://www.materiaspaziolibero.it/eventi/in-viaggio-con-luca-sofri-e-la-musica-che-gira-intorno
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251101T030000Z
-DTSTART:20251031T230000Z
-SUMMARY:TALK\, a Napoli
-UID:4527bce3-8278-4ae6-8084-0b1a38e40de7@4527.org
+UID:5539d39d-f4af-41e8-9bbf-3ca556cc3af1@5539.org
 URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
@@ -74,7 +48,7 @@ DTEND:20251107T220000Z
 LOCATION:Torino - Libreria Therese - Corso Belgio\, 49 bis
 DTSTART:20251107T180000Z
 SUMMARY:Altrecose\, Playlist\, a Torino
-UID:8bf94d96-1588-4df7-a5a6-779302ae2c29@8bf9.org
+UID:c2146ed4-9d25-4d36-a61d-e3ef3a5b2019@c214.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -86,7 +60,33 @@ DTEND:20251108T140000Z
 LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
 DTSTART:20251108T100000Z
 SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:1c03e7d4-3448-43f1-87ef-1690adc3b6c4@1c03.org
+UID:2dee5bc5-1745-401a-ba08-cd92a1b5b8a3@2dee.org
 URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251102T220000Z
+LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
+DTSTART:20251102T180000Z
+SUMMARY:Indagini rock. Sid e Nancy\, a Napoli
+UID:1c851875-b158-4710-b170-f6aac63ad171@1c85.org
+URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251125T000000Z
+LOCATION:Castronno - Materia - Via Confalonieri\, 5
+DTSTART:20251124T200000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Castronno
+UID:b105e2dd-2ee7-4f33-a19f-b5af14bfdb0a@b105.org
+URL:https://www.materiaspaziolibero.it/eventi/in-viaggio-con-luca-sofri-e-la-musica-che-gira-intorno
 END:VEVENT
 END:VCALENDAR
