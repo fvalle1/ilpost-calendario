@@ -7,12 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251204T213000Z
-LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
-DTSTART:20251204T173000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
-UID:a377123f-8c44-4831-a6d0-a40bc2a4d901@a377.org
-URL:https://www.librerielovat.com/ev/event/luca-sofri/
+DTEND:20251107T220000Z
+LOCATION:Torino - Libreria Therese - Corso Belgio\, 49 bis
+DTSTART:20251107T180000Z
+SUMMARY:Altrecose\, Playlist\, a Torino
+UID:e39291d1-3a96-4bd7-89fd-bef268101c13@e392.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -24,7 +23,7 @@ DTEND:20251105T213000Z
 LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
 DTSTART:20251105T173000Z
 SUMMARY:La cassetta degli attrezzi femminista\, a Torino
-UID:7f71e0da-ea38-43e8-8237-4bd4a180dbb1@7f71.org
+UID:4cfa4d21-3670-406e-8563-cf4f1ddd12b6@4cfa.org
 URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
 END:VEVENT
 BEGIN:VEVENT
@@ -33,11 +32,24 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251107T220000Z
-LOCATION:Torino - Libreria Therese - Corso Belgio\, 49 bis
-DTSTART:20251107T180000Z
-SUMMARY:Altrecose\, Playlist\, a Torino
-UID:75ec2726-bc6d-41b2-8549-1712d03f096e@75ec.org
+DTEND:20251106T030000Z
+DTSTART:20251105T230000Z
+SUMMARY:Altrecose\, Playlist\, a Bergamo
+UID:3b8fb8bd-3520-435b-bdd9-736fffce0cae@3b8f.org
+URL:https://ticket.gresart671.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251204T213000Z
+LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
+DTSTART:20251204T173000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
+UID:71493cfb-e16d-4470-811a-c37dc8c83d24@7149.org
+URL:https://www.librerielovat.com/ev/event/luca-sofri/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -49,7 +61,7 @@ DTEND:20251125T000000Z
 LOCATION:Castronno - Materia - Via Confalonieri\, 5
 DTSTART:20251124T200000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Castronno
-UID:001ea363-ae19-4851-9fb8-e8011d9f691a@001e.org
+UID:f329735e-d78e-4d95-ba3e-87ae86a3fae8@f329.org
 URL:https://www.materiaspaziolibero.it/eventi/in-viaggio-con-luca-sofri-e-la-musica-che-gira-intorno
 END:VEVENT
 BEGIN:VEVENT
@@ -62,32 +74,7 @@ DTEND:20251108T140000Z
 LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
 DTSTART:20251108T100000Z
 SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:9e443186-a312-4f9c-8cb7-0a6c0cea5c70@9e44.org
+UID:1c20e78f-bb84-4168-8196-c70907289ae8@1c20.org
 URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251106T030000Z
-DTSTART:20251105T230000Z
-SUMMARY:Altrecose\, Playlist\, a Bergamo
-UID:c71f317a-5bfa-4dc2-9ac9-af8ec4e37df3@c71f.org
-URL:https://ticket.gresart671.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251102T220000Z
-LOCATION:Napoli - Teatro Bellini - Via Conte di Ruvo\, 14
-DTSTART:20251102T180000Z
-SUMMARY:Indagini rock. Sid e Nancy\, a Napoli
-UID:32b86c95-2244-4901-9c1a-a3fc64b3844b@32b8.org
-URL:https://www.ilpost.it/2025/10/06/talk-torna-a-napoli-piu-grande/?homepagePosition=4
 END:VEVENT
 END:VCALENDAR
