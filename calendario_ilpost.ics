@@ -7,62 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251204T213000Z
-LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
-DTSTART:20251204T173000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
-UID:1e720b06-73d3-4172-b850-6fa24e42248b@1e72.org
-URL:https://www.librerielovat.com/ev/event/luca-sofri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251125T000000Z
-LOCATION:Castronno - Materia - Via Confalonieri\, 5
-DTSTART:20251124T200000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Castronno
-UID:afd02069-3cbf-497b-ad5a-e3a502606137@afd0.org
-URL:https://www.materiaspaziolibero.it/eventi/in-viaggio-con-luca-sofri-e-la-musica-che-gira-intorno
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251108T140000Z
+DTEND:20251105T213000Z
 LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20251108T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:2e762a33-d838-4717-9a17-b46a654d0760@2e76.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251106T030000Z
-DTSTART:20251105T230000Z
-SUMMARY:Altrecose\, Playlist\, a Bergamo
-UID:3b466194-644e-4681-9210-28e48c94c835@3b46.org
-URL:https://ticket.gresart671.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251107T220000Z
-LOCATION:Torino - Libreria Therese - Corso Belgio\, 49 bis
-DTSTART:20251107T180000Z
-SUMMARY:Altrecose\, Playlist\, a Torino
-UID:36127eaa-3a90-47ce-95c9-e2b701c0f746@3612.org
+DTSTART:20251105T173000Z
+SUMMARY:La cassetta degli attrezzi femminista\, a Torino
+UID:e48a99fc-b1da-46fd-b1da-c44f513ef8ab@e48a.org
+URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -74,7 +24,7 @@ DTEND:20251202T220000Z
 LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
 DTSTART:20251202T180000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
-UID:8f2d046b-c419-48be-bb54-6738a3366471@8f2d.org
+UID:2316da83-9999-43cf-a8c2-fa113b8f97aa@2316.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -82,11 +32,73 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251105T213000Z
+DTEND:20251108T140000Z
 LOCATION:Torino - Circolo dei lettori - Via Bogino\, 9
-DTSTART:20251105T173000Z
-SUMMARY:La cassetta degli attrezzi femminista\, a Torino
-UID:5fb08e94-2877-46f8-844a-27d7bde3acdf@5fb0.org
-URL:https://torino.circololettori.it/la-cassetta-degli-attrezzi-femminista/
+DTSTART:20251108T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:4f9d2448-24c5-4fed-aef0-cde83c57cbd8@4f9d.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-novembre25/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251125T000000Z
+LOCATION:Castronno - Materia - Via Confalonieri\, 5
+DTSTART:20251124T200000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Castronno
+UID:74c56eea-2e8c-40a9-97e6-8dd61e962ec6@74c5.org
+URL:https://www.materiaspaziolibero.it/eventi/in-viaggio-con-luca-sofri-e-la-musica-che-gira-intorno
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251107T220000Z
+LOCATION:Torino - Libreria Therese - Corso Belgio\, 49 bis
+DTSTART:20251107T180000Z
+SUMMARY:Altrecose\, Playlist\, a Torino
+UID:29bbbb72-3595-4eaf-9b80-242176b84fc3@29bb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251203T213000Z
+LOCATION:Mestre - Libreria Il Giralibri - Calle Legrenzi\, 25
+DTSTART:20251203T173000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
+UID:f6a9a3e7-fdeb-46f7-b0ea-18c6164f083a@f6a9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251106T030000Z
+DTSTART:20251105T230000Z
+SUMMARY:Altrecose\, Playlist\, a Bergamo
+UID:9743c95f-b1ad-4e28-beba-47aa64489e19@9743.org
+URL:https://ticket.gresart671.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251204T213000Z
+LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
+DTSTART:20251204T173000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
+UID:3eaf7b38-f77f-41ec-9b9d-a6f1c6ade559@3eaf.org
+URL:https://www.librerielovat.com/ev/event/luca-sofri/
 END:VEVENT
 END:VCALENDAR
