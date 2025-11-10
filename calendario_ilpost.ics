@@ -7,35 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251129T000000Z
-LOCATION:Lucca - Sky Stone & Songs - Via Vittorio Veneto\, 7
-DTSTART:20251128T200000Z
-SUMMARY:Altrecose\, Playlist\, a Lucca
-UID:b2af09ea-6953-49d7-a07e-36821453db3f@b2af.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251202T220000Z
-LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
-DTSTART:20251202T180000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
-UID:30589a7c-6a85-4d6e-82ae-b5e42c74a1b6@3058.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251203T213000Z
-LOCATION:Mestre - Libreria Il Giralibri - Calle Legrenzi\, 25
-DTSTART:20251203T173000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
-UID:6c667bd3-0782-4932-a235-13c1f1e4c614@6c66.org
+DTEND:20251122T173000Z
+LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
+DTSTART:20251122T133000Z
+SUMMARY:Voci dal Post: Tutto il mondo fuori. Come si raccontano gli esteri al Post
+UID:277bb536-4054-4e1d-955c-844f7c3c0f21@277b.org
+URL:https://visitmoncalieri.it/evento/voci-dal-post/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,7 +24,7 @@ DTEND:20251125T000000Z
 LOCATION:Castronno - Materia - Via Confalonieri\, 5
 DTSTART:20251124T200000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Castronno
-UID:1c4d02ec-9818-44e0-843d-8915c771e716@1c4d.org
+UID:b12d6a5a-9737-4a42-b5ad-18163fc732b3@b12d.org
 URL:https://www.materiaspaziolibero.it/eventi/in-viaggio-con-luca-sofri-e-la-musica-che-gira-intorno
 END:VEVENT
 BEGIN:VEVENT
@@ -56,12 +33,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251122T183000Z
-LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
-DTSTART:20251122T143000Z
-SUMMARY:Voci dal Post: Di corpi\, di generazione e di diritti
-UID:4400e049-7a43-4d49-8db7-12723695510c@4400.org
-URL:https://visitmoncalieri.it/evento/voci-dal-post/
+DTEND:20251203T213000Z
+LOCATION:Mestre - Libreria Il Giralibri - Calle Legrenzi\, 25
+DTSTART:20251203T173000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
+UID:4c99f585-f289-4c76-a130-3d86b1618531@4c99.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -69,11 +45,36 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251122T193000Z
+DTEND:20251121T220000Z
+LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
+DTSTART:20251121T180000Z
+SUMMARY:Altrecose\, Playlist\, a Milano
+UID:d1e2195a-4efa-4e99-86a0-ffa48ec923dd@d1e2.org
+URL:https://www.libreriaverso.com/appuntamenti/playlist/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251129T000000Z
+LOCATION:Lucca - Sky Stone & Songs - Via Vittorio Veneto\, 7
+DTSTART:20251128T200000Z
+SUMMARY:Altrecose\, Playlist\, a Lucca
+UID:300b2e41-4cf2-4cff-b48a-3d891de8d580@300b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251122T140000Z
 LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
-DTSTART:20251122T153000Z
-SUMMARY:Voci dal Post: Storie d’America e di serial killer
-UID:4abd2a4a-2a87-4bad-b905-b394a1abf46c@4abd.org
+DTSTART:20251122T100000Z
+SUMMARY:Voci dal Post: I giornali\, spiegati bene
+UID:f056da76-9e63-4e4d-b436-764d34c617b0@f056.org
 URL:https://visitmoncalieri.it/evento/voci-dal-post/
 END:VEVENT
 BEGIN:VEVENT
@@ -86,7 +87,7 @@ DTEND:20251204T213000Z
 LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
 DTSTART:20251204T173000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
-UID:2c0ae607-507c-42e4-9ed8-56e06a19a360@2c0a.org
+UID:a45f89fa-f6f5-427f-9add-e4bca5dbb412@a45f.org
 URL:https://www.librerielovat.com/ev/event/luca-sofri/
 END:VEVENT
 BEGIN:VEVENT
@@ -95,24 +96,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251122T140000Z
+DTEND:20251122T183000Z
 LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
-DTSTART:20251122T100000Z
-SUMMARY:Voci dal Post: I giornali\, spiegati bene
-UID:742bb6be-23dc-4c2a-9fe8-d023d7f1b3eb@742b.org
-URL:https://visitmoncalieri.it/evento/voci-dal-post/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251122T173000Z
-LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
-DTSTART:20251122T133000Z
-SUMMARY:Voci dal Post: Tutto il mondo fuori. Come si raccontano gli esteri al Post
-UID:166b76d7-9a5a-462b-bb7a-796dc03d8338@166b.org
+DTSTART:20251122T143000Z
+SUMMARY:Voci dal Post: Di corpi\, di generazione e di diritti
+UID:6685f070-29f3-4d19-b841-9f29bbe69002@6685.org
 URL:https://visitmoncalieri.it/evento/voci-dal-post/
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +113,7 @@ DTEND:20251126T210000Z
 LOCATION:Pisa - Lumière Pisa - Vicolo del Tidi\, 6
 DTSTART:20251126T170000Z
 SUMMARY:Altrecose\, Playlist\, a Pisa
-UID:93717b3a-ce52-41a5-a5ad-20fd983bd971@9371.org
+UID:fa43e13d-7f30-4d74-84d4-7e14a71cd41c@fa43.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -133,11 +121,23 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251121T220000Z
-LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
-DTSTART:20251121T180000Z
-SUMMARY:Altrecose\, Playlist\, a Milano
-UID:08964f2d-dc21-4656-9db2-5d0a11df09cb@0896.org
-URL:https://www.libreriaverso.com/appuntamenti/playlist/
+DTEND:20251202T220000Z
+LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
+DTSTART:20251202T180000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
+UID:53d8ee76-2baf-4ade-a46b-edd1f9738975@53d8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251122T193000Z
+LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
+DTSTART:20251122T153000Z
+SUMMARY:Voci dal Post: Storie d’America e di serial killer
+UID:c88068e9-9e42-4949-99d8-003ecea58a9e@c880.org
+URL:https://visitmoncalieri.it/evento/voci-dal-post/
 END:VEVENT
 END:VCALENDAR
