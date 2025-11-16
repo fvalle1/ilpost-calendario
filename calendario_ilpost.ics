@@ -7,61 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251125T000000Z
-LOCATION:Castronno - Materia - Via Confalonieri\, 5
-DTSTART:20251124T200000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Castronno
-UID:f20a25ac-7f46-476a-b920-b5b027706d77@f20a.org
-URL:https://www.materiaspaziolibero.it/eventi/in-viaggio-con-luca-sofri-e-la-musica-che-gira-intorno
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251122T140000Z
+DTEND:20251122T173000Z
 LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
-DTSTART:20251122T100000Z
-SUMMARY:Voci dal Post: I giornali\, spiegati bene
-UID:78251ced-491a-4062-91b4-db57550eadc6@7825.org
-URL:https://visitmoncalieri.it/evento/voci-dal-post/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251126T210000Z
-LOCATION:Pisa - Lumière Pisa - Vicolo del Tidi\, 6
-DTSTART:20251126T170000Z
-SUMMARY:Altrecose\, Playlist\, a Pisa
-UID:21f31beb-f934-41bf-b408-e0bfd1191890@21f3.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251203T213000Z
-LOCATION:Mestre - Libreria Il Giralibri - Calle Legrenzi\, 25
-DTSTART:20251203T173000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
-UID:6838847b-9882-4a83-ab08-378e6de88189@6838.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251122T183000Z
-LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
-DTSTART:20251122T143000Z
-SUMMARY:Voci dal Post: Di corpi\, di generazione e di diritti
-UID:3e52490e-4a86-4ddb-85a7-1151805a3845@3e52.org
+DTSTART:20251122T133000Z
+SUMMARY:Voci dal Post: Tutto il mondo fuori. Come si raccontano gli esteri al Post
+UID:8fd829cc-e0d2-47ea-94f7-7fe046fd3b5f@8fd8.org
 URL:https://visitmoncalieri.it/evento/voci-dal-post/
 END:VEVENT
 BEGIN:VEVENT
@@ -74,21 +24,8 @@ DTEND:20251204T213000Z
 LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
 DTSTART:20251204T173000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
-UID:4585ce60-8aa1-4942-b83a-3beb26d190ef@4585.org
+UID:60144b12-7d71-4ee7-b3ab-69d662cbe828@6014.org
 URL:https://www.librerielovat.com/ev/event/luca-sofri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251122T193000Z
-LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
-DTSTART:20251122T153000Z
-SUMMARY:Voci dal Post: Storie d’America e di serial killer
-UID:de3df03f-ccd7-4ee1-912c-434360736b27@de3d.org
-URL:https://visitmoncalieri.it/evento/voci-dal-post/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -100,7 +37,7 @@ DTEND:20251128T000000Z
 LOCATION:Lucca - Studio Malanima - Via Mordini\, 72
 DTSTART:20251127T200000Z
 SUMMARY:Altrecose\, Playlist\, a Lucca
-UID:9d7448e5-031b-479c-a3b9-dc4729b4b5e4@9d74.org
+UID:43b69bc1-cdc8-424a-85a4-e62121be6f42@43b6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -108,11 +45,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251202T220000Z
-LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
-DTSTART:20251202T180000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
-UID:ccaf8039-2bcd-4252-a068-16d8b0cb4f7b@ccaf.org
+DTEND:20251122T183000Z
+LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
+DTSTART:20251122T143000Z
+SUMMARY:Voci dal Post: Di corpi\, di generazione e di diritti
+UID:ad80b7d2-90a3-4607-b1d3-94dedda79ae3@ad80.org
+URL:https://visitmoncalieri.it/evento/voci-dal-post/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -124,7 +62,7 @@ DTEND:20251121T220000Z
 LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
 DTSTART:20251121T180000Z
 SUMMARY:Altrecose\, Playlist\, a Milano
-UID:48180685-e0dd-445b-a07e-ef180c608825@4818.org
+UID:26119f7e-21ec-4ff0-8d91-4a0f6b8d650a@2611.org
 URL:https://www.libreriaverso.com/appuntamenti/playlist/
 END:VEVENT
 BEGIN:VEVENT
@@ -133,11 +71,73 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251122T173000Z
+DTEND:20251126T210000Z
+LOCATION:Pisa - Lumière Pisa - Vicolo del Tidi\, 6
+DTSTART:20251126T170000Z
+SUMMARY:Altrecose\, Playlist\, a Pisa
+UID:9cad9adc-7758-482f-887f-3e5d60bc6024@9cad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251203T213000Z
+LOCATION:Mestre - Libreria Il Giralibri - Calle Legrenzi\, 25
+DTSTART:20251203T173000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
+UID:42a5b28d-dc55-4a91-b9c1-568aa6d9175c@42a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251202T220000Z
+LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
+DTSTART:20251202T180000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
+UID:0c6882aa-68a7-4bdf-926a-7d8d67734b4e@0c68.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251125T000000Z
+LOCATION:Castronno - Materia - Via Confalonieri\, 5
+DTSTART:20251124T200000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Castronno
+UID:a2c29ef2-2060-43c8-b1d9-a90a982322d7@a2c2.org
+URL:https://www.materiaspaziolibero.it/eventi/in-viaggio-con-luca-sofri-e-la-musica-che-gira-intorno
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251122T140000Z
 LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
-DTSTART:20251122T133000Z
-SUMMARY:Voci dal Post: Tutto il mondo fuori. Come si raccontano gli esteri al Post
-UID:d56fe273-164b-41e2-81a1-fb5fc010a0c4@d56f.org
+DTSTART:20251122T100000Z
+SUMMARY:Voci dal Post: I giornali\, spiegati bene
+UID:ad0615f1-1c1d-4265-8d12-bf090629f9c9@ad06.org
+URL:https://visitmoncalieri.it/evento/voci-dal-post/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251122T193000Z
+LOCATION:Moncalieri - Fonderie Limone Moncalieri - Via Pastrengo\, 88
+DTSTART:20251122T153000Z
+SUMMARY:Voci dal Post: Storie d’America e di serial killer
+UID:13333477-f6a3-4df9-ae33-093808e36e44@1333.org
 URL:https://visitmoncalieri.it/evento/voci-dal-post/
 END:VEVENT
 END:VCALENDAR
