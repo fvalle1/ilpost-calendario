@@ -7,35 +7,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251204T213000Z
-LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
-DTSTART:20251204T173000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
-UID:09728e26-2349-43ab-ba58-6c96a86f932e@0972.org
-URL:https://www.librerielovat.com/ev/event/luca-sofri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251202T220000Z
-LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
-DTSTART:20251202T180000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
-UID:494439b9-78e5-49e7-8ca3-34bb8259858c@4944.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20251206T030000Z
 DTSTART:20251205T230000Z
 SUMMARY:A Natale Libri per te
-UID:025e63fc-2ace-48a5-8cd0-a063831b2a42@025e.org
+UID:93fa68a4-9f54-47ea-b045-db1d206efe4a@93fa.org
 URL:https://www.ilpost.it/2025/11/15/peccioli-natale-libri/
 END:VEVENT
 BEGIN:VEVENT
@@ -48,7 +23,32 @@ DTEND:20251126T210000Z
 LOCATION:Pisa - Lumière Pisa - Vicolo del Tidi\, 6
 DTSTART:20251126T170000Z
 SUMMARY:Altrecose\, Playlist\, a Pisa
-UID:f0b82080-39e6-46e5-93d5-ac4d4e599d7e@f0b8.org
+UID:16cdd9c2-5b97-4c4a-8118-4c793d04c240@16cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251211T220000Z
+LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
+DTSTART:20251211T180000Z
+SUMMARY:Altrecose\, Playlist\, a Ivrea
+UID:409ea461-ec40-4085-9098-afe2422dc53b@409e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251204T213000Z
+LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
+DTSTART:20251204T173000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
+UID:b3b6a045-062f-4b73-858e-ab75d30812aa@b3b6.org
+URL:https://www.librerielovat.com/ev/event/luca-sofri/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -60,7 +60,19 @@ DTEND:20251203T213000Z
 LOCATION:Mestre - The HuB-Human Bits - Calle Giovanni Legrenzi
 DTSTART:20251203T173000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
-UID:476d0d7e-8614-4c7e-984e-eb6910a188df@476d.org
+UID:34a6dce6-2cd0-48ee-96d1-4b550a541736@34a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251202T220000Z
+LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
+DTSTART:20251202T180000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
+UID:7a70e344-13f3-49ce-b21d-021545bb25d0@7a70.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -72,19 +84,6 @@ DTEND:20251128T000000Z
 LOCATION:Lucca - Studio Malanima - Via Mordini\, 72
 DTSTART:20251127T200000Z
 SUMMARY:Altrecose\, Playlist\, a Lucca
-UID:82d96540-73b8-4a7f-91f2-36a8cd6c29fa@82d9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251125T000000Z
-LOCATION:Castronno - Materia - Via Confalonieri\, 5
-DTSTART:20251124T200000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Castronno
-UID:9b936ff9-798a-4c20-8474-ad3caa1ca36c@9b93.org
-URL:https://www.materiaspaziolibero.it/eventi/in-viaggio-con-luca-sofri-e-la-musica-che-gira-intorno
+UID:ac3b5e8b-ccc8-4769-a167-1c52c370a88c@ac3b.org
 END:VEVENT
 END:VCALENDAR
