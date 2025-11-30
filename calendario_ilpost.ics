@@ -7,12 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251204T213000Z
-LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
-DTSTART:20251204T173000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
-UID:f9ab2eff-13a8-4e89-a633-cd0e811df0c3@f9ab.org
-URL:https://www.librerielovat.com/ev/event/luca-sofri/
+DTEND:20251213T203000Z
+LOCATION:Ravenna - Bronson Café - Via Cella\, 46
+DTSTART:20251213T163000Z
+SUMMARY:COSE Spiegate bene\, La musica che gira intorno\, a Ravenna
+UID:8efcbfbf-070b-47cd-bef4-83b50b6b362a@8efc.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -24,31 +23,7 @@ DTEND:20251202T220000Z
 LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
 DTSTART:20251202T180000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
-UID:dd94aadf-b60d-4310-879f-cd2dd99e9c90@dd94.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251211T220000Z
-LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
-DTSTART:20251211T180000Z
-SUMMARY:Altrecose\, Playlist\, a Ivrea
-UID:4bf49bbc-19f6-41a2-86e0-e2645e104197@4bf4.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251213T203000Z
-LOCATION:Ravenna - Bronson Café - Via Cella\, 46
-DTSTART:20251213T163000Z
-SUMMARY:COSE Spiegate bene\, La musica che gira intorno\, a Ravenna
-UID:66e344f5-82ec-48d3-ba85-c13142909592@66e3.org
+UID:0daca12f-c74c-4783-961d-fcd0392420cd@0dac.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -59,7 +34,7 @@ END:VALARM
 DTEND:20251206T030000Z
 DTSTART:20251205T230000Z
 SUMMARY:A Natale Libri per te
-UID:fb19868e-0ace-46fb-bb2d-0530409d4da6@fb19.org
+UID:a65a0935-646f-4f05-8f31-ad2fd4f24523@a65a.org
 URL:https://www.ilpost.it/2025/11/15/peccioli-natale-libri/
 END:VEVENT
 BEGIN:VEVENT
@@ -72,6 +47,31 @@ DTEND:20251203T213000Z
 LOCATION:Mestre - The HuB-Human Bits - Calle Giovanni Legrenzi
 DTSTART:20251203T173000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
-UID:84efd63e-7f27-4a63-8a9b-ba0756b71085@84ef.org
+UID:52d07540-5ae4-4fd6-842c-b776e5faa627@52d0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251211T220000Z
+LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
+DTSTART:20251211T180000Z
+SUMMARY:Altrecose\, Playlist\, a Ivrea
+UID:8593fbfc-adf8-4a27-9372-99bee50512e0@8593.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251204T213000Z
+LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
+DTSTART:20251204T173000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
+UID:1415a968-7f32-46b4-b1bb-e512730d60c0@1415.org
+URL:https://www.librerielovat.com/ev/event/luca-sofri/
 END:VEVENT
 END:VCALENDAR
