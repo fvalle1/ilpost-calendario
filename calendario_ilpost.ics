@@ -7,35 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251213T203000Z
-LOCATION:Ravenna - Bronson Café - Via Cella\, 46
-DTSTART:20251213T163000Z
-SUMMARY:COSE Spiegate bene\, La musica che gira intorno\, a Ravenna
-UID:8efcbfbf-070b-47cd-bef4-83b50b6b362a@8efc.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251202T220000Z
-LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
-DTSTART:20251202T180000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
-UID:0daca12f-c74c-4783-961d-fcd0392420cd@0dac.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251206T030000Z
-DTSTART:20251205T230000Z
-SUMMARY:A Natale Libri per te
-UID:a65a0935-646f-4f05-8f31-ad2fd4f24523@a65a.org
-URL:https://www.ilpost.it/2025/11/15/peccioli-natale-libri/
+DTEND:20251211T220000Z
+LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
+DTSTART:20251211T180000Z
+SUMMARY:Altrecose\, Playlist\, a Ivrea
+UID:038cfdea-1716-4b55-93c0-760d5952e200@038c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,7 +23,7 @@ DTEND:20251203T213000Z
 LOCATION:Mestre - The HuB-Human Bits - Calle Giovanni Legrenzi
 DTSTART:20251203T173000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
-UID:52d07540-5ae4-4fd6-842c-b776e5faa627@52d0.org
+UID:ac673213-f237-4aed-8240-256013d86c31@ac67.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -55,11 +31,35 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251211T220000Z
-LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
-DTSTART:20251211T180000Z
-SUMMARY:Altrecose\, Playlist\, a Ivrea
-UID:8593fbfc-adf8-4a27-9372-99bee50512e0@8593.org
+DTEND:20251213T203000Z
+LOCATION:Ravenna - Bronson Café - Via Cella\, 46
+DTSTART:20251213T163000Z
+SUMMARY:COSE Spiegate bene\, La musica che gira intorno\, a Ravenna
+UID:4dd4455a-c96c-4051-bf99-1db56c870bc7@4dd4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251206T030000Z
+DTSTART:20251205T230000Z
+SUMMARY:A Natale Libri per te
+UID:9b75361c-91a7-48e9-aa07-a367ca87a5c6@9b75.org
+URL:https://www.ilpost.it/2025/11/15/peccioli-natale-libri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251202T220000Z
+LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
+DTSTART:20251202T180000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
+UID:c7b3d6be-8d30-4f1b-8fd8-3ba5aa263553@c7b3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -71,7 +71,7 @@ DTEND:20251204T213000Z
 LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
 DTSTART:20251204T173000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
-UID:1415a968-7f32-46b4-b1bb-e512730d60c0@1415.org
+UID:cf5e81d6-6696-4d2f-8d9c-1e7ff764d7e9@cf5e.org
 URL:https://www.librerielovat.com/ev/event/luca-sofri/
 END:VEVENT
 END:VCALENDAR
