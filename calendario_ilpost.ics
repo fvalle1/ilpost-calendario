@@ -7,11 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251211T220000Z
-LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
-DTSTART:20251211T180000Z
-SUMMARY:Altrecose\, Playlist\, a Ivrea
-UID:038cfdea-1716-4b55-93c0-760d5952e200@038c.org
+DTEND:20251210T213000Z
+LOCATION:Torino - NH Carlina\, Sala San Massimo - P.za Carlo Emanuele II\, 15
+DTSTART:20251210T173000Z
+SUMMARY:Playlist (Altrecose) a Torino
+UID:29d0b305-2192-4106-9d6f-fea32ebcc3d6@29d0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -23,19 +23,7 @@ DTEND:20251203T213000Z
 LOCATION:Mestre - The HuB-Human Bits - Calle Giovanni Legrenzi
 DTSTART:20251203T173000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
-UID:ac673213-f237-4aed-8240-256013d86c31@ac67.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251213T203000Z
-LOCATION:Ravenna - Bronson Café - Via Cella\, 46
-DTSTART:20251213T163000Z
-SUMMARY:COSE Spiegate bene\, La musica che gira intorno\, a Ravenna
-UID:4dd4455a-c96c-4051-bf99-1db56c870bc7@4dd4.org
+UID:c539cf04-69ca-40e0-a487-7a705d6227b4@c539.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -46,8 +34,20 @@ END:VALARM
 DTEND:20251206T030000Z
 DTSTART:20251205T230000Z
 SUMMARY:A Natale Libri per te
-UID:9b75361c-91a7-48e9-aa07-a367ca87a5c6@9b75.org
+UID:b78cd0ff-2fab-492d-828d-28f191694539@b78c.org
 URL:https://www.ilpost.it/2025/11/15/peccioli-natale-libri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251211T220000Z
+LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
+DTSTART:20251211T180000Z
+SUMMARY:Playlist (Altrecose)\, a Ivrea
+UID:6b505969-90db-4c16-848c-d75bfecb19b5@6b50.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -59,7 +59,19 @@ DTEND:20251202T220000Z
 LOCATION:San Donà di Piave - Libreria Raggiungibile - Vicolo Nuovo\, 4
 DTSTART:20251202T180000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a San Donà di Piave
-UID:c7b3d6be-8d30-4f1b-8fd8-3ba5aa263553@c7b3.org
+UID:05081418-fed2-4734-8492-1569e69da724@0508.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20251213T203000Z
+LOCATION:Ravenna - Bronson Café - Via Cella\, 46
+DTSTART:20251213T163000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene)\, a Ravenna
+UID:f55dfd56-9072-4783-854f-e1f00fb6a89c@f55d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -71,7 +83,7 @@ DTEND:20251204T213000Z
 LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
 DTSTART:20251204T173000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
-UID:cf5e81d6-6696-4d2f-8d9c-1e7ff764d7e9@cf5e.org
+UID:8acd4094-6113-43ec-ae07-029e58aa8c15@8acd.org
 URL:https://www.librerielovat.com/ev/event/luca-sofri/
 END:VEVENT
 END:VCALENDAR
