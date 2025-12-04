@@ -7,11 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251213T203000Z
-LOCATION:Ravenna - Bronson Café - Via Cella\, 46
-DTSTART:20251213T163000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene)\, a Ravenna
-UID:b1547834-6d2e-4358-a3ce-562b4cfedf3c@b154.org
+DTEND:20251211T220000Z
+LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
+DTSTART:20251211T180000Z
+SUMMARY:Playlist (Altrecose)\, a Ivrea
+UID:ac36c762-290f-4dab-8ffb-68b0c50e7296@ac36.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -23,7 +23,7 @@ DTEND:20251204T213000Z
 LOCATION:Villorba - Libreria Lovat - Via Isaac Newton\, 32
 DTSTART:20251204T173000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Villorba
-UID:dac3fab1-1559-48cc-98d6-c678d21014d7@dac3.org
+UID:66714431-9817-4f77-b7e9-428f3d4174d4@6671.org
 URL:https://www.librerielovat.com/ev/event/luca-sofri/
 END:VEVENT
 BEGIN:VEVENT
@@ -32,23 +32,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20251203T213000Z
-LOCATION:Mestre - The HuB-Human Bits - Calle Giovanni Legrenzi
-DTSTART:20251203T173000Z
-SUMMARY:La musica che gira intorno (COSE Spiegate bene) e Playlist (Altrecose)\, a Mestre
-UID:4bf9ab69-e904-4085-82e5-77a28cbc91ea@4bf9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20251211T220000Z
-LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
-DTSTART:20251211T180000Z
-SUMMARY:Playlist (Altrecose)\, a Ivrea
-UID:e900b2fc-33db-4dd2-bab6-23a3cae3d71d@e900.org
+DTEND:20251213T203000Z
+LOCATION:Ravenna - Bronson Café - Via Cella\, 46
+DTSTART:20251213T163000Z
+SUMMARY:La musica che gira intorno (COSE Spiegate bene)\, a Ravenna
+UID:574bc31e-e32d-431a-b48f-f85349e36158@574b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -59,7 +47,7 @@ END:VALARM
 DTEND:20251206T030000Z
 DTSTART:20251205T230000Z
 SUMMARY:A Natale Libri per te
-UID:8e36fff9-be49-4c2d-a6fb-0c8f040e7c78@8e36.org
+UID:ddf53b0c-34de-433e-b0fa-dc1a7af43456@ddf5.org
 URL:https://www.ilpost.it/2025/11/15/peccioli-natale-libri/
 END:VEVENT
 BEGIN:VEVENT
@@ -72,6 +60,6 @@ DTEND:20251210T213000Z
 LOCATION:Torino - NH Carlina\, Sala San Massimo - P.za Carlo Emanuele II\, 15
 DTSTART:20251210T173000Z
 SUMMARY:Playlist (Altrecose) a Torino
-UID:62ac6663-c489-4180-ad57-db32e77fb78f@62ac.org
+UID:d78fed49-e75f-4f3a-b5fa-d34ed9253647@d78f.org
 END:VEVENT
 END:VCALENDAR
