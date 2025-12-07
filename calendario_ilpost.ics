@@ -11,7 +11,7 @@ DTEND:20251213T203000Z
 LOCATION:Ravenna - Bronson Café - Via Cella\, 46
 DTSTART:20251213T163000Z
 SUMMARY:La musica che gira intorno (COSE Spiegate bene)\, a Ravenna
-UID:96f6021f-85d4-415f-9963-d1cd903c0e89@96f6.org
+UID:b188328a-2dfb-41ed-bb96-9116007ca355@b188.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -23,7 +23,7 @@ DTEND:20251211T220000Z
 LOCATION:Ivrea - Libreria La Galleria Del Libro - Via Palestro\, 70
 DTSTART:20251211T180000Z
 SUMMARY:Playlist (Altrecose)\, a Ivrea
-UID:f272cd1a-a9d3-4527-a789-df109778ded8@f272.org
+UID:b8bb27f1-827f-44af-afd0-7446deb4fa54@b8bb.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,6 +35,6 @@ DTEND:20251210T213000Z
 LOCATION:Torino - NH Carlina\, Sala San Massimo - P.za Carlo Emanuele II\, 15
 DTSTART:20251210T173000Z
 SUMMARY:Playlist (Altrecose) a Torino
-UID:9c3a92cb-e8ca-4f29-aaf6-f4471658ea75@9c3a.org
+UID:5c96cd10-c525-44ff-994a-946b8abbc119@5c96.org
 END:VEVENT
 END:VCALENDAR
