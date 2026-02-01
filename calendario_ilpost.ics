@@ -7,11 +7,36 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:eafae28b-b792-43ce-8fa4-c47915fc80a3@eafa.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260227T180000Z
+LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
+DTSTART:20260227T140000Z
+SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
+UID:607a40c7-0cdb-4ab6-805c-2e116bb7885a@607a.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20260214T130000Z
 LOCATION:Cremona - Teatro Ponchielli - Corso Vittorio Emanuele II\, 52
 DTSTART:20260214T090000Z
 SUMMARY:TALK\, a Cremona il 14 febbraio
-UID:5d32226b-52c7-43d1-bdb1-73b139401bdb@5d32.org
+UID:008e223c-5bf6-44b5-bc33-905ae7557f10@008e.org
 URL:https://www.ilpost.it/2026/01/19/talk-cremona-2026/?homepagePosition=2
 END:VEVENT
 BEGIN:VEVENT
@@ -24,20 +49,7 @@ DTEND:20260411T120000Z
 LOCATION:Torino - OGR - Corso Castelfidardo\, 22
 DTSTART:20260411T080000Z
 SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:c4728e78-1d17-495e-8435-70dadc4f5ba0@c472.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260227T180000Z
-LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
-DTSTART:20260227T140000Z
-SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
-UID:6e0ec014-3eb6-49cf-8f6e-2c1e65568cba@6e0e.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+UID:e233f8ea-32e3-4dff-b2d0-d8fe6e15b8c4@e233.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -49,33 +61,8 @@ DTEND:20260704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260704T193000Z
 SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:1d913543-768a-4462-9aa6-4109e310565e@1d91.org
+UID:21ffbb66-3287-4189-9b13-c0ce5ef5a6a1@21ff.org
 URL:https://info.ilpost.it/hc/it/articles/32887882112018-Daniele-Silvestri-e-i-James-a-Peccioli-3-e-4-luglio-2026
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:720cf203-2583-44a7-be19-2032c0d87ad4@720c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260228T130000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260228T090000Z
-SUMMARY:A Testo\, con la rassegna stampa del Post
-UID:e4d46732-dd4a-49bc-85a2-6b4157e0ee28@e4d4.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -87,7 +74,20 @@ DTEND:20260211T000000Z
 LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
 DTSTART:20260210T200000Z
 SUMMARY:Allegramente pessimista – “L’orologio” di Carlo Levi
-UID:304b2fb5-ce19-4dc9-8cfd-ad626225396c@304b.org
+UID:6d381e93-9a04-4fab-9e4f-d1f71a6406fd@6d38.org
 URL:https://www.ilpost.it/2026/01/13/perche-italia-non-e-cambiata-spettacolo-piccolo-teatro/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260228T130000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260228T090000Z
+SUMMARY:A Testo\, con la rassegna stampa del Post
+UID:03f861fd-7629-4b3f-8a3f-2336f5d7ef25@03f8.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 END:VCALENDAR
