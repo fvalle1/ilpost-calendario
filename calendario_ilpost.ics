@@ -7,75 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260703T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260703T193000Z
-SUMMARY:Daniele Silvestri\, live acustico
-UID:f555120c-202a-401a-b108-cb94131d6a4f@f555.org
-URL:https://info.ilpost.it/hc/it/articles/32887882112018-Daniele-Silvestri-e-i-James-a-Peccioli-3-e-4-luglio-2026
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260214T130000Z
-LOCATION:Cremona - Teatro Ponchielli - Corso Vittorio Emanuele II\, 52
-DTSTART:20260214T090000Z
-SUMMARY:TALK\, a Cremona il 14 febbraio
-UID:fcd6d3d3-11c2-4397-9c95-9d38d1305f74@fcd6.org
-URL:https://www.ilpost.it/2026/01/19/talk-cremona-2026/?homepagePosition=2
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260411T120000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20260411T080000Z
-SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:e12cabee-c369-4d79-b6f3-88e8544e2775@e12c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:171ae169-ac00-4011-b8de-589e00efb25c@171a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260301T200000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260301T160000Z
-SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
-UID:414f7e20-bf9c-415d-9b1b-70b6691672c1@414f.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260228T130000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260228T090000Z
-SUMMARY:A Testo\, con la rassegna stampa del Post
-UID:ae9f860f-d940-4c56-af75-cc960a1ae14c@ae9f.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+DTEND:20260218T213000Z
+LOCATION:Milano - NOISE - Via Ascanio Sforza\, 49
+DTSTART:20260218T173000Z
+SUMMARY:Cinemino? (COSE Spiegate bene)\, a Milano
+UID:2cb5e9a2-fbd1-4f56-8d6e-d9b9dc1616f3@2cb5.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -87,7 +23,7 @@ DTEND:20260227T180000Z
 LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
 DTSTART:20260227T140000Z
 SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
-UID:96bf222b-bb67-49d1-908f-50a4ebd0de39@96bf.org
+UID:90f61d00-2916-46a1-a59c-b65141be5284@90f6.org
 URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
@@ -100,7 +36,96 @@ DTEND:20260211T000000Z
 LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
 DTSTART:20260210T200000Z
 SUMMARY:Allegramente pessimista – “L’orologio” di Carlo Levi
-UID:9193bf41-f07f-4327-a670-23d23d5768cc@9193.org
+UID:fd136256-0ab9-48f7-8003-f48ff9aae1b4@fd13.org
 URL:https://www.ilpost.it/2026/01/13/perche-italia-non-e-cambiata-spettacolo-piccolo-teatro/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260302T220000Z
+LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
+DTSTART:20260302T180000Z
+SUMMARY:Playlist (Altrecose)\, a La Spezia
+UID:d4620f38-9695-4c1f-a05c-20a55a74c2e8@d462.org
+URL:https://sunspace.it/eventi/luca-sofri-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260228T130000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260228T090000Z
+SUMMARY:A Testo\, con la rassegna stampa del Post
+UID:33000fcb-67ab-4d0d-98d6-01186e400598@3300.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260411T120000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20260411T080000Z
+SUMMARY:Voices\, a Torino l’11 e il 12 aprile
+UID:b365abef-1e52-4740-83da-64b5d1df78fa@b365.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260214T130000Z
+LOCATION:Cremona - Teatro Ponchielli - Corso Vittorio Emanuele II\, 52
+DTSTART:20260214T090000Z
+SUMMARY:TALK\, a Cremona il 14 febbraio
+UID:e67d242a-ff8c-4811-8f44-58bdd37d9f8c@e67d.org
+URL:https://www.ilpost.it/2026/01/19/talk-cremona-2026/?homepagePosition=2
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260703T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260703T193000Z
+SUMMARY:Daniele Silvestri\, live acustico
+UID:25888bcf-d196-497f-a408-7b3c4e959911@2588.org
+URL:https://www.ticketone.it/event/daniele-silvestri-live-acustico-anfiteatro-fonte-mazzola-21245909/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:aa691c92-0898-46da-9cc6-aeeb8be76064@aa69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260301T200000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260301T160000Z
+SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
+UID:1f588f83-7848-4515-a0c1-5fbf086f0129@1f58.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 END:VCALENDAR
