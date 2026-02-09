@@ -7,62 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:2d85a2d6-3f60-4788-91f0-724da62b37ad@2d85.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260302T220000Z
-LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
-DTSTART:20260302T180000Z
-SUMMARY:Playlist (Altrecose)\, a La Spezia
-UID:9b47a120-38f4-4999-83de-47ff032cc31e@9b47.org
-URL:https://sunspace.it/eventi/luca-sofri-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260227T180000Z
-LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
-DTSTART:20260227T140000Z
-SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
-UID:77cc8ce8-7e83-4600-b30f-bb3f2de08ab8@77cc.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260301T200000Z
+DTEND:20260228T130000Z
 LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260301T160000Z
-SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
-UID:e42f5602-4ca2-430a-90ee-eda3040353b5@e42f.org
+DTSTART:20260228T090000Z
+SUMMARY:A Testo\, con la rassegna stampa del Post
+UID:b42e464c-ce9e-4fcc-8ce3-a61acd1685fa@b42e.org
 URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260411T120000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20260411T080000Z
-SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:42f6b805-2101-4b58-b8d1-9d1c5bfa8bb7@42f6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -74,21 +24,8 @@ DTEND:20260214T130000Z
 LOCATION:Cremona - Teatro Ponchielli - Corso Vittorio Emanuele II\, 52
 DTSTART:20260214T090000Z
 SUMMARY:TALK\, a Cremona il 14 febbraio
-UID:d0da1f4c-ae6a-465a-8117-e80f2e2a3044@d0da.org
+UID:d0c6b5e4-ff6e-41fd-86ba-3ab9a8c09013@d0c6.org
 URL:https://www.ilpost.it/2026/01/19/talk-cremona-2026/?homepagePosition=2
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260703T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260703T193000Z
-SUMMARY:Daniele Silvestri\, live acustico
-UID:d830e9de-4913-4c3a-8dbe-ab756ba9e86b@d830.org
-URL:https://www.ticketone.it/event/daniele-silvestri-live-acustico-anfiteatro-fonte-mazzola-21245909/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -100,7 +37,7 @@ DTEND:20260211T000000Z
 LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
 DTSTART:20260210T200000Z
 SUMMARY:Allegramente pessimista – L’orologio di Carlo Levi
-UID:ffce274d-1c3f-4718-9066-8ba6ae137c13@ffce.org
+UID:caff727b-89b4-44d4-868a-943346f344c3@caff.org
 URL:https://www.ilpost.it/2026/01/13/perche-italia-non-e-cambiata-spettacolo-piccolo-teatro/
 END:VEVENT
 BEGIN:VEVENT
@@ -109,12 +46,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260228T130000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260228T090000Z
-SUMMARY:A Testo\, con la rassegna stampa del Post
-UID:712021e4-9989-48a4-a17d-32678e4b8716@7120.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+DTEND:20260411T120000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20260411T080000Z
+SUMMARY:Voices\, a Torino l’11 e il 12 aprile
+UID:5e013391-7bb2-4a47-9f4e-529bee3b7e28@5e01.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -126,8 +62,46 @@ DTEND:20260303T213000Z
 LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
 DTSTART:20260303T173000Z
 SUMMARY:Playlist (Altrecose)\, a Genova
-UID:5d7c3ab3-1d16-4bee-8cb6-49664a71763b@5d7c.org
+UID:f369b34c-4500-45e0-bdd6-343f9d93f69d@f369.org
 URL:https://palazzoducale.genova.it/evento/luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:de3184c3-6051-4be6-b9a0-8aa07d667bfa@de31.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260703T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260703T193000Z
+SUMMARY:Daniele Silvestri\, live acustico
+UID:d644c080-6808-4bd7-879f-96a182d352ec@d644.org
+URL:https://www.ticketone.it/event/daniele-silvestri-live-acustico-anfiteatro-fonte-mazzola-21245909/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260227T180000Z
+LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
+DTSTART:20260227T140000Z
+SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
+UID:15994adb-8db9-4247-8654-abef1aef9e2c@1599.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -139,6 +113,32 @@ DTEND:20260218T213000Z
 LOCATION:Milano - NOISE - Via Ascanio Sforza\, 49
 DTSTART:20260218T173000Z
 SUMMARY:Cinemino? (COSE Spiegate bene)\, a Milano
-UID:9802d802-a972-41d5-a156-fc4cab39b229@9802.org
+UID:e6cda671-afe1-4130-a838-004c94f07faa@e6cd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260301T200000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260301T160000Z
+SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
+UID:e07dbc5d-d74d-49d0-ba35-1189f5549474@e07d.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260302T220000Z
+LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
+DTSTART:20260302T180000Z
+SUMMARY:Playlist (Altrecose)\, a La Spezia
+UID:95e3a857-ad10-4841-883a-3ffb976288d9@95e3.org
+URL:https://sunspace.it/eventi/luca-sofri-2/
 END:VEVENT
 END:VCALENDAR
