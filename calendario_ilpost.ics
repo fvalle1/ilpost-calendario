@@ -7,11 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260411T120000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20260411T080000Z
-SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:77dcce17-d7a3-47a6-9b37-2d6a625497f9@77dc.org
+DTEND:20260703T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260703T193000Z
+SUMMARY:Daniele Silvestri\, live acustico
+UID:28abd95d-121f-4705-a73e-606fd193e4fb@28ab.org
+URL:https://www.ticketone.it/event/daniele-silvestri-live-acustico-anfiteatro-fonte-mazzola-21245909/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -23,7 +24,7 @@ DTEND:20260303T213000Z
 LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
 DTSTART:20260303T173000Z
 SUMMARY:Playlist (Altrecose)\, a Genova
-UID:bda15884-a335-407b-a4c1-815a4e6cb2b1@bda1.org
+UID:e99e2d76-a372-4847-b858-cf57ba203c81@e99e.org
 URL:https://palazzoducale.genova.it/evento/luca-sofri/
 END:VEVENT
 BEGIN:VEVENT
@@ -36,58 +37,7 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:b1f57627-d915-4c31-a4f3-5d9157cd8345@b1f5.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260214T130000Z
-LOCATION:Cremona - Teatro Ponchielli - Corso Vittorio Emanuele II\, 52
-DTSTART:20260214T090000Z
-SUMMARY:TALK\, a Cremona il 14 febbraio
-UID:cecb1667-108f-460a-8bdd-e4803ed66dba@cecb.org
-URL:https://www.ilpost.it/2026/01/19/talk-cremona-2026/?homepagePosition=2
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260302T220000Z
-LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
-DTSTART:20260302T180000Z
-SUMMARY:Playlist (Altrecose)\, a La Spezia
-UID:05773f9f-9e81-4250-b38e-14da46e633a8@0577.org
-URL:https://sunspace.it/eventi/luca-sofri-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260218T213000Z
-LOCATION:Milano - NOISE - Via Ascanio Sforza\, 49
-DTSTART:20260218T173000Z
-SUMMARY:Cinemino? (COSE Spiegate bene)\, a Milano
-UID:942c55ba-c93c-48e6-8f6e-8c972faff7ce@942c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260703T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260703T193000Z
-SUMMARY:Daniele Silvestri\, live acustico
-UID:d21c01ac-8c91-40d0-b0dd-3c56eeacfcb2@d21c.org
-URL:https://www.ticketone.it/event/daniele-silvestri-live-acustico-anfiteatro-fonte-mazzola-21245909/
+UID:f88ddfa9-f314-4351-8284-0c2bcdca82fc@f88d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -99,7 +49,7 @@ DTEND:20260222T140000Z
 LOCATION:Modena - Cinema Arena - Viale A. Tassoni\, 8 / Via Lodovico Antonio Vincenzi\, 3-5-7
 DTSTART:20260222T100000Z
 SUMMARY:Consigli su come informarsi meglio: una lezione con Francesco Costa
-UID:4d6f2895-5dc8-487b-b3a4-4f4ea5b79761@4d6f.org
+UID:198b6dd9-acec-4725-88d6-9917539ef606@198b.org
 URL:https://www.learningmorefestival.it/i/694a7574aa8df582b8e07b4a/
 END:VEVENT
 BEGIN:VEVENT
@@ -108,25 +58,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260227T180000Z
-LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
-DTSTART:20260227T140000Z
-SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
-UID:133e321d-7200-4173-a36b-d146ba6b69e0@133e.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260228T130000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260228T090000Z
-SUMMARY:A Testo\, con la rassegna stampa del Post
-UID:726a9d44-a52e-46fa-b9b4-935da45fabc9@726a.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+DTEND:20260218T213000Z
+LOCATION:Milano - NOISE - Via Ascanio Sforza\, 49
+DTSTART:20260218T173000Z
+SUMMARY:Cinemino? (COSE Spiegate bene)\, a Milano
+UID:40bfb006-35a9-461e-9182-6098b8ebe38f@40bf.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -138,7 +74,58 @@ DTEND:20260301T200000Z
 LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
 DTSTART:20260301T160000Z
 SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
-UID:4b46a73a-44a2-41b8-93b7-d57dd74d7ed3@4b46.org
+UID:3e5a53eb-6eda-469d-801f-080a827d236e@3e5a.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260227T180000Z
+LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
+DTSTART:20260227T140000Z
+SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
+UID:8706635e-0f1b-41c3-8f04-10f2497d7d79@8706.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260411T120000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20260411T080000Z
+SUMMARY:Voices\, a Torino l’11 e il 12 aprile
+UID:d90db046-7776-47af-a957-510824594e8c@d90d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260302T220000Z
+LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
+DTSTART:20260302T180000Z
+SUMMARY:Playlist (Altrecose)\, a La Spezia
+UID:8f1cbf0f-d79a-4b8e-acae-34fff739f210@8f1c.org
+URL:https://sunspace.it/eventi/luca-sofri-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260228T130000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260228T090000Z
+SUMMARY:A Testo\, con la rassegna stampa del Post
+UID:75d4c5c5-2473-4153-9709-1a521b3ca071@75d4.org
 URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 END:VCALENDAR
