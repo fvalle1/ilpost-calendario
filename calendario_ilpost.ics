@@ -7,12 +7,36 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260222T140000Z
-LOCATION:Modena - Cinema Arena - Viale A. Tassoni\, 8 / Via Lodovico Antonio Vincenzi\, 3-5-7
-DTSTART:20260222T100000Z
-SUMMARY:Consigli su come informarsi meglio: una lezione con Francesco Costa
-UID:f44bd4e1-79ac-4a80-a019-f5eb0347bcc1@f44b.org
-URL:https://www.learningmorefestival.it/i/694a7574aa8df582b8e07b4a/
+DTEND:20260303T213000Z
+LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
+DTSTART:20260303T173000Z
+SUMMARY:Playlist (Altrecose)\, a Genova
+UID:53d0d976-4e44-431f-a2a0-09e67bf47708@53d0.org
+URL:https://palazzoducale.genova.it/evento/luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260411T120000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20260411T080000Z
+SUMMARY:Voices\, a Torino l’11 e il 12 aprile
+UID:4b6cb86c-a632-4559-99b5-086610bbf559@4b6c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:b228da26-5e29-4dd9-8d2d-c3c42e06b1d2@b228.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -24,33 +48,7 @@ DTEND:20260227T180000Z
 LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
 DTSTART:20260227T140000Z
 SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
-UID:ea8dd312-04bb-4ab1-b98c-064bf1d496b2@ea8d.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260301T200000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260301T160000Z
-SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
-UID:958f0eed-17c0-4594-80ce-4feb2950e4b7@958f.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260228T130000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260228T090000Z
-SUMMARY:A Testo\, con la rassegna stampa del Post
-UID:4314e4ec-5cc4-4078-bd57-5d539e346ad1@4314.org
+UID:8bf2d8d6-f7ec-4217-b42e-76e2e50d7175@8bf2.org
 URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
@@ -63,44 +61,7 @@ DTEND:20260218T213000Z
 LOCATION:Milano - NOISE - Via Ascanio Sforza\, 49
 DTSTART:20260218T173000Z
 SUMMARY:Cinemino? (COSE Spiegate bene)\, a Milano
-UID:c42ba584-1cf0-4b0e-b248-594c59a22c05@c42b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:655ca44a-7650-444b-aa74-b44f8115a700@655c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260411T120000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20260411T080000Z
-SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:09bd1262-4b81-47b0-8abc-7fe4d6804dbb@09bd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260302T220000Z
-LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
-DTSTART:20260302T180000Z
-SUMMARY:Playlist (Altrecose)\, a La Spezia
-UID:ce0ccc90-fda5-4747-9009-9858716cdaee@ce0c.org
-URL:https://sunspace.it/eventi/luca-sofri-2/
+UID:c3ce49c7-6fe6-4504-ae4b-8692d2f8a6a5@c3ce.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -112,7 +73,7 @@ DTEND:20260703T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260703T193000Z
 SUMMARY:Daniele Silvestri\, live acustico
-UID:67488fb1-5190-4130-8dac-60f97ff021f9@6748.org
+UID:21803e0b-c601-43f8-93ac-5ef7c7146f78@2180.org
 URL:https://www.ticketone.it/event/daniele-silvestri-live-acustico-anfiteatro-fonte-mazzola-21245909/
 END:VEVENT
 BEGIN:VEVENT
@@ -121,11 +82,50 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260303T213000Z
-LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
-DTSTART:20260303T173000Z
-SUMMARY:Playlist (Altrecose)\, a Genova
-UID:1486b3ba-8b69-4b91-815d-d1e6a4822ae8@1486.org
-URL:https://palazzoducale.genova.it/evento/luca-sofri/
+DTEND:20260302T220000Z
+LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
+DTSTART:20260302T180000Z
+SUMMARY:Playlist (Altrecose)\, a La Spezia
+UID:f964e962-bacd-4e21-91ea-fc33dca26e1a@f964.org
+URL:https://sunspace.it/eventi/luca-sofri-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260222T140000Z
+LOCATION:Modena - Cinema Arena - Viale A. Tassoni\, 8 / Via Lodovico Antonio Vincenzi\, 3-5-7
+DTSTART:20260222T100000Z
+SUMMARY:Consigli su come informarsi meglio: una lezione con Francesco Costa
+UID:2c6d378b-e49a-41ab-b352-e0a0be3c5214@2c6d.org
+URL:https://www.learningmorefestival.it/i/694a7574aa8df582b8e07b4a/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260228T130000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260228T090000Z
+SUMMARY:A Testo\, con la rassegna stampa del Post
+UID:10004f5e-ef21-4847-b364-89919a3a191c@1000.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260301T200000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260301T160000Z
+SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
+UID:9ddfd65c-f5fd-4366-929d-f25f66533a86@9ddf.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 END:VCALENDAR
