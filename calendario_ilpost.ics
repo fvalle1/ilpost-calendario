@@ -7,50 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260227T180000Z
-LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
-DTSTART:20260227T140000Z
-SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
-UID:2fe16e58-29e2-4f75-8ed1-a9821c4350fc@2fe1.org
+DTEND:20260228T130000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260228T090000Z
+SUMMARY:A Testo\, con la rassegna stampa del Post
+UID:b4001b61-7dee-485b-8766-167859963bb3@b400.org
 URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:7050a6a5-df83-4379-bf87-7adb466da0d6@7050.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260321T140000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260321T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:dcdee359-265f-431b-ad12-8cdc97a19490@dcde.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260302T220000Z
-LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
-DTSTART:20260302T180000Z
-SUMMARY:Playlist (Altrecose)\, a La Spezia
-UID:1953f88f-7a44-479d-9c55-e01a72d41343@1953.org
-URL:https://sunspace.it/eventi/luca-sofri-2/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -62,8 +24,21 @@ DTEND:20260704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260704T193000Z
 SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:812ccb94-c023-4c75-8cc7-971e005c4fbc@812c.org
+UID:5617e09c-45c9-4396-a2da-f75329567cad@5617.org
 URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260227T180000Z
+LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
+DTSTART:20260227T140000Z
+SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
+UID:aab006a0-e629-4627-8828-fcd65001761b@aab0.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -75,8 +50,33 @@ DTEND:20260303T213000Z
 LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
 DTSTART:20260303T173000Z
 SUMMARY:Playlist (Altrecose)\, a Genova
-UID:84597f3b-7d69-405f-8ee5-eee2a84a901e@8459.org
+UID:28520087-b301-4181-bdd6-105aeed96f92@2852.org
 URL:https://palazzoducale.genova.it/evento/luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260321T140000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260321T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:ac40b448-1dba-4828-a733-86afcd1a07be@ac40.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:1d16f6ac-3ea8-4d83-9195-b611e25c9a5f@1d16.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -88,20 +88,7 @@ DTEND:20260411T120000Z
 LOCATION:Torino - OGR - Corso Castelfidardo\, 22
 DTSTART:20260411T080000Z
 SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:fc87f335-70f8-4b7e-b542-75ded2f47adb@fc87.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260222T140000Z
-LOCATION:Modena - Cinema Arena - Viale A. Tassoni\, 8 / Via Lodovico Antonio Vincenzi\, 3-5-7
-DTSTART:20260222T100000Z
-SUMMARY:Consigli su come informarsi meglio: una lezione con Francesco Costa
-UID:69cd702c-81e2-46ff-af7b-cb8a36fb3156@69cd.org
-URL:https://www.learningmorefestival.it/i/694a7574aa8df582b8e07b4a/
+UID:0f782516-1152-4f66-997e-759d780589c4@0f78.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -113,7 +100,7 @@ DTEND:20260301T200000Z
 LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
 DTSTART:20260301T160000Z
 SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
-UID:d29dfcce-419d-497a-8d45-1b0dcd5fd1c0@d29d.org
+UID:61297bd2-9f4f-4dfe-b30e-5cc255e8cedf@6129.org
 URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
@@ -122,11 +109,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260228T130000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260228T090000Z
-SUMMARY:A Testo\, con la rassegna stampa del Post
-UID:038f7c85-8209-445a-8654-b3bcb0f83c8f@038f.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+DTEND:20260302T220000Z
+LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
+DTSTART:20260302T180000Z
+SUMMARY:Playlist (Altrecose)\, a La Spezia
+UID:97368304-d3a7-493d-a10e-89789b3654f8@9736.org
+URL:https://sunspace.it/eventi/luca-sofri-2/
 END:VEVENT
 END:VCALENDAR
