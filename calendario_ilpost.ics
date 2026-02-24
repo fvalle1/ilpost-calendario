@@ -7,101 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260228T130000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260228T090000Z
-SUMMARY:A Testo\, con la rassegna stampa del Post
-UID:b4001b61-7dee-485b-8766-167859963bb3@b400.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20260704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260704T193000Z
 SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:5617e09c-45c9-4396-a2da-f75329567cad@5617.org
+UID:d450e261-dd0f-447d-bee7-321941d1236d@d450.org
 URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260227T180000Z
-LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
-DTSTART:20260227T140000Z
-SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
-UID:aab006a0-e629-4627-8828-fcd65001761b@aab0.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260303T213000Z
-LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
-DTSTART:20260303T173000Z
-SUMMARY:Playlist (Altrecose)\, a Genova
-UID:28520087-b301-4181-bdd6-105aeed96f92@2852.org
-URL:https://palazzoducale.genova.it/evento/luca-sofri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260321T140000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260321T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:ac40b448-1dba-4828-a733-86afcd1a07be@ac40.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:1d16f6ac-3ea8-4d83-9195-b611e25c9a5f@1d16.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260411T120000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20260411T080000Z
-SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:0f782516-1152-4f66-997e-759d780589c4@0f78.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260301T200000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260301T160000Z
-SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
-UID:61297bd2-9f4f-4dfe-b30e-5cc255e8cedf@6129.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -113,7 +24,109 @@ DTEND:20260302T220000Z
 LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
 DTSTART:20260302T180000Z
 SUMMARY:Playlist (Altrecose)\, a La Spezia
-UID:97368304-d3a7-493d-a10e-89789b3654f8@9736.org
+UID:f939d6d1-ae18-4a65-b177-6cdcf2de626e@f939.org
 URL:https://sunspace.it/eventi/luca-sofri-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260301T200000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260301T160000Z
+SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
+UID:08b2645f-c3f7-4822-a146-03c8b0ecdfa2@08b2.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260322T210000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20260322T170000Z
+SUMMARY:Book Pride\, Playlist (Altrecose)
+UID:5809dfaa-bcf8-4129-abaa-501b0da3e57d@5809.org
+URL:https://www.bookpride.net/events/251/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260303T213000Z
+LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
+DTSTART:20260303T173000Z
+SUMMARY:Playlist (Altrecose)\, a Genova
+UID:6c7cc047-53c1-45ed-8279-00a4b87db91f@6c7c.org
+URL:https://palazzoducale.genova.it/evento/luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260228T130000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260228T090000Z
+SUMMARY:A Testo\, con la rassegna stampa del Post
+UID:98bf728a-68b2-44b2-b2a3-df06e0c8c150@98bf.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260411T120000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20260411T080000Z
+SUMMARY:Voices\, a Torino l’11 e il 12 aprile
+UID:8551b15e-b6c9-46bc-bc9c-bad36690a683@8551.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:89bcd783-2bdd-413a-85a6-35ec52f4bc30@89bc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260321T140000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260321T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:173de898-edd9-498d-bba5-44fce200f275@173d.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260227T180000Z
+LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
+DTSTART:20260227T140000Z
+SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
+UID:f8d439b6-f685-405b-8417-761d03048f6b@f8d4.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 END:VCALENDAR
