@@ -7,64 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260704T193000Z
-SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:d450e261-dd0f-447d-bee7-321941d1236d@d450.org
-URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20260302T220000Z
 LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
 DTSTART:20260302T180000Z
 SUMMARY:Playlist (Altrecose)\, a La Spezia
-UID:f939d6d1-ae18-4a65-b177-6cdcf2de626e@f939.org
+UID:270d4ce4-7e78-4295-bddd-fc9a569872f8@270d.org
 URL:https://sunspace.it/eventi/luca-sofri-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260301T200000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260301T160000Z
-SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
-UID:08b2645f-c3f7-4822-a146-03c8b0ecdfa2@08b2.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260322T210000Z
-LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20260322T170000Z
-SUMMARY:Book Pride\, Playlist (Altrecose)
-UID:5809dfaa-bcf8-4129-abaa-501b0da3e57d@5809.org
-URL:https://www.bookpride.net/events/251/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260303T213000Z
-LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
-DTSTART:20260303T173000Z
-SUMMARY:Playlist (Altrecose)\, a Genova
-UID:6c7cc047-53c1-45ed-8279-00a4b87db91f@6c7c.org
-URL:https://palazzoducale.genova.it/evento/luca-sofri/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -76,7 +24,7 @@ DTEND:20260228T130000Z
 LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
 DTSTART:20260228T090000Z
 SUMMARY:A Testo\, con la rassegna stampa del Post
-UID:98bf728a-68b2-44b2-b2a3-df06e0c8c150@98bf.org
+UID:9ed9315d-ff9a-4924-95e9-3a114928d044@9ed9.org
 URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
@@ -85,11 +33,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260411T120000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20260411T080000Z
-SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:8551b15e-b6c9-46bc-bc9c-bad36690a683@8551.org
+DTEND:20260303T213000Z
+LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
+DTSTART:20260303T173000Z
+SUMMARY:Playlist (Altrecose)\, a Genova
+UID:1d6a089e-422f-4c30-a58f-b89216d3b01c@1d6a.org
+URL:https://palazzoducale.genova.it/evento/luca-sofri/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -97,11 +46,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:89bcd783-2bdd-413a-85a6-35ec52f4bc30@89bc.org
+DTEND:20260322T210000Z
+LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20260322T170000Z
+SUMMARY:Book Pride\, Playlist (Altrecose)
+UID:77847564-1ad6-4283-ab39-ff787d67532b@7784.org
+URL:https://www.bookpride.net/events/251/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -109,12 +59,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260321T140000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260321T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:173de898-edd9-498d-bba5-44fce200f275@173d.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
+DTEND:20260301T200000Z
+LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
+DTSTART:20260301T160000Z
+SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
+UID:d430be3c-aa3b-4216-b7df-ad80f78042d7@d430.org
+URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -126,7 +76,57 @@ DTEND:20260227T180000Z
 LOCATION:Firenze - Stazione Leopolda - Viale Fratelli Rosselli\, 5
 DTSTART:20260227T140000Z
 SUMMARY:A Testo\, il Premio Vero e il nuovo numero di Altrecose
-UID:f8d439b6-f685-405b-8417-761d03048f6b@f8d4.org
+UID:498f8247-5d34-4458-a233-2a243a37df3e@498f.org
 URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:c4b9c0e8-e9cc-44b1-a699-14217ca44570@c4b9.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260321T140000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260321T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:2cc20ce3-75fe-4766-89ec-a5f356c2dc9e@2cc2.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260704T193000Z
+SUMMARY:James – Il ritorno in Italia dopo 12 anni
+UID:021cc253-d835-4e84-84a4-e06886e9f690@021c.org
+URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260411T120000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20260411T080000Z
+SUMMARY:Voices\, a Torino l’11 e il 12 aprile
+UID:30a12253-f0f5-42c3-84a5-67058520049e@30a1.org
 END:VEVENT
 END:VCALENDAR
