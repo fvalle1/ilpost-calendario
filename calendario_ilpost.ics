@@ -7,25 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260303T213000Z
-LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
-DTSTART:20260303T173000Z
-SUMMARY:Playlist (Altrecose)\, a Genova
-UID:b8a2cb46-787e-4c23-bd42-81237afe710a@b8a2.org
-URL:https://palazzoducale.genova.it/evento/luca-sofri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260321T140000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260321T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:47850737-2d8b-4ef4-8ae5-243f5d5ae797@4785.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
+DTEND:20260704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260704T193000Z
+SUMMARY:James – Il ritorno in Italia dopo 12 anni
+UID:2cb5457d-42ad-4150-9177-dd3f8a25f2c3@2cb5.org
+URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -37,58 +24,8 @@ DTEND:20260322T210000Z
 LOCATION:Milano - Superstudio Maxi - Via Moncucco\, 35
 DTSTART:20260322T170000Z
 SUMMARY:Book Pride\, Playlist (Altrecose)
-UID:397b470b-4777-4d4c-81f4-52b73ca0a183@397b.org
+UID:ff1a81dc-0b75-4609-9245-64c9eed27d28@ff1a.org
 URL:https://www.bookpride.net/events/251/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:a67bc57c-5e40-4b89-a041-c6877a1db12e@a67b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260302T220000Z
-LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
-DTSTART:20260302T180000Z
-SUMMARY:Playlist (Altrecose)\, a La Spezia
-UID:0cc28bf7-3a97-4262-8211-b2a435da6807@0cc2.org
-URL:https://sunspace.it/eventi/luca-sofri-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260411T120000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20260411T080000Z
-SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:5b607847-23e5-4291-aca7-75e5a69d0f4f@5b60.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260704T193000Z
-SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:852d5950-f64d-47a8-823a-659241dec255@852d.org
-URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -100,7 +37,7 @@ DTEND:20260301T200000Z
 LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
 DTSTART:20260301T160000Z
 SUMMARY:A Testo\, con il nuovo numero di COSE Spiegate bene
-UID:59975379-d687-4d88-a2f0-cccafa1302fe@5997.org
+UID:33c14736-b1c7-4006-84b8-d14c58983aaa@33c1.org
 URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
 END:VEVENT
 BEGIN:VEVENT
@@ -109,12 +46,62 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260228T130000Z
-LOCATION:Firenze - Stazione Leopolda - Arena Olivetti - Viale Fratelli Rosselli\, 5
-DTSTART:20260228T090000Z
-SUMMARY:A Testo\, con la rassegna stampa del Post
-UID:1b303162-f8de-46ae-855c-bc065ba37e17@1b30.org
-URL:https://testo.pittimmagine.com/events-calendar/?mtm_campaign=MAG_E_I26_PST&mtm_kwd=web
+DTEND:20260321T140000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260321T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:2989b15d-f764-4b61-a4be-c191e5ddec16@2989.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:c99d87e1-2647-4f68-acba-f4d1c83c02d7@c99d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260411T120000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20260411T080000Z
+SUMMARY:Voices\, a Torino l’11 e il 12 aprile
+UID:04d77dd7-fbe0-4b53-9a0c-748e6cd9e3fb@04d7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260302T220000Z
+LOCATION:La Spezia - SUNSPACE – Via Sapri\, 68
+DTSTART:20260302T180000Z
+SUMMARY:Playlist (Altrecose)\, a La Spezia
+UID:274da3a0-32d5-4b82-a833-dc6d7279f552@274d.org
+URL:https://sunspace.it/eventi/luca-sofri-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260303T213000Z
+LOCATION:Genova - Palazzo Ducale - Piazza Giacomo Matteotti\, 9
+DTSTART:20260303T173000Z
+SUMMARY:Playlist (Altrecose)\, a Genova
+UID:8632dcd5-98a6-4dfb-84e7-54d8d25e8134@8632.org
+URL:https://palazzoducale.genova.it/evento/luca-sofri/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -126,7 +113,7 @@ DTEND:20260306T213000Z
 LOCATION:Novara - Nòva - Viale Francesco Ferrucci\, 2
 DTSTART:20260306T173000Z
 SUMMARY:Playlist (Altrecose)\, a Novara
-UID:e36d6fb7-1564-4839-a856-63515949a7ef@e36d.org
+UID:7dc6d2b9-cda8-411a-ab78-30908e44a642@7dc6.org
 URL:https://www.casermapassalacqua.it/attivita/q:06-03-2026
 END:VEVENT
 END:VCALENDAR
