@@ -11,7 +11,7 @@ DTEND:20260703T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260703T193000Z
 SUMMARY:Daniele Silvestri\, live acustico
-UID:bbf24d22-b312-43da-94aa-190e4cd7e9e4@bbf2.org
+UID:32a09191-661c-4034-93de-69e5dfbcbe8c@32a0.org
 URL:https://www.ticketone.it/event/daniele-silvestri-live-acustico-anfiteatro-fonte-mazzola-21245909/
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +24,7 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:3d032a1f-7b5d-4a92-9497-134f2823359a@3d03.org
+UID:2943c3fe-a008-4929-9e25-017da4a4ab13@2943.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -32,25 +32,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260318T213000Z
-LOCATION:New York - Sullaluna NYC - Carmine St\, 41
-DTSTART:20260318T173000Z
-SUMMARY:Playlist (Altrecose)\, a New York
-UID:fe1de2a2-09d4-4438-98c1-606527f42798@fe1d.org
-URL:https://www.instagram.com/p/DVdoaHajIO8/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260322T210000Z
-LOCATION:Milano - Sala Ottawa\, Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20260322T170000Z
-SUMMARY:Book Pride\, Playlist (Altrecose)
-UID:cd743cf8-0afe-43cb-9fcf-7f557a0d36c3@cd74.org
-URL:https://www.bookpride.net/events/251/
+DTEND:20260327T030000Z
+DTSTART:20260326T230000Z
+SUMMARY:Pensavo Peccioli
+UID:e9922732-72fe-4446-8455-1c1398346bda@e992.org
+URL:https://www.pensavopeccioli.com
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -62,7 +48,7 @@ DTEND:20260321T140000Z
 LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
 DTSTART:20260321T100000Z
 SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:e60e4caa-01e4-4a23-967f-61998285d40e@e60e.org
+UID:fd482a97-83eb-4284-b7f1-80a9381199ee@fd48.org
 URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
 END:VEVENT
 BEGIN:VEVENT
@@ -71,12 +57,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260321T210000Z
-LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20260321T170000Z
-SUMMARY:Book Pride\, Dopo Trump: quale futuro per i progressisti americani?
-UID:7adb9cf3-3d27-4f62-9471-bcf3caa24f25@7adb.org
-URL:https://bookpride.net/events/198/
+DTEND:20260322T210000Z
+LOCATION:Milano - Sala Ottawa\, Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20260322T170000Z
+SUMMARY:Book Pride\, Playlist (Altrecose)
+UID:847dcc4f-4fe2-4a59-af4e-af48cb56bf7a@847d.org
+URL:https://www.bookpride.net/events/251/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -84,12 +70,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260321T230000Z
-LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
-DTSTART:20260321T190000Z
-SUMMARY:Libri Come\, Il cinema secondo Fabrizio Gifuni. A partire da COSE Spiegate bene\, Cinemino?
-UID:dad9d925-c12f-40f9-8d58-dcfba10a0166@dad9.org
-URL:https://www.auditorium.com/it/event/il-cinema-secondo-fabrizio-gifuni-a-partire-da-cose-spiegate-bene-cinemino-con-fabrizio-gifuni-e-nicola-ghittoni/
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:92d360db-cbba-44de-8a9d-fe0b5cda6027@92d3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -101,7 +85,7 @@ DTEND:20260411T120000Z
 LOCATION:Torino - OGR - Corso Castelfidardo\, 22
 DTSTART:20260411T080000Z
 SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:582b1164-c42d-4728-b926-a1d51af6b477@582b.org
+UID:bd90b13c-d6a9-4d25-b434-1241a2b838f8@bd90.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -109,9 +93,37 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:4b194317-0b78-4b4d-b31e-f426a99bcd60@4b19.org
+DTEND:20260321T210000Z
+LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20260321T170000Z
+SUMMARY:Book Pride\, Dopo Trump: quale futuro per i progressisti americani?
+UID:f175c8b1-ced5-4ac7-9b3e-a1d6078138a4@f175.org
+URL:https://bookpride.net/events/198/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260318T213000Z
+LOCATION:New York - Sullaluna NYC - Carmine St\, 41
+DTSTART:20260318T173000Z
+SUMMARY:Playlist (Altrecose)\, a New York
+UID:8ec132c8-9ced-4f0e-9d5c-6e84b5acf267@8ec1.org
+URL:https://www.instagram.com/p/DVdoaHajIO8/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260321T230000Z
+LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
+DTSTART:20260321T190000Z
+SUMMARY:Libri Come\, Il cinema secondo Fabrizio Gifuni. A partire da COSE Spiegate bene\, Cinemino?
+UID:d93e4063-7160-48e7-b42d-29f119f6936e@d93e.org
+URL:https://www.auditorium.com/it/event/il-cinema-secondo-fabrizio-gifuni-a-partire-da-cose-spiegate-bene-cinemino-con-fabrizio-gifuni-e-nicola-ghittoni/
 END:VEVENT
 END:VCALENDAR
