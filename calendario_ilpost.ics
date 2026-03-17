@@ -7,12 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260322T210000Z
-LOCATION:Milano - Sala Ottawa\, Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20260322T170000Z
-SUMMARY:Book Pride\, Playlist (Altrecose)
-UID:811e0d9a-6668-4585-9c55-f1c1b2f61553@811e.org
-URL:https://www.bookpride.net/events/251/
+DTEND:20260318T213000Z
+LOCATION:New York - Sullaluna NYC - Carmine St\, 41
+DTSTART:20260318T173000Z
+SUMMARY:Playlist (Altrecose)\, a New York
+UID:079facb9-082c-40f5-8653-17dea2267928@079f.org
+URL:https://www.instagram.com/p/DVdoaHajIO8/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -20,47 +20,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260321T140000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260321T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:97b58cdc-1cff-4bc0-a940-d05d90bad84a@97b5.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:bdaae074-a80b-4bd9-9fed-ca433b9bd956@bdaa.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260411T120000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20260411T080000Z
-SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:de80767a-d7e1-473d-a0bd-a7195622e7e1@de80.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:cc29e079-b793-4bd1-9e12-ec4064f5f026@cc29.org
+DTEND:20260327T030000Z
+DTSTART:20260326T230000Z
+SUMMARY:Pensavo Peccioli
+UID:4eae0756-313f-440d-acb6-96c6e5d9d3b6@4eae.org
+URL:https://www.pensavopeccioli.com
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -72,7 +36,7 @@ DTEND:20260704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260704T193000Z
 SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:e844e73f-ffce-4d88-8f70-d20827fd6e8c@e844.org
+UID:5908a303-7e92-472f-b442-a9b48d3fb7b3@5908.org
 URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
 END:VEVENT
 BEGIN:VEVENT
@@ -81,12 +45,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260318T213000Z
-LOCATION:New York - Sullaluna NYC - Carmine St\, 41
-DTSTART:20260318T173000Z
-SUMMARY:Playlist (Altrecose)\, a New York
-UID:945968d6-add3-44db-bc66-8bb903612279@9459.org
-URL:https://www.instagram.com/p/DVdoaHajIO8/
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:d92cf4c4-80a7-439f-b8bf-614d2cbfb635@d92c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -98,32 +60,7 @@ DTEND:20260408T230000Z
 LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
 DTSTART:20260408T190000Z
 SUMMARY:Allegramente pessimista – La terrazza di Ettore Scola
-UID:e762f6b7-fd10-4b4b-b548-333ee7be2ca0@e762.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260321T210000Z
-LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20260321T170000Z
-SUMMARY:Book Pride\, Dopo Trump: quale futuro per i progressisti americani?
-UID:475fa841-aa91-489f-b9c4-d4ea0ed8b77c@475f.org
-URL:https://bookpride.net/events/198/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260327T030000Z
-DTSTART:20260326T230000Z
-SUMMARY:Pensavo Peccioli
-UID:94582eba-0a43-46ba-bf88-5984ea55a3ac@9458.org
-URL:https://www.pensavopeccioli.com
+UID:9d404395-ccf3-4ebd-aa7e-f4539d7e99d9@9d40.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -135,7 +72,70 @@ DTEND:20260321T230000Z
 LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
 DTSTART:20260321T190000Z
 SUMMARY:Libri Come\, Il cinema secondo Fabrizio Gifuni. A partire da COSE Spiegate bene\, Cinemino?
-UID:2ecbbf21-4329-4ae9-b5fd-2f2d5a7361cb@2ecb.org
+UID:0e25db96-ad9f-467a-9f60-bbee5ffb229e@0e25.org
 URL:https://www.auditorium.com/it/event/il-cinema-secondo-fabrizio-gifuni-a-partire-da-cose-spiegate-bene-cinemino-con-fabrizio-gifuni-e-nicola-ghittoni/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:c7411338-5271-4863-b4cf-f6738796327b@c741.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260321T210000Z
+LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20260321T170000Z
+SUMMARY:Book Pride\, Dopo Trump: quale futuro per i progressisti americani?
+UID:fa78d91b-f240-4637-ab98-f70691ef04e0@fa78.org
+URL:https://bookpride.net/events/198/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260321T140000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260321T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:57857069-5813-4b55-a2e3-20fb21776b68@5785.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260411T120000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20260411T080000Z
+SUMMARY:Voices\, a Torino l’11 e il 12 aprile
+UID:12221de9-f998-4ace-8a76-04800895e33e@1222.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260322T210000Z
+LOCATION:Milano - Sala Ottawa\, Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20260322T170000Z
+SUMMARY:Book Pride\, Playlist (Altrecose)
+UID:64f3dc70-b6a4-4b6b-9010-2360e733f309@64f3.org
+URL:https://www.bookpride.net/events/251/
 END:VEVENT
 END:VCALENDAR
