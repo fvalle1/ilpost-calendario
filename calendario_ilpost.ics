@@ -11,33 +11,8 @@ DTEND:20260321T140000Z
 LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
 DTSTART:20260321T100000Z
 SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:704b16c9-445c-496d-a033-97b5a5b9f738@704b.org
+UID:1de74828-2f75-4f66-a185-9610f9b4c30e@1de7.org
 URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-2/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260321T230000Z
-LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
-DTSTART:20260321T190000Z
-SUMMARY:Libri Come\, Il cinema secondo Fabrizio Gifuni. A partire da COSE Spiegate bene\, Cinemino?
-UID:fcdf6270-484e-47ca-9ceb-3e577853a38a@fcdf.org
-URL:https://www.auditorium.com/it/event/il-cinema-secondo-fabrizio-gifuni-a-partire-da-cose-spiegate-bene-cinemino-con-fabrizio-gifuni-e-nicola-ghittoni/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260327T030000Z
-DTSTART:20260326T230000Z
-SUMMARY:Pensavo Peccioli
-UID:c9fba603-2299-4720-aded-ea001c34a548@c9fb.org
-URL:https://www.pensavopeccioli.com
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -49,7 +24,7 @@ DTEND:20260704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260704T193000Z
 SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:18e8b81b-5140-4e8a-a770-920d87c53c04@18e8.org
+UID:f070b3e5-74d3-4095-9368-ef741b0b30f0@f070.org
 URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,49 +33,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260322T210000Z
-LOCATION:Milano - Sala Ottawa\, Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20260322T170000Z
-SUMMARY:Book Pride\, Playlist (Altrecose)
-UID:f61b724e-f894-42e7-b6c0-1108aa5a859b@f61b.org
-URL:https://www.bookpride.net/events/251/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260411T120000Z
-LOCATION:Torino - OGR - Corso Castelfidardo\, 22
-DTSTART:20260411T080000Z
-SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:f598553b-cebc-4756-848f-83060b24095f@f598.org
-URL:https://www.ilpost.it/2026/03/18/voices-weekend-aprile-torino/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:08cb3944-c78a-4ed2-b337-3557ce368b77@08cb.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260321T210000Z
-LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
-DTSTART:20260321T170000Z
-SUMMARY:Book Pride\, Dopo Trump: quale futuro per i progressisti americani?
-UID:88b49f58-657e-4732-b504-14ab5853bf7e@88b4.org
-URL:https://bookpride.net/events/198/
+DTEND:20260321T230000Z
+LOCATION:Roma - Auditorium Parco della Musica Ennio Morricone - Via Pietro de Coubertin\, 30
+DTSTART:20260321T190000Z
+SUMMARY:Libri Come\, Il cinema secondo Fabrizio Gifuni. A partire da COSE Spiegate bene\, Cinemino?
+UID:349ba4fd-8b3b-4034-b4e5-57848d017819@349b.org
+URL:https://www.auditorium.com/it/event/il-cinema-secondo-fabrizio-gifuni-a-partire-da-cose-spiegate-bene-cinemino-con-fabrizio-gifuni-e-nicola-ghittoni/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -112,7 +50,58 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:16045c6d-016f-49f8-8fc5-7aa86706306e@1604.org
+UID:7d876564-c1b7-42f6-9088-131a9a8c2ae7@7d87.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260327T030000Z
+DTSTART:20260326T230000Z
+SUMMARY:Pensavo Peccioli
+UID:2eaa64aa-e495-4177-8fed-0b810dd3e078@2eaa.org
+URL:https://www.pensavopeccioli.com
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260411T120000Z
+LOCATION:Torino - OGR - Corso Castelfidardo\, 22
+DTSTART:20260411T080000Z
+SUMMARY:Voices\, a Torino l’11 e il 12 aprile
+UID:49efd6c9-0590-4da0-bb25-7a2d4bd3f25c@49ef.org
+URL:https://www.ilpost.it/2026/03/18/voices-weekend-aprile-torino/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260322T210000Z
+LOCATION:Milano - Sala Ottawa\, Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20260322T170000Z
+SUMMARY:Book Pride\, Playlist (Altrecose)
+UID:00ee918c-d1db-4b20-8411-3456f0336c6c@00ee.org
+URL:https://www.bookpride.net/events/251/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260321T210000Z
+LOCATION:Milano - Auditorium\, Superstudio Maxi - Via Moncucco\, 35
+DTSTART:20260321T170000Z
+SUMMARY:Book Pride\, Dopo Trump: quale futuro per i progressisti americani?
+UID:4b903a29-ff73-4336-a685-45814d7d43ba@4b90.org
+URL:https://bookpride.net/events/198/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -124,6 +113,17 @@ DTEND:20260408T230000Z
 LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
 DTSTART:20260408T190000Z
 SUMMARY:Allegramente pessimista – La terrazza di Ettore Scola
-UID:d142ce5e-77ed-4ed7-afb5-b76c3d70bb42@d142.org
+UID:655ad489-1ff3-4e2d-ab3f-a7650d77c6cc@655a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:b8a5fbfd-045d-42b5-86dc-6fb4d542bf85@b8a5.org
 END:VEVENT
 END:VCALENDAR
