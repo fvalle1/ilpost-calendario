@@ -7,60 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260516T130000Z
-LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
-DTSTART:20260516T090000Z
-SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
-UID:98d8b2df-df7d-40d9-b07c-db13c6781eb2@98d8.org
+DTEND:20260516T183000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
+DTSTART:20260516T143000Z
+SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
+UID:5c12cd67-1cf6-4c7a-869b-4a1b220667ba@5c12.org
 URL:https://www.salonelibro.it/programma/salone.html?o=true
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260408T230000Z
-LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
-DTSTART:20260408T190000Z
-SUMMARY:Allegramente pessimista – La terrazza di Ettore Scola
-UID:a0be4b92-d48c-4281-b2ac-d91ab55fc997@a0be.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260416T200000Z
-LOCATION:Ascoli Piceno - Libreria Rinascita - Piazza Roma\, 7
-DTSTART:20260416T160000Z
-SUMMARY:Playlist (Altrecose)\, ad Ascoli Piceno
-UID:038d72c5-ad5a-49ed-a5ba-1e746822f441@038d.org
-URL:https://www.facebook.com/events/936287985652138
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:62dfb929-f32f-45cc-8b1a-f9fe87bc20ce@62df.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260414T200000Z
-LOCATION:Pesaro - Libreria Il Catalogo - Via Castelfidardo\, 58-60
-DTSTART:20260414T160000Z
-SUMMARY:Playlist (Altrecose)\, a Pesaro
-UID:b964db4c-4c83-460a-aac3-a1dba31aac76@b964.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -72,7 +24,7 @@ DTEND:20260411T120000Z
 LOCATION:Torino - OGR - Corso Castelfidardo\, 22
 DTSTART:20260411T080000Z
 SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:3076ad54-7735-43df-958a-b402c5fa36fa@3076.org
+UID:44bc4569-711b-47b3-a9a2-694453f5324b@44bc.org
 URL:https://www.ilpost.it/2026/03/18/voices-weekend-aprile-torino/
 END:VEVENT
 BEGIN:VEVENT
@@ -81,74 +33,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260417T203000Z
-LOCATION:Pescara - MicHub - Via Michelangelo\, snc
-DTSTART:20260417T163000Z
-SUMMARY:Playlist (Altrecose)\, a Pescara
-UID:edb23d4e-e145-4fe2-8b89-c959cbe673ab@edb2.org
-URL:https://pescarafestival.it/qui-365-festival-luca-sofri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260415T200000Z
-LOCATION:Senigallia - Palazzetto Baviera - Piazza del Duca Senigallia\, Via Ottorino Manni\, 1
-DTSTART:20260415T160000Z
-SUMMARY:Playlist (Altrecose)\, a Senigallia
-UID:45df4a7f-b901-4152-a50e-b63541c0bd6a@45df.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:e3e6e2bb-69b0-42e5-935c-2490638568cd@e3e6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260704T193000Z
-SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:a6dd3cda-a021-48eb-ac41-8ffb25408899@a6dd.org
-URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260516T183000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
-DTSTART:20260516T143000Z
-SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
-UID:015f75a6-9a79-4951-aba8-a099cac16c89@015f.org
-URL:https://www.salonelibro.it/programma/salone.html?o=true
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260514T180000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
-DTSTART:20260514T140000Z
-SUMMARY:Salone Internazionale del Libro: Premio Vero
-UID:a39683ef-7e8b-410b-9af7-0f360688e797@a396.org
+DTEND:20260516T130000Z
+LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
+DTSTART:20260516T090000Z
+SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
+UID:acf40dac-04bd-4d48-9e65-0c2ad5ec3dbc@acf4.org
 URL:https://www.salonelibro.it/programma/salone.html?o=true
 END:VEVENT
 BEGIN:VEVENT
@@ -161,7 +50,118 @@ DTEND:20260514T210000Z
 LOCATION:Torino - Lingotto Fiere\, Pad. Oval\, Bosco degli scrittori - Via Nizza\, 294
 DTSTART:20260514T170000Z
 SUMMARY:Salone Internazionale del Libro: Che ne sai tu di un campo di grano (COSE Spiegate bene)
-UID:b431036e-bfd8-467d-83a4-0c0ddd4568dc@b431.org
+UID:ce1197e2-d6c8-4789-8ee4-71b826a945f9@ce11.org
 URL:https://www.salonelibro.it/programma/salone.html?o=true
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:04f0bae6-c139-4a65-a61f-cc83cc565df6@04f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260415T200000Z
+LOCATION:Senigallia - Palazzetto Baviera - Piazza del Duca Senigallia\, Via Ottorino Manni\, 1
+DTSTART:20260415T160000Z
+SUMMARY:Playlist (Altrecose)\, a Senigallia
+UID:9028337f-846b-46db-baef-b7f395fb849c@9028.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260704T193000Z
+SUMMARY:James – Il ritorno in Italia dopo 12 anni
+UID:205fee10-a2ad-46a5-9e1c-5f79eb1c50e6@205f.org
+URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260416T200000Z
+LOCATION:Ascoli Piceno - Libreria Rinascita - Piazza Roma\, 7
+DTSTART:20260416T160000Z
+SUMMARY:Playlist (Altrecose)\, ad Ascoli Piceno
+UID:c8290cc6-0446-49bc-bc54-01a1fb44d5b0@c829.org
+URL:https://www.facebook.com/events/936287985652138
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:35733f48-e9b7-4623-ac44-05a979c0ffee@3573.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260414T200000Z
+LOCATION:Pesaro - Libreria Il Catalogo - Via Castelfidardo\, 58-60
+DTSTART:20260414T160000Z
+SUMMARY:Playlist (Altrecose)\, a Pesaro
+UID:0fad4079-db7f-44f6-94ac-0af7f04a8e7c@0fad.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260417T203000Z
+LOCATION:Pescara - MicHub - Via Michelangelo\, snc
+DTSTART:20260417T163000Z
+SUMMARY:Playlist (Altrecose)\, a Pescara
+UID:31e20bbc-2acf-4aae-ba89-9b8bbe7a50b8@31e2.org
+URL:https://pescarafestival.it/qui-365-festival-luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260514T180000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
+DTSTART:20260514T140000Z
+SUMMARY:Salone Internazionale del Libro: Premio Vero
+UID:9845f3ef-b286-424c-99f5-9735418f3dfa@9845.org
+URL:https://www.salonelibro.it/programma/salone.html?o=true
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260408T230000Z
+LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
+DTSTART:20260408T190000Z
+SUMMARY:Allegramente pessimista – La terrazza di Ettore Scola
+UID:2b5fddba-cbf8-49e2-ad7e-a78073715609@2b5f.org
 END:VEVENT
 END:VCALENDAR
