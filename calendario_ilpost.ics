@@ -7,51 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260417T203000Z
-LOCATION:Pescara - MicHub - Via Michelangelo\, snc
-DTSTART:20260417T163000Z
-SUMMARY:Playlist (Altrecose)\, a Pescara
-UID:0347f3ef-59a7-4cdc-8c29-5c77384f25af@0347.org
-URL:https://pescarafestival.it/qui-365-festival-luca-sofri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260516T183000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
-DTSTART:20260516T143000Z
-SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
-UID:68bfa784-da08-4e08-b198-74af2eff809f@68bf.org
-URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260516T130000Z
-LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
-DTSTART:20260516T090000Z
-SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
-UID:ba56154b-735e-43d3-a3ea-b2c0f2832c17@ba56.org
-URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260704T193000Z
-SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:cfec6d1c-3d3d-4a67-9e4d-3699b3e344ba@cfec.org
-URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
+DTEND:20260514T210000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. Oval\, Bosco degli scrittori - Via Nizza\, 294
+DTSTART:20260514T170000Z
+SUMMARY:Salone Internazionale del Libro: Che ne sai tu di un campo di grano (COSE Spiegate bene)
+UID:da4c7b36-aa05-4715-be52-f2970b46e7c9@da4c.org
+URL:https://www.salonelibro.it/programma-eventi/che_ne_sai_tu_di_un_campo_di_grano/19185
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -63,7 +24,7 @@ DTEND:20260415T200000Z
 LOCATION:Senigallia - Palazzetto Baviera - Piazza del Duca Senigallia\, Via Ottorino Manni\, 1
 DTSTART:20260415T160000Z
 SUMMARY:Playlist (Altrecose)\, a Senigallia
-UID:d7079b80-fd1d-45ef-bbb7-fe205f1a27b2@d707.org
+UID:782b6a98-e7d8-4bc7-b253-f0c8f675cc65@782b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -71,24 +32,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260414T200000Z
-LOCATION:Pesaro - Libreria Il Catalogo - Via Castelfidardo\, 58-60
-DTSTART:20260414T160000Z
-SUMMARY:Playlist (Altrecose)\, a Pesaro
-UID:f1754e02-2e21-4b15-a48e-f90996b72214@f175.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260416T200000Z
-LOCATION:Ascoli Piceno - Libreria Rinascita - Piazza Roma\, 7
-DTSTART:20260416T160000Z
-SUMMARY:Playlist (Altrecose)\, ad Ascoli Piceno
-UID:c827c867-e482-4869-b222-fb611263cc67@c827.org
-URL:https://www.facebook.com/events/936287985652138
+DTEND:20260516T130000Z
+LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
+DTSTART:20260516T090000Z
+SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
+UID:330d11d7-7947-47ab-9b4d-34b3c6ebe9fa@330d.org
+URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -99,45 +48,7 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:0190b3f0-450b-4092-8da3-57ec3dfc34c9@0190.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:371ea31e-3d9f-4eb2-91c4-0f1994228ec4@371e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260514T180000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
-DTSTART:20260514T140000Z
-SUMMARY:Salone Internazionale del Libro: Premio Vero
-UID:b48eefd9-ba69-4dc4-b305-a0cc216ff883@b48e.org
-URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260514T210000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. Oval\, Bosco degli scrittori - Via Nizza\, 294
-DTSTART:20260514T170000Z
-SUMMARY:Salone Internazionale del Libro: Che ne sai tu di un campo di grano (COSE Spiegate bene)
-UID:61463c14-ba01-4214-9f5f-bc74cc2bbc59@6146.org
-URL:https://www.salonelibro.it/programma-eventi/che_ne_sai_tu_di_un_campo_di_grano/19185
+UID:cd71856d-aeed-42bb-acb9-f379c3e37762@cd71.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -149,7 +60,96 @@ DTEND:20260411T120000Z
 LOCATION:Torino - OGR - Corso Castelfidardo\, 22
 DTSTART:20260411T080000Z
 SUMMARY:Voices\, a Torino l’11 e il 12 aprile
-UID:1a444fcd-bd0a-4e72-b8cd-f7f95107e199@1a44.org
+UID:562d01fa-118e-4672-a727-964f9266514b@562d.org
 URL:https://www.ilpost.it/2026/03/18/voices-weekend-aprile-torino/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260414T200000Z
+LOCATION:Pesaro - Libreria Il Catalogo - Via Castelfidardo\, 58-60
+DTSTART:20260414T160000Z
+SUMMARY:Playlist (Altrecose)\, a Pesaro
+UID:7a09a20b-e5c9-4e8c-bd4f-bd83e4b8ec8e@7a09.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260514T180000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
+DTSTART:20260514T140000Z
+SUMMARY:Salone Internazionale del Libro: Premio Vero
+UID:7df3ecac-1ec5-4173-82e2-08d91360a2b8@7df3.org
+URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260416T200000Z
+LOCATION:Ascoli Piceno - Libreria Rinascita - Piazza Roma\, 7
+DTSTART:20260416T160000Z
+SUMMARY:Playlist (Altrecose)\, ad Ascoli Piceno
+UID:9006751f-53f9-48da-bd9f-14b798e2a121@9006.org
+URL:https://www.facebook.com/events/936287985652138
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260704T193000Z
+SUMMARY:James – Il ritorno in Italia dopo 12 anni
+UID:5385787c-f3ed-4338-b545-d86cc6805688@5385.org
+URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260516T183000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
+DTSTART:20260516T143000Z
+SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
+UID:3e9e7c4c-068d-48bc-847b-b626c91ae04c@3e9e.org
+URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260417T203000Z
+LOCATION:Pescara - MicHub - Via Michelangelo\, snc
+DTSTART:20260417T163000Z
+SUMMARY:Playlist (Altrecose)\, a Pescara
+UID:7ba43af2-257b-40ff-ae7c-533d23708d51@7ba4.org
+URL:https://pescarafestival.it/qui-365-festival-luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:e94943fa-a432-452f-8f88-6905a4ebcf89@e949.org
 END:VEVENT
 END:VCALENDAR
