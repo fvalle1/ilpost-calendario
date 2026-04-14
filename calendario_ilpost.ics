@@ -11,7 +11,18 @@ DTEND:20260414T200000Z
 LOCATION:Pesaro - Libreria Il Catalogo - Via Castelfidardo\, 58-60
 DTSTART:20260414T160000Z
 SUMMARY:Playlist (Altrecose)\, a Pesaro
-UID:7e8ef800-2821-4fbd-9de7-c8d1d688d2da@7e8e.org
+UID:93a5f1eb-06b1-4b5f-91b6-0688096989e9@93a5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:204d4a7c-dc72-4e27-8291-2a20dd8dfb6c@204d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -23,7 +34,7 @@ DTEND:20260415T200000Z
 LOCATION:Senigallia - Palazzetto Baviera - Piazza del Duca Senigallia\, Via Ottorino Manni\, 1
 DTSTART:20260415T160000Z
 SUMMARY:Playlist (Altrecose)\, a Senigallia
-UID:74ce6557-5227-4aee-920e-cfedaa597369@74ce.org
+UID:7b6eb0d0-6342-449e-a827-94bfbca2c0ac@7b6e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -31,12 +42,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260516T183000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
-DTSTART:20260516T143000Z
-SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
-UID:78c3892a-c295-4673-98bb-b4353eeb574a@78c3.org
-URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
+DTEND:20260514T180000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
+DTSTART:20260514T140000Z
+SUMMARY:Salone Internazionale del Libro: Premio Vero
+UID:fc4ed636-4bd6-4b86-83f4-fef437fa397d@fc4e.org
+URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -44,25 +55,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260516T130000Z
-LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
-DTSTART:20260516T090000Z
-SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
-UID:4e842745-592c-4286-818a-6f27bfb3c598@4e84.org
-URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260417T203000Z
-LOCATION:Pescara - MicHub - Via Michelangelo\, snc
-DTSTART:20260417T163000Z
-SUMMARY:Playlist (Altrecose)\, a Pescara
-UID:d0c691f2-1074-4426-9519-9356d719ed4d@d0c6.org
-URL:https://pescarafestival.it/qui-365-festival-luca-sofri/
+DTEND:20260704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260704T193000Z
+SUMMARY:James – Il ritorno in Italia dopo 12 anni
+UID:c62d03e8-37dd-4366-9ba8-6b517a1a6fd7@c62d.org
+URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -74,7 +72,7 @@ DTEND:20260514T210000Z
 LOCATION:Torino - Lingotto Fiere\, Pad. Oval\, Bosco degli scrittori - Via Nizza\, 294
 DTSTART:20260514T170000Z
 SUMMARY:Salone Internazionale del Libro: Che ne sai tu di un campo di grano (COSE Spiegate bene)
-UID:758ed25e-d3df-46f1-af00-722b915e393d@758e.org
+UID:76e298d5-23f7-462b-95a5-5e32bf986e24@76e2.org
 URL:https://www.salonelibro.it/programma-eventi/che_ne_sai_tu_di_un_campo_di_grano/19185
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +85,7 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:ec27d740-d16d-4319-8b28-fbca6fd7d946@ec27.org
+UID:417a25cc-a1a4-42b7-8013-efbbe908b619@417a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -95,23 +93,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260514T180000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
-DTSTART:20260514T140000Z
-SUMMARY:Salone Internazionale del Libro: Premio Vero
-UID:a8fec6b6-197c-4cb1-968b-6fc6954ca27f@a8fe.org
-URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:892ac46e-3949-460f-9dfa-91b50cb7604a@892a.org
+DTEND:20260516T130000Z
+LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
+DTSTART:20260516T090000Z
+SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
+UID:d1f07365-1a50-41d8-a00b-70e36f8ea43c@d1f0.org
+URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -123,7 +110,7 @@ DTEND:20260416T200000Z
 LOCATION:Ascoli Piceno - Libreria Rinascita - Piazza Roma\, 7
 DTSTART:20260416T160000Z
 SUMMARY:Playlist (Altrecose)\, ad Ascoli Piceno
-UID:0d8f3f95-e8ab-4d8d-91f5-dcac734c155d@0d8f.org
+UID:362634d1-702e-41e2-bd3c-33a23de7a2bf@3626.org
 URL:https://www.facebook.com/events/936287985652138
 END:VEVENT
 BEGIN:VEVENT
@@ -132,11 +119,37 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260704T193000Z
-SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:f9aa192d-aa52-4a66-bdfb-6ecc03f209ac@f9aa.org
-URL:https://www.ticketone.it/event/james-anfiteatro-fonte-mazzola-21246014/
+DTEND:20260417T203000Z
+LOCATION:Pescara - MicHub - Via Michelangelo\, snc
+DTSTART:20260417T163000Z
+SUMMARY:Playlist (Altrecose)\, a Pescara
+UID:b5c45357-6dc9-478b-a8cc-1de13fe8a0c5@b5c4.org
+URL:https://pescarafestival.it/qui-365-festival-luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260419T190000Z
+LOCATION:Reggio Emilia - Festival Vyni - Piazza Casotti
+DTSTART:20260419T150000Z
+SUMMARY:Playlist (Altrecose)\, a Reggio Emilia
+UID:3547d8d9-6522-4acc-b1de-2045be20333a@3547.org
+URL:https://www.vyni.it/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260516T183000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
+DTSTART:20260516T143000Z
+SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
+UID:0a3048cf-33af-4fcc-9e02-09b87abca80d@0a30.org
+URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
 END:VEVENT
 END:VCALENDAR
