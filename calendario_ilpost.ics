@@ -7,74 +7,25 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20260419T190000Z
+LOCATION:Reggio Emilia - Festival Vyni - Piazza Casotti
+DTSTART:20260419T150000Z
+SUMMARY:Playlist (Altrecose)\, a Reggio Emilia
+UID:4f774eb3-b99d-4225-b50c-a2ec0c0bf974@4f77.org
+URL:https://www.vyni.it/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20260703T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260703T193000Z
 SUMMARY:Daniele Silvestri\, live acustico
-UID:28e28010-b6f0-49d4-b1e9-ed40c22e229a@28e2.org
+UID:be449228-09b4-46de-8a59-f349fff87c88@be44.org
 URL:https://www.ticketone.it/event/daniele-silvestri-live-acustico-anfiteatro-fonte-mazzola-21245909/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:4b0c05e7-a049-4e5c-a72f-3dcc915750f2@4b0c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:0f0948c5-7b20-4822-ac64-4d9ab42a419a@0f09.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260514T180000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
-DTSTART:20260514T140000Z
-SUMMARY:Salone Internazionale del Libro: Premio Vero
-UID:2f6e2b28-0f0b-4959-a7fe-cd01989d3e89@2f6e.org
-URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260516T183000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
-DTSTART:20260516T143000Z
-SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
-UID:2c095190-48cd-4d73-80e7-7d8d57b8aeb0@2c09.org
-URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260416T200000Z
-LOCATION:Ascoli Piceno - Libreria Rinascita - Piazza Roma\, 7
-DTSTART:20260416T160000Z
-SUMMARY:Playlist (Altrecose)\, ad Ascoli Piceno
-UID:f33213ec-0a58-43e4-9a21-bb75ecdb4a6f@f332.org
-URL:https://www.facebook.com/events/936287985652138
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -86,7 +37,7 @@ DTEND:20260514T210000Z
 LOCATION:Torino - Lingotto Fiere\, Pad. Oval\, Bosco degli scrittori - Via Nizza\, 294
 DTSTART:20260514T170000Z
 SUMMARY:Salone Internazionale del Libro: Che ne sai tu di un campo di grano (COSE Spiegate bene)
-UID:ba48e7f4-7d75-43c9-a4cf-c18873ff5504@ba48.org
+UID:127cb544-8795-49ab-a516-8e0f560f11cc@127c.org
 URL:https://www.salonelibro.it/programma-eventi/che_ne_sai_tu_di_un_campo_di_grano/19185
 END:VEVENT
 BEGIN:VEVENT
@@ -95,25 +46,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260516T130000Z
-LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
-DTSTART:20260516T090000Z
-SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
-UID:ea5a47c8-dfb5-4afb-a013-19a8be5cd711@ea5a.org
-URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260419T190000Z
-LOCATION:Reggio Emilia - Festival Vyni - Piazza Casotti
-DTSTART:20260419T150000Z
-SUMMARY:Playlist (Altrecose)\, a Reggio Emilia
-UID:0ae4dfd6-1c61-43f0-a73f-2b54e2ee85c4@0ae4.org
-URL:https://www.vyni.it/
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:26b90d22-3b09-48a5-b4e9-3d39150d23e7@26b9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -125,8 +62,58 @@ DTEND:20260417T203000Z
 LOCATION:Pescara - MicHub - Via Michelangelo\, snc
 DTSTART:20260417T163000Z
 SUMMARY:Playlist (Altrecose)\, a Pescara
-UID:af0f297a-5da1-4ec0-8856-e68b3b90b362@af0f.org
+UID:fc1003bb-4756-483c-a16a-921659cc3480@fc10.org
 URL:https://pescarafestival.it/qui-365-festival-luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260516T130000Z
+LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
+DTSTART:20260516T090000Z
+SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
+UID:87c20599-b1d0-4a12-9c27-62e20fbbe10d@87c2.org
+URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:808a7b8b-c19f-48ef-8711-9f54689870e1@808a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260516T183000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
+DTSTART:20260516T143000Z
+SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
+UID:0e1aba4c-038f-4c9b-8ac1-a03aaa1a1003@0e1a.org
+URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260514T180000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
+DTSTART:20260514T140000Z
+SUMMARY:Salone Internazionale del Libro: Premio Vero
+UID:3e42240b-a9e1-4554-acfc-8a0f0fa52475@3e42.org
+URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -138,7 +125,7 @@ DTEND:20260510T130000Z
 LOCATION:Ravenna - Chiostro della Biblioteca Classense - Via AlfredoBaccarini\, 3
 DTSTART:20260510T090000Z
 SUMMARY:Playlist (Altrecose)\, a Ravenna
-UID:a5793cac-2e27-42a1-bc02-db5a5a657c60@a579.org
+UID:db0b0afa-3fab-4325-ace7-91fb7d8759a7@db0b.org
 URL:https://www.scritturafestival.com
 END:VEVENT
 END:VCALENDAR
