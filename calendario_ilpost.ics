@@ -7,12 +7,49 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20260516T183000Z
+LOCATION:Mantova - Food&Science Festival - Piazza Sordello
+DTSTART:20260516T143000Z
+SUMMARY:Che ne sai tu di un campo di grano (COSE Spiegate bene)\, a Mantova
+UID:590a86c0-44b0-437c-b72b-5512f0024c0f@590a.org
+URL:https://www.foodsciencefestival.it/tutte-le-edizioni/foodscience-festival-2026/eventi/presentazione-del-libro-cose-spiegate-bene-de-il-post-dedicato-allagricoltura/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:44ccc2bd-343c-427d-9118-78e326933900@44cc.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20260510T130000Z
 LOCATION:Ravenna - Chiostro della Biblioteca Classense - Via AlfredoBaccarini\, 3
 DTSTART:20260510T090000Z
 SUMMARY:Playlist (Altrecose)\, a Ravenna
-UID:3d52c4e4-f922-4efd-b301-cb47f619fd19@3d52.org
+UID:1a447d2b-8d5c-4192-8682-c82b54b77e14@1a44.org
 URL:https://www.scritturafestival.com
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260514T180000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
+DTSTART:20260514T140000Z
+SUMMARY:Salone Internazionale del Libro: Premio Vero
+UID:c52f3509-cc88-438d-8d6c-65c36c1bcee2@c52f.org
+URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -24,19 +61,8 @@ DTEND:20260516T130000Z
 LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
 DTSTART:20260516T090000Z
 SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
-UID:86ca2c0e-bb5b-4538-b1d7-d968f4badfac@86ca.org
+UID:b355fd30-b01c-4ef7-badb-dcf87aa56142@b355.org
 URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:d84364b5-3936-4b5e-b006-0e0994e89d74@d843.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -48,7 +74,7 @@ DTEND:20260514T210000Z
 LOCATION:Torino - Lingotto Fiere\, Pad. Oval\, Bosco degli scrittori - Via Nizza\, 294
 DTSTART:20260514T170000Z
 SUMMARY:Salone Internazionale del Libro: Che ne sai tu di un campo di grano (COSE Spiegate bene)
-UID:5b8a8478-303f-4fcf-ba75-5a156818ea91@5b8a.org
+UID:02886970-7389-4657-9795-bab93d6dd782@0288.org
 URL:https://www.salonelibro.it/programma-eventi/che_ne_sai_tu_di_un_campo_di_grano/19185
 END:VEVENT
 BEGIN:VEVENT
@@ -61,20 +87,7 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:a897fd51-b47d-4fa2-956a-e2603bb9f415@a897.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260516T183000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
-DTSTART:20260516T143000Z
-SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
-UID:9f9ba737-849f-4828-864f-4a1325ef381f@9f9b.org
-URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
+UID:c4caa923-066c-4ec7-b84e-033f6a1442f5@c4ca.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -86,7 +99,7 @@ DTEND:20260703T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260703T193000Z
 SUMMARY:Daniele Silvestri\, live acustico
-UID:702acb64-f119-4aa3-9989-33ef19d21478@702a.org
+UID:a749c090-cc09-4d93-9a69-86dd4af4d27b@a749.org
 URL:https://www.ticketone.it/event/daniele-silvestri-live-acustico-anfiteatro-fonte-mazzola-21245909/
 END:VEVENT
 BEGIN:VEVENT
@@ -95,11 +108,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260514T180000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
-DTSTART:20260514T140000Z
-SUMMARY:Salone Internazionale del Libro: Premio Vero
-UID:4e81f9c4-aafa-45b6-ba78-f26f3b911f58@4e81.org
-URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
+DTEND:20260516T183000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
+DTSTART:20260516T143000Z
+SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
+UID:f3aefefe-613b-48c3-a44b-b336fa33d069@f3ae.org
+URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
 END:VEVENT
 END:VCALENDAR
