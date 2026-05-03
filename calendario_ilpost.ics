@@ -7,49 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260509T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260509T090000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:5aba407d-45e4-4ed7-8bcb-c24314a9ee5e@5aba.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-3/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T020000Z
-DTSTART:20260703T220000Z
-SUMMARY:Festival Le Canzoni
-UID:cecfff8e-0df6-485e-b2c3-d4435d55bfad@cecf.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260512T203000Z
-LOCATION:Roma - Libreria Shell Bistrot - Vicolo della Fontana\, 28
-DTSTART:20260512T163000Z
-SUMMARY:Cambiocampo (Altrecose)\, a Roma
-UID:47eaa1c9-01c5-479d-b4f2-df64f7f9b7d8@47ea.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260507T223000Z
-LOCATION:Modena - Laboratorio Aperto - Viale Buon Pastore\, 43
-DTSTART:20260507T183000Z
-SUMMARY:Ma io e te\, cosa ci dobbiamo dire? Francesco Costa dialoga con l’AI\, sull’AI
-UID:a69810ff-7839-4b45-987a-ec590ba45cb9@a698.org
-URL:https://2026.festivalsvilupposostenibile.it/cal/111/ma-io-e-te-cosa-ci-dobbiamo-dire-francesco-costa-dialoga-con-lai-sullai
+DTEND:20260516T183000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
+DTSTART:20260516T143000Z
+SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
+UID:88088354-cd65-456c-a33e-b74ab283286c@8808.org
+URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -61,7 +24,7 @@ DTEND:20260510T130000Z
 LOCATION:Ravenna - Chiostro della Biblioteca Classense - Via AlfredoBaccarini\, 3
 DTSTART:20260510T090000Z
 SUMMARY:Playlist (Altrecose)\, a Ravenna
-UID:2dd78245-a0a1-419e-b4fc-b705227501db@2dd7.org
+UID:ff8355f7-a02d-4227-9b89-c8883f317e3b@ff83.org
 URL:https://www.scritturafestival.com
 END:VEVENT
 BEGIN:VEVENT
@@ -70,12 +33,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260516T183000Z
-LOCATION:Mantova - Food&Science Festival - Piazza Sordello
-DTSTART:20260516T143000Z
-SUMMARY:Che ne sai tu di un campo di grano (COSE Spiegate bene)\, a Mantova
-UID:723202a3-c36a-4b0e-b2d7-205586109e2e@7232.org
-URL:https://www.foodsciencefestival.it/tutte-le-edizioni/foodscience-festival-2026/eventi/presentazione-del-libro-cose-spiegate-bene-de-il-post-dedicato-allagricoltura/
+DTEND:20260509T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260509T090000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:666073b9-a606-4f4d-905c-470f77754bfb@6660.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-gennaio-2026-3/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -87,57 +50,7 @@ DTEND:20260519T210000Z
 LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
 DTSTART:20260519T170000Z
 SUMMARY:Cambiocampo (Altrecose)\, a Milano
-UID:9a33993b-4457-445d-9b89-6fd89b67f408@9a33.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260514T180000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
-DTSTART:20260514T140000Z
-SUMMARY:Salone Internazionale del Libro: Premio Vero
-UID:7d28285c-e05b-4742-8c52-c410a98be95c@7d28.org
-URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260514T210000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. Oval\, Bosco degli scrittori - Via Nizza\, 294
-DTSTART:20260514T170000Z
-SUMMARY:Salone Internazionale del Libro: Che ne sai tu di un campo di grano (COSE Spiegate bene)
-UID:b12fff9d-4974-4694-bf7f-bde597362f4c@b12f.org
-URL:https://www.salonelibro.it/programma-eventi/che_ne_sai_tu_di_un_campo_di_grano/19185
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:54f0324e-4dd1-47e9-8809-e82d008d8c22@54f0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260516T130000Z
-LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
-DTSTART:20260516T090000Z
-SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
-UID:2d80f1b7-a0f0-4c6f-abd1-d1743c5af558@2d80.org
-URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
+UID:949066be-a84b-44fd-8028-4a14eb4a228a@9490.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -149,7 +62,7 @@ DTEND:20260512T203000Z
 LOCATION:Milano - Santeria Toscana 31 - Viale Toscana\, 31
 DTSTART:20260512T163000Z
 SUMMARY:Cose che ho imparato sui libri
-UID:91790e8c-63ac-4e2d-8c22-a7e247b9b424@9179.org
+UID:a368a0d4-c5a0-488c-a314-d3fd210acfec@a368.org
 URL:https://www.eventbrite.it/e/cose-che-ho-imparato-sui-libri-con-luca-sofri-tickets-1988006789824?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
@@ -158,12 +71,24 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260704T193000Z
-SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:0eab0f6b-a29c-4238-8df0-eb37d29b6915@0eab.org
-URL:https://www.ticketone.it/eventseries/james-4078963/
+DTEND:20260512T203000Z
+LOCATION:Roma - Libreria Shell Bistrot - Vicolo della Fontana\, 28
+DTSTART:20260512T163000Z
+SUMMARY:Cambiocampo (Altrecose)\, a Roma
+UID:6814abd3-0e16-4bf5-b6d7-ff648a752ede@6814.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260514T210000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. Oval\, Bosco degli scrittori - Via Nizza\, 294
+DTSTART:20260514T170000Z
+SUMMARY:Salone Internazionale del Libro: Che ne sai tu di un campo di grano (COSE Spiegate bene)
+UID:95a90d6a-02c2-46b3-a2f7-cd37b3bc1e05@95a9.org
+URL:https://www.salonelibro.it/programma-eventi/che_ne_sai_tu_di_un_campo_di_grano/19185
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -172,11 +97,11 @@ DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
 DTEND:20260516T183000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
+LOCATION:Mantova - Food&Science Festival - Piazza Sordello
 DTSTART:20260516T143000Z
-SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
-UID:c4b8f790-ef08-466b-8275-5f8875810f24@c4b8.org
-URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
+SUMMARY:Che ne sai tu di un campo di grano (COSE Spiegate bene)\, a Mantova
+UID:eb0c703d-e5fc-465f-ac0e-0c6acb64e97b@eb0c.org
+URL:https://www.foodsciencefestival.it/tutte-le-edizioni/foodscience-festival-2026/eventi/presentazione-del-libro-cose-spiegate-bene-de-il-post-dedicato-allagricoltura/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -188,6 +113,81 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:a7af23b5-9af4-4af7-bd69-a6d8706707be@a7af.org
+UID:92e7224d-7619-41f7-93f7-9790df80fc20@92e7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T020000Z
+DTSTART:20260703T220000Z
+SUMMARY:Festival Le Canzoni
+UID:7873494e-fcd4-4b62-a8e5-64209447d27c@7873.org
+URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:aa1bf156-b724-4a39-ad09-a61ae11d8b34@aa1b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260514T180000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
+DTSTART:20260514T140000Z
+SUMMARY:Salone Internazionale del Libro: Premio Vero
+UID:0914f606-6474-4858-b8dd-11134323f8af@0914.org
+URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260516T130000Z
+LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
+DTSTART:20260516T090000Z
+SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
+UID:09079170-3e1e-40cc-81c5-049e83b942e0@0907.org
+URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260507T223000Z
+LOCATION:Modena - Laboratorio Aperto - Viale Buon Pastore\, 43
+DTSTART:20260507T183000Z
+SUMMARY:Ma io e te\, cosa ci dobbiamo dire? Francesco Costa dialoga con l’AI\, sull’AI
+UID:0024222d-a1d7-4076-b0cc-20e484fe5b7d@0024.org
+URL:https://2026.festivalsvilupposostenibile.it/cal/111/ma-io-e-te-cosa-ci-dobbiamo-dire-francesco-costa-dialoga-con-lai-sullai
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260704T193000Z
+SUMMARY:James – Il ritorno in Italia dopo 12 anni
+UID:2943e226-8ae1-4d37-828e-cfeb2170728f@2943.org
+URL:https://www.ticketone.it/eventseries/james-4078963/
 END:VEVENT
 END:VCALENDAR
