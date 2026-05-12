@@ -7,37 +7,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260519T210000Z
-LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
-DTSTART:20260519T170000Z
-SUMMARY:Cambiocampo (Altrecose)\, a Milano
-UID:f4241486-2c10-4140-ae53-44c8fef0354a@f424.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260512T203000Z
-LOCATION:Milano - Santeria Toscana 31 - Viale Toscana\, 31
-DTSTART:20260512T163000Z
-SUMMARY:Cose che ho imparato sui libri
-UID:58a9f6cc-0ea3-4ebf-9cbd-edeb6f1573e2@58a9.org
-URL:https://www.eventbrite.it/e/cose-che-ho-imparato-sui-libri-con-luca-sofri-tickets-1988006789824?aff=oddtdtcreator
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260516T130000Z
-LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
-DTSTART:20260516T090000Z
-SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
-UID:6542dee4-c456-49d0-8171-18adb839006a@6542.org
-URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:032532d8-74aa-4ec5-8a57-84561265338a@0325.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -49,7 +22,7 @@ DTEND:20260512T203000Z
 LOCATION:Roma - Libreria Shell Bistrot - Vicolo della Fontana\, 28
 DTSTART:20260512T163000Z
 SUMMARY:Cambiocampo (Altrecose)\, a Roma
-UID:a0cd1e2f-d0ec-451f-8ec6-8dd444a2f1c5@a0cd.org
+UID:ae682c41-fe04-4378-9e44-274a6312b177@ae68.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -61,7 +34,7 @@ DTEND:20260516T183000Z
 LOCATION:Mantova - Food&Science Festival - Piazza Sordello
 DTSTART:20260516T143000Z
 SUMMARY:Che ne sai tu di un campo di grano (COSE Spiegate bene)\, a Mantova
-UID:bd75ac03-4d5c-4f90-9084-865eed32cc2b@bd75.org
+UID:5b6c130d-82ea-4359-9cfa-85476e69955d@5b6c.org
 URL:https://www.foodsciencefestival.it/tutte-le-edizioni/foodscience-festival-2026/eventi/presentazione-del-libro-cose-spiegate-bene-de-il-post-dedicato-allagricoltura/
 END:VEVENT
 BEGIN:VEVENT
@@ -70,24 +43,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260518T140000Z
-LOCATION:Milano - Via Tortona\, 12
-DTSTART:20260518T100000Z
-SUMMARY:Post Cafè
-UID:e32e89ae-dc68-4f61-94d9-9669f4edd223@e32e.org
-URL:https://www.ilpost.it/2026/05/08/post-cafe-milano/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260523T130000Z
-LOCATION:Parma - Colonne 28 - Borgo delle Colonne\, 28
-DTSTART:20260523T090000Z
-SUMMARY:Cose che ho imparato sui libri
-UID:f092fd56-b89d-46f3-816f-8ce189ceee12@f092.org
+DTEND:20260606T020000Z
+DTSTART:20260605T220000Z
+SUMMARY:TALK\, a Verona il 6 giugno
+UID:4469bb16-42b6-4b26-9c75-9c033cfd8a9c@4469.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -99,7 +58,7 @@ DTEND:20260514T180000Z
 LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Rosa - Via Nizza\, 294
 DTSTART:20260514T140000Z
 SUMMARY:Salone Internazionale del Libro: Premio Vero
-UID:b3caa9b5-9347-49bf-a454-d25d959728c9@b3ca.org
+UID:86cea138-8594-4f26-bae0-d027835c98ef@86ce.org
 URL:https://www.salonelibro.it/programma-eventi/premio_vero/18500
 END:VEVENT
 BEGIN:VEVENT
@@ -112,68 +71,8 @@ DTEND:20260514T210000Z
 LOCATION:Torino - Lingotto Fiere\, Pad. Oval\, Bosco degli scrittori - Via Nizza\, 294
 DTSTART:20260514T170000Z
 SUMMARY:Salone Internazionale del Libro: Che ne sai tu di un campo di grano (COSE Spiegate bene)
-UID:49170812-d83e-48f0-b724-7a64ab05c3d4@4917.org
+UID:2f97fde7-6421-49e9-8e77-1d9b072edb59@2f97.org
 URL:https://www.salonelibro.it/programma-eventi/che_ne_sai_tu_di_un_campo_di_grano/19185
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T020000Z
-DTSTART:20260703T220000Z
-SUMMARY:Festival Le Canzoni
-UID:c01b8a8e-a3dd-4cc6-97bb-d192abc124ee@c01b.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260704T193000Z
-SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:48c191a8-e66b-4996-a7bb-ecc8a1f08ce2@48c1.org
-URL:https://www.ticketone.it/eventseries/james-4078963/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260516T183000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
-DTSTART:20260516T143000Z
-SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
-UID:40e67d81-468b-4279-9a05-2de81a06438b@40e6.org
-URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260606T020000Z
-DTSTART:20260605T220000Z
-SUMMARY:TALK\, a Verona il 6 giugno
-UID:ba94bbe0-202d-4b66-8395-9461fbf756c9@ba94.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:dab01225-192b-4de5-a1b1-08ab836051d0@dab0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -185,6 +84,107 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:0ea73176-c25b-4297-972e-f186e34daef4@0ea7.org
+UID:c8b5d716-48d2-4004-8e5b-319b6aeeb3c2@c8b5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260523T130000Z
+LOCATION:Parma - Colonne 28 - Borgo delle Colonne\, 28
+DTSTART:20260523T090000Z
+SUMMARY:Cose che ho imparato sui libri
+UID:b5b7f7bc-53d2-480b-94b1-75a58689b3af@b5b7.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260518T140000Z
+LOCATION:Milano - Via Tortona\, 12
+DTSTART:20260518T100000Z
+SUMMARY:Post Cafè
+UID:0ca24b5b-1c56-4a83-87d2-e73f7cd11892@0ca2.org
+URL:https://www.ilpost.it/2026/05/08/post-cafe-milano/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260703T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260703T193000Z
+SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
+UID:d06cc2d4-7f33-4150-af93-1ace8e403c1e@d06c.org
+URL:https://www.ticketone.it/event/daniele-silvestri-anfiteatro-fonte-mazzola-21245909/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T020000Z
+DTSTART:20260703T220000Z
+SUMMARY:Festival Le Canzoni
+UID:b81e21f7-92a7-4648-a78e-7285baecb1c7@b81e.org
+URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260512T203000Z
+LOCATION:Milano - Santeria Toscana 31 - Viale Toscana\, 31
+DTSTART:20260512T163000Z
+SUMMARY:Cose che ho imparato sui libri
+UID:bcc82d70-53f5-4aa7-ad41-c7e06744d90f@bcc8.org
+URL:https://www.eventbrite.it/e/cose-che-ho-imparato-sui-libri-con-luca-sofri-tickets-1988006789824?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260519T210000Z
+LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
+DTSTART:20260519T170000Z
+SUMMARY:Cambiocampo (Altrecose)\, a Milano
+UID:2102e375-6bda-43da-9fe4-f3291980e9a8@2102.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260516T183000Z
+LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
+DTSTART:20260516T143000Z
+SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
+UID:8c6eadf7-60b1-426b-9dd7-8626a84ba3ff@8c6e.org
+URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260516T130000Z
+LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
+DTSTART:20260516T090000Z
+SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
+UID:97a997fa-fcc8-4db0-a268-963e5a71067c@97a9.org
+URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
 END:VEVENT
 END:VCALENDAR
