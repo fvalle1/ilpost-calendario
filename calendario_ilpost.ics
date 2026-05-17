@@ -7,48 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T020000Z
-DTSTART:20260703T220000Z
-SUMMARY:Festival Le Canzoni
-UID:a73a91a2-7cab-4a41-ac64-f30021723ccf@a73a.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260603T230000Z
-LOCATION:Cesena - Libreria I Libri Di Elena - Via Fantaguzzi\, 24
-DTSTART:20260603T190000Z
-SUMMARY:Playlist (Altrecose)\, a Cesena
-UID:4cf96668-edca-47d5-a930-f5ca41794519@4cf9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260523T130000Z
-LOCATION:Parma - Colonne 28 - Borgo delle Colonne\, 28
-DTSTART:20260523T090000Z
-SUMMARY:Cose che ho imparato sui libri
-UID:2f81d6c9-65e1-40df-8744-972b3a3ddaeb@2f81.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260703T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260703T193000Z
-SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
-UID:7b203196-8366-49f2-8592-df8bcb98cc2d@7b20.org
-URL:https://www.ticketone.it/event/daniele-silvestri-anfiteatro-fonte-mazzola-21245909/
+DTEND:20260606T020000Z
+DTSTART:20260605T220000Z
+SUMMARY:TALK\, a Verona il 6 giugno
+UID:8e69a27e-41d0-4ae2-85a8-5564e4188839@8e69.org
+URL:https://www.ilpost.it/2026/05/15/talk-torna-a-verona/?homepagePosition=4
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -60,7 +23,7 @@ DTEND:20260518T140000Z
 LOCATION:Milano - Via Tortona\, 12
 DTSTART:20260518T100000Z
 SUMMARY:Post Cafè
-UID:66db8ef1-0f1d-4f59-bda4-b6fe22c283c6@66db.org
+UID:6f8737e8-ad4c-4b84-8a39-01817680ae5a@6f87.org
 URL:https://www.ilpost.it/2026/05/08/post-cafe-milano/
 END:VEVENT
 BEGIN:VEVENT
@@ -73,21 +36,8 @@ DTEND:20260519T210000Z
 LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
 DTSTART:20260519T170000Z
 SUMMARY:Cambiocampo (Altrecose)\, a Milano
-UID:32aa9df7-35e2-4ce6-981b-660436d2a170@32aa.org
+UID:b9ebced9-5f77-4a26-b14d-78c20b3aeda1@b9eb.org
 URL:https://www.libreriaverso.com/selezione-appuntamenti/altrecose/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260516T130000Z
-LOCATION:Torino - Lingotto Fiere\, Centro Congressi\, Auditorium - Via Nizza\, 294
-DTSTART:20260516T090000Z
-SUMMARY:Salone Internazionale del Libro: I giornali\, spiegati bene
-UID:02ed8cc4-dff2-438d-8089-fb525d94eb7a@02ed.org
-URL:https://www.salonelibro.it/programma-eventi/francesco_costa_e_luca_sofri/19422
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -99,7 +49,19 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:d2e7db48-5d23-4ad4-9e40-cefe7cfab03f@d2e7.org
+UID:7b3d22ce-e802-4231-a3af-a4f19702d4b5@7b3d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260523T130000Z
+LOCATION:Parma - Colonne 28 - Borgo delle Colonne\, 28
+DTSTART:20260523T090000Z
+SUMMARY:Cose che ho imparato sui libri
+UID:a8221ed8-2c63-4ead-9e9a-ca257db46ceb@a822.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -111,7 +73,7 @@ DTEND:20260604T193000Z
 LOCATION:Venezia - The Home of The Human Safety Net - Piazza San Marco\, 105
 DTSTART:20260604T153000Z
 SUMMARY:Playlist (Altrecose)\, a Venezia
-UID:72b95e1c-98de-4dc0-adff-cabad3fbdb4b@72b9.org
+UID:9e4ea7c7-3943-4f3c-8177-312b2e546444@9e4e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -119,12 +81,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260516T183000Z
-LOCATION:Torino - Lingotto Fiere\, Pad. 1\, Sala Olimpica- Via Nizza\, 294
-DTSTART:20260516T143000Z
-SUMMARY:Salone Internazionale del Libro: Giri Nathan\, autore di Cambiocampo (Altrecose)
-UID:d4870e2d-fc7f-448e-82c0-ae9d38eb1e96@d487.org
-URL:https://www.salonelibro.it/programma-eventi/giri_nathan/18926
+DTEND:20260603T230000Z
+LOCATION:Cesena - Libreria I Libri Di Elena - Via Fantaguzzi\, 24
+DTSTART:20260603T190000Z
+SUMMARY:Playlist (Altrecose)\, a Cesena
+UID:196c830a-4af2-4dd6-9dc6-acd034b19f20@196c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -132,12 +93,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260516T183000Z
-LOCATION:Mantova - Food&Science Festival - Piazza Sordello
-DTSTART:20260516T143000Z
-SUMMARY:Che ne sai tu di un campo di grano (COSE Spiegate bene)\, a Mantova
-UID:23f44fd2-98ab-418a-b204-008a81a74762@23f4.org
-URL:https://www.foodsciencefestival.it/tutte-le-edizioni/foodscience-festival-2026/eventi/presentazione-del-libro-cose-spiegate-bene-de-il-post-dedicato-allagricoltura/
+DTEND:20260704T020000Z
+DTSTART:20260703T220000Z
+SUMMARY:Festival Le Canzoni
+UID:b4a987ef-052b-4560-8362-624bd5fd8d54@b4a9.org
+URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -145,11 +105,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260606T020000Z
-DTSTART:20260605T220000Z
-SUMMARY:TALK\, a Verona il 6 giugno
-UID:dcea3752-1fcf-45e9-9c96-34bdb5bb5c15@dcea.org
-URL:https://www.ilpost.it/2026/05/15/talk-torna-a-verona/?homepagePosition=4
+DTEND:20260703T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260703T193000Z
+SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
+UID:f1138c32-af62-4263-beb1-ac252af535d3@f113.org
+URL:https://www.ticketone.it/event/daniele-silvestri-anfiteatro-fonte-mazzola-21245909/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -160,6 +121,6 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:3e3e386d-66a2-40dc-a11b-f37fd569f320@3e3e.org
+UID:017411d5-28ee-46c9-a2a2-24b582bd0fcf@0174.org
 END:VEVENT
 END:VCALENDAR
