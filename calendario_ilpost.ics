@@ -7,36 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260707T233000Z
-LOCATION:Parma - La Galleria - via Emilia Est\, 7B
-DTSTART:20260707T193000Z
-SUMMARY:I giornali\, spiegati bene\, a Parma
-UID:88890f83-82ee-42c3-b1fe-9a8069f58048@8889.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260703T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260703T193000Z
-SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
-UID:425d40a6-21d6-4be1-a1cf-e4ba51d956eb@425d.org
-URL:https://www.ticketone.it/event/daniele-silvestri-anfiteatro-fonte-mazzola-21245909/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20260625T220000Z
 LOCATION:Rimini - Piazza sull'Acqua - Viale Tiberio\, 1
 DTSTART:20260625T180000Z
 SUMMARY:Playlist (Altrecose)\, a Rimini
-UID:4a1e6f5d-b2bc-4cfb-90db-041a9f2f910d@4a1e.org
+UID:ffd84026-2adf-4b23-8362-bd775fc8c4be@ffd8.org
 URL:https://riminiturismo.it/eventi/biglietti-agli-amici-3
 END:VEVENT
 BEGIN:VEVENT
@@ -45,24 +20,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260607T210000Z
-LOCATION:Bolzano - Ex Libreria Cappelli - Piazza Vittoria\, 41
-DTSTART:20260607T170000Z
-SUMMARY:Playlist (Altrecose)\, a Bolzano
-UID:174c6c30-9f4c-4eed-a5a1-234c48095060@174c.org
-URL:https://salto.bz/it/article/18052026/tre-anni-di-corsa
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:7c5df5c1-781e-46c0-95d0-bf14d985ddcd@7c5d.org
+DTEND:20260707T233000Z
+LOCATION:Parma - La Galleria - via Emilia Est\, 7B
+DTSTART:20260707T193000Z
+SUMMARY:I giornali\, spiegati bene\, a Parma
+UID:b5fd194c-ce8f-41cb-b257-dab38b3787b7@b5fd.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -74,7 +36,7 @@ DTEND:20260704T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260704T193000Z
 SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:6417788d-08aa-417e-b5b5-cdc30609ec74@6417.org
+UID:43ff8202-2136-43df-b004-a38c9f714e19@43ff.org
 URL:https://www.ticketone.it/eventseries/james-4078963/
 END:VEVENT
 BEGIN:VEVENT
@@ -83,11 +45,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T020000Z
-DTSTART:20260703T220000Z
-SUMMARY:Festival Le Canzoni
-UID:4a605ca7-4372-4e09-bed4-70add8ad4788@4a60.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
+DTEND:20260703T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260703T193000Z
+SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
+UID:ecf0c33d-d66a-4558-924e-bb49b5de0bca@ecf0.org
+URL:https://www.ticketone.it/event/daniele-silvestri-anfiteatro-fonte-mazzola-21245909/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -98,6 +61,30 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:85914241-7cf1-4770-8bae-1f57a26c3e1e@8591.org
+UID:0fec94c6-d124-4fd8-acbb-a072465f0efe@0fec.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:bd41e28a-ea1d-422a-9cbb-9ea2054901d5@bd41.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T020000Z
+DTSTART:20260703T220000Z
+SUMMARY:Festival Le Canzoni
+UID:de8ba2b1-a3fe-494d-882e-b777969a2c72@de8b.org
+URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
 END:VEVENT
 END:VCALENDAR
