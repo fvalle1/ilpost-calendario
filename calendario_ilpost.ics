@@ -7,11 +7,22 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:eb8970fc-0ef3-4320-bc9a-9fba290653f1@eb89.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20260625T220000Z
 LOCATION:Rimini - Piazza sull'Acqua - Viale Tiberio\, 1
 DTSTART:20260625T180000Z
 SUMMARY:Playlist (Altrecose)\, a Rimini
-UID:ffd84026-2adf-4b23-8362-bd775fc8c4be@ffd8.org
+UID:3bd9b1a4-10c9-4b5a-9709-37fce0ea7535@3bd9.org
 URL:https://riminiturismo.it/eventi/biglietti-agli-amici-3
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +35,7 @@ DTEND:20260707T233000Z
 LOCATION:Parma - La Galleria - via Emilia Est\, 7B
 DTSTART:20260707T193000Z
 SUMMARY:I giornali\, spiegati bene\, a Parma
-UID:b5fd194c-ce8f-41cb-b257-dab38b3787b7@b5fd.org
+UID:ed84960f-272e-4dcb-8bf6-a1ba2f5905c0@ed84.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -32,36 +43,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260704T193000Z
-SUMMARY:James – Il ritorno in Italia dopo 12 anni
-UID:43ff8202-2136-43df-b004-a38c9f714e19@43ff.org
-URL:https://www.ticketone.it/eventseries/james-4078963/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260703T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260703T193000Z
-SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
-UID:ecf0c33d-d66a-4558-924e-bb49b5de0bca@ecf0.org
-URL:https://www.ticketone.it/event/daniele-silvestri-anfiteatro-fonte-mazzola-21245909/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:0fec94c6-d124-4fd8-acbb-a072465f0efe@0fec.org
+DTEND:20260620T230000Z
+LOCATION:Cornedo Vicentino - Sala San Giovanni - Piazza Aldo Moro
+DTSTART:20260620T190000Z
+SUMMARY:Cose che ho imparato sui libri\, a Cornedo Vicentino
+UID:863c93ac-f332-49de-8eb9-64a0908ec304@863c.org
+URL:https://www.bookweekcornedo.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -73,7 +60,20 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:bd41e28a-ea1d-422a-9cbb-9ea2054901d5@bd41.org
+UID:709906b4-b2fe-43ba-9f93-20b0a564b4b1@7099.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260704T193000Z
+SUMMARY:James – Il ritorno in Italia dopo 12 anni
+UID:871332b4-232e-46ee-9655-ea3de56569d0@8713.org
+URL:https://www.ticketone.it/eventseries/james-4078963/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -84,7 +84,7 @@ END:VALARM
 DTEND:20260704T020000Z
 DTSTART:20260703T220000Z
 SUMMARY:Festival Le Canzoni
-UID:de8ba2b1-a3fe-494d-882e-b777969a2c72@de8b.org
+UID:27a5eb29-8da0-44c4-951c-050961e7b901@27a5.org
 URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
 END:VEVENT
 END:VCALENDAR
