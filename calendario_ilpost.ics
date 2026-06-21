@@ -7,12 +7,24 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260620T230000Z
-LOCATION:Cornedo Vicentino - Sala San Giovanni - Piazza Aldo Moro
-DTSTART:20260620T190000Z
-SUMMARY:Cose che ho imparato sui libri\, a Cornedo Vicentino
-UID:94f00f41-44ea-4c25-9111-5595c95d2090@94f0.org
-URL:https://www.bookweekcornedo.it
+DTEND:20260703T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260703T193000Z
+SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
+UID:997b7960-6900-446e-b7cf-a6e9cf68443d@997b.org
+URL:https://www.ticketone.it/event/daniele-silvestri-anfiteatro-fonte-mazzola-21245909/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T020000Z
+DTSTART:20260703T220000Z
+SUMMARY:Festival Le Canzoni
+UID:171d7dc0-144a-43ac-87d1-f70c667e086f@171d.org
+URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -24,20 +36,8 @@ DTEND:20260625T220000Z
 LOCATION:Rimini - Piazza sull'Acqua - Viale Tiberio\, 1
 DTSTART:20260625T180000Z
 SUMMARY:Playlist (Altrecose)\, a Rimini
-UID:ca1501c6-89a9-4711-a213-44617226b533@ca15.org
+UID:e1cd590d-aa96-4757-98a2-7c2a6353b496@e1cd.org
 URL:https://riminiturismo.it/eventi/biglietti-agli-amici-3
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260707T233000Z
-LOCATION:Parma - La Galleria - via Emilia Est\, 7B
-DTSTART:20260707T193000Z
-SUMMARY:I giornali\, spiegati bene\, a Parma
-UID:e3a74ac4-c558-40c3-925d-22b858f977ba@e3a7.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -49,7 +49,7 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:6ed59659-152f-4a76-bdfd-eded7ee7c183@6ed5.org
+UID:5e53381d-8a73-4a42-b5fa-31b03d681379@5e53.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -57,24 +57,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T020000Z
-DTSTART:20260703T220000Z
-SUMMARY:Festival Le Canzoni
-UID:3333fe08-b1e7-4664-b815-5e7beb583c3e@3333.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260703T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260703T193000Z
-SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
-UID:1aca0c6b-c9cf-4f6e-94f2-3ea423066e5e@1aca.org
-URL:https://www.ticketone.it/event/daniele-silvestri-anfiteatro-fonte-mazzola-21245909/
+DTEND:20260707T233000Z
+LOCATION:Parma - La Galleria - via Emilia Est\, 7B
+DTSTART:20260707T193000Z
+SUMMARY:I giornali\, spiegati bene\, a Parma
+UID:328b1c05-6303-436e-afd7-2575340ac9ec@328b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -85,6 +72,6 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:1ff363d7-f7e4-48b5-b2d1-80f03b5f91bf@1ff3.org
+UID:e81b5b5f-bdc2-40ef-9ac2-fa6f2c9deff4@e81b.org
 END:VEVENT
 END:VCALENDAR
