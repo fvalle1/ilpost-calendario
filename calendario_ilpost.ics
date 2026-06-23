@@ -7,11 +7,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T020000Z
-DTSTART:20260703T220000Z
-SUMMARY:Festival Le Canzoni
-UID:26ad231e-20e4-41b6-af5d-aa0601efb849@26ad.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:438bc9de-1d78-47ef-b1ab-16bca4115699@438b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -23,20 +22,7 @@ DTEND:20260707T233000Z
 LOCATION:Parma - La Galleria - via Emilia Est\, 7B
 DTSTART:20260707T193000Z
 SUMMARY:I giornali\, spiegati bene\, a Parma
-UID:49251537-df9f-48af-8754-002c2d87e7d6@4925.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260625T220000Z
-LOCATION:Rimini - Piazza sull'Acqua - Viale Tiberio\, 1
-DTSTART:20260625T180000Z
-SUMMARY:Playlist (Altrecose)\, a Rimini
-UID:7af61749-0f3f-436a-b48e-b821d74303f4@7af6.org
-URL:https://riminiturismo.it/eventi/biglietti-agli-amici-3
+UID:f7649e83-bf54-4a7d-89e9-393ca3ccc391@f764.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -48,7 +34,7 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:3f9fb3f9-c635-4708-8052-f8c707845746@3f9f.org
+UID:7875177a-f01d-4eac-8e14-ba571653b33a@7875.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -56,10 +42,24 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:b0c67efd-adef-492c-8084-ed735bbf75b8@b0c6.org
+DTEND:20260625T220000Z
+LOCATION:Rimini - Piazza sull'Acqua - Viale Tiberio\, 1
+DTSTART:20260625T180000Z
+SUMMARY:Playlist (Altrecose)\, a Rimini
+UID:a42b2cde-8f75-4c45-b6b1-a8536066270f@a42b.org
+URL:https://riminiturismo.it/eventi/biglietti-agli-amici-3
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T020000Z
+DTSTART:20260703T220000Z
+SUMMARY:Festival Le Canzoni
+UID:9f4ac435-22ba-4c9b-bc59-a01f657d7168@9f4a.org
+URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -71,7 +71,7 @@ DTEND:20260703T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260703T193000Z
 SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
-UID:fe2ab996-0357-40fb-95a5-1d3623e6248b@fe2a.org
+UID:8ddcfc70-c0ed-4a22-b4a6-b387342eabb2@8ddc.org
 URL:https://www.ticketone.it/event/daniele-silvestri-anfiteatro-fonte-mazzola-21245909/
 END:VEVENT
 END:VCALENDAR
