@@ -7,11 +7,37 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20260701T203000Z
+LOCATION:Firenze - B3 Motel Garden - Via Marie Curie
+DTSTART:20260701T163000Z
+SUMMARY:Marciare è un po’ marcire. Giorgia Meloni\, la più longeva\, la più immobile\, alle prese con l’ultimo anno della legislatura
+UID:b93417a4-1294-40af-a160-251b43ea4c0b@b934.org
+URL:https://stensen.org/attivita/non-solo-cinema-in-manifattura-2026-il-programma/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T210000Z
+LOCATION:Cesena - Chiosko Giardini Savelli - Viale Giosuè Carducci\, 20
+DTSTART:20260704T170000Z
+SUMMARY:Cinemino? (COSE Spiegate bene)\, a Cesena
+UID:1545bacd-81ef-4ae7-9166-9242426cd6e8@1545.org
+URL:https://sititematici.comune.cesena.fc.it/piazzedicinema
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20260719T230000Z
 LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20260719T190000Z
 SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
-UID:29d44c45-858e-45dd-a574-19a8f7e9a083@29d4.org
+UID:240297fe-68e9-4a69-93f7-86b754816442@2402.org
 URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +50,7 @@ DTEND:20260703T233000Z
 LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
 DTSTART:20260703T193000Z
 SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
-UID:bfb1bb78-bfbc-4b06-a350-0c366402e3c5@bfb1.org
+UID:6d94ea3a-6139-45df-843c-ea88fc7e64a7@6d94.org
 URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
 END:VEVENT
 BEGIN:VEVENT
@@ -33,12 +59,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260719T210000Z
-LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20260719T170000Z
-SUMMARY:La Cina vuole decidere come si parla della Cina
-UID:17d7abfb-202f-40c8-8c74-2dd6d25de20e@17d7.org
-URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
+DTEND:20260721T223000Z
+LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
+DTSTART:20260721T183000Z
+SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
+UID:842b813e-73a7-4e05-880e-ec194ca1b57c@842b.org
+URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -49,21 +75,8 @@ END:VALARM
 DTEND:20260704T020000Z
 DTSTART:20260703T220000Z
 SUMMARY:Festival Le Canzoni
-UID:04d6cdd9-50c8-49ef-9885-a17fbb6bdafa@04d6.org
+UID:46f388f0-5212-4f21-8e01-1db1c80bc08e@46f3.org
 URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260701T203000Z
-LOCATION:Firenze - B3 Motel Garden - Via Marie Curie
-DTSTART:20260701T163000Z
-SUMMARY:Marciare è un po’ marcire. Giorgia Meloni\, la più longeva\, la più immobile\, alle prese con l’ultimo anno della legislatura
-UID:7b8469dc-b594-4625-871a-c94319852b3e@7b84.org
-URL:https://stensen.org/attivita/non-solo-cinema-in-manifattura-2026-il-programma/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -75,7 +88,18 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:5c9c6fa2-0f99-4b0e-90f9-2bb4164efeca@5c9c.org
+UID:d37a567f-0666-4991-8927-6596ee1c191a@d37a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:849f183b-5682-41ea-a843-1f3c169285dd@849f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -87,7 +111,7 @@ DTEND:20260707T233000Z
 LOCATION:Parma - La Galleria - via Emilia Est\, 7B
 DTSTART:20260707T193000Z
 SUMMARY:I giornali\, spiegati bene\, a Parma
-UID:401c5e3c-f1b3-4972-be4a-24610b11b023@401c.org
+UID:0204161b-673a-4a6e-91d4-ceccfb0454bf@0204.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -95,12 +119,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T210000Z
-LOCATION:Cesena - Chiosko Giardini Savelli - Viale Giosuè Carducci\, 20
-DTSTART:20260704T170000Z
-SUMMARY:Cinemino? (COSE Spiegate bene)\, a Cesena
-UID:d0abf56f-60ef-432b-8481-1bc7486df37a@d0ab.org
-URL:https://sititematici.comune.cesena.fc.it/piazzedicinema
+DTEND:20260719T210000Z
+LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20260719T170000Z
+SUMMARY:La Cina vuole decidere come si parla della Cina
+UID:539b060e-40ef-485d-9d5c-de29fdf3b38c@539b.org
+URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -112,18 +136,7 @@ DTEND:20260702T203000Z
 LOCATION:Peccioli - Biblioteca Comunale fonte mazzola - Strada vicinale delle Serre\, 11
 DTSTART:20260702T163000Z
 SUMMARY:La shortlist del Premio Vero\, a Peccioli
-UID:34643db2-0cce-47d4-b361-94c2b31490e6@3464.org
+UID:c07be8bc-5b30-4796-bf81-52354a696e17@c07b.org
 URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:36df7856-bbf7-4cf0-819d-e43ca5cdfc9b@36df.org
 END:VEVENT
 END:VCALENDAR
