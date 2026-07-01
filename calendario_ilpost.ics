@@ -7,49 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:5c289568-7117-47a2-acb0-211d3be8f215@5c28.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260703T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260703T193000Z
-SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
-UID:605f0e15-e3e1-4af7-b97e-3e10672ae3dc@605f.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T210000Z
-LOCATION:Cesena - Chiosko Giardini Savelli - Viale Giosuè Carducci\, 20
-DTSTART:20260704T170000Z
-SUMMARY:Cinemino? (COSE Spiegate bene)\, a Cesena
-UID:34bfc2e1-2568-4b89-8b9a-d99ab22efce7@34bf.org
-URL:https://sititematici.comune.cesena.fc.it/piazzedicinema
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20260702T203000Z
 LOCATION:Peccioli - Biblioteca Comunale fonte mazzola - Strada vicinale delle Serre\, 11
 DTSTART:20260702T163000Z
 SUMMARY:La shortlist del Premio Vero\, a Peccioli
-UID:02374c26-570d-4bd4-9124-414d0a7ac7d0@0237.org
+UID:dedad627-e32a-41ca-aeb1-788d6f0c7fd5@deda.org
 URL:https://www.fondarte.peccioli.net/11lune_rassegna.php
 END:VEVENT
 BEGIN:VEVENT
@@ -58,23 +20,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260707T233000Z
-LOCATION:Parma - La Galleria - via Emilia Est\, 7B
-DTSTART:20260707T193000Z
-SUMMARY:I giornali\, spiegati bene\, a Parma
-UID:366bcd4a-fb92-4db8-af72-99a57859d7e7@366b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T020000Z
-DTSTART:20260703T220000Z
-SUMMARY:Festival Le Canzoni
-UID:8da396f0-54d9-4386-b7f7-b8fde3e1b4bd@8da3.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:e97292b6-9d15-4971-9a72-d22fe66e9e8f@e972.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -86,31 +35,8 @@ DTEND:20260719T230000Z
 LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20260719T190000Z
 SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
-UID:5bb7b4ba-126a-4b0f-94f6-10714a51b4d9@5bb7.org
+UID:7fba1896-28f9-40aa-bd00-078500e27f1c@7fba.org
 URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260720T230000Z
-LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
-DTSTART:20260720T190000Z
-SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
-UID:c1e64251-3f17-479c-8853-0fe212ed406a@c1e6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:91d02af1-c2c5-45f7-8f8d-30e7279d849f@91d0.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -122,8 +48,45 @@ DTEND:20260721T223000Z
 LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
 DTSTART:20260721T183000Z
 SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
-UID:049dfda2-a071-45c6-9b73-871060cc81af@049d.org
+UID:15de9938-6ef8-4a2c-806e-3248c0d8fbc5@15de.org
 URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:6cee8940-818b-45f1-8f9f-6702823cc971@6cee.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260707T233000Z
+LOCATION:Parma - La Galleria - via Emilia Est\, 7B
+DTSTART:20260707T193000Z
+SUMMARY:I giornali\, spiegati bene\, a Parma
+UID:5d07e5d7-ca68-4cbc-9bc9-45a268396a5b@5d07.org
+URL:https://www.lagalleriaparma.it/la-galleria-ospita-il-mic-fest-2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T020000Z
+DTSTART:20260703T220000Z
+SUMMARY:Festival Le Canzoni
+UID:645f95a5-5fd6-4da5-8e29-2b1341c74055@645f.org
+URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -135,8 +98,46 @@ DTEND:20260701T203000Z
 LOCATION:Firenze - B3 Motel Garden - Via Marie Curie
 DTSTART:20260701T163000Z
 SUMMARY:Marciare è un po’ marcire. Giorgia Meloni\, la più longeva\, la più immobile\, alle prese con l’ultimo anno della legislatura
-UID:9c01e373-9d36-4822-96e4-a99f2cc498c6@9c01.org
+UID:f37f380a-f7d2-4584-ab19-37896be4cf92@f37f.org
 URL:https://stensen.org/attivita/non-solo-cinema-in-manifattura-2026-il-programma/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260704T210000Z
+LOCATION:Cesena - Chiosko Giardini Savelli - Viale Giosuè Carducci\, 20
+DTSTART:20260704T170000Z
+SUMMARY:Cinemino? (COSE Spiegate bene)\, a Cesena
+UID:a937a272-f3ec-4dce-bddc-2acb53a01251@a937.org
+URL:https://sititematici.comune.cesena.fc.it/piazzedicinema
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260720T230000Z
+LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
+DTSTART:20260720T190000Z
+SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
+UID:d1460e57-c10c-4943-9c49-7b675e7a57f4@d146.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260703T233000Z
+LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
+DTSTART:20260703T193000Z
+SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
+UID:9311994a-a5d2-4f14-bd1c-9e15875ca83c@9311.org
+URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -148,7 +149,7 @@ DTEND:20260719T210000Z
 LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20260719T170000Z
 SUMMARY:La Cina vuole decidere come si parla della Cina
-UID:d9610573-af08-4e42-9c30-5e4417b89b90@d961.org
+UID:a364dbf3-57a8-4971-ab4e-18cf31208c02@a364.org
 URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
 END:VEVENT
 END:VCALENDAR
