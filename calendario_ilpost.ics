@@ -7,76 +7,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260704T020000Z
-DTSTART:20260703T220000Z
-SUMMARY:Festival Le Canzoni
-UID:02d62d67-3701-4c68-ad5f-a97559ee651e@02d6.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T210000Z
-LOCATION:Cesena - Chiosko Giardini Savelli - Viale Giosuè Carducci\, 20
-DTSTART:20260704T170000Z
-SUMMARY:Cinemino? (COSE Spiegate bene)\, a Cesena
-UID:db809a86-8361-4ac1-8c6a-2c19cb221c0d@db80.org
-URL:https://sititematici.comune.cesena.fc.it/piazzedicinema
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260721T223000Z
-LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
-DTSTART:20260721T183000Z
-SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
-UID:1459088e-b9aa-483f-a3e3-d4deea523608@1459.org
-URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260703T233000Z
-LOCATION:Peccioli - Strada Vicinale delle Serre\, 20 - Anfiteatro Fonte Mazzola
-DTSTART:20260703T193000Z
-SUMMARY:Daniele Silvestri in Canzoni a sdraio tour 2026
-UID:09396bba-d16d-4a53-b370-53c4ec5676c7@0939.org
-URL:https://www.ilpost.it/2026/04/21/le-canzoni-2026-peccioli-concerti/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260719T230000Z
-LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20260719T190000Z
-SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
-UID:aadbe5db-f78a-48da-9ae6-1c0c0a070716@aadb.org
-URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260719T210000Z
-LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20260719T170000Z
-SUMMARY:La Cina vuole decidere come si parla della Cina
-UID:8c656ed7-6fd9-4ec0-ae4c-0943cdebf412@8c65.org
-URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:a6d7c731-4a9f-4343-abe3-9273f5f3316e@a6d7.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -88,7 +22,7 @@ DTEND:20260707T233000Z
 LOCATION:Parma - La Galleria - via Emilia Est\, 7B
 DTSTART:20260707T193000Z
 SUMMARY:I giornali\, spiegati bene\, a Parma
-UID:9a364245-bcfe-4092-8113-ddb630406565@9a36.org
+UID:279d019a-1996-41ca-84d5-efc52c50bcc9@279d.org
 URL:https://www.lagalleriaparma.it/la-galleria-ospita-il-mic-fest-2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -97,10 +31,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:219ea305-509e-49ba-83a2-b3149f6e2a67@219e.org
+DTEND:20260719T230000Z
+LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20260719T190000Z
+SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
+UID:8f48f98c-beb2-4171-9c85-e85d93542ba4@8f48.org
+URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -108,11 +44,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260720T230000Z
-LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
-DTSTART:20260720T190000Z
-SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
-UID:4a591194-b0ee-49cf-a0a3-31fa80b66de0@4a59.org
+DTEND:20260704T210000Z
+LOCATION:Cesena - Chiosko Giardini Savelli - Viale Giosuè Carducci\, 20
+DTSTART:20260704T170000Z
+SUMMARY:Cinemino? (COSE Spiegate bene)\, a Cesena
+UID:de283081-7304-471e-b188-8203526b42b7@de28.org
+URL:https://sititematici.comune.cesena.fc.it/piazzedicinema
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -124,6 +61,44 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:53cf890f-f474-4fd6-82e4-c6b6bf52b177@53cf.org
+UID:fa37481f-41b6-432b-b23b-110229dd01e6@fa37.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260721T223000Z
+LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
+DTSTART:20260721T183000Z
+SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
+UID:41ef119f-f903-4893-9b5a-930aa62c7bfc@41ef.org
+URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260719T210000Z
+LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20260719T170000Z
+SUMMARY:La Cina vuole decidere come si parla della Cina
+UID:d1393272-24be-4cb7-ba42-c7b4ba76e129@d139.org
+URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260720T230000Z
+LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
+DTSTART:20260720T190000Z
+SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
+UID:f0419106-796b-4290-8874-6cfa98568f9f@f041.org
 END:VEVENT
 END:VCALENDAR
