@@ -10,46 +10,7 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:a6d7c731-4a9f-4343-abe3-9273f5f3316e@a6d7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260707T233000Z
-LOCATION:Parma - La Galleria - via Emilia Est\, 7B
-DTSTART:20260707T193000Z
-SUMMARY:I giornali\, spiegati bene\, a Parma
-UID:279d019a-1996-41ca-84d5-efc52c50bcc9@279d.org
-URL:https://www.lagalleriaparma.it/la-galleria-ospita-il-mic-fest-2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260719T230000Z
-LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20260719T190000Z
-SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
-UID:8f48f98c-beb2-4171-9c85-e85d93542ba4@8f48.org
-URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260704T210000Z
-LOCATION:Cesena - Chiosko Giardini Savelli - Viale Giosuè Carducci\, 20
-DTSTART:20260704T170000Z
-SUMMARY:Cinemino? (COSE Spiegate bene)\, a Cesena
-UID:de283081-7304-471e-b188-8203526b42b7@de28.org
-URL:https://sititematici.comune.cesena.fc.it/piazzedicinema
+UID:dd685b09-7ece-408d-aafb-7e4b2e908ba7@dd68.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -61,7 +22,7 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:fa37481f-41b6-432b-b23b-110229dd01e6@fa37.org
+UID:be52ff90-7aa3-4154-96ec-fd1c38f24b9b@be52.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -69,12 +30,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260721T223000Z
-LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
-DTSTART:20260721T183000Z
-SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
-UID:41ef119f-f903-4893-9b5a-930aa62c7bfc@41ef.org
-URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
+DTEND:20260707T233000Z
+LOCATION:Parma - La Galleria - via Emilia Est\, 7B
+DTSTART:20260707T193000Z
+SUMMARY:I giornali\, spiegati bene\, a Parma
+UID:a3f35033-5063-4a3f-80d7-28c94888be26@a3f3.org
+URL:https://www.lagalleriaparma.it/la-galleria-ospita-il-mic-fest-2026/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -86,7 +47,20 @@ DTEND:20260719T210000Z
 LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20260719T170000Z
 SUMMARY:La Cina vuole decidere come si parla della Cina
-UID:d1393272-24be-4cb7-ba42-c7b4ba76e129@d139.org
+UID:61746a9a-ecbb-4c3e-a296-f4fa19a454c6@6174.org
+URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260719T230000Z
+LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20260719T190000Z
+SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
+UID:354ad230-386c-40ce-a351-d7982dc0e215@354a.org
 URL:https://www.instagram.com/p/DZ-Sz2XDQ1j/?igsh=cWF3aTM1bjBkenhz
 END:VEVENT
 BEGIN:VEVENT
@@ -99,6 +73,19 @@ DTEND:20260720T230000Z
 LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
 DTSTART:20260720T190000Z
 SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
-UID:f0419106-796b-4290-8874-6cfa98568f9f@f041.org
+UID:8670aac3-5e4e-4266-8c48-719994d6ef61@8670.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260721T223000Z
+LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
+DTSTART:20260721T183000Z
+SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
+UID:be34bd35-9f4c-4aa7-a24a-9171b925bc67@be34.org
+URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
 END:VEVENT
 END:VCALENDAR
