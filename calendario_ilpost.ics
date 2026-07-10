@@ -7,62 +7,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260718T200000Z
-LOCATION:Bari - Largo Vito Maurogiovanni
-DTSTART:20260718T160000Z
-SUMMARY:Uno sguardo su politica e attualità
-UID:efa3a998-da2c-4cce-8965-47ab0b58f468@efa3.org
-URL:https://www.lungomarelibri.it/programma/le-trame-del-mondo/#sabato-18
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:afaf0eb3-7094-4a4c-9a1f-d9aeb5110fc7@afaf.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260721T223000Z
-LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
-DTSTART:20260721T183000Z
-SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
-UID:75061beb-2e28-4244-8a22-598ae0ae0ab2@7506.org
-URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260719T210000Z
-LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20260719T170000Z
-SUMMARY:La Cina vuole decidere come si parla della Cina
-UID:861d4aa8-6b7b-4a35-9ba8-f8ad2c2f1440@861d.org
-URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260720T230000Z
-LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
-DTSTART:20260720T190000Z
-SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
-UID:d905e943-da7c-4931-b780-5db263c58014@d905.org
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:e13a0ffb-2fb1-402a-a055-50da12bb1c4e@e13a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -74,7 +22,7 @@ DTEND:20260719T230000Z
 LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20260719T190000Z
 SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
-UID:4d3f0221-930d-48e4-82f2-88d8885243d7@4d3f.org
+UID:c7757f39-0153-4ffe-ba1f-4923a87a3315@c775.org
 URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
 END:VEVENT
 BEGIN:VEVENT
@@ -83,9 +31,61 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:864bac56-ebaa-4f62-9156-c8495b95f942@864b.org
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:d75ca6df-33d8-4e35-8858-7f046a1ed5e6@d75c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260721T223000Z
+LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
+DTSTART:20260721T183000Z
+SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
+UID:f33f30b2-257d-4f67-a2b6-7935b7f9d9f7@f33f.org
+URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260720T230000Z
+LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
+DTSTART:20260720T190000Z
+SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
+UID:aa992990-7101-40ae-b3db-729dc2bab4d7@aa99.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260719T210000Z
+LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20260719T170000Z
+SUMMARY:La Cina vuole decidere come si parla della Cina
+UID:419a8bed-ebcf-492d-8360-ecc5af753461@419a.org
+URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260718T200000Z
+LOCATION:Bari - Largo Vito Maurogiovanni
+DTSTART:20260718T160000Z
+SUMMARY:Uno sguardo su politica e attualità
+UID:dbf790f0-f026-4101-9bb3-3841ba57af99@dbf7.org
+URL:https://www.lungomarelibri.it/programma/le-trame-del-mondo/#sabato-18
 END:VEVENT
 END:VCALENDAR
