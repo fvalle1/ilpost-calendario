@@ -7,48 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:e13a0ffb-2fb1-402a-a055-50da12bb1c4e@e13a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260719T230000Z
-LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20260719T190000Z
-SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
-UID:c7757f39-0153-4ffe-ba1f-4923a87a3315@c775.org
-URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:d75ca6df-33d8-4e35-8858-7f046a1ed5e6@d75c.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260721T223000Z
-LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
-DTSTART:20260721T183000Z
-SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
-UID:f33f30b2-257d-4f67-a2b6-7935b7f9d9f7@f33f.org
-URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
+DTEND:20260718T200000Z
+LOCATION:Bari - Largo Vito Maurogiovanni
+DTSTART:20260718T160000Z
+SUMMARY:Uno sguardo su politica e attualità
+UID:99326f2d-a643-4712-bc03-df481ab12981@9932.org
+URL:https://www.lungomarelibri.it/programma/le-trame-del-mondo/#sabato-18
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -60,7 +24,7 @@ DTEND:20260720T230000Z
 LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
 DTSTART:20260720T190000Z
 SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
-UID:aa992990-7101-40ae-b3db-729dc2bab4d7@aa99.org
+UID:2a1c6a08-3549-42fe-a0b3-6a66de6cbbb5@2a1c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -72,7 +36,7 @@ DTEND:20260719T210000Z
 LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20260719T170000Z
 SUMMARY:La Cina vuole decidere come si parla della Cina
-UID:419a8bed-ebcf-492d-8360-ecc5af753461@419a.org
+UID:01e5660a-82f7-43a0-a849-a7270dea31f8@01e5.org
 URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
 END:VEVENT
 BEGIN:VEVENT
@@ -81,11 +45,47 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260718T200000Z
-LOCATION:Bari - Largo Vito Maurogiovanni
-DTSTART:20260718T160000Z
-SUMMARY:Uno sguardo su politica e attualità
-UID:dbf790f0-f026-4101-9bb3-3841ba57af99@dbf7.org
-URL:https://www.lungomarelibri.it/programma/le-trame-del-mondo/#sabato-18
+DTEND:20260721T223000Z
+LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
+DTSTART:20260721T183000Z
+SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
+UID:44e18b79-b9e8-4091-8dfe-1934ec106ad0@44e1.org
+URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:6af64dd7-11f1-45bf-bbda-64cc01698a68@6af6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:34560227-8a2a-45ce-8d70-1d030169ce45@3456.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260719T230000Z
+LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20260719T190000Z
+SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
+UID:9ea7da05-3329-4802-a34f-4efa3e28a859@9ea7.org
+URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
 END:VEVENT
 END:VCALENDAR
