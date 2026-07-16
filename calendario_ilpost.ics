@@ -7,11 +7,22 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:421756e7-7a98-4c50-9686-8b036dc9acc1@4217.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20260718T200000Z
 LOCATION:Bari - Largo Vito Maurogiovanni
 DTSTART:20260718T160000Z
 SUMMARY:Uno sguardo su politica e attualità
-UID:cf6bc6b6-c445-43d8-8713-146ca3a00741@cf6b.org
+UID:9ee34581-0ec4-4757-a13e-06c715bef98e@9ee3.org
 URL:https://www.lungomarelibri.it/programma/le-trame-del-mondo/#sabato-18
 END:VEVENT
 BEGIN:VEVENT
@@ -24,44 +35,8 @@ DTEND:20260719T210000Z
 LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
 DTSTART:20260719T170000Z
 SUMMARY:La Cina vuole decidere come si parla della Cina
-UID:d7f86b91-f1e3-4404-b71d-3e24b5977cd5@d7f8.org
+UID:d0bc127c-3717-41f5-93ab-0f55875ebaea@d0bc.org
 URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260720T230000Z
-LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
-DTSTART:20260720T190000Z
-SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
-UID:4ddd6ca5-7994-4fad-a81d-7b33b108ec15@4ddd.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260719T230000Z
-LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20260719T190000Z
-SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
-UID:3c925bf8-78c1-4922-9f85-897b6deb8840@3c92.org
-URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:4dcd9778-b5a8-46a6-babe-0e41946bc0f2@4dcd.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -73,7 +48,7 @@ DTEND:20260721T223000Z
 LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
 DTSTART:20260721T183000Z
 SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
-UID:49b39506-97e0-4028-ad93-361824e51207@49b3.org
+UID:3614cf8d-60d1-4c12-ad85-36a805799917@3614.org
 URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
 END:VEVENT
 BEGIN:VEVENT
@@ -86,6 +61,31 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:0a2367a9-45f6-40bf-9f44-650e35b7f4e5@0a23.org
+UID:437a1551-95d6-4985-ae66-dff736930220@437a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260720T230000Z
+LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
+DTSTART:20260720T190000Z
+SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
+UID:18517a82-e711-40ba-80cb-7d57892dfa7d@1851.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260719T230000Z
+LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20260719T190000Z
+SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
+UID:32103ee5-c3f5-4dc2-8555-cf622c46ea6c@3210.org
+URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
 END:VEVENT
 END:VCALENDAR
