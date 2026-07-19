@@ -7,125 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260907T203000Z
-LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
-DTSTART:20260907T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
-UID:1465d36b-83ac-4bfd-8969-462a75619782@1465.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260720T230000Z
-LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
-DTSTART:20260720T190000Z
-SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
-UID:388c198b-8953-4538-9e4c-922123a2de39@388c.org
-URL:https://www.discoverarezzo.com/eventi/arezzo-moonlight-festival-2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260721T223000Z
-LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
-DTSTART:20260721T183000Z
-SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
-UID:aa863501-acd0-4ac4-8f59-070b0c0deb77@aa86.org
-URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:f9fa8d5b-b158-4fde-ad4e-325c63e8ad2c@f9fa.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260719T230000Z
-LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20260719T190000Z
-SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
-UID:ca4b5266-e3ef-4ee7-b569-87903393cd9e@ca4b.org
-URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260906T200000Z
-LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
-DTSTART:20260906T160000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
-UID:69443cd1-6f21-42d5-8de4-61ededfc5f2f@6944.org
-URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260719T210000Z
-LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
-DTSTART:20260719T170000Z
-SUMMARY:La Cina vuole decidere come si parla della Cina
-UID:8dd5d906-c9aa-4310-b283-0f11f57b4746@8dd5.org
-URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260718T200000Z
-LOCATION:Bari - Largo Vito Maurogiovanni
-DTSTART:20260718T160000Z
-SUMMARY:Uno sguardo su politica e attualità
-UID:5b1f1020-38b9-4d2f-9692-99b757defe65@5b1f.org
-URL:https://www.lungomarelibri.it/programma/le-trame-del-mondo/#sabato-18
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20260905T211500Z
 LOCATION:Sarzana - Teatro degli Impavidi - Via Mazzini
 DTSTART:20260905T171500Z
 SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Sarzana
-UID:5a74cc77-7bea-443a-8703-d4ce5e6b85bd@5a74.org
+UID:598f4c36-a6ea-46d8-a554-8dffd3c75807@598f.org
 URL:https://www.festivaldellamente.it/it/?p=24201
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260908T210000Z
-LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
-DTSTART:20260908T170000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Milano
-UID:4d1d0117-2fd9-4c14-9ccc-dbca7eae267a@4d1d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -137,6 +24,106 @@ DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:1e05b06f-5b27-48a4-a053-ecd5ba0cee26@1e05.org
+UID:0956339d-a995-4ed1-9f9a-6a2cf5583465@0956.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260719T210000Z
+LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20260719T170000Z
+SUMMARY:La Cina vuole decidere come si parla della Cina
+UID:5ee52603-7ad8-4b9a-b93e-f1310cc20581@5ee5.org
+URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260721T223000Z
+LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
+DTSTART:20260721T183000Z
+SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
+UID:bbfd645c-986e-4e69-9911-92688dc1999d@bbfd.org
+URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260908T210000Z
+LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
+DTSTART:20260908T170000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Milano
+UID:21f06779-8b7d-4722-a31e-48c282a7fca3@21f0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:f180eb65-3282-40e6-8fbc-441801817561@f180.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260720T230000Z
+LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
+DTSTART:20260720T190000Z
+SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
+UID:f58fd97d-c481-4a19-b4f0-f795df17a159@f58f.org
+URL:https://www.discoverarezzo.com/eventi/arezzo-moonlight-festival-2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260907T203000Z
+LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
+DTSTART:20260907T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
+UID:0f2d14c3-7aac-4505-a53d-1f16f509ae2d@0f2d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260906T200000Z
+LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
+DTSTART:20260906T160000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
+UID:89385957-b73d-460c-9d09-02f315a2c2e8@8938.org
+URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260719T230000Z
+LOCATION:Modica - Sagrato della chiesa di Santa Maria del Soccorso - Corso Umberto I
+DTSTART:20260719T190000Z
+SUMMARY:Gaza prima di Gaza. Dal neolitico all’altroieri.
+UID:2474af48-7614-4ebb-849b-ebc5fa28d811@2474.org
+URL:https://associazionepieroiemmolo.it/mondo-visto-da-qui/
 END:VEVENT
 END:VCALENDAR
