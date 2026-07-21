@@ -7,25 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260906T200000Z
-LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
-DTSTART:20260906T160000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
-UID:ca10fc4f-b9ff-4cd2-870a-f16ab1a5e191@ca10.org
-URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260721T223000Z
-LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
-DTSTART:20260721T183000Z
-SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
-UID:9b80ff53-3892-4913-ad33-f110f2030859@9b80.org
-URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
+DTEND:20260907T203000Z
+LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
+DTSTART:20260907T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
+UID:94757831-80b0-403a-974f-ce94390550a9@9475.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -37,45 +23,8 @@ DTEND:20260905T211500Z
 LOCATION:Sarzana - Teatro degli Impavidi - Via Mazzini
 DTSTART:20260905T171500Z
 SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Sarzana
-UID:67bd9a8e-5b31-4b7d-8452-7628f674b140@67bd.org
+UID:fc356972-53be-4fa1-9757-c04576ef422b@fc35.org
 URL:https://www.festivaldellamente.it/it/?p=24201
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260720T230000Z
-LOCATION:Arezzo - Palazzo della Fraternita dei Laici - Piazza Grande
-DTSTART:20260720T190000Z
-SUMMARY:Cose che ho imparato sui libri\, ad Arezzo
-UID:f934b282-db64-4b00-8fc4-265a118f6f2a@f934.org
-URL:https://www.discoverarezzo.com/eventi/arezzo-moonlight-festival-2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:82373b30-1a71-4ca8-9545-9dc3f5769683@8237.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260907T203000Z
-LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
-DTSTART:20260907T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
-UID:e7469605-35ca-4931-8753-2fb006cbd6c6@e746.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -87,7 +36,19 @@ DTEND:20260908T210000Z
 LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
 DTSTART:20260908T170000Z
 SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Milano
-UID:1a33337a-a6b2-4dc6-be4b-371b805644af@1a33.org
+UID:faa222ef-6a6d-43e3-b758-9d3c8be3d2ab@faa2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:2c944456-d004-4c27-8340-a4a8c74c3c7b@2c94.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -98,6 +59,32 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:2fd77fc0-485a-45fd-8e33-4b79afe1043c@2fd7.org
+UID:9df4c002-0f93-46e9-adff-41842b3c03d9@9df4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260721T223000Z
+LOCATION:Genova - Palazzo Ducale\, Sala del Maggior Consiglio - Piazza Giacomo Matteotti\, 9
+DTSTART:20260721T183000Z
+SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001
+UID:68a70dcf-79eb-49bd-bab3-29102bcaa2eb@68a7.org
+URL:https://palazzoducale.genova.it/evento/stefano-nazzi/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260906T200000Z
+LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
+DTSTART:20260906T160000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
+UID:7b2fe922-e965-462b-875c-3d49da9c7b55@7b2f.org
+URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
 END:VEVENT
 END:VCALENDAR
