@@ -7,12 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260906T200000Z
-LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
-DTSTART:20260906T160000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
-UID:621125ff-719d-42dd-8cba-e6973c02b0d7@6211.org
-URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:a98e687f-01b9-4282-9640-c15863363aa9@a98e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -24,43 +23,7 @@ DTEND:20260908T210000Z
 LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
 DTSTART:20260908T170000Z
 SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Milano
-UID:23d9bdcb-20ea-4752-8ee1-2ffce7c6a475@23d9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260905T211500Z
-LOCATION:Sarzana - Teatro degli Impavidi - Via Mazzini
-DTSTART:20260905T171500Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Sarzana
-UID:0b8b5030-0f1b-4a07-9f1f-9431086f18bc@0b8b.org
-URL:https://www.festivaldellamente.it/it/?p=24201
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:85441bb5-7da9-4397-b280-498dc29c774e@8544.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:871726d7-467a-48a5-9013-1c254d7ea687@8717.org
+UID:d41f2655-fa75-4af9-a0c8-39446424ebd4@d41f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -72,6 +35,43 @@ DTEND:20260907T203000Z
 LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
 DTSTART:20260907T163000Z
 SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
-UID:60eeae03-4fcc-4e0b-b809-e34e64298d68@60ee.org
+UID:abcd5b5b-e758-4c76-a7fb-d0bf557029c5@abcd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:8e9b0367-b5ef-42e8-8e8e-ea41329c3fc6@8e9b.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260906T200000Z
+LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
+DTSTART:20260906T160000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
+UID:ff19c940-5795-4adf-9c69-022f2b2c8495@ff19.org
+URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260905T211500Z
+LOCATION:Sarzana - Teatro degli Impavidi - Via Mazzini
+DTSTART:20260905T171500Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Sarzana
+UID:17a840c2-8546-4930-876c-250f93ddf20e@17a8.org
+URL:https://www.festivaldellamente.it/it/?p=24201
 END:VEVENT
 END:VCALENDAR
