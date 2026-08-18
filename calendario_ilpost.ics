@@ -7,11 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260905T183000Z
+DTEND:20260905T163000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20260905T143000Z
-SUMMARY:Outpost\, al Festival di EMERGENCY
-UID:d19ab554-62b3-4b87-82cd-e208579d4931@d19a.org
+DTSTART:20260905T123000Z
+SUMMARY:Giustizia\, giustizie\, nei conflitti\, al Festival di EMERGENCY
+UID:35980e16-91a2-40bd-a5b9-cf683d51a480@3598.org
 URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
@@ -20,11 +20,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260910T203000Z
-LOCATION:Roma - Spazio Sette - Via dei Barbieri\, 7
-DTSTART:20260910T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Roma
-UID:f535c74a-5769-4446-bd89-a072ff18198e@f535.org
+DTEND:20260906T200000Z
+LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
+DTSTART:20260906T160000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
+UID:21f89911-08a6-4b85-b402-a83fa9a079dd@21f8.org
+URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -32,12 +33,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261003T120000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T080000Z
-SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:3879a155-401f-4bf4-ab29-10bb614105b7@3879.org
-URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
+DTEND:20260908T203000Z
+LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
+DTSTART:20260908T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
+UID:46717486-c3cf-46ad-9cf1-7ff90106673e@4671.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -45,48 +45,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:3f482453-2a1b-4737-bd43-6be3ec358db7@3f48.org
-URL:https://www.festadelracconto.it/event/comodino/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:b47feb5c-a15b-4a5d-9659-4daf4b518b02@b47f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260905T211500Z
-LOCATION:Sarzana - Teatro degli Impavidi - Via Mazzini
-DTSTART:20260905T171500Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Sarzana
-UID:175f546f-a158-493a-9ea0-e56a92b3c09b@175f.org
-URL:https://www.festivaldellamente.it/it/?p=24201
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260906T163000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20260906T123000Z
-SUMMARY:Un giocatore lo vedi dal coraggio\, al Festival di EMERGENCY
-UID:1cbe300a-c89b-4ab5-b669-22cf1f272180@1cbe.org
+DTEND:20260905T233000Z
+LOCATION:Reggio Emilia - Piazza Prampolini
+DTSTART:20260905T193000Z
+SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001\, al Festival di EMERGENCY
+UID:a1e60200-8362-47e7-93e5-bc40b8990eb0@a1e6.org
 URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
@@ -99,57 +62,7 @@ DTEND:20260907T210000Z
 LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
 DTSTART:20260907T170000Z
 SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Milano
-UID:a38d419b-54f2-4ff4-92e7-151dd1311863@a38d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260905T233000Z
-LOCATION:Reggio Emilia - Piazza Prampolini
-DTSTART:20260905T193000Z
-SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001\, al Festival di EMERGENCY
-UID:8772805f-5d90-4cb7-8bac-ad9c06c0dd72@8772.org
-URL:https://www.emergency.it/festival/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260908T203000Z
-LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
-DTSTART:20260908T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
-UID:ef7042ed-56b0-413a-9d33-54d1d9a15f3e@ef70.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260906T200000Z
-LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
-DTSTART:20260906T160000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
-UID:512e0db0-5cf5-43d1-b1a3-c615f598869c@512e.org
-URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:e85ff46b-3ac6-49f8-8422-52c4e6c2e8ea@e85f.org
+UID:714e9b58-c07a-4333-be0f-c04ade159784@714e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -161,7 +74,7 @@ DTEND:20260909T203000Z
 LOCATION:Firenze - Teatro della Pergola\, Sala Saloncino Paolo Poli - Via della Pergola\, 32
 DTSTART:20260909T163000Z
 SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Firenze
-UID:cf4ea769-3fbc-4c2e-a79e-9d093c4ec023@cf4e.org
+UID:c651feb2-8c99-4611-aa9d-a9636982b52a@c651.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -169,11 +82,61 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260905T163000Z
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:a8589d9f-779e-4090-87f2-e3583f2da10f@a858.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260910T203000Z
+LOCATION:Roma - Spazio Sette - Via dei Barbieri\, 7
+DTSTART:20260910T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Roma
+UID:a0c614ed-84d5-4ef5-a398-d300a2e280ce@a0c6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T120000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T080000Z
+SUMMARY:I giornali\, spiegati bene\, a Carpi
+UID:ee95ec9b-049d-48c3-8546-487a74e2a371@ee95.org
+URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260905T211500Z
+LOCATION:Sarzana - Teatro degli Impavidi - Via Mazzini
+DTSTART:20260905T171500Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Sarzana
+UID:11ced7cd-260d-4515-9163-f351462adbfa@11ce.org
+URL:https://www.festivaldellamente.it/it/?p=24201
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260906T163000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20260905T123000Z
-SUMMARY:Giustizia\, giustizie\, nei conflitti\, al Festival di EMERGENCY
-UID:5e99fc8e-b349-42ba-9987-93fc30608612@5e99.org
+DTSTART:20260906T123000Z
+SUMMARY:Un giocatore lo vedi dal coraggio\, al Festival di EMERGENCY
+UID:cdb453ea-86e5-46a0-a72f-2531c341f46c@cdb4.org
 URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
@@ -186,7 +149,44 @@ DTEND:20260906T183000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20260906T143000Z
 SUMMARY:Le storie di Una mattina\, al Festival di EMERGENCY
-UID:94fe3c42-126a-4344-b620-abed2843cc4e@94fe.org
+UID:5ffb347c-73be-40d9-a24a-5b613c04b505@5ffb.org
 URL:https://www.emergency.it/festival/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:9469ce3c-16b6-474a-a7a4-9280def04f20@9469.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260905T183000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20260905T143000Z
+SUMMARY:Outpost\, al Festival di EMERGENCY
+UID:1280461f-8e0b-4e8a-bc57-24b51bc8f4b0@1280.org
+URL:https://www.emergency.it/festival/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:6217a89d-4b02-43ba-8407-54e775173361@6217.org
+URL:https://www.festadelracconto.it/event/comodino/
 END:VEVENT
 END:VCALENDAR
