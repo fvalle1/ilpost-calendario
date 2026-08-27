@@ -7,98 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:3d2d81bc-cee5-463b-8a3b-d8dbdaa1f2ea@3d2d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260906T163000Z
-LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20260906T123000Z
-SUMMARY:Un giocatore lo vedi dal coraggio\, al Festival di EMERGENCY
-UID:720798eb-82c7-419f-94dd-ac26d9d869a6@7207.org
-URL:https://www.emergency.it/festival/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T120000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T080000Z
-SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:7085d61f-9cf3-41bf-934b-1e939e692ded@7085.org
-URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260906T200000Z
-LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
-DTSTART:20260906T160000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
-UID:56f44beb-a60d-4259-a31f-d83b68bfbaa6@56f4.org
-URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260910T203000Z
-LOCATION:Roma - Spazio Sette - Via dei Barbieri\, 7
-DTSTART:20260910T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Roma
-UID:f16f1e02-514c-4feb-ba26-ca08c759ef3f@f16f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260909T203000Z
-LOCATION:Firenze - Teatro della Pergola\, Sala Saloncino Paolo Poli - Via della Pergola\, 32
-DTSTART:20260909T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Firenze
-UID:c1da7743-7a22-4dee-92e0-f6b0f391ca6a@c1da.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260905T211500Z
-LOCATION:Sarzana - Teatro degli Impavidi - Via Mazzini
-DTSTART:20260905T171500Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Sarzana
-UID:beceae9d-d1fb-4531-81c6-c37dbaf25806@bece.org
-URL:https://www.festivaldellamente.it/it/?p=24201
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20260918T120000Z
 LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
 DTSTART:20260918T080000Z
 SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:34277bea-26b4-4822-9a33-c7b99fc986a7@3427.org
+UID:2b3d920b-ad25-4109-aa99-a382ce989c63@2b3d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -106,37 +19,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260913T180000Z
-LOCATION:Vigevano - Castello Sforzesco - Piazza Ducale\, 20
-DTSTART:20260913T140000Z
-SUMMARY:Cinemino? (COSE Spiegate bene)\, a Vigevano
-UID:3effd68b-0df1-44fc-a2c0-00afce61e05e@3eff.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:ac41634a-2325-46b4-86d1-37bf50fb1f5d@ac41.org
-URL:https://www.festadelracconto.it/event/comodino/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260905T233000Z
-LOCATION:Reggio Emilia - Piazza Prampolini
-DTSTART:20260905T193000Z
-SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001\, al Festival di EMERGENCY
-UID:ae424893-8721-4de5-be97-b74019b3dbcf@ae42.org
-URL:https://www.emergency.it/festival/
+DTEND:20260924T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20260924T163000Z
+SUMMARY:Profeti del buio\, a Novara
+UID:a89dfaee-f894-404c-bc32-0ef0731d233e@a89d.org
+URL:https://ilcastellodinovara.it/event/profeti-del-buio/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -148,7 +36,7 @@ DTEND:20260908T203000Z
 LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
 DTSTART:20260908T163000Z
 SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
-UID:8724fbbe-1ba7-4209-b244-8d203a7c6ea2@8724.org
+UID:2f05c446-e5a7-4dab-a69f-77ce2563adad@2f05.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -160,7 +48,7 @@ DTEND:20260905T183000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20260905T143000Z
 SUMMARY:Outpost\, al Festival di EMERGENCY
-UID:858308b5-e1fb-4efa-8a71-e978f2231386@8583.org
+UID:207f8786-9999-4cc8-9ecd-e0cf0e9c6314@207f.org
 URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
@@ -169,12 +57,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260907T210000Z
-LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
-DTSTART:20260907T170000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Milano
-UID:ae2ef3fe-dbd5-4c7e-9b23-895c38bbbb00@ae2e.org
-URL:http://www.libreriaverso.com/appuntamenti/la-gente-normale-non-va-in-giro-armata/
+DTEND:20260911T203000Z
+LOCATION:Ventotene - Terrazza Granili
+DTSTART:20260911T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Ventotene
+UID:c1b528bf-726d-4328-9e52-c1bdde102142@c1b5.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -182,11 +69,50 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260906T183000Z
+DTEND:20260906T163000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
-DTSTART:20260906T143000Z
-SUMMARY:Le storie di Una mattina\, al Festival di EMERGENCY
-UID:fc476aff-0344-4b4f-8faa-973fbe6369cd@fc47.org
+DTSTART:20260906T123000Z
+SUMMARY:Un giocatore lo vedi dal coraggio\, al Festival di EMERGENCY
+UID:488a7db8-1c3b-4f40-a89f-67ed53624584@488a.org
+URL:https://www.emergency.it/festival/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:c07d80db-eb58-4eca-b758-84fa03da572b@c07d.org
+URL:https://www.festadelracconto.it/event/comodino/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260905T211500Z
+LOCATION:Sarzana - Teatro degli Impavidi - Via Mazzini
+DTSTART:20260905T171500Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Sarzana
+UID:6049657e-9409-4c8f-8edf-3829344ce201@6049.org
+URL:https://www.festivaldellamente.it/it/?p=24201
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260905T233000Z
+LOCATION:Reggio Emilia - Piazza Prampolini
+DTSTART:20260905T193000Z
+SUMMARY:Altre Indagini. Scuola Diaz – Genova\, 21 luglio 2001\, al Festival di EMERGENCY
+UID:1924a987-38a8-40be-a18c-794bdfaab469@1924.org
 URL:https://www.emergency.it/festival/
 END:VEVENT
 BEGIN:VEVENT
@@ -199,8 +125,71 @@ DTEND:20260905T163000Z
 LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
 DTSTART:20260905T123000Z
 SUMMARY:Giustizia\, giustizie\, nei conflitti\, al Festival di EMERGENCY
-UID:3e774631-07d2-4228-b201-bbef2cbe68dd@3e77.org
+UID:f4c1a266-8b68-4abe-b503-df574877460f@f4c1.org
 URL:https://www.emergency.it/festival/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260909T203000Z
+LOCATION:Firenze - Teatro della Pergola\, Sala Saloncino Paolo Poli - Via della Pergola\, 32
+DTSTART:20260909T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Firenze
+UID:3737dd08-7f5b-4599-8ce7-b2e5b72f5f28@3737.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T120000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T080000Z
+SUMMARY:I giornali\, spiegati bene\, a Carpi
+UID:c294b087-b229-418d-b549-41d342130a2b@c294.org
+URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261001T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20261001T163000Z
+SUMMARY:Cose che ho imparato sui libri\, a Novara
+UID:4f10eaf2-92fd-468b-a977-348cd5bb30b6@4f10.org
+URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260906T200000Z
+LOCATION:Cortina d’Ampezzo - Palazzo delle Poste\, Sala Cultura
+DTSTART:20260906T160000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Cortina
+UID:5d53184f-9764-46b5-a855-70f9f1b333bb@5d53.org
+URL:https://unamontagnadilibri.it/giorno-per-giorno/chapeye/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260913T180000Z
+LOCATION:Vigevano - Castello Sforzesco - Piazza Ducale\, 20
+DTSTART:20260913T140000Z
+SUMMARY:Cinemino? (COSE Spiegate bene)\, a Vigevano
+UID:94b2e8ab-b333-4c16-a161-9ee844aa69fd@94b2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -212,7 +201,58 @@ DTEND:20260926T113000Z
 LOCATION:Piacenza - Piazza Cavalli
 DTSTART:20260926T073000Z
 SUMMARY:Morning live\, a Piacenza
-UID:562f17b2-f588-4267-83c0-275226eae974@562f.org
+UID:adf16986-d0ed-46d5-9eea-869a923b833c@adf1.org
 URL:https://www.pensarecontemporaneo.it/eventi/morning-live
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260907T210000Z
+LOCATION:Milano - Libreria Verso - Corso di Porta Ticinese\, 40
+DTSTART:20260907T170000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Milano
+UID:4f05518e-1275-4ccd-ba57-e749a44b4782@4f05.org
+URL:http://www.libreriaverso.com/appuntamenti/la-gente-normale-non-va-in-giro-armata/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260917T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20260917T163000Z
+SUMMARY:Superman 1978\, a Novara
+UID:4b987f4b-ae1a-4422-9a98-43b183109374@4b98.org
+URL:https://ilcastellodinovara.it/event/superman-1978/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260906T183000Z
+LOCATION:Reggio Emilia - Cortile Palazzo Dossetti - Viale Antonio Allegri\, 9
+DTSTART:20260906T143000Z
+SUMMARY:Le storie di Una mattina\, al Festival di EMERGENCY
+UID:719a524d-e543-4f80-880d-119414582ae7@719a.org
+URL:https://www.emergency.it/festival/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260910T203000Z
+LOCATION:Roma - Spazio Sette - Via dei Barbieri\, 7
+DTSTART:20260910T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Roma
+UID:a1698e76-0f02-4494-8a57-7acfac189b01@a169.org
 END:VEVENT
 END:VCALENDAR
