@@ -7,186 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260908T203000Z
-LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
-DTSTART:20260908T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
-UID:90180769-3513-4799-a784-b27100928a28@9018.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260910T203000Z
-LOCATION:Roma - Spazio Sette - Via dei Barbieri\, 7
-DTSTART:20260910T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Roma
-UID:d091cbe6-5431-48cb-80aa-52c80568a576@d091.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260926T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260926T090000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:c73feca9-ea7d-4dc8-b3d7-8be6e014de60@c73f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T120000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T080000Z
-SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:6a3c58ad-5c4f-4589-8c0a-46bc66489770@6a3c.org
-URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260907T210000Z
-LOCATION:Milano - Chiostro - Via De Amicis\, 17
-DTSTART:20260907T170000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Milano
-UID:e481fb15-a54c-4b6a-af33-2881e8549b5d@e481.org
-URL:http://www.libreriaverso.com/appuntamenti/la-gente-normale-non-va-in-giro-armata/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:03128e60-ff39-4d24-88aa-3f13818a6f19@0312.org
-URL:https://www.ilpost.it/2026/09/01/torna-talk-faenza-novita/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:70c3034f-8769-451b-921a-e69ceedf06a4@70c3.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260926T113000Z
-LOCATION:Piacenza - Piazza Cavalli
-DTSTART:20260926T073000Z
-SUMMARY:Morning live\, a Piacenza
-UID:d7c820b0-7238-4083-8eb3-6637e11882d1@d7c8.org
-URL:https://www.pensarecontemporaneo.it/eventi/morning-live
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260913T180000Z
-LOCATION:Vigevano - Castello Sforzesco - Piazza Ducale\, 20
-DTSTART:20260913T140000Z
-SUMMARY:Cinemino? (COSE Spiegate bene)\, a Vigevano
-UID:a7b0a144-94c9-4c2a-9cb2-861ec1fa0551@a7b0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:1e7e4bcc-7c1a-4045-a506-96e468bd0551@1e7e.org
-URL:https://www.festadelracconto.it/event/comodino/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260930T230000Z
-LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
-DTSTART:20260930T190000Z
-SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:e6d896f8-d14f-492c-8d88-db4db3371564@e6d8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260909T203000Z
-LOCATION:Firenze - Teatro della Pergola\, Sala Saloncino Paolo Poli - Via della Pergola\, 30
-DTSTART:20260909T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Firenze
-UID:6f142f8e-4597-4a3b-9fd7-273df7f9829b@6f14.org
-URL:https://www.teatrodellatoscana.it/it/news/presentazione-del-libro-la-gente-normale-non-va-in-giro-armata-di-artem-chapeye-al-teatro-della-pergola
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20260917T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20260917T163000Z
 SUMMARY:Superman 1978\, a Novara
-UID:39c98bbf-5f07-48cb-9566-450cef83a1b5@39c9.org
+UID:f0df23d5-e7c3-4f3c-abf3-3dd10a8d2a15@f0df.org
 URL:https://ilcastellodinovara.it/event/superman-1978/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260911T203000Z
-LOCATION:Ventotene - Terrazza Granili
-DTSTART:20260911T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Ventotene
-UID:388a9ae1-c70b-42cf-b567-4e80eda2cb46@388a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261001T203000Z
-LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
-DTSTART:20261001T163000Z
-SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:6c7227f6-5830-4733-85a3-7bce414b57ef@6c72.org
-URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -198,7 +24,168 @@ DTEND:20260924T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20260924T163000Z
 SUMMARY:Profeti del buio\, a Novara
-UID:15bcdf14-af65-417f-bc2c-127cc2da5aad@15bc.org
+UID:fafb1ada-b0a2-48a8-86de-145ba7104d1d@fafb.org
 URL:https://ilcastellodinovara.it/event/profeti-del-buio/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:e0aa9d5d-cc0a-469d-810c-b4d7b12a905a@e0aa.org
+URL:https://www.festadelracconto.it/event/comodino/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261001T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20261001T163000Z
+SUMMARY:Cose che ho imparato sui libri\, a Novara
+UID:19645f51-7cd7-40bb-9b09-966f388aa7c3@1964.org
+URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260909T203000Z
+LOCATION:Firenze - Teatro della Pergola\, Sala Saloncino Paolo Poli - Via della Pergola\, 30
+DTSTART:20260909T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Firenze
+UID:48796bf4-a888-4983-bbe2-0b0dd0d6dd4a@4879.org
+URL:https://www.teatrodellatoscana.it/it/news/presentazione-del-libro-la-gente-normale-non-va-in-giro-armata-di-artem-chapeye-al-teatro-della-pergola
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:9fe4b10b-70d0-43e5-8394-cb29afdcc377@9fe4.org
+URL:https://www.ilpost.it/2026/09/01/torna-talk-faenza-novita/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260910T203000Z
+LOCATION:Roma - Spazio Sette - Via dei Barbieri\, 7
+DTSTART:20260910T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Roma
+UID:35c0fd68-cf78-470f-bdac-193fddb1176c@35c0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260926T113000Z
+LOCATION:Piacenza - Piazza Cavalli
+DTSTART:20260926T073000Z
+SUMMARY:Morning live\, a Piacenza
+UID:b57d279b-307d-4f3b-91d1-07202ed5fde0@b57d.org
+URL:https://www.pensarecontemporaneo.it/eventi/morning-live
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260926T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260926T090000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:65c1fc6f-030b-49aa-9d41-91a6aefea9a6@65c1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260913T180000Z
+LOCATION:Vigevano - Castello Sforzesco - Piazza Ducale\, 20
+DTSTART:20260913T140000Z
+SUMMARY:Cinemino? (COSE Spiegate bene)\, a Vigevano
+UID:58743085-5133-453c-8424-616190e4df9d@5874.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260930T230000Z
+LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
+DTSTART:20260930T190000Z
+SUMMARY:Allegramente pessimista – Quando la vita era agra
+UID:0771e9bb-d1a1-4c96-978c-fbf018691dad@0771.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:bdc53118-ccd8-4e3f-b8f2-0b9094daf57f@bdc5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T120000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T080000Z
+SUMMARY:I giornali\, spiegati bene\, a Carpi
+UID:977ca8e9-3204-44ab-a8cb-ad11c8f29973@977c.org
+URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260911T203000Z
+LOCATION:Ventotene - Terrazza Granili
+DTSTART:20260911T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Ventotene
+UID:5ec1c7c8-745b-44bd-856a-d2dc6957049a@5ec1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260908T203000Z
+LOCATION:Torino - Libreria Luxemburg - Via Cesare Battisti\, 11/D
+DTSTART:20260908T163000Z
+SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Torino
+UID:f0c2d040-ec46-48f0-82f3-11caca6ed3bc@f0c2.org
 END:VEVENT
 END:VCALENDAR
