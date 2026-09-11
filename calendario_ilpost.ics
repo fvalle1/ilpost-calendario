@@ -7,62 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260926T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260926T090000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:416b4fbf-ca6d-48e9-906f-3da2c559c39e@416b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20260913T180000Z
 LOCATION:Vigevano - Castello Sforzesco - Piazza Ducale\, 20
 DTSTART:20260913T140000Z
 SUMMARY:Cinemino? (COSE Spiegate bene)\, a Vigevano
-UID:7aff299a-263f-49a7-aa9f-27b3fb7cdfa6@7aff.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:0e8c67c8-dc8d-4032-ae9b-2e01a9a4e35c@0e8c.org
-URL:https://www.festadelracconto.it/event/comodino/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:571d1176-d353-4ead-a4ca-9927f12b043d@571d.org
-URL:https://www.ilpost.it/2026/09/01/torna-talk-faenza-novita/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260926T113000Z
-LOCATION:Piacenza - Piazza Cavalli
-DTSTART:20260926T073000Z
-SUMMARY:Morning live\, a Piacenza
-UID:347f9fb1-2ea5-4afe-a6ad-92188f3ebcb1@347f.org
-URL:https://www.pensarecontemporaneo.it/eventi/morning-live
+UID:8fc1e458-4b35-44df-9ef8-bf3582fb046a@8fc1.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -74,20 +23,7 @@ DTEND:20260911T203000Z
 LOCATION:Ventotene - Terrazza Granili
 DTSTART:20260911T163000Z
 SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Ventotene
-UID:9aba84be-d0af-4c13-8d4a-8784cfb2f1c3@9aba.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T120000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T080000Z
-SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:dbde2034-0f31-4e73-9db9-acad336165c4@dbde.org
-URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
+UID:960f4be2-eeef-4f96-bce6-e49576d611c5@960f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -99,7 +35,7 @@ DTEND:20260924T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20260924T163000Z
 SUMMARY:Profeti del buio\, a Novara
-UID:a409fe3b-6ee7-452d-954c-386f62b2aca2@a409.org
+UID:fbdde242-6bf2-44b3-91ce-3b915976819f@fbdd.org
 URL:https://ilcastellodinovara.it/event/profeti-del-buio/
 END:VEVENT
 BEGIN:VEVENT
@@ -108,48 +44,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261001T203000Z
-LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
-DTSTART:20261001T163000Z
-SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:82932f2e-0a1b-434e-9917-683a2c6b8925@8293.org
-URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:cf92a584-290e-499c-ae26-78fa228ac548@cf92.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260910T203000Z
-LOCATION:Roma - Spazio Sette - Via dei Barbieri\, 7
-DTSTART:20260910T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Roma
-UID:31c7c45f-8f02-45ec-b509-5655619303c5@31c7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260917T203000Z
-LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
-DTSTART:20260917T163000Z
-SUMMARY:Superman 1978\, a Novara
-UID:e6400195-eed0-4bbd-9d4a-aaecee5745c5@e640.org
-URL:https://ilcastellodinovara.it/event/superman-1978/
+DTEND:20261003T120000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T080000Z
+SUMMARY:I giornali\, spiegati bene\, a Carpi
+UID:f4d1d987-1cfd-4d2b-93b6-00d5522c3a37@f4d1.org
+URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -161,6 +61,94 @@ DTEND:20260930T230000Z
 LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
 DTSTART:20260930T190000Z
 SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:4c127bb2-74ba-49fb-85a8-c44fcf848f5b@4c12.org
+UID:5b1d29ed-c1a7-416d-9760-e276b247c5d9@5b1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:10b26630-0988-446c-81d6-d2ef59219a44@10b2.org
+URL:https://www.ilpost.it/2026/09/01/torna-talk-faenza-novita/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261001T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20261001T163000Z
+SUMMARY:Cose che ho imparato sui libri\, a Novara
+UID:80160074-b1d2-4f84-aa28-2aef16e3d6b4@8016.org
+URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:04194bf2-5d86-49d5-93aa-d231d0439a1a@0419.org
+URL:https://www.festadelracconto.it/event/comodino/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260917T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20260917T163000Z
+SUMMARY:Superman 1978\, a Novara
+UID:abc7e81f-1dc5-4155-8f4d-04bdfce2587a@abc7.org
+URL:https://ilcastellodinovara.it/event/superman-1978/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260926T113000Z
+LOCATION:Piacenza - Piazza Cavalli
+DTSTART:20260926T073000Z
+SUMMARY:Morning live\, a Piacenza
+UID:29d412af-7171-4f08-a295-77e2d57f8b0c@29d4.org
+URL:https://www.pensarecontemporaneo.it/eventi/morning-live
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:125dbac2-c48a-40f1-a109-27ee470f50ee@125d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260926T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260926T090000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:4fef58a4-b688-4d14-b696-ffcb6643acad@4fef.org
 END:VEVENT
 END:VCALENDAR
