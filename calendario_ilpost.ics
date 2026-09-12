@@ -11,19 +11,7 @@ DTEND:20260913T180000Z
 LOCATION:Vigevano - Castello Sforzesco - Piazza Ducale\, 20
 DTSTART:20260913T140000Z
 SUMMARY:Cinemino? (COSE Spiegate bene)\, a Vigevano
-UID:8fc1e458-4b35-44df-9ef8-bf3582fb046a@8fc1.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260911T203000Z
-LOCATION:Ventotene - Terrazza Granili
-DTSTART:20260911T163000Z
-SUMMARY:La gente normale non va in giro armata (Altrecose)\, a Ventotene
-UID:960f4be2-eeef-4f96-bce6-e49576d611c5@960f.org
+UID:e9d9c76f-16bd-4818-a0ec-91dc6acda442@e9d9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,85 +23,8 @@ DTEND:20260924T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20260924T163000Z
 SUMMARY:Profeti del buio\, a Novara
-UID:fbdde242-6bf2-44b3-91ce-3b915976819f@fbdd.org
+UID:c72b8616-983b-4a56-8b14-c431ec36ec4f@c72b.org
 URL:https://ilcastellodinovara.it/event/profeti-del-buio/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T120000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T080000Z
-SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:f4d1d987-1cfd-4d2b-93b6-00d5522c3a37@f4d1.org
-URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260930T230000Z
-LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
-DTSTART:20260930T190000Z
-SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:5b1d29ed-c1a7-416d-9760-e276b247c5d9@5b1d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260918T120000Z
-LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
-DTSTART:20260918T080000Z
-SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
-UID:10b26630-0988-446c-81d6-d2ef59219a44@10b2.org
-URL:https://www.ilpost.it/2026/09/01/torna-talk-faenza-novita/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261001T203000Z
-LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
-DTSTART:20261001T163000Z
-SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:80160074-b1d2-4f84-aa28-2aef16e3d6b4@8016.org
-URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:04194bf2-5d86-49d5-93aa-d231d0439a1a@0419.org
-URL:https://www.festadelracconto.it/event/comodino/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260917T203000Z
-LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
-DTSTART:20260917T163000Z
-SUMMARY:Superman 1978\, a Novara
-UID:abc7e81f-1dc5-4155-8f4d-04bdfce2587a@abc7.org
-URL:https://ilcastellodinovara.it/event/superman-1978/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -125,8 +36,33 @@ DTEND:20260926T113000Z
 LOCATION:Piacenza - Piazza Cavalli
 DTSTART:20260926T073000Z
 SUMMARY:Morning live\, a Piacenza
-UID:29d412af-7171-4f08-a295-77e2d57f8b0c@29d4.org
+UID:a11e0416-0aac-4aaf-aa55-5f17f7e2ae4e@a11e.org
 URL:https://www.pensarecontemporaneo.it/eventi/morning-live
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260930T230000Z
+LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
+DTSTART:20260930T190000Z
+SUMMARY:Allegramente pessimista – Quando la vita era agra
+UID:e5a3f57c-efac-45af-831d-bb626d0954c9@e5a3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261001T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20261001T163000Z
+SUMMARY:Cose che ho imparato sui libri\, a Novara
+UID:aab86f96-8532-4554-923b-d4118e9adab4@aab8.org
+URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -137,7 +73,46 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:125dbac2-c48a-40f1-a109-27ee470f50ee@125d.org
+UID:d48172cc-99f8-458e-b1ad-32be132e445a@d481.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260917T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20260917T163000Z
+SUMMARY:Superman 1978\, a Novara
+UID:31651477-acf0-4877-8d34-e0b8a7f494a8@3165.org
+URL:https://ilcastellodinovara.it/event/superman-1978/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260918T120000Z
+LOCATION:Faenza - Faventia Sales - Via san Giovanni Bosco\, 1
+DTSTART:20260918T080000Z
+SUMMARY:TALK\, a Faenza dal 18 al 20 settembre
+UID:78e1bb8f-f768-41a4-bc09-c8d3da6c651f@78e1.org
+URL:https://www.ilpost.it/2026/09/01/torna-talk-faenza-novita/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T120000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T080000Z
+SUMMARY:I giornali\, spiegati bene\, a Carpi
+UID:a06f2d99-7c8c-4404-9b74-485a120f71e6@a06f.org
+URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -149,6 +124,19 @@ DTEND:20260926T130000Z
 LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
 DTSTART:20260926T090000Z
 SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:4fef58a4-b688-4d14-b696-ffcb6643acad@4fef.org
+UID:3435ee43-3caa-4110-9da1-756cdf7faa3c@3435.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:a9a674e9-1723-4dbf-a268-d36a3d59f88f@a9a6.org
+URL:https://www.festadelracconto.it/event/comodino/
 END:VEVENT
 END:VCALENDAR
