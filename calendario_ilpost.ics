@@ -11,20 +11,8 @@ DTEND:20261001T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20261001T163000Z
 SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:862a49b0-c826-46c7-b7df-159d8a70e443@862a.org
+UID:59c019a3-cc77-4e16-bd8f-abc3ab4ba50f@59c0.org
 URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260930T230000Z
-LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
-DTSTART:20260930T190000Z
-SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:285c22ff-eb65-4806-a823-20c102df72bf@285c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -36,7 +24,7 @@ DTEND:20260926T113000Z
 LOCATION:Piacenza - Piazza Cavalli
 DTSTART:20260926T073000Z
 SUMMARY:Morning live\, a Piacenza
-UID:594ed5cc-ec8f-4c45-a553-99391252fb8f@594e.org
+UID:bdbdc1d2-664f-4c2a-9b79-d2c059cb77b4@bdbd.org
 URL:https://www.pensarecontemporaneo.it/eventi/morning-live
 END:VEVENT
 BEGIN:VEVENT
@@ -45,48 +33,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261003T120000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T080000Z
-SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:8639a273-6535-45ae-8355-6964ca1f0285@8639.org
-URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260926T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260926T090000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:3bff2357-81fa-40dc-a42e-db503ef52090@3bff.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:be0492a1-e263-4d52-b701-c2f06b92be94@be04.org
-URL:https://www.festadelracconto.it/event/comodino/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:80ca1d6b-0b9e-4b18-9320-6c129bc0a0a9@80ca.org
+DTEND:20260930T230000Z
+LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
+DTSTART:20260930T190000Z
+SUMMARY:Allegramente pessimista – Quando la vita era agra
+UID:bb25dcd8-9892-47e6-b034-645ac851c44b@bb25.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -98,7 +49,56 @@ DTEND:20260924T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20260924T163000Z
 SUMMARY:Profeti del buio\, a Novara
-UID:263d4dac-500a-40f0-8dae-408525b940de@263d.org
+UID:a0e5d000-e221-4ea9-98f5-d46d12267cbd@a0e5.org
 URL:https://ilcastellodinovara.it/event/profeti-del-buio/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:2cc6ce75-ee8d-4122-8c06-19410f272522@2cc6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T120000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T080000Z
+SUMMARY:I giornali\, spiegati bene\, a Carpi
+UID:4eddbd28-c93e-4125-b99e-fdfbe8483a99@4edd.org
+URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:c4a19fdd-6b9b-4323-9ecb-9603adb6da01@c4a1.org
+URL:https://www.festadelracconto.it/event/comodino/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260926T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260926T090000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:6f9a89c3-dc3f-473c-97e2-e3872609d3e1@6f9a.org
 END:VEVENT
 END:VCALENDAR
