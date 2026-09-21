@@ -7,12 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261001T203000Z
-LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
-DTSTART:20261001T163000Z
-SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:59c019a3-cc77-4e16-bd8f-abc3ab4ba50f@59c0.org
-URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
+DTEND:20261003T120000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T080000Z
+SUMMARY:I giornali\, spiegati bene\, a Carpi
+UID:74dd1f35-1080-43cc-83b8-97f08afb2131@74dd.org
+URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -24,7 +24,7 @@ DTEND:20260926T113000Z
 LOCATION:Piacenza - Piazza Cavalli
 DTSTART:20260926T073000Z
 SUMMARY:Morning live\, a Piacenza
-UID:bdbdc1d2-664f-4c2a-9b79-d2c059cb77b4@bdbd.org
+UID:bb2cf726-d4b6-41d3-ad30-e8d9a7c27a69@bb2c.org
 URL:https://www.pensarecontemporaneo.it/eventi/morning-live
 END:VEVENT
 BEGIN:VEVENT
@@ -33,11 +33,23 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260930T230000Z
-LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
-DTSTART:20260930T190000Z
-SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:bb25dcd8-9892-47e6-b034-645ac851c44b@bb25.org
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:6b162b21-8e94-4194-8db4-d14a7446adfd@6b16.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261001T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20261001T163000Z
+SUMMARY:Cose che ho imparato sui libri\, a Novara
+UID:08422111-b1c6-479e-aab9-4c03823f1b04@0842.org
+URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -49,7 +61,7 @@ DTEND:20260924T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20260924T163000Z
 SUMMARY:Profeti del buio\, a Novara
-UID:a0e5d000-e221-4ea9-98f5-d46d12267cbd@a0e5.org
+UID:b65fc56e-27c0-4e46-a80c-654e65806488@b65f.org
 URL:https://ilcastellodinovara.it/event/profeti-del-buio/
 END:VEVENT
 BEGIN:VEVENT
@@ -58,36 +70,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:2cc6ce75-ee8d-4122-8c06-19410f272522@2cc6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T120000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T080000Z
-SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:4eddbd28-c93e-4125-b99e-fdfbe8483a99@4edd.org
-URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:c4a19fdd-6b9b-4323-9ecb-9603adb6da01@c4a1.org
-URL:https://www.festadelracconto.it/event/comodino/
+DTEND:20260930T230000Z
+LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
+DTSTART:20260930T190000Z
+SUMMARY:Allegramente pessimista – Quando la vita era agra
+UID:73a73c1f-e278-4852-8811-bcc996a2ff49@73a7.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -99,6 +86,19 @@ DTEND:20260926T130000Z
 LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
 DTSTART:20260926T090000Z
 SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:6f9a89c3-dc3f-473c-97e2-e3872609d3e1@6f9a.org
+UID:811591e0-890a-4d90-8d0e-17d2430d96b8@8115.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:0096becb-181c-4969-9075-8b264e7f553f@0096.org
+URL:https://www.festadelracconto.it/event/comodino/
 END:VEVENT
 END:VCALENDAR
