@@ -11,7 +11,7 @@ DTEND:20261003T120000Z
 LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
 DTSTART:20261003T080000Z
 SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:74dd1f35-1080-43cc-83b8-97f08afb2131@74dd.org
+UID:b5e867b8-f4ed-4b4b-84d1-dcea31e0d2bd@b5e8.org
 URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
 END:VEVENT
 BEGIN:VEVENT
@@ -20,12 +20,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260926T113000Z
-LOCATION:Piacenza - Piazza Cavalli
-DTSTART:20260926T073000Z
-SUMMARY:Morning live\, a Piacenza
-UID:bb2cf726-d4b6-41d3-ad30-e8d9a7c27a69@bb2c.org
-URL:https://www.pensarecontemporaneo.it/eventi/morning-live
+DTEND:20260926T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260926T090000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:c5a4c80f-fdda-4bc3-8fe8-8120641685be@c5a4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -33,10 +32,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:6b162b21-8e94-4194-8db4-d14a7446adfd@6b16.org
+DTEND:20260930T230000Z
+LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
+DTSTART:20260930T190000Z
+SUMMARY:Allegramente pessimista – Quando la vita era agra
+UID:db4c4010-fbbb-4fea-9666-31372be058d1@db4c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -48,7 +48,7 @@ DTEND:20261001T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20261001T163000Z
 SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:08422111-b1c6-479e-aab9-4c03823f1b04@0842.org
+UID:52b2d6ec-d9d6-45df-8824-99d486a9ffe3@52b2.org
 URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
 END:VEVENT
 BEGIN:VEVENT
@@ -61,32 +61,8 @@ DTEND:20260924T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20260924T163000Z
 SUMMARY:Profeti del buio\, a Novara
-UID:b65fc56e-27c0-4e46-a80c-654e65806488@b65f.org
+UID:0bb835a9-85c9-4e8d-a569-611d4641895f@0bb8.org
 URL:https://ilcastellodinovara.it/event/profeti-del-buio/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260930T230000Z
-LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
-DTSTART:20260930T190000Z
-SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:73a73c1f-e278-4852-8811-bcc996a2ff49@73a7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260926T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260926T090000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:811591e0-890a-4d90-8d0e-17d2430d96b8@8115.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -98,7 +74,31 @@ DTEND:20261003T193000Z
 LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
 DTSTART:20261003T153000Z
 SUMMARY:Comodino\, a Carpi
-UID:0096becb-181c-4969-9075-8b264e7f553f@0096.org
+UID:fb27df85-5901-43e4-bad0-26e86d1ce897@fb27.org
 URL:https://www.festadelracconto.it/event/comodino/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:eb34b7b6-9b19-407f-ba51-21d0215f255b@eb34.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260926T113000Z
+LOCATION:Piacenza - Piazza Cavalli
+DTSTART:20260926T073000Z
+SUMMARY:Morning live\, a Piacenza
+UID:d14e9b70-d902-4316-92b7-6ac9d596a7b3@d14e.org
+URL:https://www.pensarecontemporaneo.it/eventi/morning-live
 END:VEVENT
 END:VCALENDAR
