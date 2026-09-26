@@ -7,11 +7,49 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:ab932cd8-e0c8-48c9-ae2f-e27f0090cba9@ab93.org
+URL:https://www.festadelracconto.it/event/comodino/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261001T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20261001T163000Z
+SUMMARY:Cose che ho imparato sui libri\, a Novara
+UID:3fa7d933-214f-4d94-88ea-b3306f9c6b0d@3fa7.org
+URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260926T130000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20260926T090000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:e1f4eb93-2a4e-478a-81c4-18efccb4a95b@e1f4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20260926T113000Z
 LOCATION:Piacenza - Piazza Cavalli
 DTSTART:20260926T073000Z
 SUMMARY:Morning live\, a Piacenza
-UID:c7a3c8f1-b4ee-4c4e-898d-96276c7ce31f@c7a3.org
+UID:8e265d65-0f95-4096-af98-375ad8e2b32a@8e26.org
 URL:https://www.pensarecontemporaneo.it/eventi/morning-live
 END:VEVENT
 BEGIN:VEVENT
@@ -24,7 +62,7 @@ DTEND:20261003T120000Z
 LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
 DTSTART:20261003T080000Z
 SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:91025593-52b8-4146-b23b-ef576c8f4afd@9102.org
+UID:78f3a684-5984-44a5-ab2b-d241c6d8a75b@78f3.org
 URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
 END:VEVENT
 BEGIN:VEVENT
@@ -37,20 +75,7 @@ DTEND:20260930T230000Z
 LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
 DTSTART:20260930T190000Z
 SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:2a4015ad-65bb-4916-ad35-3fcb0f76b3d8@2a40.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261001T203000Z
-LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
-DTSTART:20261001T163000Z
-SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:ae98741e-7fac-4c95-b69e-fce63a110cfb@ae98.org
-URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
+UID:23d5d664-fc34-4f6f-8d20-b707f5c29f82@23d5.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -61,31 +86,6 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:acb716a7-ed3e-4334-98a0-50992818ec8a@acb7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260926T130000Z
-LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
-DTSTART:20260926T090000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:8c51867f-d76e-4626-a273-dfb818df4541@8c51.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:37b3a913-234c-436f-8eb5-fc8a951e546c@37b3.org
-URL:https://www.festadelracconto.it/event/comodino/
+UID:0e985d08-2f2a-4d3c-9224-ce11bfe39ba9@0e98.org
 END:VEVENT
 END:VCALENDAR
