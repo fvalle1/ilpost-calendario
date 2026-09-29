@@ -7,24 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:7d121bf6-24bb-40f4-88c2-8905bb49fa9a@7d12.org
-URL:https://www.festadelracconto.it/event/comodino/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20260930T230000Z
 LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
 DTSTART:20260930T190000Z
 SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:6f4bd369-a0e7-4d13-ab46-23311ec3e69f@6f4b.org
+UID:70c35d2d-f203-4a8f-b3ed-d201e8044086@70c3.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -36,7 +23,7 @@ DTEND:20261003T120000Z
 LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
 DTSTART:20261003T080000Z
 SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:5489d4fc-28a7-4b3a-8fec-86b811779e4d@5489.org
+UID:a9eb981a-7a37-44c5-976e-73fb6507c64b@a9eb.org
 URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
 END:VEVENT
 BEGIN:VEVENT
@@ -48,7 +35,20 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:892c363f-5b26-4583-8c56-21b2eff592e5@892c.org
+UID:090432ea-cd0f-49e0-a9d1-c571237ae894@0904.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:ac892691-c7fe-4fc5-b789-251aa01f9bef@ac89.org
+URL:https://www.festadelracconto.it/event/comodino/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -60,7 +60,7 @@ DTEND:20261001T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20261001T163000Z
 SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:a1f13902-e232-4529-a103-bbcc81f16c4f@a1f1.org
+UID:60880919-d13d-433c-9f6e-9f62dc25d576@6088.org
 URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
 END:VEVENT
 END:VCALENDAR
