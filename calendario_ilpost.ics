@@ -7,11 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20260930T230000Z
-LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
-DTSTART:20260930T190000Z
-SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:70c35d2d-f203-4a8f-b3ed-d201e8044086@70c3.org
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:cfd49be1-e106-47f4-a84c-b7ce924beaa3@cfd4.org
+URL:https://www.festadelracconto.it/event/comodino/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -23,7 +24,7 @@ DTEND:20261003T120000Z
 LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
 DTSTART:20261003T080000Z
 SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:a9eb981a-7a37-44c5-976e-73fb6507c64b@a9eb.org
+UID:08d5a33d-ff26-4a6f-8460-b42e9828bfc5@08d5.org
 URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
 END:VEVENT
 BEGIN:VEVENT
@@ -35,20 +36,7 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:090432ea-cd0f-49e0-a9d1-c571237ae894@0904.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:ac892691-c7fe-4fc5-b789-251aa01f9bef@ac89.org
-URL:https://www.festadelracconto.it/event/comodino/
+UID:0d1eb6a6-2781-482b-a7c8-66e97e67ce47@0d1e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -60,7 +48,19 @@ DTEND:20261001T203000Z
 LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
 DTSTART:20261001T163000Z
 SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:60880919-d13d-433c-9f6e-9f62dc25d576@6088.org
+UID:087c6c9d-1928-46aa-91a3-5ebb6c00ceec@087c.org
 URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20260930T230000Z
+LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
+DTSTART:20260930T190000Z
+SUMMARY:Allegramente pessimista – Quando la vita era agra
+UID:a36ed85e-bc25-4107-891e-023c1a91ad97@a36e.org
 END:VEVENT
 END:VCALENDAR
