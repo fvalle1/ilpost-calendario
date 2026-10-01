@@ -7,12 +7,23 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:cfd49be1-e106-47f4-a84c-b7ce924beaa3@cfd4.org
-URL:https://www.festadelracconto.it/event/comodino/
+DTEND:20261001T203000Z
+LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
+DTSTART:20261001T163000Z
+SUMMARY:Cose che ho imparato sui libri\, a Novara
+UID:ce4ff90c-09b5-4b4f-9a02-9ff36e10dc9d@ce4f.org
+URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:b27d710b-bc06-4a8c-9369-c991ba779aef@b27d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -24,7 +35,7 @@ DTEND:20261003T120000Z
 LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
 DTSTART:20261003T080000Z
 SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:08d5a33d-ff26-4a6f-8460-b42e9828bfc5@08d5.org
+UID:08d67c42-0e74-49bd-823b-eb605f16c348@08d6.org
 URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
 END:VEVENT
 BEGIN:VEVENT
@@ -33,34 +44,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:0d1eb6a6-2781-482b-a7c8-66e97e67ce47@0d1e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261001T203000Z
-LOCATION:Novara - Castello di Novara - Piazza Martiri\, 3
-DTSTART:20261001T163000Z
-SUMMARY:Cose che ho imparato sui libri\, a Novara
-UID:087c6c9d-1928-46aa-91a3-5ebb6c00ceec@087c.org
-URL:https://ilcastellodinovara.it/event/cose-che-ho-imparato-sui-libri/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20260930T230000Z
-LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
-DTSTART:20260930T190000Z
-SUMMARY:Allegramente pessimista – Quando la vita era agra
-UID:a36ed85e-bc25-4107-891e-023c1a91ad97@a36e.org
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:1701ac86-5ccb-45fd-b694-d9c9123abf48@1701.org
+URL:https://www.festadelracconto.it/event/comodino/
 END:VEVENT
 END:VCALENDAR
