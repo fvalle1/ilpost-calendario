@@ -7,12 +7,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:6116757c-03b0-4351-83ba-34ab6341c176@6116.org
-URL:https://www.festadelracconto.it/event/comodino/
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:5b72d328-739c-4784-b01a-ca00f06ddc9e@5b72.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -20,10 +18,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:61b33047-1e3e-47ed-9242-3b0cd144f77f@61b3.org
+DTEND:20261003T193000Z
+LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
+DTSTART:20261003T153000Z
+SUMMARY:Comodino\, a Carpi
+UID:a806b873-42d0-42ce-baea-def62d6b95c0@a806.org
+URL:https://www.festadelracconto.it/event/comodino/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,7 +35,7 @@ DTEND:20261003T120000Z
 LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
 DTSTART:20261003T080000Z
 SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:25679c67-03b8-4508-8f25-d4912abe24bb@2567.org
+UID:00eceb74-384c-4bbb-a901-0c020022d475@00ec.org
 URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
 END:VEVENT
 END:VCALENDAR
