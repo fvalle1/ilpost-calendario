@@ -10,32 +10,6 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:5b72d328-739c-4784-b01a-ca00f06ddc9e@5b72.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T193000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T153000Z
-SUMMARY:Comodino\, a Carpi
-UID:a806b873-42d0-42ce-baea-def62d6b95c0@a806.org
-URL:https://www.festadelracconto.it/event/comodino/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261003T120000Z
-LOCATION:Carpi - Tenda di piazzale Re Astolfo - Piazzale Re Astolfo
-DTSTART:20261003T080000Z
-SUMMARY:I giornali\, spiegati bene\, a Carpi
-UID:00eceb74-384c-4bbb-a901-0c020022d475@00ec.org
-URL:https://www.festadelracconto.it/event/i-giornali-spiegati-bene-la-rassegna-stampa-del-post/
+UID:54bead42-cf80-4364-a101-ffbdc1af8510@54be.org
 END:VEVENT
 END:VCALENDAR
