@@ -7,11 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:c0bf62fd-068a-4b84-af90-fc40a2f690ee@c0bf.org
-URL:https://www.ilpost.it/2026/10/09/talk-napoli-terza-volta/
+DTEND:20261114T140000Z
+LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
+DTSTART:20261114T100000Z
+SUMMARY:Ci vuole una scienza live\, a Torino
+UID:ea3d08f8-9124-4eba-afb6-7877bc8c5bee@ea3d.org
+URL:https://womenandthecity.it
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -19,11 +20,10 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261114T140000Z
-LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
-DTSTART:20261114T100000Z
-SUMMARY:Ci vuole una scienza live\, a Torino
-UID:cb111091-d67b-457c-b69a-4b43b6fc850e@cb11.org
-URL:https://womenandthecity.it
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:ba2a1a80-9843-4944-9d8a-651dcaf529a3@ba2a.org
+URL:https://www.ilpost.it/2026/10/09/talk-napoli-terza-volta/
 END:VEVENT
 END:VCALENDAR
