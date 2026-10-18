@@ -11,7 +11,7 @@ DTEND:20261114T140000Z
 LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
 DTSTART:20261114T100000Z
 SUMMARY:Ci vuole una scienza live\, a Torino
-UID:ea3d08f8-9124-4eba-afb6-7877bc8c5bee@ea3d.org
+UID:ea7ea97c-3387-4f70-ad8c-76c439036df9@ea7e.org
 URL:https://womenandthecity.it
 END:VEVENT
 BEGIN:VEVENT
@@ -23,7 +23,7 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:ba2a1a80-9843-4944-9d8a-651dcaf529a3@ba2a.org
+UID:3b3e403a-f1ef-4ee1-9a9a-9b692fd3852b@3b3e.org
 URL:https://www.ilpost.it/2026/10/09/talk-napoli-terza-volta/
 END:VEVENT
 END:VCALENDAR
