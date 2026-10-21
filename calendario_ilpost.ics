@@ -7,24 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261029T210000Z
-LOCATION:Lucca - Auditorium di San Francesco - Piazza S. Francesco
-DTSTART:20261029T170000Z
-SUMMARY:Stefano Nazzi racconta gli incubi di Dylan Dog
-UID:3252a06c-56ea-454c-968e-4c387775683a@3252.org
-URL:https://www.sergiobonelli.it/le-prenotazioni-di-nazzi/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20261114T140000Z
 LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
 DTSTART:20261114T100000Z
 SUMMARY:Ci vuole una scienza live\, a Torino
-UID:cba2413e-6793-4f1e-85f8-974a038a1323@cba2.org
+UID:f0aa57a1-6c2c-40ed-bf87-5e8aedb444cd@f0aa.org
 URL:https://womenandthecity.it
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +23,20 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:e64df19b-822f-4915-abe2-3714c2e90a81@e64d.org
+UID:ab9bfd48-4f9e-48f4-825c-fc9f2a0f1bdf@ab9b.org
 URL:https://www.ilpost.it/2026/10/09/talk-napoli-terza-volta/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261029T210000Z
+LOCATION:Lucca - Auditorium di San Francesco - Piazza S. Francesco
+DTSTART:20261029T170000Z
+SUMMARY:Stefano Nazzi racconta gli incubi di Dylan Dog
+UID:52adf000-a9e4-4637-a873-2b20a6a5ef15@52ad.org
+URL:https://www.sergiobonelli.it/le-prenotazioni-di-nazzi/
 END:VEVENT
 END:VCALENDAR
