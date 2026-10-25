@@ -7,11 +7,49 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261114T140000Z
-LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
-DTSTART:20261114T100000Z
-SUMMARY:Ci vuole una scienza live\, a Torino
-UID:9fc869a7-f892-4dba-a5b2-550309c7ae96@9fc8.org
+DTEND:20261107T203000Z
+LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
+DTSTART:20261107T163000Z
+SUMMARY:Gaza prima di Gaza\, a Pescara
+UID:98f0cac3-1af4-45aa-b4c2-1dc3b164b23f@98f0.org
+URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T030000Z
+DTSTART:20261106T230000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:dda4d530-3266-4905-bc74-cd5bb72d3630@dda4.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-speciale-morning-live-novembre-26/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261031T030000Z
+DTSTART:20261030T230000Z
+SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
+UID:a40bcc37-b075-4aeb-924a-0f3d3684d0be@a40b.org
+URL:https://www.ilpost.it/2026/10/09/talk-napoli-terza-volta/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T220000Z
+LOCATION:Pescara - CineTeatro Massimo\, Sala 2 - Via Caduta del Forte\, 15
+DTSTART:20261107T180000Z
+SUMMARY:Orazio live\, a Pescara
+UID:30aef903-abd0-4f7d-a00d-21ccf670df34@30ae.org
+URL:https://pescarafestival.it/evento/matteo-caccia-al-fla2026/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -23,7 +61,7 @@ DTEND:20261108T133000Z
 LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
 DTSTART:20261108T093000Z
 SUMMARY:Cose che ho imparato sui libri\, a Pescara
-UID:bdc479ce-6069-4577-9df4-f230419edec4@bdc4.org
+UID:de8a6ee3-fb04-4975-9263-3f31798a36d2@de8a.org
 URL:https://pescarafestival.it/evento/luca-sofri-al-fla2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -32,24 +70,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261107T030000Z
-DTSTART:20261106T230000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:ebe5a3de-d9e2-4995-b7e2-08667ae860ab@ebe5.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-speciale-morning-live-novembre-26/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261107T203000Z
-LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
-DTSTART:20261107T163000Z
-SUMMARY:Gaza prima di Gaza\, a Pescara
-UID:3af2f192-0fbd-456b-80fd-b7aeb0280344@3af2.org
-URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
+DTEND:20261114T140000Z
+LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
+DTSTART:20261114T100000Z
+SUMMARY:Ci vuole una scienza live\, a Torino
+UID:dc400043-3e0a-40f5-8c7e-b18773315244@dc40.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -61,7 +86,7 @@ DTEND:20261029T210000Z
 LOCATION:Lucca - Auditorium di San Francesco - Piazza S. Francesco
 DTSTART:20261029T170000Z
 SUMMARY:Stefano Nazzi racconta gli incubi di Dylan Dog
-UID:040bd63c-6723-4c0e-bead-b16814ecb74f@040b.org
+UID:47e6acbb-f606-4b33-b0a6-e5b90cc7973a@47e6.org
 URL:https://www.sergiobonelli.it/le-prenotazioni-di-nazzi/
 END:VEVENT
 BEGIN:VEVENT
@@ -74,32 +99,7 @@ DTEND:20261107T140000Z
 LOCATION:Pescara - CineTeatro Massimo \, Sala 2 - Via Caduta del Forte\, 15
 DTSTART:20261107T100000Z
 SUMMARY:I giornali\, spiegati bene\, a Pescara
-UID:32b7013a-1043-462b-9138-e367677dd18d@32b7.org
+UID:3a2b293f-ab3d-470b-a6c6-83571f1fb725@3a2b.org
 URL:https://pescarafestival.it/evento/i-giornali-spiegati-bene-al-fla2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261107T220000Z
-LOCATION:Pescara - CineTeatro Massimo\, Sala 2 - Via Caduta del Forte\, 15
-DTSTART:20261107T180000Z
-SUMMARY:Orazio live\, a Pescara
-UID:4bbad0bf-efe3-4321-b663-ed9d3e2b8632@4bba.org
-URL:https://pescarafestival.it/evento/matteo-caccia-al-fla2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:320994e5-0334-437d-918e-a1003c31d6d4@3209.org
-URL:https://www.ilpost.it/2026/10/09/talk-napoli-terza-volta/
 END:VEVENT
 END:VCALENDAR
