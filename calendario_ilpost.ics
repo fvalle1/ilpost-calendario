@@ -10,47 +10,8 @@ END:VALARM
 DTEND:20261031T030000Z
 DTSTART:20261030T230000Z
 SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:dcea963d-bfa0-4063-8c20-02e062d5f566@dcea.org
+UID:c7aef9bb-5286-4b56-905e-14b114acb454@c7ae.org
 URL:https://www.ilpost.it/2026/10/09/talk-napoli-terza-volta/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261108T133000Z
-LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
-DTSTART:20261108T093000Z
-SUMMARY:Cose che ho imparato sui libri\, a Pescara
-UID:59ba4222-acaa-4fee-a649-88426300ce9d@59ba.org
-URL:https://pescarafestival.it/evento/luca-sofri-al-fla2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261107T203000Z
-LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
-DTSTART:20261107T163000Z
-SUMMARY:Gaza prima di Gaza\, a Pescara
-UID:52b4c20c-375c-420d-965d-f5ae4e49bfe4@52b4.org
-URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261029T210000Z
-LOCATION:Lucca - Auditorium di San Francesco - Piazza S. Francesco
-DTSTART:20261029T170000Z
-SUMMARY:Stefano Nazzi racconta gli incubi di Dylan Dog
-UID:3554a6b3-e4a4-47aa-a3c8-53408de7cb78@3554.org
-URL:https://www.sergiobonelli.it/le-prenotazioni-di-nazzi/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -62,7 +23,7 @@ DTEND:20261114T140000Z
 LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
 DTSTART:20261114T100000Z
 SUMMARY:Ci vuole una scienza live\, a Torino
-UID:b93e3b98-e308-4cbc-a215-5b3560674138@b93e.org
+UID:04d74b7b-9039-42ce-955b-6cc4d042e23f@04d7.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -70,11 +31,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261107T030000Z
-DTSTART:20261106T230000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:066e2154-4f3d-4c7c-b75c-bfdfdfb97543@066e.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-speciale-morning-live-novembre-26/
+DTEND:20261108T133000Z
+LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
+DTSTART:20261108T093000Z
+SUMMARY:Cose che ho imparato sui libri\, a Pescara
+UID:e23a3ba8-b7db-417f-a277-e0de5e273ee4@e23a.org
+URL:https://pescarafestival.it/evento/luca-sofri-al-fla2026/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -86,8 +48,21 @@ DTEND:20261107T140000Z
 LOCATION:Pescara - CineTeatro Massimo \, Sala 2 - Via Caduta del Forte\, 15
 DTSTART:20261107T100000Z
 SUMMARY:I giornali\, spiegati bene\, a Pescara
-UID:ec646850-0ffe-471a-8041-1668c426dda4@ec64.org
+UID:9f456068-adb8-40e8-ab4a-2ee5ad5235b6@9f45.org
 URL:https://pescarafestival.it/evento/i-giornali-spiegati-bene-al-fla2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T203000Z
+LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
+DTSTART:20261107T163000Z
+SUMMARY:Gaza prima di Gaza\, a Pescara
+UID:d2972693-1c84-41da-a6fb-caeb33ed88be@d297.org
+URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -99,7 +74,19 @@ DTEND:20261107T220000Z
 LOCATION:Pescara - CineTeatro Massimo\, Sala 2 - Via Caduta del Forte\, 15
 DTSTART:20261107T180000Z
 SUMMARY:Orazio live\, a Pescara
-UID:8327f190-d88c-4be2-a573-921ba6e4a5da@8327.org
+UID:9108990a-e6f4-4d37-9c0b-919721a4d27b@9108.org
 URL:https://pescarafestival.it/evento/matteo-caccia-al-fla2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T030000Z
+DTSTART:20261106T230000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:3f8e027f-4710-4ff8-8ed3-359a6879b8c2@3f8e.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-speciale-morning-live-novembre-26/
 END:VEVENT
 END:VCALENDAR
