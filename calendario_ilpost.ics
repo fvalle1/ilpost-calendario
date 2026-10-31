@@ -7,36 +7,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261031T030000Z
-DTSTART:20261030T230000Z
-SUMMARY:TALK\, a Napoli il 31 ottobre e l’1 novembre
-UID:c7aef9bb-5286-4b56-905e-14b114acb454@c7ae.org
-URL:https://www.ilpost.it/2026/10/09/talk-napoli-terza-volta/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261114T140000Z
-LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
-DTSTART:20261114T100000Z
-SUMMARY:Ci vuole una scienza live\, a Torino
-UID:04d74b7b-9039-42ce-955b-6cc4d042e23f@04d7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261108T133000Z
+DTEND:20261107T203000Z
 LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
-DTSTART:20261108T093000Z
-SUMMARY:Cose che ho imparato sui libri\, a Pescara
-UID:e23a3ba8-b7db-417f-a277-e0de5e273ee4@e23a.org
-URL:https://pescarafestival.it/evento/luca-sofri-al-fla2026/
+DTSTART:20261107T163000Z
+SUMMARY:Gaza prima di Gaza\, a Pescara
+UID:838585e9-1772-4058-a7f5-8eaa9a0d7db9@8385.org
+URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -48,7 +24,7 @@ DTEND:20261107T140000Z
 LOCATION:Pescara - CineTeatro Massimo \, Sala 2 - Via Caduta del Forte\, 15
 DTSTART:20261107T100000Z
 SUMMARY:I giornali\, spiegati bene\, a Pescara
-UID:9f456068-adb8-40e8-ab4a-2ee5ad5235b6@9f45.org
+UID:d48fbeae-2a95-49f3-b603-fa049e48a03b@d48f.org
 URL:https://pescarafestival.it/evento/i-giornali-spiegati-bene-al-fla2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -57,12 +33,12 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261107T203000Z
+DTEND:20261108T133000Z
 LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
-DTSTART:20261107T163000Z
-SUMMARY:Gaza prima di Gaza\, a Pescara
-UID:d2972693-1c84-41da-a6fb-caeb33ed88be@d297.org
-URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
+DTSTART:20261108T093000Z
+SUMMARY:Cose che ho imparato sui libri\, a Pescara
+UID:6955fcdd-8add-49ab-aee7-c287d8380f0a@6955.org
+URL:https://pescarafestival.it/evento/luca-sofri-al-fla2026/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -74,7 +50,7 @@ DTEND:20261107T220000Z
 LOCATION:Pescara - CineTeatro Massimo\, Sala 2 - Via Caduta del Forte\, 15
 DTSTART:20261107T180000Z
 SUMMARY:Orazio live\, a Pescara
-UID:9108990a-e6f4-4d37-9c0b-919721a4d27b@9108.org
+UID:662af735-023a-47a3-bb8b-29fe7a7dbd4b@662a.org
 URL:https://pescarafestival.it/evento/matteo-caccia-al-fla2026/
 END:VEVENT
 BEGIN:VEVENT
@@ -86,7 +62,19 @@ END:VALARM
 DTEND:20261107T030000Z
 DTSTART:20261106T230000Z
 SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:3f8e027f-4710-4ff8-8ed3-359a6879b8c2@3f8e.org
+UID:54fd6da3-caf7-40dc-82a4-676867e43eb3@54fd.org
 URL:https://torino.circololettori.it/i-giornali-spiegati-bene-speciale-morning-live-novembre-26/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261114T140000Z
+LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
+DTSTART:20261114T100000Z
+SUMMARY:Ci vuole una scienza live\, a Torino
+UID:fa754b21-f824-4a21-9b01-6dc0e80388fc@fa75.org
 END:VEVENT
 END:VCALENDAR
