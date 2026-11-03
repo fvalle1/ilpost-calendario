@@ -7,11 +7,47 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
+DTEND:20261103T030000Z
+DTSTART:20261102T230000Z
+SUMMARY:Il Post Live: le elezioni di metà mandato in diretta
+UID:d6f2c581-e020-4737-9be5-292af46dda50@d6f2.org
+URL:https://www.ilpost.it/2026/11/03/elezioni-meta-mandato-diretta-video-live-post/?homepagePosition=3
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T030000Z
+DTSTART:20261106T230000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:9f2dc765-b3bc-40a4-acfc-61edd5fc5d25@9f2d.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-speciale-morning-live-novembre-26/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261104T030000Z
+DTSTART:20261103T230000Z
+SUMMARY:Il Post Live: le elezioni di metà mandato in diretta
+UID:bf881a0a-35b8-4f2e-bcb8-d373337da120@bf88.org
+URL:https://www.ilpost.it/2026/11/03/elezioni-meta-mandato-diretta-video-live-post/?homepagePosition=3
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
 DTEND:20261114T140000Z
 LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
 DTSTART:20261114T100000Z
 SUMMARY:Ci vuole una scienza live\, a Torino
-UID:8e2bea26-2ef4-41ea-8906-3639ff734bd8@8e2b.org
+UID:6e624b65-da1a-406e-ada3-5577fac29246@6e62.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -23,59 +59,8 @@ DTEND:20261107T140000Z
 LOCATION:Pescara - CineTeatro Massimo \, Sala 2 - Via Caduta del Forte\, 15
 DTSTART:20261107T100000Z
 SUMMARY:I giornali\, spiegati bene\, a Pescara
-UID:734f53f1-b411-4274-8403-475bb640e9d2@734f.org
+UID:d3444c42-47b3-4462-abaa-0719bb1baa0b@d344.org
 URL:https://pescarafestival.it/evento/i-giornali-spiegati-bene-al-fla2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261107T030000Z
-DTSTART:20261106T230000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:25a05031-2193-420f-a404-b6511798516f@25a0.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-speciale-morning-live-novembre-26/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261107T203000Z
-LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
-DTSTART:20261107T163000Z
-SUMMARY:Gaza prima di Gaza\, a Pescara
-UID:fb5add1c-271b-48e1-a7f1-b597ecfca555@fb5a.org
-URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20270116T210000Z
-LOCATION:Nembro - Auditorium Modernissimo - Piazza della Libertà
-DTSTART:20270116T170000Z
-SUMMARY:La tragedia del true crime (Altrecose)\, a Nembro
-UID:91583eed-8edc-4e92-8ecc-0282ae0de13d@9158.org
-URL:https://presenteprossimo.it/#programma
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261108T133000Z
-LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
-DTSTART:20261108T093000Z
-SUMMARY:Cose che ho imparato sui libri\, a Pescara
-UID:f9d5e408-d082-4991-8663-d8cd4ee4e8e4@f9d5.org
-URL:https://pescarafestival.it/evento/luca-sofri-al-fla2026/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -87,7 +72,59 @@ DTEND:20261107T220000Z
 LOCATION:Pescara - CineTeatro Massimo\, Sala 2 - Via Caduta del Forte\, 15
 DTSTART:20261107T180000Z
 SUMMARY:Orazio live\, a Pescara
-UID:340ba537-f1b4-4c56-984a-53b0652df064@340b.org
+UID:5bf4120b-bac2-45a0-be63-17a280a3e322@5bf4.org
 URL:https://pescarafestival.it/evento/matteo-caccia-al-fla2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261108T133000Z
+LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
+DTSTART:20261108T093000Z
+SUMMARY:Cose che ho imparato sui libri\, a Pescara
+UID:a5a011ec-9bd7-41c1-8aff-633b8250bc27@a5a0.org
+URL:https://pescarafestival.it/evento/luca-sofri-al-fla2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T203000Z
+LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
+DTSTART:20261107T163000Z
+SUMMARY:Gaza prima di Gaza\, a Pescara
+UID:b25344f3-b4bb-41c9-9b51-3a6500a36602@b253.org
+URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261111T213000Z
+LOCATION:Milano - Auditorium LCA Studio Legale - Via della Moscova\, 18
+DTSTART:20261111T173000Z
+SUMMARY:La tragedia del true crime (Altrecose)\, a Milano
+UID:499a58b3-fdd7-4523-b841-b51cff2ca831@499a.org
+URL:https://www.lcalex.it/incontro-con-luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20270116T210000Z
+LOCATION:Nembro - Auditorium Modernissimo - Piazza della Libertà
+DTSTART:20270116T170000Z
+SUMMARY:La tragedia del true crime (Altrecose)\, a Nembro
+UID:6a195973-5aef-4f43-ae54-d2dc56540467@6a19.org
+URL:https://presenteprossimo.it/#programma
 END:VEVENT
 END:VCALENDAR
