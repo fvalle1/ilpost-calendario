@@ -7,73 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:
 TRIGGER:P1D
 END:VALARM
-DTEND:20261103T030000Z
-DTSTART:20261102T230000Z
-SUMMARY:Il Post Live: le elezioni di metà mandato in diretta
-UID:d6f2c581-e020-4737-9be5-292af46dda50@d6f2.org
-URL:https://www.ilpost.it/2026/11/03/elezioni-meta-mandato-diretta-video-live-post/?homepagePosition=3
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261107T030000Z
-DTSTART:20261106T230000Z
-SUMMARY:I giornali\, spiegati bene\, a Torino
-UID:9f2dc765-b3bc-40a4-acfc-61edd5fc5d25@9f2d.org
-URL:https://torino.circololettori.it/i-giornali-spiegati-bene-speciale-morning-live-novembre-26/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261104T030000Z
-DTSTART:20261103T230000Z
-SUMMARY:Il Post Live: le elezioni di metà mandato in diretta
-UID:bf881a0a-35b8-4f2e-bcb8-d373337da120@bf88.org
-URL:https://www.ilpost.it/2026/11/03/elezioni-meta-mandato-diretta-video-live-post/?homepagePosition=3
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
 DTEND:20261114T140000Z
 LOCATION:Torino - Campus Luigi Einaudi - Lungo Dora Siena\, 100
 DTSTART:20261114T100000Z
 SUMMARY:Ci vuole una scienza live\, a Torino
-UID:6e624b65-da1a-406e-ada3-5577fac29246@6e62.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261107T140000Z
-LOCATION:Pescara - CineTeatro Massimo \, Sala 2 - Via Caduta del Forte\, 15
-DTSTART:20261107T100000Z
-SUMMARY:I giornali\, spiegati bene\, a Pescara
-UID:d3444c42-47b3-4462-abaa-0719bb1baa0b@d344.org
-URL:https://pescarafestival.it/evento/i-giornali-spiegati-bene-al-fla2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261107T220000Z
-LOCATION:Pescara - CineTeatro Massimo\, Sala 2 - Via Caduta del Forte\, 15
-DTSTART:20261107T180000Z
-SUMMARY:Orazio live\, a Pescara
-UID:5bf4120b-bac2-45a0-be63-17a280a3e322@5bf4.org
-URL:https://pescarafestival.it/evento/matteo-caccia-al-fla2026/
+UID:076bcb21-7e60-4166-b205-ec805bfbea6b@076b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -85,34 +23,8 @@ DTEND:20261108T133000Z
 LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
 DTSTART:20261108T093000Z
 SUMMARY:Cose che ho imparato sui libri\, a Pescara
-UID:a5a011ec-9bd7-41c1-8aff-633b8250bc27@a5a0.org
+UID:a8771897-f5a6-4a6c-a91e-ee9ce01b4755@a877.org
 URL:https://pescarafestival.it/evento/luca-sofri-al-fla2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261107T203000Z
-LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
-DTSTART:20261107T163000Z
-SUMMARY:Gaza prima di Gaza\, a Pescara
-UID:b25344f3-b4bb-41c9-9b51-3a6500a36602@b253.org
-URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:
-TRIGGER:P1D
-END:VALARM
-DTEND:20261111T213000Z
-LOCATION:Milano - Auditorium LCA Studio Legale - Via della Moscova\, 18
-DTSTART:20261111T173000Z
-SUMMARY:La tragedia del true crime (Altrecose)\, a Milano
-UID:499a58b3-fdd7-4523-b841-b51cff2ca831@499a.org
-URL:https://www.lcalex.it/incontro-con-luca-sofri/
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -124,7 +36,96 @@ DTEND:20270116T210000Z
 LOCATION:Nembro - Auditorium Modernissimo - Piazza della Libertà
 DTSTART:20270116T170000Z
 SUMMARY:La tragedia del true crime (Altrecose)\, a Nembro
-UID:6a195973-5aef-4f43-ae54-d2dc56540467@6a19.org
+UID:77eb3728-6a15-4302-8cfb-e2f8ee9ba63b@77eb.org
 URL:https://presenteprossimo.it/#programma
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T220000Z
+LOCATION:Pescara - CineTeatro Massimo\, Sala 2 - Via Caduta del Forte\, 15
+DTSTART:20261107T180000Z
+SUMMARY:Orazio live\, a Pescara
+UID:029670f2-3563-4b14-b437-eefde88899df@0296.org
+URL:https://pescarafestival.it/evento/matteo-caccia-al-fla2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261111T213000Z
+LOCATION:Milano - Auditorium LCA Studio Legale - Via della Moscova\, 18
+DTSTART:20261111T173000Z
+SUMMARY:La tragedia del true crime (Altrecose)\, a Milano
+UID:e035c13c-7ea9-4439-a849-685e9f4572db@e035.org
+URL:https://www.lcalex.it/incontro-con-luca-sofri/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261104T030000Z
+DTSTART:20261103T230000Z
+SUMMARY:Il Post Live: le elezioni di metà mandato in diretta
+UID:a6bde3da-d902-41cf-ab36-2ea77d7ca27a@a6bd.org
+URL:https://www.ilpost.it/2026/11/03/elezioni-meta-mandato-diretta-video-live-post/?homepagePosition=3
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T203000Z
+LOCATION:Pescara - Auditorium Leonardo Petruzzi - Via delle Caserme\, 60
+DTSTART:20261107T163000Z
+SUMMARY:Gaza prima di Gaza\, a Pescara
+UID:74165c42-53e2-43e6-ae81-d20f0dad6e2c@7416.org
+URL:https://pescarafestival.it/evento/luca-misculin-al-fla2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T140000Z
+LOCATION:Pescara - CineTeatro Massimo \, Sala 2 - Via Caduta del Forte\, 15
+DTSTART:20261107T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Pescara
+UID:2e9986e9-bf06-402a-9bf0-85ac6130295c@2e99.org
+URL:https://pescarafestival.it/evento/i-giornali-spiegati-bene-al-fla2026/
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261210T000000Z
+LOCATION:Milano - Teatro Oscar - Via Lattanzio 58/A
+DTSTART:20261209T200000Z
+SUMMARY:Allegramente pessimista – Come si usa il potere
+UID:6e29fc2d-3e29-41a8-813c-2bc0223ecc41@6e29.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:
+TRIGGER:P1D
+END:VALARM
+DTEND:20261107T140000Z
+LOCATION:Torino - Circolo dei Lettori - Via Bogino\, 9
+DTSTART:20261107T100000Z
+SUMMARY:I giornali\, spiegati bene\, a Torino
+UID:b61b2f57-3c44-4713-a432-a22ca6177dd0@b61b.org
+URL:https://torino.circololettori.it/i-giornali-spiegati-bene-speciale-morning-live-novembre-26/
 END:VEVENT
 END:VCALENDAR
